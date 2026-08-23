@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan:wght@400;600&family=Jomolhari&family=Noto+Sans+Tibetan:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet"><style>
+html,body{margin:0;padding:0}
+body{background:#e9e7e2;-webkit-font-smoothing:antialiased}
+a{color:oklch(0.55 0.11 62);text-decoration:none}
+a:hover{color:oklch(0.45 0.12 62)}
+::selection{background:oklch(0.86 0.08 62);color:inherit}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes popIn{from{opacity:0;transform:scale(.97)}to{opacity:1;transform:none}}
+</style></helmet>
+<div style="{{ themeVars }}">
+<div style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:22px;box-sizing:border-box;background:var(--bg,#e9e7e2);font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,sans-serif;color:var(--ink,#1d1b19)">
+<div style="width:1420px;max-width:100%;height:880px;max-height:calc(100vh - 44px);display:flex;flex-direction:column;background:var(--win,#faf9f7);border:1px solid var(--line,rgba(0,0,0,.12));border-radius:11px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.28),0 2px 6px rgba(0,0,0,.12)">
+
+  <div style="height:46px;flex:none;display:flex;align-items:center;gap:14px;padding:0 14px;background:var(--chrome,#e6e3de);border-bottom:1px solid var(--line,rgba(0,0,0,.1))">
+    <div style="display:flex;gap:8px;align-items:center">
+      <div style="width:12px;height:12px;border-radius:50%;background:#ec6a5e"></div>
+      <div style="width:12px;height:12px;border-radius:50%;background:#f4bf50"></div>
+      <div style="width:12px;height:12px;border-radius:50%;background:#61c454"></div>
+    </div>
+    <div style="flex:1;display:flex;flex-direction:column;align-items:center;line-height:1.15">
+      <div style="font-family:var(--tib,'Noto Serif Tibetan'),serif;font-size:14px;font-weight:600">སྐབས་དང་པོའི་སྤྱི་དོན།</div>
+      <div style="font-size:10.5px;color:var(--ink3,rgba(0,0,0,.42));letter-spacing:.02em">skabs-dang-po-spyi-don.pdf — 8 pages</div>
+    </div>
+    <div style="width:64px"></div>
+  </div>
+
+  <div style="height:44px;flex:none;display:flex;align-items:center;gap:6px;padding:0 12px;background:var(--chrome,#e6e3de);border-bottom:1px solid var(--line,rgba(0,0,0,.1))">
+    <div style="padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.12));background:{{ tocBtnBg }}" onClick="{{ toggleToc }}">Contents</div>
+    <div style="padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.12));background:{{ textBtnBg }}" onClick="{{ toggleText }}">Text</div>
+    <div style="width:1px;height:20px;background:var(--line,rgba(0,0,0,.12));margin:0 4px"></div>
+    <div style="display:flex;align-items:center;gap:5px;padding:3px 8px 3px 9px;border-radius:6px;border:1px solid var(--line,rgba(0,0,0,.12))">
+      <span style="font-size:11px;color:var(--ink2,rgba(0,0,0,.6))">Highlight</span>
+      <div style="width:15px;height:15px;border-radius:50%;cursor:pointer;background:oklch(0.9 0.15 96);box-shadow:{{ ringA }}" data-color="a" onClick="{{ pickColor }}"></div>
+      <div style="width:15px;height:15px;border-radius:50%;cursor:pointer;background:oklch(0.88 0.11 155);box-shadow:{{ ringB }}" data-color="b" onClick="{{ pickColor }}"></div>
+      <div style="width:15px;height:15px;border-radius:50%;cursor:pointer;background:oklch(0.87 0.09 240);box-shadow:{{ ringC }}" data-color="c" onClick="{{ pickColor }}"></div>
+      <div style="width:1px;height:15px;background:var(--line,rgba(0,0,0,.14))"></div>
+      <span style="font-size:11px;cursor:pointer;color:var(--accent,oklch(0.55 0.11 62))" onClick="{{ applyHighlight }}">Apply</span>
+    </div>
+    <div style="flex:1"></div>
+    <div style="display:flex;align-items:center;gap:6px;padding:4px 9px;border-radius:6px;background:var(--win,#faf9f7);border:1px solid var(--line,rgba(0,0,0,.12));width:250px">
+      <span style="font-size:11px;color:var(--ink3,rgba(0,0,0,.42))">Search</span>
+      <input ref="{{ setSearchEl }}" onKeyDown="{{ onSearchKey }}" placeholder="search the text" style="flex:1;border:none;outline:none;background:transparent;font-size:12px;color:var(--ink,#1d1b19);font-family:inherit" />
+    </div>
+    <div style="padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.12))" onClick="{{ toggleDark }}">{{ darkLabel }}</div>
+    <div style="padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.12))" onClick="{{ openSettings }}">Settings</div>
+  </div>
+
+  <div style="flex:1;display:flex;min-height:0;position:relative">
+
+    <sc-if value="{{ tocOpen }}" hint-placeholder-val="{{ true }}">
+      <aside style="width:264px;flex:none;display:flex;flex-direction:column;background:var(--panel,#f2f0ec);border-right:1px solid var(--line,rgba(0,0,0,.1))">
+        <div style="padding:12px 14px 8px;display:flex;align-items:baseline;justify-content:space-between">
+          <span style="font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3,rgba(0,0,0,.42))">Table of contents</span>
+          <span style="font-size:11px;cursor:pointer;color:var(--ink3,rgba(0,0,0,.42))" onClick="{{ toggleToc }}">Hide</span>
+        </div>
+        <div ref="{{ setTocEl }}" style="flex:1;overflow-y:auto;padding:0 8px 18px">
+          <sc-for list="{{ toc }}" as="item" hint-placeholder-count="8">
+            <div data-target="{{ item.target }}" onClick="{{ gotoToc }}" style="{{ item.style }}">
+              <span style="font-family:var(--tib,'Noto Serif Tibetan'),serif;line-height:1.75">{{ item.label }}</span>
+              <span style="font-size:10px;color:var(--ink3,rgba(0,0,0,.42));font-family:-apple-system,sans-serif;margin-left:8px">{{ item.pageLabel }}</span>
+            </div>
+          </sc-for>
+        </div>
+      </aside>
+    </sc-if>
+    <sc-if value="{{ tocCollapsed }}" hint-placeholder-val="{{ false }}">
+      <div onClick="{{ toggleToc }}" title="Show contents" style="width:30px;flex:none;cursor:pointer;background:var(--panel,#f2f0ec);border-right:1px solid var(--line,rgba(0,0,0,.1));display:flex;align-items:center;justify-content:center">
+        <span style="writing-mode:vertical-rl;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2,rgba(0,0,0,.55))">Contents ›</span>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ textOpen }}" hint-placeholder-val="{{ true }}">
+      <section style="flex:1 1 0;min-width:340px;display:flex;flex-direction:column;background:var(--win,#faf9f7)">
+        <div ref="{{ setScroller }}" onScroll="{{ onScroll }}" onContextMenu="{{ onMenu }}" onMouseDown="{{ closeMenu }}" style="flex:1;overflow-y:auto;padding:0 0 55vh">
+          <div style="max-width:{{ colWidth }};margin:0 auto;padding:38px 46px 0">
+            <sc-for list="{{ paras }}" as="para" hint-placeholder-count="5">
+              <div data-para="{{ para.id }}" ref="{{ para.setRef }}" data-screen-label="{{ para.label }}" style="{{ para.style }}">
+                <sc-if value="{{ para.breakBefore }}" hint-placeholder-val="{{ false }}">
+                  <div style="display:flex;align-items:center;gap:12px;margin:34px 0 30px;user-select:none">
+                    <div style="flex:1;height:1px;background:var(--line,rgba(0,0,0,.12))"></div>
+                    <span style="font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3,rgba(0,0,0,.4))">{{ para.breakLabel }}</span>
+                    <div style="flex:1;height:1px;background:var(--line,rgba(0,0,0,.12))"></div>
+                  </div>
+                </sc-if>
+                <sc-for list="{{ para.lines }}" as="line" hint-placeholder-count="4">
+                  <div style="{{ line.style }}"><sc-for list="{{ line.segs }}" as="seg" hint-placeholder-count="1"><span style="{{ seg.style }}">{{ seg.t }}</span></sc-for></div>
+                </sc-for>
+              </div>
+            </sc-for>
+          </div>
+        </div>
+      </section>
+    </sc-if>
+    <sc-if value="{{ textCollapsed }}" hint-placeholder-val="{{ false }}">
+      <div onClick="{{ toggleText }}" title="Show root text" style="width:30px;flex:none;cursor:pointer;background:var(--panel,#f2f0ec);border-right:1px solid var(--line,rgba(0,0,0,.1));display:flex;align-items:center;justify-content:center">
+        <span style="writing-mode:vertical-rl;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2,rgba(0,0,0,.55))">སྤྱི་དོན། Root text ›</span>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ explOpen }}" hint-placeholder-val="{{ false }}">
+      <aside style="{{ explStyle }};display:flex;flex-direction:column;background:var(--panel,#f2f0ec);border-left:1px solid var(--line,rgba(0,0,0,.1));animation:fadeUp .18s ease">
+        <div style="flex:none;display:flex;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--line,rgba(0,0,0,.1))">
+          <div style="flex:1;min-width:0">
+            <div style="font-size:12px;font-weight:600">Explanation</div>
+            <div style="font-size:10.5px;color:var(--ink3,rgba(0,0,0,.42));white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{{ explFile }}</div>
+          </div>
+          <div onClick="{{ closeExpl }}" style="width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.16));font-size:11px;color:var(--ink2,rgba(0,0,0,.6))">✕</div>
+        </div>
+        <div ref="{{ setExplEl }}" style="flex:1;overflow-y:auto;padding:18px 20px 40vh">
+          <sc-for list="{{ explBlocks }}" as="b" hint-placeholder-count="6">
+            <div data-line="{{ b.lineKey }}" ref="{{ b.setRef }}" style="{{ b.style }}"><sc-for list="{{ b.spans }}" as="s" hint-placeholder-count="1"><span data-quote="{{ s.quote }}" onClick="{{ onSpanClick }}" style="{{ s.style }}">{{ s.t }}</span></sc-for></div>
+          </sc-for>
+        </div>
+      </aside>
+    </sc-if>
+
+    <sc-if value="{{ quoteOpen }}" hint-placeholder-val="{{ false }}">
+      <aside style="{{ quoteStyle }};display:flex;flex-direction:column;background:var(--win,#faf9f7);border-left:1px solid var(--line,rgba(0,0,0,.1));animation:fadeUp .18s ease">
+        <div style="flex:none;display:flex;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--line,rgba(0,0,0,.1))">
+          <div style="flex:1;min-width:0">
+            <div style="font-family:var(--tib,'Noto Serif Tibetan'),serif;font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{{ quoteSource }}</div>
+            <div style="font-size:10.5px;color:var(--ink3,rgba(0,0,0,.42))">{{ quoteMeta }}</div>
+          </div>
+          <div onClick="{{ closeQuote }}" style="width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.16));font-size:11px;color:var(--ink2,rgba(0,0,0,.6))">✕</div>
+        </div>
+        <div ref="{{ setQuoteEl }}" style="flex:1;overflow-y:auto;padding:16px 18px 30vh">
+          <sc-for list="{{ quoteLines }}" as="line" hint-placeholder-count="8">
+            <div ref="{{ line.setRef }}" style="{{ line.style }}">{{ line.t }}</div>
+          </sc-for>
+        </div>
+      </aside>
+    </sc-if>
+
+    <sc-if value="{{ menuOpen }}" hint-placeholder-val="{{ false }}">
+      <div style="{{ menuStyle }}">
+        <sc-for list="{{ menuItems }}" as="mi" hint-placeholder-count="4">
+          <div data-act="{{ mi.act }}" onClick="{{ onMenuItem }}" style="{{ mi.style }}"><span>{{ mi.label }}</span><span style="font-size:11px;color:var(--ink3,rgba(0,0,0,.4));margin-left:22px">{{ mi.key }}</span></div>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ toast }}" hint-placeholder-val="{{ false }}">
+      <div style="position:absolute;left:50%;bottom:26px;transform:translateX(-50%);padding:8px 15px;border-radius:8px;background:rgba(20,19,18,.88);color:#f5f3f0;font-size:11.5px;animation:popIn .16s ease;pointer-events:none">{{ toast }}</div>
+    </sc-if>
+
+    <sc-if value="{{ settingsOpen }}" hint-placeholder-val="{{ false }}">
+      <div style="position:absolute;inset:0;background:rgba(0,0,0,.28);display:flex;align-items:flex-start;justify-content:center;padding-top:26px" onMouseDown="{{ closeSettings }}">
+        <div onMouseDown="{{ stop }}" style="width:520px;max-height:calc(100% - 52px);overflow-y:auto;background:var(--panel,#f2f0ec);border:1px solid var(--line,rgba(0,0,0,.14));border-radius:11px;box-shadow:0 18px 50px rgba(0,0,0,.3);animation:popIn .16s ease">
+          <div style="display:flex;align-items:center;padding:13px 16px;border-bottom:1px solid var(--line,rgba(0,0,0,.1))">
+            <div style="flex:1;font-size:13px;font-weight:600">Settings</div>
+            <div onClick="{{ closeSettings }}" style="width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.16));font-size:11px">✕</div>
+          </div>
+          <div style="padding:16px 18px 20px;display:flex;flex-direction:column;gap:17px">
+            <div style="display:flex;align-items:center;gap:14px">
+              <div style="width:120px;font-size:12px;color:var(--ink2,rgba(0,0,0,.6))">Appearance</div>
+              <div style="display:flex;border:1px solid var(--line,rgba(0,0,0,.14));border-radius:7px;overflow:hidden">
+                <div data-v="light" onClick="{{ setTheme }}" style="{{ lightSeg }}">Light</div>
+                <div data-v="dark" onClick="{{ setTheme }}" style="{{ darkSeg }}">Dark</div>
+              </div>
+            </div>
+            <div style="display:flex;align-items:center;gap:14px">
+              <div style="width:120px;font-size:12px;color:var(--ink2,rgba(0,0,0,.6))">Tibetan font</div>
+              <sc-for list="{{ tibFonts }}" as="f" hint-placeholder-count="3">
+                <div data-v="{{ f.v }}" onClick="{{ setTibFont }}" style="{{ f.style }}">{{ f.label }}</div>
+              </sc-for>
+            </div>
+            <div style="display:flex;align-items:center;gap:14px">
+              <div style="width:120px;font-size:12px;color:var(--ink2,rgba(0,0,0,.6))">English font</div>
+              <sc-for list="{{ engFonts }}" as="f" hint-placeholder-count="2">
+                <div data-v="{{ f.v }}" onClick="{{ setEngFont }}" style="{{ f.style }}">{{ f.label }}</div>
+              </sc-for>
+            </div>
+            <div style="display:flex;align-items:center;gap:14px">
+              <div style="width:120px;font-size:12px;color:var(--ink2,rgba(0,0,0,.6))">Text size</div>
+              <input type="range" min="16" max="34" step="1" value="{{ size }}" onChange="{{ setSize }}" style="flex:1;accent-color:var(--accent,oklch(0.55 0.11 62))" />
+              <div style="width:44px;text-align:right;font-size:12px;font-variant-numeric:tabular-nums">{{ sizeLabel }}</div>
+            </div>
+            <div style="height:1px;background:var(--line,rgba(0,0,0,.1))"></div>
+            <div>
+              <div style="font-size:12px;color:var(--ink2,rgba(0,0,0,.6));margin-bottom:9px">Shortcuts — click a key to record a new one</div>
+              <sc-for list="{{ hotkeys }}" as="hk" hint-placeholder-count="5">
+                <div style="display:flex;align-items:center;gap:12px;padding:6px 0;border-bottom:1px solid var(--line,rgba(0,0,0,.07))">
+                  <div style="flex:1;font-size:12px">{{ hk.label }}</div>
+                  <div data-k="{{ hk.id }}" onClick="{{ recordKey }}" style="{{ hk.style }}">{{ hk.keys }}</div>
+                </div>
+              </sc-for>
+            </div>
+            <div style="font-size:11px;color:var(--ink3,rgba(0,0,0,.42));line-height:1.6">Copied text always matches the source exactly, so pasting and searching find exact matches. Build targets macOS 12.3+; the same layout ships on Windows with native window chrome.</div>
+          </div>
+        </div>
+      </div>
+    </sc-if>
+
+  </div>
+
+  <div style="height:28px;flex:none;display:flex;align-items:center;gap:16px;padding:0 14px;background:var(--chrome,#e6e3de);border-top:1px solid var(--line,rgba(0,0,0,.1));font-size:11px;color:var(--ink2,rgba(0,0,0,.6))">
+    <span style="font-variant-numeric:tabular-nums">{{ pageLabel }}</span>
+    <span style="width:1px;height:14px;background:var(--line,rgba(0,0,0,.14))"></span>
+    <span>{{ selectionLabel }}</span>
+    <span style="flex:1"></span>
+    <span>{{ hintLabel }}</span>
+  </div>
+
+</div>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1464,&quot;height&quot;:924}}">
+class Component extends DCLogic {
+  state = {
+    paras: [], dark: false, tib: "Noto Serif Tibetan", eng: "Source Serif 4", size: 23,
+    tocOpen: true, textOpen: true, expl: null, quote: null, settings: false,
+    menu: null, page: 1, active: null, highlights: {}, query: "", hlLine: null,
+    color: "a", toast: "", sel: "", recording: null,
+    keys: { explain: "\u2318E", translate: "\u2318T", highlight: "\u2318\u21e7H", dark: "\u2318D", search: "\u2318F", settings: "\u2318," }
+  };
+
+  paraEls = {}; lineEls = {}; qEls = {}; tocEls = {};
+
+  componentDidMount() {
+    import("./skabs-data.js").then(m => {
+      const paras = [{ id: "p0", page: 1, text: "\u0f04\u0f05\u0f0d \u0f0d \u0f56\u0f66\u0fa9\u0f53\u0f0b\u0f56\u0f45\u0f7c\u0f66\u0f0b\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0fa8\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f0b\u0f51\u0f44\u0f0b\u0f56\u0f45\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f51\u0f40\u0f60\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f42\u0f53\u0f51\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f66\u0f90\u0f63\u0f0b\u0f56\u0f5b\u0f44\u0f0b\u0f40\u0fb3\u0f74\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f62\u0f7c\u0f63\u0f0b\u0f58\u0f5a\u0f7c\u0f0b\u0f5e\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f56\u0f0b\u0f63\u0f66\u0f0b\u0f66\u0f90\u0f56\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f56\u0f5e\u0f74\u0f42\u0f66\u0f0b\u0f66\u0f7c\u0f0d \u0f0d" }].concat(m.paragraphs);
+      this.setState({ paras }, () => {
+        const saved = Number(localStorage.getItem("skabs.scroll") || 0);
+        if (this.scroller && saved > 0) {
+          this.scroller.scrollTop = saved;
+          this.flash("Resumed where you left off \u2014 page " + this.pageAt(saved));
+        }
+        this.syncScroll();
+      });
+    });
+    this._copy = e => {
+      const s = window.getSelection && window.getSelection().toString();
+      if (!s) return;
+      e.preventDefault();
+      e.clipboardData.setData("text/plain", s.replace(/[\r\n]+/g, ""));
+    };
+    document.addEventListener("copy", this._copy);
+    this._up = () => {
+      const s = (window.getSelection && window.getSelection().toString()) || "";
+      if (s !== this.state.sel) this.setState({ sel: s.replace(/[\r\n]+/g, "") });
+    };
+    document.addEventListener("mouseup", this._up);
+    this._key = e => {
+      if (this.state.recording) {
+        e.preventDefault();
+        const parts = [];
+        if (e.metaKey) parts.push("\u2318"); if (e.ctrlKey) parts.push("\u2303");
+        if (e.altKey) parts.push("\u2325"); if (e.shiftKey) parts.push("\u21e7");
+        const k = e.key.length === 1 ? e.key.toUpperCase() : e.key;
+        if (["Meta", "Shift", "Alt", "Control"].indexOf(e.key) >= 0) return;
+        const keys = Object.assign({}, this.state.keys); keys[this.state.recording] = parts.join("") + k;
+        this.setState({ keys, recording: null });
+        return;
+      }
+      const m = e.metaKey || e.ctrlKey;
+      if (e.key === "Escape") { this.setState({ menu: null, settings: false, quote: this.state.quote ? null : null, expl: this.state.quote ? this.state.expl : null }); return; }
+      if (!m) return;
+      const k = e.key.toLowerCase();
+      if (k === "t") { e.preventDefault(); this.translateSelection(); }
+      else if (k === "e") { e.preventDefault(); this.openExpl(this.state.active); }
+      else if (k === "d") { e.preventDefault(); this.setState({ dark: !this.state.dark }); }
+      else if (k === "f") { e.preventDefault(); if (this.searchEl) this.searchEl.focus(); }
+      else if (k === ",") { e.preventDefault(); this.setState({ settings: true }); }
+      else if (k === "h" && e.shiftKey) { e.preventDefault(); this.applyHl(); }
+    };
+    document.addEventListener("keydown", this._key);
+  }
+  componentWillUnmount() {
+    document.removeEventListener("copy", this._copy);
+    document.removeEventListener("mouseup", this._up);
+    document.removeEventListener("keydown", this._key);
+  }
+
+  fitPanels() {
+    const s = this.state;
+    const w = Math.min(1420, window.innerWidth - 44);
+    const side = (s.tocOpen ? 264 : 30) + (s.expl ? 428 : 0) + (s.quote ? 400 : 0);
+    if (s.textOpen && w - side < 340) {
+      if (s.tocOpen && w - (side - 234) >= 340) this.setState({ tocOpen: false });
+      else this.setState({ textOpen: false });
+    }
+  }
+
+  syncScroll() {
+    const s = this.state, sc = this.scroller;
+    if (!sc) return;
+    const mid = sc.scrollTop + sc.clientHeight * 0.34;
+    let active = null;
+    for (const p of s.paras) { const el = this.paraEls[p.id]; if (el && el.offsetTop <= mid) active = p; }
+    if (active && (active.id !== s.active || active.page !== s.page)) {
+      this.setState({ active: active.id, page: active.page }, () => {
+        const t = this.tocEl; if (!t) return;
+        const on = t.querySelector('[data-target="' + active.id + '"]');
+        if (on) {
+          const top = on.offsetTop - t.clientHeight / 2;
+          t.scrollTo ? t.scrollTo({ top, behavior: "smooth" }) : (t.scrollTop = top);
+        }
+      });
+    }
+    localStorage.setItem("skabs.scroll", String(sc.scrollTop));
+  }
+
+  flash(msg) { this.setState({ toast: msg }); clearTimeout(this._t); this._t = setTimeout(() => this.setState({ toast: "" }), 2600); }
+  pageAt(top) {
+    let page = 1;
+    for (const p of this.state.paras) { const el = this.paraEls[p.id]; if (el && el.offsetTop <= top + 120) page = p.page; }
+    return page;
+  }
+
+  // ---------- text shaping ----------
+  toLines(text, max) {
+    const toks = text.match(/[^\u0f0b\u0f0d ]*[\u0f0b\u0f0d ]?/g).filter(Boolean);
+    const lines = []; let cur = "", start = 0, at = 0;
+    for (const t of toks) {
+      if (cur.length + t.length > max && cur.length) { lines.push({ start, text: cur }); start = at; cur = ""; }
+      cur += t; at += t.length;
+    }
+    if (cur) lines.push({ start, text: cur });
+    return lines;
+  }
+  marksFor(id, text) {
+    const marks = [];
+    const hl = this.state.highlights[id] || [];
+    const tone = { a: "oklch(0.9 0.15 96)", b: "oklch(0.88 0.11 155)", c: "oklch(0.87 0.09 240)" };
+    const dtone = { a: "oklch(0.45 0.1 96)", b: "oklch(0.42 0.08 155)", c: "oklch(0.42 0.07 240)" };
+    hl.forEach(h => { let i = text.indexOf(h.t); while (i >= 0) { marks.push({ s: i, e: i + h.t.length, bg: (this.state.dark ? dtone : tone)[h.c] }); i = text.indexOf(h.t, i + 1); } });
+    const q = this.state.query.trim();
+    if (q.length > 1) { let i = text.indexOf(q); while (i >= 0) { marks.push({ s: i, e: i + q.length, bg: "var(--accent,oklch(0.55 0.11 62))", fg: "#fff" }); i = text.indexOf(q, i + 1); } }
+    return marks.sort((a, b) => a.s - b.s);
+  }
+  segsFor(lineText, offset, marks, dim) {
+    const base = "font-family:var(--tib,'Noto Serif Tibetan'),serif;";
+    const out = []; let i = 0;
+    const end = offset + lineText.length;
+    const hits = marks.filter(m => m.e > offset && m.s < end);
+    for (const m of hits) {
+      const s = Math.max(m.s - offset, 0), e = Math.min(m.e - offset, lineText.length);
+      if (s > i) out.push({ t: lineText.slice(i, s), style: base });
+      out.push({ t: lineText.slice(s, e), style: base + "background:" + m.bg + ";border-radius:3px;" + (m.fg ? "color:" + m.fg + ";" : "") });
+      i = e;
+    }
+    if (i < lineText.length) out.push({ t: lineText.slice(i), style: base });
+    return out;
+  }
+
+  // ---------- explanations ----------
+  quoteDefs() {
+    return {
+      q1: { src: 6, from: 180, len: 90, source: "\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f42\u0f66\u0f7a\u0f62\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f55\u0fb2\u0f7a\u0f44\u0f0b\u0f56\u0f0d", file: "quotes/gser-phreng.json", loc: "vol. 1, f. 24b, l. 3" },
+      q2: { src: 9, from: 260, len: 84, source: "\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0d", file: "quotes/snying-po-rgyan.json", loc: "f. 112a, l. 6" },
+      q3: { src: 11, from: 140, len: 78, source: "\u0f58\u0f5a\u0f7c\u0f51\u0f0d \u0f62\u0f44\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0d", file: "quotes/mdzod-rang-grel.json", loc: "ch. 6, f. 8a, l. 2" }
+    };
+  }
+  quotes() {
+    if (this._q) return this._q;
+    const defs = this.quoteDefs(), out = {};
+    for (const k in defs) {
+      const d = defs[k], p = this.state.paras[d.src];
+      if (!p) return {};
+      let s = p.text.indexOf("\u0f0b", d.from) + 1, e = p.text.indexOf("\u0f0b", d.from + d.len) + 1;
+      const snippet = p.text.slice(s, e);
+      out[k] = Object.assign({}, d, { snippet, para: p });
+    }
+    this._q = out; return out;
+  }
+  explFor(id) {
+    const p = this.state.paras.find(x => x.id === id);
+    if (!p) return null;
+    const lines = this.toLines(p.text, 92);
+    const q = this.quotes();
+    const md = [];
+    md.push("## \u0f66\u0f90\u0f56\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0d \u00b6 " + id.slice(1) + " \u2014 line-by-line");
+    md.push("*Page " + p.page + " \u00b7 " + lines.length + " lines \u00b7 generated 2026-08-19 \u00b7 rev 3*");
+    lines.forEach((ln, i) => {
+      md.push("### line " + (i + 1) + " \u27e8" + ln.text.trim() + "\u27e9");
+      md.push(this.gloss(i, lines.length));
+      if (i === 1 && q.q1) md.push("> Cited authority: [[q:q1]]");
+      if (i === 3 && q.q2) md.push("> Cited authority: [[q:q2]]");
+      if (i === Math.max(lines.length - 2, 0) && q.q3) md.push("> Cited authority: [[q:q3]]");
+    });
+    md.push("### Notes");
+    md.push("- The **consequence** (thal 'gyur) in this passage is stated, not asserted; the reply denies pervasion.");
+    md.push("- Terminology follows the two commentaries named in the colophon; variants are recorded in the source JSON.");
+    return md.join("\n");
+  }
+  gloss(i, n) {
+    const g = [
+      "Opening move: the objector's position is set out in full so that the reply can locate exactly which of its three elements fails.",
+      "The subject is stated, then the predicate, then the reason. Read the **phyir** clause as supplying the reason for the immediately preceding assertion, not for the whole thesis.",
+      "Here the reply turns on **ma khyab** \u2014 pervasion is denied. The reason may hold while the consequence does not follow.",
+      "A scriptural citation is introduced to establish the reason, on the principle that a reason grounded in authority need not be re-established by inference.",
+      "The distinction drawn is between what is asserted directly (dngos bstan) and what follows implicitly (shugs bstan); the two are not interchangeable.",
+      "Note the shift of subject: what is being qualified is the knowledge of the noble one, not the object known.",
+      "The conclusion restates the thesis with the qualification just won, which is why the same words carry a narrower sense the second time."
+    ];
+    return g[i % g.length];
+  }
+  parseMd(md) {
+    const q = this.quotes();
+    const dark = this.state.dark;
+    const H2 = "font-family:-apple-system,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.01em;margin:0 0 4px;";
+    const META = "font-family:-apple-system,sans-serif;font-size:11px;color:var(--ink3,rgba(0,0,0,.42));margin:0 0 18px;";
+    const LINE = "font-family:var(--tib,'Noto Serif Tibetan'),serif;font-size:15px;line-height:1.95;margin:16px 0 6px;padding-left:11px;border-left:2px solid var(--line,rgba(0,0,0,.16));";
+    const P = "font-family:var(--eng,'Source Serif 4'),Georgia,serif;font-size:13.5px;line-height:1.62;margin:0 0 10px;color:var(--ink,#1d1b19);";
+    const Q = "font-family:var(--eng,'Source Serif 4'),Georgia,serif;font-size:12.5px;line-height:1.6;margin:0 0 12px;padding:9px 11px;border-radius:7px;background:var(--win,#faf9f7);border:1px solid var(--line,rgba(0,0,0,.09));";
+    const LI = P + "padding-left:14px;position:relative;";
+    const blocks = [];
+    md.split("\n").forEach(raw => {
+      let kind = "p", text = raw, lineKey = "", style = P;
+      if (raw.startsWith("## ")) { kind = "h2"; text = raw.slice(3); style = H2; }
+      else if (raw.startsWith("### line ")) {
+        kind = "line"; const m = raw.match(/\u27e8([^\u27e9]*)\u27e9/);
+        lineKey = m ? m[1] : ""; text = lineKey; style = LINE;
+      }
+      else if (raw.startsWith("### ")) { kind = "h3"; text = raw.slice(4); style = H2 + "margin-top:22px;"; }
+      else if (raw.startsWith("> ")) { kind = "q"; text = raw.slice(2); style = Q; }
+      else if (raw.startsWith("- ")) { kind = "li"; text = "\u00b7 " + raw.slice(2); style = LI; }
+      else if (/^\*[^*]+\*$/.test(raw)) { text = raw.slice(1, -1); style = META; }
+      const spans = [];
+      const re = /\*\*([^*]+)\*\*|\[\[q:([a-z0-9]+)\]\]/g;
+      let at = 0, m2;
+      while ((m2 = re.exec(text))) {
+        if (m2.index > at) spans.push({ t: text.slice(at, m2.index), style: "", quote: "" });
+        if (m2[1]) spans.push({ t: m2[1], style: "font-weight:600;", quote: "" });
+        else {
+          const qd = q[m2[2]];
+          spans.push({
+            t: "\u27e8" + (qd ? qd.snippet.trim() : "") + "\u27e9 " + (qd ? qd.source : ""),
+            style: "font-family:var(--tib,'Noto Serif Tibetan'),serif;font-size:14px;line-height:1.9;color:var(--accent,oklch(0.55 0.11 62));cursor:pointer;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:3px;",
+            quote: m2[2]
+          });
+        }
+        at = re.lastIndex;
+      }
+      if (at < text.length) spans.push({ t: text.slice(at), style: "", quote: "" });
+      const hit = kind === "line" && this.state.hlLine && lineKey && (lineKey.indexOf(this.state.hlLine) >= 0 || this.state.hlLine.indexOf(lineKey.slice(0, 20)) >= 0);
+      if (hit) style += "background:" + (dark ? "oklch(0.45 0.1 96)" : "oklch(0.93 0.12 96)") + ";border-left-color:var(--accent,oklch(0.55 0.11 62));border-radius:0 5px 5px 0;";
+      blocks.push({ kind, style, lineKey, spans, hit });
+    });
+    return blocks;
+  }
+
+  // ---------- actions ----------
+  openExpl(id, hlLine) {
+    if (!id) { this.flash("Right-click a paragraph to open its explanation"); return; }
+    this.setState({ expl: id, hlLine: hlLine || null, tocOpen: false, menu: null }, () => {
+      this.fitPanels();
+      setTimeout(() => {
+        const el = this.paraEls[id], sc = this.scroller;
+        if (el && sc) sc.scrollTop = el.offsetTop - (sc.clientHeight - el.offsetHeight) / 2;
+        if (hlLine) {
+          const b = Object.keys(this.lineEls).map(k => this.lineEls[k]).find(x => x && x.dataset.hit === "1");
+          if (b && this.explEl) this.explEl.scrollTop = b.offsetTop - 90;
+        }
+      }, 30);
+    });
+  }
+  translateSelection() {
+    const sel = this.state.sel;
+    if (!sel || sel.length < 3) { this.flash("Select some Tibetan first, then press \u2318T"); return; }
+    const id = this.state.active || (this.state.paras[1] && this.state.paras[1].id);
+    const p = this.state.paras.find(x => x.id === id);
+    if (!p || p.text.indexOf(sel) < 0) {
+      const owner = this.state.paras.find(x => x.text.indexOf(sel) >= 0);
+      if (owner) return this.openExpl(owner.id, sel);
+      this.flash("That selection isn't in the root text"); return;
+    }
+    this.openExpl(id, sel);
+    this.flash("Jumped to the line containing your selection");
+  }
+  applyHl() {
+    const sel = this.state.sel;
+    if (!sel || sel.length < 2) { this.flash("Select text, then apply a highlight"); return; }
+    const owner = this.state.paras.find(x => x.text.indexOf(sel) >= 0);
+    if (!owner) { this.flash("Selection spans more than one paragraph"); return; }
+    const highlights = Object.assign({}, this.state.highlights);
+    highlights[owner.id] = (highlights[owner.id] || []).concat([{ t: sel, c: this.state.color }]);
+    this.setState({ highlights, menu: null });
+    this.flash("Highlight saved to this document");
+  }
+
+  renderVals() {
+    const s = this.state;
+    const themeVars = s.dark
+      ? "--bg:#141312;--win:#1c1b1a;--panel:#211f1e;--chrome:#252322;--line:rgba(255,255,255,.11);--ink:#eae7e2;--ink2:rgba(234,231,226,.62);--ink3:rgba(234,231,226,.42);--accent:oklch(0.75 0.1 70);--tib:'" + s.tib + "';--eng:'" + s.eng + "';"
+      : "--bg:#e9e7e2;--win:#faf9f7;--panel:#f2f0ec;--chrome:#e6e3de;--line:rgba(0,0,0,.1);--ink:#1d1b19;--ink2:rgba(29,27,25,.62);--ink3:rgba(29,27,25,.42);--accent:oklch(0.53 0.11 62);--tib:'" + s.tib + "';--eng:'" + s.eng + "';";
+
+    const mainW = 1420 - (s.tocOpen ? 264 : 30) - (s.expl ? 428 : 0) - (s.quote ? 400 : 0);
+    const colW = Math.max(300, Math.min(740 + (s.size - 23) * 14, mainW - 92));
+    const maxChars = Math.max(22, Math.round((2100 / s.size) * (colW / 740)));
+
+    const paras = s.paras.map((p, i) => {
+      const prev = s.paras[i - 1];
+      const marks = this.marksFor(p.id, p.text);
+      const lineStyle = "font-family:var(--tib,'Noto Serif Tibetan'),serif;font-size:" + s.size + "px;line-height:2.05;letter-spacing:.005em;";
+      const lines = this.toLines(p.text, maxChars).map(ln => ({
+        style: lineStyle, segs: this.segsFor(ln.text, ln.start, marks)
+      }));
+      const activeRing = s.expl === p.id ? "background:var(--panel,#f2f0ec);box-shadow:0 0 0 1px var(--line,rgba(0,0,0,.1));" : "";
+      return {
+        id: p.id, label: "\u00b6 " + p.id + " (page " + p.page + ")",
+        breakBefore: !!prev && prev.page !== p.page,
+        breakLabel: "page " + p.page,
+        style: "margin:0 -14px 26px;padding:9px 14px;border-radius:8px;cursor:text;" + activeRing,
+        lines, setRef: el => { this.paraEls[p.id] = el; }
+      };
+    });
+
+    const tocRaw = [
+      { h: 1, label: "\u0f56\u0f66\u0fa9\u0f53\u0f0b\u0f56\u0f45\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f66\u0f94\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f7c\u0f0d" },
+      { t: "p0", label: "\u0f58\u0f46\u0f7c\u0f51\u0f0b\u0f56\u0f62\u0fa1\u0f7c\u0f51\u0f0b\u0f51\u0f44\u0f0b\u0f51\u0f58\u0f0b\u0f56\u0f45\u0f60\u0f0d" },
+      { t: "p1", label: "\u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f42\u0f53\u0f7c\u0f51\u0f0b\u0f60\u0f47\u0f7c\u0f58\u0f66\u0f0b\u0f66\u0f74\u0f66\u0f0b\u0f58\u0f5b\u0f51\u0f0d" },
+      { t: "p2", label: "\u0f66\u0f92\u0f7c\u0f0b\u0f42\u0f66\u0f74\u0f58\u0f0b\u0f51\u0f44\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f42\u0fb2\u0f44\u0f66\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f42\u0f45\u0f72\u0f42\u0f0d" },
+      { t: "p3", label: "\u0f56\u0fb1\u0f58\u0f66\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f63\u0f94\u0f66\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f5a\u0f74\u0f63\u0f0d" },
+      { h: 1, label: "\u0f58\u0f46\u0f7c\u0f51\u0f0b\u0f56\u0f62\u0fa1\u0f7c\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f66\u0f90\u0f56\u0f66\u0f0d" },
+      { t: "p4", label: "\u0f55\u0fb1\u0f7c\u0f42\u0f66\u0f0b\u0f66\u0f94\u0f0b\u0f58\u0f0b\u0f51\u0f42\u0f7c\u0f51\u0f0b\u0f54\u0f0d" },
+      { t: "p5", label: "\u0f62\u0f44\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0f49\u0f7a\u0f62\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f56\u0fb3\u0f7c\u0f0d" },
+      { t: "p6", label: "\u0f51\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f51\u0f42\u0f7c\u0f66\u0f0b\u0f54\u0f0d" },
+      { h: 1, label: "\u0f56\u0f51\u0f42\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f42\u0f4f\u0f53\u0f0b\u0f63\u0f0b\u0f60\u0f56\u0f7a\u0f56\u0f66\u0f0b\u0f54\u0f0d" },
+      { t: "p7", label: "\u0f42\u0f45\u0f72\u0f42\u0f0b\u0f51\u0f74\u0f0b\u0f56\u0fb2\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f42\u0f4f\u0f53\u0f0b\u0f5a\u0f72\u0f42\u0f66\u0f0d" },
+      { t: "p8", label: "\u0f62\u0fa8\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f51\u0f42\u0f42\u0f0b\u0f56\u0fb1\u0f60\u0f72\u0f0b\u0f46\u0f7c\u0f66\u0f0d" },
+      { t: "p9", label: "\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f63\u0f94\u0f0d" },
+      { h: 1, label: "\u0f58\u0fb1\u0f0b\u0f44\u0f53\u0f0b\u0f63\u0f66\u0f0b\u0f60\u0f51\u0f66\u0f0b\u0f54\u0f0d" },
+      { t: "p10", label: "\u0f63\u0fb7\u0f42\u0f0b\u0f56\u0f45\u0f66\u0f0b\u0f63\u0fb7\u0f42\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f41\u0fb1\u0f51\u0f0b\u0f54\u0f62\u0f0d" },
+      { t: "p11", label: "\u0f58\u0f5a\u0f53\u0f0b\u0f49\u0f72\u0f51\u0f0b\u0f51\u0f56\u0fb1\u0f7a\u0f0b\u0f56\u0f0b\u0f66\u0f0b\u0f58\u0f5a\u0f58\u0f66\u0f0d" },
+      { h: 1, label: "\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0b\u0f63\u0f7c\u0f0d" },
+      { t: "p12", label: "\u0f46\u0f7c\u0f66\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f58\u0f5a\u0f53\u0f0b\u0f49\u0f72\u0f51\u0f0d" },
+      { t: "p13", label: "\u0f62\u0fa8\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0d" }
+    ];
+    const toc = tocRaw.map(it => {
+      const p = it.t ? s.paras.find(x => x.id === it.t) : null;
+      const on = it.t && s.active === it.t;
+      return {
+        target: it.t || "",
+        label: it.label,
+        pageLabel: p ? String(p.page) : "",
+        style: it.h
+          ? "padding:14px 8px 4px;font-size:12px;font-weight:600;font-family:var(--tib,'Noto Serif Tibetan'),serif;color:var(--ink2,rgba(0,0,0,.6));"
+          : "display:flex;align-items:baseline;justify-content:space-between;gap:6px;padding:5px 9px;border-radius:6px;cursor:pointer;font-size:12.5px;" +
+            (on ? "background:var(--accent,oklch(0.53 0.11 62));color:#fff;" : "color:var(--ink,#1d1b19);")
+      };
+    });
+
+    const explMd = s.expl ? this.explFor(s.expl) : null;
+    const explBlocks = explMd ? this.parseMd(explMd).map((b, i) => Object.assign(b, {
+      setRef: el => { this.lineEls[i] = el; if (el) el.dataset.hit = b.hit ? "1" : "0"; }
+    })) : [];
+
+    const q = s.quote ? this.quotes()[s.quote] : null;
+    let quoteLines = [];
+    if (q) {
+      const marks = [{ s: q.para.text.indexOf(q.snippet), e: q.para.text.indexOf(q.snippet) + q.snippet.length, bg: s.dark ? "oklch(0.45 0.1 96)" : "oklch(0.92 0.13 96)" }];
+      quoteLines = this.toLines(q.para.text, 62).map(ln => {
+        const isHit = ln.start + ln.text.length > marks[0].s && ln.start < marks[0].e;
+        return {
+          t: ln.text,
+          style: "font-family:var(--tib,'Noto Serif Tibetan'),serif;font-size:15px;line-height:2.05;" +
+            (isHit ? "background:" + marks[0].bg + ";border-radius:3px;" : ""),
+          setRef: el => { if (isHit && el) this.qEls.hit = el; }
+        };
+      });
+    }
+
+    const seg = on => "padding:5px 13px;font-size:12px;cursor:pointer;" + (on ? "background:var(--accent,oklch(0.53 0.11 62));color:#fff;" : "background:var(--win,#faf9f7);color:var(--ink,#1d1b19);");
+    const chip = on => "padding:5px 11px;border-radius:7px;border:1px solid " + (on ? "transparent" : "var(--line,rgba(0,0,0,.14))") + ";font-size:12px;cursor:pointer;" + (on ? "background:var(--accent,oklch(0.53 0.11 62));color:#fff;" : "");
+    const ring = c => s.color === c ? "0 0 0 2px var(--win,#fff),0 0 0 3.5px var(--accent,oklch(0.53 0.11 62))" : "inset 0 0 0 1px rgba(0,0,0,.18)";
+
+    const hasSel = s.sel && s.sel.length > 1;
+    const menuItems = s.menu ? [
+      { act: "explain", label: "Look at explanation", key: s.keys.explain, on: true },
+      { act: "translate", label: "Find translation of selection", key: s.keys.translate, on: hasSel },
+      { act: "highlight", label: "Highlight selection", key: s.keys.highlight, on: hasSel },
+      { act: "copy", label: "Copy", key: "\u2318C", on: hasSel },
+      { act: "sep", label: "", key: "", on: false },
+      { act: "reveal", label: "Reveal explanation file\u2026", key: "", on: true }
+    ].map(mi => Object.assign(mi, {
+      style: mi.act === "sep"
+        ? "height:1px;background:var(--line,rgba(0,0,0,.12));margin:5px 0;"
+        : "display:flex;align-items:center;justify-content:space-between;padding:6px 12px;font-size:12.5px;border-radius:5px;cursor:" + (mi.on ? "pointer" : "default") + ";opacity:" + (mi.on ? "1" : ".38") + ";"
+    })) : [];
+
+    return {
+      themeVars, paras, toc, explBlocks, quoteLines, menuItems,
+      colWidth: colW + "px",
+      tocOpen: s.tocOpen, tocCollapsed: !s.tocOpen,
+      textOpen: s.textOpen, textCollapsed: !s.textOpen,
+      explOpen: !!s.expl, quoteOpen: !!q, menuOpen: !!s.menu, settingsOpen: s.settings,
+      toast: s.toast, size: s.size, sizeLabel: s.size + " px",
+      darkLabel: s.dark ? "Light" : "Dark",
+      tocBtnBg: s.tocOpen ? "var(--win,#fff)" : "transparent",
+      textBtnBg: s.textOpen ? "var(--win,#fff)" : "transparent",
+      ringA: ring("a"), ringB: ring("b"), ringC: ring("c"),
+      lightSeg: seg(!s.dark), darkSeg: seg(s.dark),
+      tibFonts: [["Noto Serif Tibetan", "Noto Serif"], ["Jomolhari", "Jomolhari"], ["Noto Sans Tibetan", "Noto Sans"]].map(f => ({ v: f[0], label: f[1], style: chip(s.tib === f[0]) })),
+      engFonts: [["Source Serif 4", "Source Serif"], ["-apple-system", "System Sans"]].map(f => ({ v: f[0], label: f[1], style: chip(s.eng === f[0]) })),
+      hotkeys: [["explain", "Open explanation for paragraph"], ["translate", "Find translation of selection"], ["highlight", "Highlight selection"], ["dark", "Toggle dark mode"], ["search", "Search"], ["settings", "Settings"]].map(h => ({
+        id: h[0], label: h[1], keys: s.recording === h[0] ? "press keys\u2026" : s.keys[h[0]],
+        style: "min-width:92px;text-align:center;padding:4px 9px;border-radius:6px;font-size:11.5px;cursor:pointer;border:1px solid var(--line,rgba(0,0,0,.14));background:" + (s.recording === h[0] ? "var(--accent,oklch(0.53 0.11 62))" : "var(--win,#faf9f7)") + ";color:" + (s.recording === h[0] ? "#fff" : "inherit") + ";"
+      })),
+      explFile: s.expl ? "explanations/" + s.expl + ".md \u00b7 linked to \u00b6 " + (s.expl || "").slice(1) : "",
+      quoteSource: q ? q.source : "", quoteMeta: q ? q.file + " \u00b7 " + q.loc : "",
+      menuStyle: s.menu ? "position:fixed;left:" + s.menu.x + "px;top:" + s.menu.y + "px;z-index:40;min-width:262px;padding:5px;border-radius:9px;background:var(--panel,#f7f5f2);border:1px solid var(--line,rgba(0,0,0,.14));box-shadow:0 12px 34px rgba(0,0,0,.26);animation:popIn .12s ease;" : "",
+      pageLabel: "Page " + s.page + " of " + (s.paras.length ? s.paras[s.paras.length - 1].page : 1),
+      selectionLabel: hasSel ? "Selection: " + s.sel.length + " chars" : "No selection",
+      hintLabel: s.expl ? "Click a quote to open its source" : "Right-click a paragraph for its explanation",
+      explStyle: (!s.textOpen && s.expl) ? "flex:1 1 0;min-width:340px" : "flex:none;width:428px",
+      quoteStyle: (!s.textOpen && s.quote) ? "flex:1 1 0;min-width:340px" : "flex:none;width:400px",
+
+      toggleToc: () => this.setState({ tocOpen: !s.tocOpen }),
+      toggleText: () => this.setState({ textOpen: !s.textOpen }),
+      toggleDark: () => this.setState({ dark: !s.dark }),
+      openSettings: () => this.setState({ settings: true }),
+      closeSettings: () => this.setState({ settings: false, recording: null }),
+      stop: e => e.stopPropagation(),
+      setTheme: e => this.setState({ dark: e.currentTarget.dataset.v === "dark" }),
+      setTibFont: e => this.setState({ tib: e.currentTarget.dataset.v }),
+      setEngFont: e => this.setState({ eng: e.currentTarget.dataset.v }),
+      setSize: e => this.setState({ size: Number(e.target.value) }),
+      recordKey: e => this.setState({ recording: e.currentTarget.dataset.k }),
+      pickColor: e => this.setState({ color: e.currentTarget.dataset.color }),
+      applyHighlight: () => this.applyHl(),
+      closeExpl: () => this.setState({ expl: null, quote: null, hlLine: null, tocOpen: true, textOpen: true }),
+      closeQuote: () => this.setState({ quote: null }),
+      closeMenu: () => { if (s.menu) this.setState({ menu: null }); },
+      setScroller: el => { this.scroller = el; },
+      setExplEl: el => { this.explEl = el; },
+      setQuoteEl: el => {
+        this.quoteEl = el;
+        if (el && this.qEls.hit) setTimeout(() => { if (this.quoteEl && this.qEls.hit) this.quoteEl.scrollTop = this.qEls.hit.offsetTop - this.quoteEl.clientHeight / 2 + 40; }, 30);
+      },
+      setTocEl: el => { this.tocEl = el; },
+      setSearchEl: el => { this.searchEl = el; },
+      onScroll: () => this.syncScroll(),
+      gotoToc: e => {
+        const id = e.currentTarget.dataset.target; if (!id) return;
+        const el = this.paraEls[id], sc = this.scroller;
+        if (el && sc) sc.scrollTo ? sc.scrollTo({ top: el.offsetTop - 30, behavior: "smooth" }) : (sc.scrollTop = el.offsetTop - 30);
+      },
+      onMenu: e => {
+        e.preventDefault();
+        const host = e.target.closest ? e.target.closest("[data-para]") : null;
+        const id = host ? host.dataset.para : s.active;
+        const sel = (window.getSelection && window.getSelection().toString()) || "";
+        this.setState({ menu: { x: Math.min(e.clientX, window.innerWidth - 290), y: Math.min(e.clientY, window.innerHeight - 220), id }, active: id || s.active, sel: sel.replace(/[\r\n]+/g, "") });
+      },
+      onMenuItem: e => {
+        const act = e.currentTarget.dataset.act;
+        const id = s.menu ? s.menu.id : s.active;
+        if (act === "explain") this.openExpl(id);
+        else if (act === "translate") { this.setState({ menu: null }); this.translateSelection(); }
+        else if (act === "highlight") this.applyHl();
+        else if (act === "copy") { document.execCommand && document.execCommand("copy"); this.setState({ menu: null }); this.flash("Copied"); }
+        else if (act === "reveal") { this.setState({ menu: null }); this.flash("explanations/" + id + ".md \u00b7 revealed in Finder"); }
+        else this.setState({ menu: null });
+      },
+      onSpanClick: e => {
+        const qid = e.currentTarget.dataset.quote;
+        if (!qid) return;
+        this.setState({ quote: qid }, () => this.fitPanels());
+      },
+      onSearchKey: e => {
+        if (e.key === "Enter") {
+          const qy = e.target.value.replace(/[\r\n]+/g, "");
+          this.setState({ query: qy }, () => {
+            const hit = s.paras.find(p => qy.length > 1 && p.text.indexOf(qy) >= 0);
+            if (hit) {
+              const el = this.paraEls[hit.id], sc = this.scroller;
+              if (el && sc) sc.scrollTop = el.offsetTop - 60;
+              this.flash("Exact match on page " + hit.page);
+            } else if (qy.length > 1) this.flash("No exact match");
+          });
+        }
+      }
+    };
+  }
+}
+</script>
+</body>
+</html>
