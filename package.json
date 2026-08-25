@@ -16,7 +16,8 @@
     "smoke:electron": "xvfb-run -a electron tools/electron-smoke.js",
     "check:explanations": "python3 tools/explanations.py",
     "check:quotes": "python3 tools/quotebank.py check",
-    "brief": "python3 tools/candidates.py"
+    "brief": "python3 tools/candidates.py",
+    "drive:export": "python3 tools/drive_export.py"
   },
   "devDependencies": {
     "electron": "^33.4.11",
