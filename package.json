@@ -1,0 +1,47 @@
+{
+  "name": "skabs-dangpo-viewer",
+  "productName": "སྐབས་དང་པོའི་སྤྱི་དོན།",
+  "version": "1.0.0",
+  "description": "A desktop reader for སྐབས་དང་པོའི་སྤྱི་དོན། with per-paragraph explanations, line-level translation lookup and inline source-quote viewing.",
+  "main": "app/main.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "serve": "node tools/serve.js",
+    "test": "node tools/test.js",
+    "build:data": "python3 tools/extract_pdf.py && python3 tools/build_data.py && python3 tools/repair_text.py --apply",
+    "dist:mac": "electron-builder --mac",
+    "dist:win": "electron-builder --win",
+    "smoke:electron": "xvfb-run -a electron tools/electron-smoke.js",
+    "check:explanations": "python3 tools/explanations.py"
+  },
+  "devDependencies": {
+    "electron": "^33.4.11",
+    "playwright": "^1.62.1"
+  },
+  "build": {
+    "appId": "org.serajey.skabsdangpo.viewer",
+    "productName": "Skabs Dangpo Viewer",
+    "files": [
+      "app/**/*",
+      "Explanations/**/*",
+      "Commentaries/**/*",
+      "package.json"
+    ],
+    "mac": {
+      "category": "public.app-category.reference",
+      "minimumSystemVersion": "12.3.1",
+      "target": [
+        "dmg",
+        "zip"
+      ]
+    },
+    "win": {
+      "target": [
+        "nsis",
+        "zip"
+      ]
+    }
+  }
+}
