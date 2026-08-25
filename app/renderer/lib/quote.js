@@ -112,6 +112,7 @@ function metaHtml(quote) {
     bits.push(`<span class="qm-title">${escapeHtml(src.title)}</span>`);
   }
   if (src.author) bits.push(escapeHtml(src.author));
+  if (quote.tier) bits.push(`tier ${escapeHtml(quote.tier)}`);
   const loc = quote.location || {};
   const where = [];
   if (loc.line) where.push(`line ${loc.line}`);

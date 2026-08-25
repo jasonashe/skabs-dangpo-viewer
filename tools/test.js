@@ -315,7 +315,16 @@ async function appChecks() {
         open: !panel.hidden,
         textStillOpen: !document.getElementById('textPane').hidden,
         marked: !!document.querySelector('#quoteBody mark'),
-        scrolled: document.getElementById('quoteBody').scrollTop > 0,
+        // the quotation must be on screen; a quote near the top of its source
+        // is already in view without scrolling, which is just as good
+        inView: (() => {
+          const body = document.getElementById('quoteBody');
+          const mark = body.querySelector('mark');
+          if (!mark) return false;
+          const a = mark.getBoundingClientRect();
+          const b = body.getBoundingClientRect();
+          return a.bottom > b.top && a.top < b.bottom;
+        })(),
       };
     });
     if (quoted.skipped) {
@@ -324,7 +333,7 @@ async function appChecks() {
       ok('a click on a quotation opens the source', quoted.open);
       ok('the root text stays open', quoted.textStillOpen);
       ok('the quotation is picked out', quoted.marked);
-      ok('the source is scrolled to it', quoted.scrolled);
+      ok('the source opens with the quotation in view', quoted.inView);
     }
 
     // ---- collapse rules

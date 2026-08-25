@@ -10,6 +10,7 @@ const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(__dirname, 'data');
 const EXPLANATIONS = path.join(ROOT, 'Explanations');
 const QUOTES = path.join(EXPLANATIONS, 'quotes');
+const QUOTE_INDEX = path.join(QUOTES, 'index.json');
 const SOURCES = path.join(ROOT, 'Commentaries');
 
 const STATE_FILE = () => path.join(app.getPath('userData'), 'reader-state.json');
@@ -205,13 +206,28 @@ ipcMain.handle('list-explanations', async () => {
   }
 });
 
+// Quote records are filed per commentary under Explanations/quotes, mirroring
+// how the analysis material is organised; the packed index is the flat view of
+// that store, so a lookup is one read rather than a directory walk.
+let quoteIndex = null;
+let quoteIndexAt = 0;
+
+async function loadQuoteIndex() {
+  try {
+    const stat = await fsp.stat(QUOTE_INDEX);
+    if (quoteIndex && stat.mtimeMs === quoteIndexAt) return quoteIndex;
+    quoteIndex = JSON.parse(await fsp.readFile(QUOTE_INDEX, 'utf8'));
+    quoteIndexAt = stat.mtimeMs;
+  } catch {
+    quoteIndex = quoteIndex || {};
+  }
+  return quoteIndex;
+}
+
 ipcMain.handle('read-quote', async (_e, id) => {
   if (!/^[a-z0-9_-]+$/i.test(String(id))) return null;
-  try {
-    return JSON.parse(await fsp.readFile(path.join(QUOTES, `${id}.json`), 'utf8'));
-  } catch {
-    return null;
-  }
+  const index = await loadQuoteIndex();
+  return index[id] || null;
 });
 
 // A window onto a commentary file: enough text before and after the quote for

@@ -41,8 +41,13 @@
   --eng: "Iowan Old Style";
   --tib-stack: var(--tib), "Noto Serif Tibetan", "Microsoft Himalaya", "Jomolhari",
                "DDC Uchen", "Tibetan Machine Uni", "Songti SC", serif;
+/* Tibetan is appended to the English stack rather than kept separate: a font
+   stack falls through per character, so English words take the English face
+   and Tibetan words inside the same sentence take the Tibetan one. Without
+   this, Tibetan set inline in an explanation lands on whatever fallback the
+   English face happens to have and comes out tiny and misaligned. */
   --eng-stack: var(--eng), "Palatino", "Palatino Linotype", Georgia,
-               "Times New Roman", serif;
+               "Times New Roman", var(--tib), "Noto Serif Tibetan", serif;
   --text-size: 21px;
 }
 
@@ -472,7 +477,7 @@ sup.mark:hover { text-decoration: underline; }
   padding: 18px 22px 40vh;
 }
 
-.markdown { font-family: var(--eng-stack); font-size: 14.5px; line-height: 1.62; }
+.markdown { font-family: var(--eng-stack); font-size: 14.5px; line-height: 1.75; }
 .markdown h1 { font-size: 18px; margin: 0 0 .5em; font-family: var(--ui); }
 .markdown h2 {
   font-size: 11px;

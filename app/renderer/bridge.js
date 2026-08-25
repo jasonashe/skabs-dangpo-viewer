@@ -28,8 +28,13 @@ function browserHost() {
       return list ? JSON.parse(list) : [];
     },
     readQuote: async (id) => {
-      const raw = await readText(`../../Explanations/quotes/${id}.json`);
-      return raw ? JSON.parse(raw) : null;
+      const raw = await readText('../../Explanations/quotes/index.json');
+      if (!raw) return null;
+      try {
+        return JSON.parse(raw)[id] || null;
+      } catch {
+        return null;
+      }
     },
     readSource: async ({ file, offset = 0, before = 4000, after = 6000 }) => {
       const text = await readText(`../../Commentaries/${encodeURIComponent(file)}`);
