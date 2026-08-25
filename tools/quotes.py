@@ -39,7 +39,7 @@ class Source:
         self.folded, self.index = search_form(self.text)
         self.meta = NAMES.get(filename, {})
 
-    def find(self, needle, exact_only=False):
+    def find(self, needle, exact_only=False, min_anchor=24):
         """Return (offset, length, exact) in the original text, or None.
 
         An exact hit means the source carries the quotation character for
@@ -57,7 +57,7 @@ class Source:
                 return None
             exact = False
             for cut in (72, 56, 40, 28, 24):
-                if cut >= len(folded):
+                if cut < min_anchor or cut >= len(folded):
                     continue                 # too short to anchor safely
                 at = self.folded.find(folded[:cut])
                 if at >= 0:

@@ -22,7 +22,7 @@ app.commandLine.appendSwitch('no-sandbox');
 require('../app/main.js');
 
 const PROBE = `JSON.stringify((() => {
-  const run = document.querySelector('[data-id=p6] .t');
+  const run = document.querySelector('[data-id=p3] .t');
   const probe = document.createElement('span');
   probe.style.cssText = 'position:absolute;visibility:hidden;white-space:nowrap;'
     + 'font-family:var(--tib-stack);font-size:40px';
@@ -37,7 +37,7 @@ const PROBE = `JSON.stringify((() => {
     status: document.getElementById('statusPage').textContent,
     tibetanFontLoaded: document.fonts.check('16px "Noto Serif Tibetan"'),
     runWidth: Math.round(run.getBoundingClientRect().width),
-    paragraphHeight: document.querySelector('[data-id=p6]').offsetHeight,
+    paragraphHeight: document.querySelector('[data-id=p3]').offsetHeight,
     probeWidth,
   };
 })())`;
@@ -73,7 +73,7 @@ app.whenReady().then(async () => {
     if (!cond) failures += 1;
   };
 
-  check('every paragraph is rendered', info.paragraphs === 333,
+  check('every paragraph is rendered', info.paragraphs === 426,
     String(info.paragraphs));
   check('the table of contents is built', info.tocEntries > 600,
     String(info.tocEntries));

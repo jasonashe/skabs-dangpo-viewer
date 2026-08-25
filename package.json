@@ -10,11 +10,13 @@
     "start": "electron .",
     "serve": "node tools/serve.js",
     "test": "node tools/test.js",
-    "build:data": "python3 tools/extract_pdf.py && python3 tools/build_data.py && python3 tools/repair_text.py --apply",
+    "build:data": "python3 tools/extract_pdf.py && python3 tools/build_data.py && python3 tools/repair_text.py --apply && python3 tools/resegment.py --apply",
     "dist:mac": "electron-builder --mac",
     "dist:win": "electron-builder --win",
     "smoke:electron": "xvfb-run -a electron tools/electron-smoke.js",
-    "check:explanations": "python3 tools/explanations.py"
+    "check:explanations": "python3 tools/explanations.py",
+    "check:quotes": "python3 tools/quotebank.py check",
+    "brief": "python3 tools/candidates.py"
   },
   "devDependencies": {
     "electron": "^33.4.11",

@@ -1,0 +1,24 @@
+{
+  "paragraph": "p6",
+  "commentary": {
+    "file": "ཕྱོགས་ཀྱི་གླང་པོ་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།.txt",
+    "title": "ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།",
+    "author": "ཕྱོགས་ཀྱི་གླང་པོ་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "རྟེན་དང་དབང་དུ་བྱ་བ་དང་། ། ལས་ནི་སྒོམ་པ་དང་བཅས་དང་། ། རབ་དབྱེ་རྟགས་དང་ལྟུང་བ་དང་། ། ཕན་ཡོན་བཅས་པར་ཡང་དག་བརྗོད",
+      "title": "ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།",
+      "author": "ཕྱོགས་ཀྱི་གླང་པོ་",
+      "tier": 4,
+      "offset": 317,
+      "length": 109,
+      "line": 3,
+      "match": "opening-run",
+      "why": "Dignāga's own kārikā of the thirty-two topics, quoted in the paragraph; found by direct search, not in the candidate pool.",
+      "citation": "བརྒྱད་སྟོང་དོན་བསྡུས། ཚིགས་བཅད་གཉིས་པ།",
+      "id": "p6-q03"
+    }
+  ]
+}
