@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="bo">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' file:; connect-src 'self' file:">
+<title>སྐབས་དང་པོའི་སྤྱི་དོན།</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="window">
+
+  <header class="titlebar" id="titlebar">
+    <div class="titlebar-inset" id="titlebarInset"></div>
+    <div class="titlebar-title">
+      <div class="doc-title tib" id="docTitle">སྐབས་དང་པོའི་སྤྱི་དོན།</div>
+      <div class="doc-sub" id="docSub"></div>
+    </div>
+    <div class="titlebar-inset titlebar-inset-end" id="titlebarInsetEnd"></div>
+  </header>
+
+  <div class="toolbar" id="toolbar">
+    <button class="tb" id="btnToc" title="Table of contents">Contents</button>
+    <button class="tb" id="btnText" title="Root text">Text</button>
+    <span class="tb-sep"></span>
+
+    <div class="tb-group" id="highlightGroup">
+      <span class="tb-label">Highlight</span>
+      <button class="swatch" data-color="a" title="Yellow"></button>
+      <button class="swatch" data-color="b" title="Green"></button>
+      <button class="swatch" data-color="c" title="Blue"></button>
+      <span class="tb-divider"></span>
+      <button class="tb-link" id="btnApplyHighlight">Apply</button>
+      <button class="tb-link" id="btnClearHighlight" title="Remove highlights touching the selection">Clear</button>
+    </div>
+
+    <span class="tb-spacer"></span>
+
+    <div class="tb-search" id="searchBox">
+      <svg viewBox="0 0 16 16" class="tb-icon" aria-hidden="true"><path d="M11.3 10.2a5 5 0 1 0-1.1 1.1l3 3 1.1-1.1zM3 7a4 4 0 1 1 8 0 4 4 0 0 1-8 0z"/></svg>
+      <input id="searchInput" type="search" placeholder="Search the text"
+             spellcheck="false" autocomplete="off">
+      <span class="tb-count" id="searchCount"></span>
+      <button class="tb-step" id="searchPrev" title="Previous match">‹</button>
+      <button class="tb-step" id="searchNext" title="Next match">›</button>
+    </div>
+
+    <button class="tb" id="btnDark" title="Appearance">Dark</button>
+    <button class="tb" id="btnSettings" title="Settings">Settings</button>
+  </div>
+
+  <div class="panels" id="panels">
+
+    <aside class="panel toc" id="toc">
+      <div class="panel-head">
+        <span class="panel-title">Table of contents</span>
+        <button class="panel-btn" id="tocHide" title="Collapse">Hide</button>
+      </div>
+      <div class="toc-list" id="tocList"></div>
+    </aside>
+
+    <div class="collapsed-bar" id="tocBar" title="Show the table of contents"
+         role="button" tabindex="0" hidden>
+      <span class="bar-label">Contents</span>
+      <span class="bar-chevron">›</span>
+    </div>
+
+    <section class="panel text" id="textPane">
+      <div class="scroller" id="scroller">
+        <div class="column" id="column"></div>
+      </div>
+    </section>
+
+    <div class="collapsed-bar" id="textBar" title="Show the root text"
+         role="button" tabindex="0" hidden>
+      <span class="bar-label">Root text</span>
+      <span class="bar-chevron">›</span>
+    </div>
+
+    <section class="panel side explanation" id="explanation" hidden>
+      <div class="panel-head">
+        <div class="panel-heading">
+          <span class="panel-title">Explanation</span>
+          <span class="panel-sub" id="explanationSub"></span>
+        </div>
+        <button class="panel-close" id="explanationClose" title="Close">×</button>
+      </div>
+      <div class="panel-body markdown" id="explanationBody"></div>
+    </section>
+
+    <section class="panel side quote" id="quote" hidden>
+      <div class="panel-head">
+        <div class="panel-heading">
+          <span class="panel-title">Source</span>
+          <span class="panel-sub" id="quoteSub"></span>
+        </div>
+        <button class="panel-close" id="quoteClose" title="Close">×</button>
+      </div>
+      <div class="quote-meta" id="quoteMeta"></div>
+      <div class="panel-body quote-body" id="quoteBody"></div>
+    </section>
+
+  </div>
+
+  <footer class="statusbar">
+    <span id="statusPage"></span>
+    <span class="status-sep"></span>
+    <span id="statusSection" class="tib"></span>
+    <span class="tb-spacer"></span>
+    <span id="statusRight"></span>
+  </footer>
+</div>
+
+<div class="context-menu" id="contextMenu" hidden></div>
+
+<div class="sheet-backdrop" id="settingsSheet" hidden>
+  <div class="sheet" role="dialog" aria-label="Settings">
+    <div class="sheet-head">
+      <span>Settings</span>
+      <button class="panel-close" id="settingsClose" title="Close">×</button>
+    </div>
+    <div class="sheet-body" id="settingsBody"></div>
+  </div>
+</div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
