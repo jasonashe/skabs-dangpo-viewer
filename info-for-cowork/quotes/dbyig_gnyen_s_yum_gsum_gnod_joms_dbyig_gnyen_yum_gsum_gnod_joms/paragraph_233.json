@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "234_དྲུག་པ་ལ། དུམ་མཚན་དང་པོ། 184",
+  "root_paragraph": "དྲུག་པ་ལ། སྐབས་རྣམས་སུ་མཐོང་ལམ་ཡང་ཡང་བསྟན་པ་ལ་ཟློས་སྐྱོན་ཡོད་དོ་ཞེ་ན། སྐྱོན་མེད་དེ། གདམས་ངག་གི་སྐབས་སུ་མཐོང་ལམ་དང་། ཞེས་གསུངས་པ་ནི། གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་བསྟན། ཚོགས་སྒྲུབ་ཀྱི་སྐབས་སུ༑ མཐོང་ལམ་དང་། ཞེས་བཤད་པ་ནི་གཉེན་པོའ་ིཚོགས་ཀྱི་དབྱེ་བ་ཤེས་པའི་ཕྱིར་དུ་བསྟན། སྐབས་གཉིས་པར་ནི་མཐའ་གཉིས་ལ་མི་བརྟེན་པའི་མཐོང་ལམ་བསྟན༑ སྐབས་གསུམ་པར་ཐེག་དམན་གྱི་ས་ལས་འདའ་བར་བྱ་བའི་མཐོང་ལམ་བསྟན༑ སྐབས་བཞི་པར། མཐོང་བའི་ལམ་ལ་བཟོད་པ་དང་། །ཞེས་གསུངས་པ་ནི། ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན། སྐད་ཅིག་མ་ནི་བཅུ་དྲུག་གིས། །ཞེས་པས་ནི། ཉན་རང་ལས་ཁྱད་པར་དུ་འཕགས་པར་བསྟན། སྐབས་ལྔ་པར་མཐོང་ལམ་བསྟན་པ་ནི་མཐོང་སྤང་རྟོག་པའི་གཉེན་པོའ་ིཆ་ནས་བསྟན་པ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "184",
+  "paragraph_key": "f301854661ceb62d",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:18.469888Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "སྐབས་བཞི་པར། མཐོང་བའི་ལམ་ལ་བཟོད་པ་དང་། །ཞེས་གསུངས་པ་ནི། ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན།",
+      "relevance": "This quote discusses how the path of seeing in the fourth section is taught through the indicators of non-retrogression, matching the topic of paragraph 2.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~179061 in the commentary file, unit 92/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 91,
+      "unit_hash": "a1eb5c8ed401",
+      "passage_hash": "ea644d20aa3d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "སྐད་ཅིག་མ་ནི་བཅུ་དྲུག་གིས། །ཞེས་པས་ནི། ཉན་རང་ལས་ཁྱད་པར་དུ་འཕགས་པར་བསྟན།",
+      "relevance": "This quote relates to the sixteen moments of the path of seeing as a distinction from the Hearers and Solitary Realizers, corresponding to paragraph 2.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~176509 in the commentary file, unit 91/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 90,
+      "unit_hash": "ab7f65e0db66",
+      "passage_hash": "ea644d20aa3d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

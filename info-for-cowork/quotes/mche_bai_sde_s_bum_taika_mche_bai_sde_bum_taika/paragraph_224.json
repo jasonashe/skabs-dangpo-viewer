@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "225_རྣམ་རྫོགས་སྦྱོར། དུམ་མཚན་དང་པོ། 181",
+  "root_paragraph": "རྣམ་རྫོགས་སྦྱོར་བ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་གཅིག་ཡོད་དེ། རྣམ་རྫོགས་སྦྱོར་བའི་བསྒོམ་བྱའི་རྣམ་པ། སྦྱོར་བ། སྦྱོར་བའི་ཡོན་ཏན། སྦྱོར་བའི་སྐྱོན། སྦྱོར་བའི་མཚན་ཉིད། ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན། ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན། ཕྱིར་མི་ལྡོག་པའི་རྟགས། སྲིད་ཞི་མཉམ་ཉིད་ཀྱི་སྦྱོར་བ། ཞིང་དག་སྦྱོར་བ། ཐབས་མཁས་སྦྱོར་བ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "181",
+  "paragraph_key": "aa85914445a2ce41",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+  "generated_at": "2026-08-20T04:14:40.595487Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "རྟགས་དང་མཚན་མ་དེ་དག་གིས་ཕྱིར་མི་ལྡོག་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་པར་རིག་པར་བྱ་བ་བསྟན་པ་སྟེ།",
+      "relevance": "This quote directly discusses the 'signs of non-retrogression' (ཕྱིར་མི་ལྡོག་པའི་རྟགས) which is listed as a topic of the complete realization yoga in paragraph 1.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~525157 in the commentary file, unit 271/415",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 270,
+      "unit_hash": "fa4018f2df96",
+      "passage_hash": "d0c496d8d7ea",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 415,
+    "units_scanned": 415,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

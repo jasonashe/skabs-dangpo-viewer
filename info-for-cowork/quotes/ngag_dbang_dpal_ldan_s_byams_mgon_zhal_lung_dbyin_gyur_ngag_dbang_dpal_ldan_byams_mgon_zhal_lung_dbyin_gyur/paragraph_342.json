@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "343_གཞན་ཡང་རྩ། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། རྩ་བ་ཤེས་རབ་ལས།གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །ཞེས་སོགས་གསུངས་པ་མི་འཐད་པར་ཐལ། བདེན་སྟོང་ལ་བྱ་བྱེད་མི་རུང་བའི་ཕྱིར།གཞན་ཡང་། གཟུགས་མེད་པར་ཐལ། མདོ་ལས༑གཟུགས་མེད། སྒྲ་མེད། ཅེས་སོགས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་མི་ནུས་ཏེ། གཟུགས་སོགས་ཕུང་པོ་ལྔ་ཡོད་པའི་ཕྱིར་ཏེ། ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་ཐམས་ཅད་ཡོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས།",
+  "root_paragraph_page": "257",
+  "paragraph_key": "936b6e6ecc7afcbb",
+  "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:14:07.393438Z",
+  "quotes": [
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This quote from the Mulamadhyamakakarika is addressed in the target paragraph as part of the discussion on whether emptiness and functional activities (བྱ་བྱེད་) are compatible.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~242741 in the commentary file, under ‘པུ་’, unit 124/137",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 123,
+      "unit_hash": "5aae1a98cb89",
+      "passage_hash": "716363e81d56",
+      "folio": null,
+      "sa_bcad": "པུ་",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "གཟུགས་མེད།",
+      "relevance": "This quote is used to challenge the existence of form based on a scripture stating that form does not exist.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~104357 in the commentary file, unit 53/137",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 52,
+      "unit_hash": "9b202dcd1d29",
+      "passage_hash": "281d25402185",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 137,
+    "units_scanned": 137,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "202_ཁ་ཅིག་གདུལ། དུམ་མཚན་དང་པོ། 165",
+  "root_paragraph": "ཁ་ཅིག །གདུལ་བྱའི་ཉོན་མོངས་སྤོང་ཕྱིར་དུ་གསུངས་པའི་སངས་རྒྱས་ཀྱི་གསུང་༑ བཀའི་མཚན་ཉིད་ཟེར་བ་མི་འཐད་དེ། བཀའི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་ཡིན་ན། ཉོན་མོངས་སྤང་དགོས་ཀྱི་གང་ཟག་ཡིན་པས་མ་ཁྱབ་པའི་ཕྱིར་ཏེ། དེར་གྱུར་པའི་ཉན་ཐོས་དགྲ་བཅོམ་ཡོད་པའི་ཕྱིར། གཞན་ཡང་། ཤཱ་རིའི་བུའི་ངག་ཏུ་གྱུར་པའི་སངས་རྒྱས་ཀྱི་བཀའ་ཆོས་ཅན། སངས་རྒྱས་ཀྱི་གསུང་ཡིན་པར་ཐལ། སངས་རྒྱས་ཀྱི་བཀའ་ཡིན་པའི་ཕྱིར། འདོད་ན། གསུང་དབྱངས་ཡན་ལག་དྲུག་ཅུའི་ཡོན་ཏན་དང་ལྡན་པར་ཐལ། འདོད་པའི་ཕྱིར། ཁྱབ་སྟེ། མདོ་སྡེའི་རྒྱན་ལས།བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །ཅེས་གསུངས་པའི་ཕྱིར། དེས་མཚོན་ནས་གཞན་ཡང་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "165",
+  "paragraph_key": "e444d538a4c3c94a",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:13.892186Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "This target passage cites the precise verse on the sixty qualities of the Buddha's speech that is discussed in relation to the Buddha's teachings and their limits.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~113040 in the commentary file, under ‘ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན།’, unit 58/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 57,
+      "unit_hash": "60dac9fba47b",
+      "passage_hash": "fbdc2bfa6288",
+      "folio": null,
+      "sa_bcad": "ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

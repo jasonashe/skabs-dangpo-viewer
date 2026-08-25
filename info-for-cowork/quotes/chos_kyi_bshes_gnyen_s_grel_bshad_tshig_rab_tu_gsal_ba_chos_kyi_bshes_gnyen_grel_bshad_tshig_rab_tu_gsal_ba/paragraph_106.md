@@ -1,0 +1,55 @@
+# Quote collection: ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]
+**Target paragraph:** 107_ཁ་ཅིག་བཤད། དུམ་མཚན་དང་པོ། 101
+
+> ཁ་ཅིག །བཤད་པས་གདུལ་བྱའི་རྒྱུད་ལ་འཕོ་བྱ་དང་འཕོ་བྱེད་གང་རུང་དུ་གྱུར་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། ཆོས་འཁོར་གྱི་མཚན་ཉིད། ཟེར་ན། དེ་ལ་ཁ་ཅིག །རྣམ་མཁྱེན་ཆོས་ཅན། མཚན་ཉིད་དེར་ཐལ། ཆོས་འཁོར་ཡིན་པའི་ཕྱིར། འདོད་ན། བཤད་པས་གདུལ་བྱའི་རྒྱུད་ལ་འཕོ་བར་ཐལ་ལོ། །འདོད་མི་ནུས་ཏེ། མདོ་ལས།ཐུབ་རྣམས་སྡིག་པ་ཆུ་ཡིས་མི་འཁྲུ་ཞིང་། །འགྲོ་བའི་སྡུག་བསྔལ་ཕྱག་གིས་མི་སེལ་ལ། །ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །ཆོས་ཉིད་བདེན་པ་བསྟན་པས་གྲོལ་བར་འགྱུར། །ཞེས་གསུངས་པའི་ཕྱིར། ཟེར་ན་མ་ཁྱབ་སྟེ། དེའི་དོན་སྟོན་པ་ཤཱཀྱ་ཐུབ་པ་ལྟ་བུའི་རྒྱུད་ཀྱི་རྣམ་མཁྱེན་དེ། དེའི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱའི་རྒྱུད་ལ་འཕོ་མི་ནུས་པ་ལུང་དེའི་དོན་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (41% correctness) ⚠️ UNVERIFIED
+> ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །
+
+- **Why relevant:** This quote is used in the target passage to discuss whether the realizations of the Buddha can be transferred or transmitted to the minds of disciples.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~529429 in the commentary file, unit 272/421
+- **Verification:** UNVERIFIED
+
+## Quote (38% correctness) ⚠️ UNVERIFIED
+> ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །ཆོས་ཉིད་བདེན་པ་བསྟན་པས་གྲོལ་བར་འགྱུར། །
+
+- **Why relevant:** This verse is quoted in the commentary and discussed in Paragraph 3 regarding whether a Buddha's realization can be transferred to others.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~210800 in the commentary file, unit 108/421
+- **Verification:** UNVERIFIED
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །ཆོས་ཉིད་བདེན་པ་བསྟན་པས་གྲོལ་བར་འགྱུར། །
+
+- **Why relevant:** This quote is relevant because it discusses whether the realization of the teacher can be transferred to others, matching the topic debated in the target paragraph.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~79354 in the commentary file, unit 41/421
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །
+
+- **Why relevant:** The commentary excerpt discusses how the realization of the teachings cannot be transferred from one person's continuum to another, which relates to the citation about realization not transferring in paragraph 3.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~376501 in the commentary file, unit 193/421
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> ཐུབ་རྣམས་སྡིག་པ་ཆུ་ཡིས་མི་འཁྲུ་ཞིང་། །འགྲོ་བའི་སྡུག་བསྔལ་ཕྱག་གིས་མི་སེལ་ལ། །ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །ཆོས་ཉིད་བདེན་པ་བསྟན་པས་གྲོལ་བར་འགྱུར། །
+
+- **Why relevant:** This verse is explicitly cited in paragraph 3 to discuss whether the realizations or qualities of the Buddha can be transferred to the minds of disciples.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~745626 in the commentary file, unit 382/421
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> མདོ་ལས།ཐུབ་རྣམས་སྡིག་པ་ཆུ་ཡིས་མི་འཁྲུ་ཞིང་། །འགྲོ་བའི་སྡུག་བསྔལ་ཕྱག་གིས་མི་སེལ་ལ། །ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །ཆོས་ཉིད་བདེན་པ་བསྟན་པས་གྲོལ་བར་འགྱུར། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This target passage discusses whether a Buddha's realization can be transferred to others, citing the well-known verse from a sutra about how beings are freed by teaching the truth rather than by transferring realizations.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~627251 in the commentary file, unit 322/421
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> ཉིད་ཀྱི་རྟོགས་པ་གཞན་ལ་འཕོ་མིན་ཏེ། །ཆོས་ཉིད་བདེན་པ་བསྟན་པས་གྲོལ་བར་འགྱུར། །
+
+- **Why relevant:** This quote is relevant because it discusses whether a Buddha's realization can be transferred to the minds of disciples, which connects to the discussion in paragraph 3 about transferring virtuous qualities.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~37547 in the commentary file, unit 20/421
+- **Verification:** UNVERIFIED

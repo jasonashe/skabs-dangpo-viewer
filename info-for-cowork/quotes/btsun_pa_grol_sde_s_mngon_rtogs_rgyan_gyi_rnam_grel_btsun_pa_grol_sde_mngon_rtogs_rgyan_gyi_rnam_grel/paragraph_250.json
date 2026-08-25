@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "251_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 193",
+  "root_paragraph": "གཉིས་པ་ལ་རྩོད་པ་དང་། ལན་གཉིས་ལས། དང་པོ་ནི། ཁོ་ན་རེ། གཞན་དོན་དུ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དོན་གཉེར་གྱི་འདུན་པ་ཆོས་ཅན། སེམས་བསྐྱེད་མ་ཡིན་པར་ཐལ། སེམས་བྱུང་ཡིན་པའི་ཕྱིར། འདོད་ན། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས་པ་དང་འགལ་ལོ། །ཞེས་པའི་རྒོལ་བ་དེ་སྟོན་པ་ལ།ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པ་ཉིད་ནི་དེ་དོན་དུ་གཉེར་བ་དགེ་བའི་ཆོས་ལ་འདུན་པ་སེམས་ལས་བྱུང་བ་ཡིན་ལ། སེམས་བསྐྱེད་པ་ནི་སེམས་ཡུལ་ཁྱད་པར་དུ་འཕགས་པ་སྣང་བ་ཅན་འབྱུང་བ་མ་ཡིན་ནམ། ཇི་ལྟར་ན་དེ་སེམས་བསྐྱེད་པ་ཡིན་པར་འགྱུར་ཞེ་ན། ཞེས་གསུངས།",
+  "root_paragraph_page": "193",
+  "paragraph_key": "8f5c405994551699",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:30.903327Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེ་ལ་དོན་དུ་གཉེར་བར་བྱ་བ་ཐོབ་པར་བྱེད་པའི་མན་ངག་ནི་གདམས་ངག་གོ།",
+      "relevance": "This quote discusses the concept of seeking and obtaining what is to be sought, which is relevant to the discussion on the nature of aspiration and intention in generating the mind of enlightenment.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~29694 in the commentary file, unit 16/379",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 15,
+      "unit_hash": "ec81ddd0de38",
+      "passage_hash": "72b532a85c70",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

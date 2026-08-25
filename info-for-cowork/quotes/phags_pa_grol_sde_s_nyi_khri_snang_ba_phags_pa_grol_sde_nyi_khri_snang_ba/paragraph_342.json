@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "343_གཞན་ཡང་རྩ། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། རྩ་བ་ཤེས་རབ་ལས།གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །ཞེས་སོགས་གསུངས་པ་མི་འཐད་པར་ཐལ། བདེན་སྟོང་ལ་བྱ་བྱེད་མི་རུང་བའི་ཕྱིར།གཞན་ཡང་། གཟུགས་མེད་པར་ཐལ། མདོ་ལས༑གཟུགས་མེད། སྒྲ་མེད། ཅེས་སོགས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་མི་ནུས་ཏེ། གཟུགས་སོགས་ཕུང་པོ་ལྔ་ཡོད་པའི་ཕྱིར་ཏེ། ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་ཐམས་ཅད་ཡོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས།",
+  "root_paragraph_page": "257",
+  "paragraph_key": "936b6e6ecc7afcbb",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:25.420080Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This quote is referenced to discuss how everything functions correctly on the basis that emptiness is possible and tenable.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~9615 in the commentary file, unit 5/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 4,
+      "unit_hash": "05278e4e450e",
+      "passage_hash": "7d87af31bcad",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "གཟུགས་མེད། སྒྲ་མེད། ཅེས་སོགས་གསུངས་པའི་ཕྱིར།",
+      "relevance": "This quote is relevant because it references the scriptural passage stating that form and sound are nonexistent, which paragraph 18 analyzes in terms of conventional existence.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~137716 in the commentary file, unit 71/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 33,
+      "chunk_id": 70,
+      "unit_hash": "4d2ecfbf50a3",
+      "passage_hash": "a8ba520b4155",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

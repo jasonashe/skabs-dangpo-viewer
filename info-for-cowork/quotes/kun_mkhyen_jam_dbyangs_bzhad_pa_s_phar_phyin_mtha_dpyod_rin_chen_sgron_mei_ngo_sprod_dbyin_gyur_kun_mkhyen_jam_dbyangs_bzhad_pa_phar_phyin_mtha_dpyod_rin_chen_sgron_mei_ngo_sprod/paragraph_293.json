@@ -1,0 +1,20 @@
+{
+  "root_paragraph_heading": "294_ལྷག་བསམ་རྣམ། དུམ་མཚན་དང་པོ། 229",
+  "root_paragraph": "ལྷག་བསམ་རྣམ་དག་ནི། དེའི་རྗེས་དེ་ཐམས་ཅད་ཀྱི་སྡུག་བསྔལ་འདི་བདག་གཅིག་པུས་བསལ་བར་བྱའོ་སྙམ་དུ་ཡིད་འཁུལ་གྱི་བར་དུ་བསྒོམ་པའོ། །དེ་དྲུག་པོ་དེ་རྒྱུའི་མན་ངག་དྲུག་གོ །",
+  "root_paragraph_page": "229",
+  "paragraph_key": "1f464687b4fd87d5",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།]",
+  "generated_at": "2026-08-20T04:14:04.384724Z",
+  "quotes": [],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 206,
+    "units_scanned": 206,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "259_བཞི་པ་མདོ། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "བཞི་པ་མདོ་གཞན་མ་བཀོད་པའི་རྒྱུ་མཚན་ནི། སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་གཉིས་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་དུ་སྟོན་པའི་ཡུམ་གྱི་མདོ་ལས་གཞན་བློ་གྲོས་མི་བཟད་པའི་མདོ་དང་། སྡོང་པོ་བཀོད་པའི་མདོ་སོགས་ཐེག་ཆེན་སེམས་བསྐྱེད་སྟོན་པའི་མདོ་རྣམས་ཁུངས་སུ་མི་འདྲེན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཚིག་མང་དུ་དོགས་ནས་དེ་ལྟར་མ་དྲངས་པ་ཡིན་པའི་ཕྱིར༑ ཞེས་འཆད་པ་ལ།གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "6887db17fb787803",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:24.729742Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑ཞེས་གསུངས།",
+      "relevance": "Paragraph 9 references this to explain why other scriptures were not explicitly cited as sources due to the fear of prolixity.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~633771 in the commentary file, unit 324/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 24,
+      "chunk_id": 323,
+      "unit_hash": "7279d433c7dd",
+      "passage_hash": "815b03c3c470",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

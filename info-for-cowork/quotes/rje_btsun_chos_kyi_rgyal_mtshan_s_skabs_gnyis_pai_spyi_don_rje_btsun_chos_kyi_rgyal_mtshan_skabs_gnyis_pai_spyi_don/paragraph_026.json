@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "27_རོང་ཊཱིཀ་པས། དུམ་མཚན་དང་པོ། 56",
+  "root_paragraph": "རོང་ཊཱིཀ་པས་འགྲེལ་པ་འདི་མདོ་རྒྱན་སྦྱར་བའི་འགྲེལ་པ་ཡིན་ཏེ། ཀུན་གྱི་རྒྱན་དུ་འགྱུར་བར་ནི། །ཞེས་དང་། རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་། ཞེས་སོགས་དང་། འཕགས་བཞིའི་མངོན་རྟོགས་བསྡུས་ཚུལ་གྱི་སྐབས་སུ་ཡུམ་གསུམ་གའི་ལུང་ཤེས་བྱེད་དུ་དྲངས་པའི་ཕྱིར། ཞེས་ཟེར་བ་མི་འཐད་དེ། དེ་ལྟར་ན་འགྲེལ་པ་འདི་དབུས་མཐའ་དང་རྒྱན་སྦྱར་བའི་འགྲེལ་པ་སོགས་སུ་འགྱུར་ཏེ། སྐབས་ལྔ་པའི་འགྲེལ་པར༑ཆོས་ཀྱི་དབྱིངས་ལས་མ་གཏོགས་པར། །འདི་ལྟར་ཆོས་ཡོད་མ་ཡིན་ཏེ། །ཞེས་དབུས་མཐའི་ལུང་ཤེས་བྱེད་དུ་དྲངས་ཤིང་། སྐབས་བཞི་པའི་འགྲེལ་པར།འཇིག་རྟེན་སྣ་ཚོགས་ལས་ལས་སྐྱེས། །ཞེས་སོགས་མཛོད་ཀྱི་ལུང་ཤེས་བྱེད་དུ་དྲངས་པ་སོགས་དུ་མ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "56",
+  "paragraph_key": "c60459c9dfac914d",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:55.830377Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "རོང་ཊཱིཀ་པས།",
+      "relevance": "The commentary excerpt mentions Rong ṭīk pa's view regarding the combination of the sūtra and the ornament, which matches the discussion in paragraph 2.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~349055 in the commentary file, unit 178/204",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 177,
+      "unit_hash": "aa13845276a1",
+      "passage_hash": "fa77b3511d2f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "ཀུན་གྱི་རྒྱན་དུ་འགྱུར་བར་ནི། །",
+      "relevance": "This verse is cited in the commentary excerpt as part of the discussion regarding whether the work is an exposition combining the sutras and the Ornament.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~258453 in the commentary file, unit 132/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 46,
+      "chunk_id": 131,
+      "unit_hash": "177c0cc18d05",
+      "passage_hash": "b317516c2377",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

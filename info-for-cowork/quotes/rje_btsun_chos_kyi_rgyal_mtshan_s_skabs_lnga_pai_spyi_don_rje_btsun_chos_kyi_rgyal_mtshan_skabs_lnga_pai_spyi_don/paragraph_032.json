@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "33_གཞན་ཡང་བསྟན། དུམ་མཚན་དང་པོ། 60",
+  "root_paragraph": "གཞན་ཡང་། བསྟན་བཅོས་ཆེན་པོའ་ིརྣམ་བཤད་མཛད། །ཅེས་པའི་བསྟན་བཅོས་དེ་ཉི་ཁྲི་ཁོ་ན་ལ་བྱེད་རིགས་པར་ཐལ། དམ་བཅའ་འཐད་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ༑ དེ་ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལ་བྱེད་རིགས་པའི་ཕྱིར་ཏེ། འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །ཞེས་གསུངས་པ་ལྟར་འཐད་པའི་ཕྱིར།",
+  "root_paragraph_page": "60",
+  "paragraph_key": "b06e8c171f8ebbae",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:10.133860Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །",
+      "relevance": "This quote supports the idea that the term 'treatise' (bstan bcos) in the verse can apply broadly to the mother scriptures of the extensive, medium, and concise teachings.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~689848 in the commentary file, unit 351/360",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 350,
+      "unit_hash": "f6608fc09079",
+      "passage_hash": "ddb2c8c34e96",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 360,
+    "units_scanned": 360,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

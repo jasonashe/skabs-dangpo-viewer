@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "259_བཞི་པ་མདོ། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "བཞི་པ་མདོ་གཞན་མ་བཀོད་པའི་རྒྱུ་མཚན་ནི། སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་གཉིས་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་དུ་སྟོན་པའི་ཡུམ་གྱི་མདོ་ལས་གཞན་བློ་གྲོས་མི་བཟད་པའི་མདོ་དང་། སྡོང་པོ་བཀོད་པའི་མདོ་སོགས་ཐེག་ཆེན་སེམས་བསྐྱེད་སྟོན་པའི་མདོ་རྣམས་ཁུངས་སུ་མི་འདྲེན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཚིག་མང་དུ་དོགས་ནས་དེ་ལྟར་མ་དྲངས་པ་ཡིན་པའི་ཕྱིར༑ ཞེས་འཆད་པ་ལ།གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "6887db17fb787803",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:11.852466Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ་ཞེས་བྱ་བ་སྨོས་ཏེ།",
+      "relevance": "This excerpt explains that other scriptural sources were not cited as authorities in order to avoid excessive length, which directly supports the reasoning in the target paragraph.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~115839 in the commentary file, unit 60/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 59,
+      "unit_hash": "ae5f9e51acac",
+      "passage_hash": "81f20c996017",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "ཚིག་མང་དུ་དོགས་ནས་དེ་ལྟར་མ་དྲངས་པ་ཡིན་པའི་ཕྱིར༑",
+      "relevance": "This quote explains why additional sutras like the Dgongs pa mi bzhad pa were not cited as sources, attributing it to the desire to avoid excessive length.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~334146 in the commentary file, unit 172/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 46,
+      "chunk_id": 171,
+      "unit_hash": "74107236f5a6",
+      "passage_hash": "ed60b1970642",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

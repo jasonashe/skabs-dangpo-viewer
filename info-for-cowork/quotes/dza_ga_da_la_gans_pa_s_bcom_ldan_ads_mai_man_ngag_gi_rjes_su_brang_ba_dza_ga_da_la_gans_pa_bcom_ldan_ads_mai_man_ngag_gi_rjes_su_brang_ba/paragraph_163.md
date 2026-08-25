@@ -1,0 +1,27 @@
+# Quote collection: ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]
+**Target paragraph:** 164_གཞན་ཡང་དམ། དུམ་མཚན་དང་པོ། 139
+
+> གཞན་ཡང་། དམ་བཅའ་དེ་མི་འཐད་དེ། མ་རིག་བག་ཆགས་ཀྱི་ས་དེ་ཉོན་སྒྲིབ་མ་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཤེས་སྒྲིབ་ཡིན་པའི་ཕྱིར། གལ་ཏེ་ཁོ་བོ་ཅག་ཀྱང་བག་ལ་ཉལ་གྱི་ཉོན་སྒྲིབ་ཤེས་སྒྲིབ་ཏུ་འདོད་དོ་ཞེ་ན། ཉོན་སྒྲིབ་ལ་དེ་གཉིས་སུ་འབྱེད་མི་རིགས་པར་ཐལ༑ དམ་བཅའ་འཐད་པའི་ཕྱིར། གཞན་ཡང་། ཀུན་བཏུས་ལས།ཉོན་མོངས་པ་དང་ཤེས་བྱའི་སྒྲིབ་པ་ཅིག་ཅར་དུ་སྤོང་། ཞེས་གསུངས་པ་མི་འཐད་པར་ཐལ། དམན་ལམ་སྔོན་དུ་མ་སོང་བའི་བྱང་འཕགས་ཀྱིས་ཉོན་སྒྲིབ་དང་ཤེས་སྒྲིབ་ཅིག་ཅར་དུ་མི་སྤོང་བའི་ཕྱིར༑ གལ་ཏེ་དེས་ཤེས་སྒྲིབ་དང་ཉོན་སྒྲིབ་ཀྱི་བག་ཆགས་ཅིག་ཅར་དུ་སྤོང་བའི་དོན་ཡིན་ཞེ་ན། དཔེར་ན་སྤངས་པའི་དགྲ་བཅོམ་པ་ལྟར། ཞེས་པའི་སྐབས་ཀྱི་ཉོན་སྒྲིབ་དེ་ཡང་ཉོན་སྒྲིབ་ཀྱི་བག་ཆགས་ལ་བྱེད་རིགས་པར་ཐལ། ཉོན་མོངས་པ་དང་ཞེས་པའི་ཉོན་མོངས་དེ་དེ་ལ་བྱེད་རིགས་པའི་ཕྱིར་རོ། །
+
+*Coverage: complete.*
+
+## Quote (46% correctness) ⚠️ UNVERIFIED
+> ཉོན་མོངས་པ་དང་ཤེས་བྱའི་སྒྲིབ་པ་ཅིག་ཅར་དུ་སྤོང་།
+
+- **Why relevant:** This quotation from the Compendium of Abhidharma is the subject of scrutiny and refutation regarding whether the two obscurations are abandoned simultaneously.
+- **Location:** ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~537829 in the commentary file, unit 276/524
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> ཉོན་མོངས་པ་དང་ཤེས་བྱའི་སྒྲིབ་པ་ཅིག་ཅར་དུ་སྤོང་།
+
+- **Why relevant:** This phrase is cited in the fourth paragraph to debate whether obscurations are abandoned simultaneously.
+- **Location:** ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~889668 in the commentary file, unit 457/524
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> ཉོན་མོངས་པ་དང་ཤེས་བྱའི་སྒྲིབ་པ་ཅིག་ཅར་དུ་སྤོང་།
+
+- **Why relevant:** This quote is analyzed regarding whether the two obscurations are abandoned simultaneously by a bodhisattva.
+- **Location:** ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~236802 in the commentary file, unit 122/524
+- **Verification:** UNVERIFIED

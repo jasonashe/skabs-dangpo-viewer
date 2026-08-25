@@ -1,0 +1,104 @@
+# Quote collection: ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།]
+**Target paragraph:** 381_བསམ་དུ་མེད། དུམ་མཚན་དང་པོ། 277
+
+> བསམ་དུ་མེད་པ་ལ་སོགས་པའི་ཡོན་ཏན་བརྒྱད་པོ་གང་རུང་དང་ལྡན་པའི་འཕགས་རྒྱུད་ཀྱི་རྣམ་བྱང་བདེན་པ། ཆོས་དཀོན་མཆོག་གི་མཚན་ཉིད། དབྱེ་ན། སྒྲས་བརྗོད་རིགས་ཀྱི་སྒོ་ནས་ཀུན་རྫོབ་པའི་ཆོས་དཀོན་མཆོག་དང་། དོན་དམ་པའི་ཆོས་དཀོན་མཆོག་གཉིས་ལས། དང་པོ་ནི། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ལྟ་བུ། གཉིས་པ་ནི། འགོག་བདེན་དང་ལམ་བདེན་ལྟ་བུ། ཐེག་ཆེན་གྱི་ཆོས་དཀོན་མཆོག་ཆོས་ཅན། ཡོན་ཏན་བརྒྱད་དང་ལྡན་ཏེ། མུ་བཞིར་རྟོག་གེ་བའི་བློས་ཇི་ལྟ་བ་བཞིན་དུ་བསམ་དུ་མེད་པའི་ཡོན་ཏན། ལས་ཉོན་གཉིས་ཅི་རིགས་པ་མེད་པ། ཚུལ་མིན་ཡིད་བྱེད་ཀྱི་རྣམ་པར་རྟོག་པ་མེད་པ། ལམ་གྱི་ངོ་བོ་སྒྲིབ་པ་དང་མ་འདྲེས་པས་དག་པ། གསལ་བ་ཇི་ལྟ་བ་དང་ཇི་སྙེད་པ་རིག་པ། མི་མཐུན་ཕྱོགས་ཀྱི་གཉེན་པོ་བྱེད་པའི་ཡོན་ཏན། གང་ཞིག་ལ་ཆགས་པ་དང་བྲལ་བའི་འགོག་བདེན་གྱི་ཡོན་ཏན། གང་གིས་ཆགས་པ་དང་བྲལ་བར་བྱེད་པ་ལམ་བདེན་གྱི་ཡོན་ཏན་རྣམས་དང་ལྡན་པའི་ཕྱིར་ཏེ། དེ་ཉིད་ལས།བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །ཞེས་གསུངས་པའི་ཕྱིར། དེ་ཡང་བསྡུ་ན་གཉིས་སུ་འདུ་སྟེ། དང་པོ་གསུམ་འགོག་བདེན་གྱི་ཡོན་ཏན་དང་། ཕྱི་མ་གསུམ་ལམ་བདེན་གྱི་ཡོན་ཏན་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཉིད་ལས།ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This quote summarizes the detachment qualities of the Dharma jewel under the truths of cessation and path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~244068 in the commentary file, unit 106/206
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This verse from the Uttaratantra is cited to define the eight qualities and characteristics of the Dharma jewel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~423974 in the commentary file, unit 196/206
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This text is quoted to show how the qualities of the Dharma jewel are encompassed by the truths of cessation and path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~423912 in the commentary file, unit 196/206
+- **Verification:** UNVERIFIED
+
+## Quote (18% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This quote defines the eight qualities of the Dharma jewel according to the Uttaratantra.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~244119 in the commentary file, unit 106/206
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This verse from the Uttaratantra is quoted to define the eight qualities and characteristics of the Dharma jewel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This passage is cited to group the qualities of the Dharma jewel into the truths of cessation and path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This verse from the Ratnagotravibhāga is cited to explain the eight qualities and definition of the Dharma jewel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This quote explains how the qualities of freedom from attachment in the Dharma jewel are encompassed by the truths of cessation and the path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This verse from the Uttaratantra is cited to define the qualities inherent in the Dharma jewel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This quote is used to clarify how the qualities of the Dharma jewel are encompassed by the truths of cessation and path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This verse from the Uttaratantra is cited to establish the eightfold qualities and definition of the Dharma Jewel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This quote is used to show how the qualities of the Dharma Jewel are encompassed within the truths of cessation and the path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> བསམ་མེད་གཉིས་མེད་རྟོག་མེད་པ། །དག་གསལ་གཉེན་པོའ་ིཕྱོགས་ཉིད་ཀྱིས། །གང་ཞིག་གང་གིས་ཆགས་བྲལ་བ། །བདེན་གཉིས་མཚན་ཉིད་ཅན་དེ་ཆོས། །
+
+- **Why relevant:** This verse is cited to illustrate the eightfold qualities and definition of the Dharma Jewel in the context of the two truths of cessation and path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> ཆགས་བྲལ་གཉིས་ནི་འགོག་པ་དང་། །ལམ་གྱི་བདེན་པ་དག་གིས་བསྡུས། །
+
+- **Why relevant:** This quote explains how the qualities of the Dharma Jewel are condensed into the truths of cessation and path.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED

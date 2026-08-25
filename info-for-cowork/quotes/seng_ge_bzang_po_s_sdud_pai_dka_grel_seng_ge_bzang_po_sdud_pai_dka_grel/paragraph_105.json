@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "106_རྣམ་པ་ཐམས། དུམ་མཚན་དང་པོ། 101",
+  "root_paragraph": "རྣམ་པ་ཐམས་ཅད་སྐྱེ་བ་མེད་པར་ཐུགས་སུ་ཆུད་པ། ཞེས་སོགས་ཀྱི་སྐབས་སུ༑ འོ་ན། ཆོས་ཀྱི་འཁོར་ལོ་མ་ལུས་པ་རྣམ་པ་ཐམས་ཅད་བསྐོར་བར་མཛད་པ། ཞེས་བཤད་ན། ཆོས་ཀྱི་འཁོར་ལོ་དེ་ཇི་ལྟ་བུ་ཞེ་ན། འདི་ལ་མཐའ་ཅུང་ཟད་དཔྱད་པ་དང་། རང་ལུགས་གཞག་པ་གཉིས་ལས། དང་པོ་ལ། ཁ་ཅིག །སྟོན་པས་གསུངས་པའི་དམ་ཆོས། ཆོས་འཁོར་གྱི་མཚན་ཉིད། ཟེར་ན། འགྲེལ་པ་དོན་གསལ་ཆོས་ཅན། ཆོས་འཁོར་དུ་ཐལ༑ མཚན་ཉིད་འཐད་པའི་ཕྱིར། མ་གྲུབ་ན། སྟོན་པས་གསུངས་པའི་དམ་ཆོས་ཡིན་ན། སྟོན་པའི་གསུང་ཡིན་དགོས་པར་ཐལ། མ་གྲུབ་པ་དེའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་མཐོང་ལམ་ཆོས་ཅན། དེར་ཐལ། དེའི་ཕྱིར། ཆོས་འཁོར་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས། རྩ་བར་འདོད་ན། དེ་ཆོས་ཅན། ལུང་གི་ཆོས་འཁོར་དུ་ཐལ། ཆོས་འཁོར་གང་ཞིག །ལུང་ཡིན་པའི་ཕྱིར། འདོད་ན། བཀའ་ཡིན་པར་ཐལ་ལོ། །",
+  "root_paragraph_page": "101",
+  "paragraph_key": "c3d5b774e706cdbf",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:15.721144Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "རྣམ་པ་ཐམས་ཅད་སྐྱེ་བ་མེད་པར་ཐུགས་སུ་ཆུད་པ།",
+      "relevance": "This quote explains the meaning of realizing all phenomena as unproduced, which relates to the discussion on the turning of the wheel of dharma and its categorization.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~254408 in the commentary file, unit 131/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 55,
+      "chunk_id": 130,
+      "unit_hash": "0c5f6ed81317",
+      "passage_hash": "be21f3992966",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

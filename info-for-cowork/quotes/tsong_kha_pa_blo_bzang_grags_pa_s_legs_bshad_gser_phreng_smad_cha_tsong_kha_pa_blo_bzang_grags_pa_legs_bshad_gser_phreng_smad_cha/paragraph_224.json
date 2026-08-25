@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "225_རྣམ་རྫོགས་སྦྱོར། དུམ་མཚན་དང་པོ། 181",
+  "root_paragraph": "རྣམ་རྫོགས་སྦྱོར་བ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་གཅིག་ཡོད་དེ། རྣམ་རྫོགས་སྦྱོར་བའི་བསྒོམ་བྱའི་རྣམ་པ། སྦྱོར་བ། སྦྱོར་བའི་ཡོན་ཏན། སྦྱོར་བའི་སྐྱོན། སྦྱོར་བའི་མཚན་ཉིད། ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན། ཐེག་ཆེན་གྱི་ངེས་འབྱེད་ཆ་མཐུན། ཕྱིར་མི་ལྡོག་པའི་རྟགས། སྲིད་ཞི་མཉམ་ཉིད་ཀྱི་སྦྱོར་བ། ཞིང་དག་སྦྱོར་བ། ཐབས་མཁས་སྦྱོར་བ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "181",
+  "paragraph_key": "aa85914445a2ce41",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:57.831566Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "སྤྱོད་པ་ལ་ཟབ་པ་ནི། ཆོས་ཉིད་ཀྱིས་ཏེ་དེ་ལ་གནས་པ་ནི། ཆོས་ཐམས་ཅད་ལ་མཚན་མར་སྤྱོད་པ་མེད་པ་ཉིད་ཡིན་ལ་དེ་ཉིད་ཐ་སྙད་དུ་སྦྱིན་སོགས་ལ་སྤྱོད་པའོ་ཞེས་བྱ་བ་སྟེ།",
+      "relevance": "This passage discusses the profound practice aspect related to the characteristics of the perfection of wisdom path.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~322480 in the commentary file, under ‘ཚ’, unit 166/528",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 165,
+      "unit_hash": "cdc1fc0e4a0f",
+      "passage_hash": "a06dff9007e6",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "སྲིད་ཞི་མཉམ་ཉིད་ཀྱི་སྦྱོར་བ། ཞིང་དག་སྦྱོར་བ། ཐབས་མཁས་སྦྱོར་བ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote from the commentary discusses the topics of the equality of samsara and nirvana (srid zhi mnyam nyid), purifying Buddha fields (zhing dag), and skillful means (thabs mkhas), which directly correspond to the items listed in target paragraph 1 regarding the 11 features of the complete aspect yoga (rnam rdzogs sbyor ba).",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~347657 in the commentary file, under ‘ཚ’, unit 178/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 177,
+      "unit_hash": "bc8e8026299c",
+      "passage_hash": "169f3956bcfb",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

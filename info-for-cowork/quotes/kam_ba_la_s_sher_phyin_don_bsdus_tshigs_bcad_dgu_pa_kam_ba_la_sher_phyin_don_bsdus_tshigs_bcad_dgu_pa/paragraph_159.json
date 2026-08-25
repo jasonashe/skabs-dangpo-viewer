@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "160_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 135",
+  "root_paragraph": "ཁོ་ན་རེ། གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན། ཐེག་དམན་གྱི་ལམ་ཡིན་པར་ཐལ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་གང་ཟག་དང་ཐེག་དམན་གྱི་གང་ཟག་མི་འགལ་བར་ཐལ། དེ་གཉིས་ཀྱི་ལམ་མི་འགལ་བའི་ཕྱིར་ན་མ་ཁྱབ། དེས་མཚོན་ནས། དགེ་བསྙེན་གྱི་སྡོམ་པ་ཡིན་ན། དགེ་བསྙེན་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ་བ་སོགས་རིགས་འགྲེ་བྱ་ཚུལ་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "135",
+  "paragraph_key": "380e145b739394ad",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:31.213202Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "The commentary discusses the classification and characteristics of paths such as the hearer's path, which is addressed in the debate within the target passage.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~878900 in the commentary file, unit 449/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 51,
+      "chunk_id": 448,
+      "unit_hash": "34df95d3d3d1",
+      "passage_hash": "8701356a2945",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

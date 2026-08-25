@@ -1,0 +1,27 @@
+# Quote collection: མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]
+**Target paragraph:** 63_གསུམ་པ་འགྲེལ། དུམ་མཚན་དང་པོ། 75
+
+> གསུམ་པ་འགྲེལ་པའི་དོན་འཆད་ཚུལ་ལ། སྔ་འགྲེལ་གྱི་འཕྲོས་དོན་དང་། རྩ་བའི་ཚིག་དོན་བཤད་པ་དང་གཉིས་ལས། དང་པོ་ལ། དགོས་དོན་ལས་འཕྲོས་པའི་དོན་དང་། བསྡུས་དོན་ལས་འཕྲོས་པའི་དོན་གཉིས་ལས། དང་པོ་ལ་ཡང་གནས་སྐབས་ཀྱི་དགོས་པ་དང་། མཐར་ཐུག་གི་དགོས་པ་དང་། དེ་དག་གིས་གྲུབ་པའི་དོན་ནོ། །དང་པོ་ལ། ཐོས་པའི་དགོས་པ། དད་པའི་དགོས་པ། གུས་པའི་དགོས་པ་དང་གསུམ་ལས། དང་པོ་ནི། འོ་ན་མཚམས་སྦྱར་དུ། གཞན་དག་དང་བ་བསྐྱེད་པའི་ཆེད་དུ་ཞེས་བཤད་ན། གཞན་དག་ནི་གང་། དང་བ་སྐྱེ་ཚུལ་དེ་ཇི་ལྟ་བུ་ཞེ་ན། གཞན་དག་ཅེས་པ་གཉིས་ཚིག་ཡིན་ལ། དང་བ་སྐྱེ་ཚུལ་གཉིས་སུ་ཡོད་དེ། དབང་རྟུལ་དང་བ་སྐྱེ་ཚུལ་དང་། དབང་རྣོན་དང་བ་སྐྱེ་ཚུལ་གཉིས་སུ་ཡོད་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> གང་ཟག་དེ་དབང་པོ་རྟུལ་བས་བདག་ཉིད་ཀྱི་བློས་རྟོགས་པ་ནི་མེད་ཀྱི། ལུང་ལས་ཐོས་པ་བཞིན་དུ་དད་པས་འཕགས་པའི་ལམ་གྱི་རྗེས་སུ་འཇུག་པས་ན། དད་པའི་རྗེས་སུ་འབྲང་བ་ཞེས་བྱའོ། །
+
+- **Why relevant:** This passage is relevant because it explains the meaning and mode of generating faith for practitioners of dull faculties (དབང་རྟུལ་) who follow in the footsteps of faith, corresponding to the discussion in paragraph 7.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~857714 in the commentary file, unit 441/527
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ཆོས་ཀྱི་རྗེས་སུ་འབྲང་བ་ཞེས་བྱ་བ་ནི་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱ་བའི་ཕྱིར་ཞུགས་པར་གང་ཟག་དབང་པོ་རྣོན་པོ་ལ་བྱ་སྟེ། དེ་དག་དབང་པོ་རྣོ་བས་གཞན་གྱི་དྲིང་ལ་མི་འཇོག་ཅིང་ཆོས་ཀྱི་ཚུལ་དང་མཐུན་པར་རིག་པ་དང་། སྦྱོར་བས་ཆོས་ཀྱི་རྗེས་སུ་འབྲང་བ་ཞེས་བྱའོ། །
+
+- **Why relevant:** This passage defines practitioners of sharp faculties (དབང་པོ་རྣོན་པོ་) who follow the Dharma, providing context for the two types of followers discussed in relation to paragraph 7.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~857871 in the commentary file, unit 441/527
+- **Verification:** verified_exact
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> གཞན་དག་ཅེས་པ་གཉིས་ཚིག་ཡིན་ལ། དང་བ་སྐྱེ་ཚུལ་གཉིས་སུ་ཡོད་དེ། དབང་རྟུལ་དང་བ་སྐྱེ་ཚུལ་དང་། དབང་རྣོན་དང་བ་སྐྱེ་ཚུལ་གཉིས་སུ་ཡོད་པའི་ཕྱིར།
+
+- **Why relevant:** This quote explains the two ways that faith arises in different types of individuals, corresponding to the discussion in paragraph 7 about the two types of followers generating faith (དབང་རྟུལ་ and དབང་རྣོན་).
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~49283 in the commentary file, unit 26/527
+- **Verification:** UNVERIFIED

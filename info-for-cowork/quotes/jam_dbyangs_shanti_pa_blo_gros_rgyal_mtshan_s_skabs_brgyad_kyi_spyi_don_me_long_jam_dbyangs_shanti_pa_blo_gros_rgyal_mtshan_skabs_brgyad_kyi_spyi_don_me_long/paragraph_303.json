@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "304_དེ་རྣམས་ཀྱི། དུམ་མཚན་དང་པོ། 234",
+  "root_paragraph": "དེ་རྣམས་ཀྱི་ནང་ནས་དབྱེ་བ་ཞར་ལ་བརྗོད་ནས་གདམས་ངག་སྟེ། ཞེས་པའི་སྐབས་སུ། མཐའ་དཔྱད་པ་ལ། ཐེག་ཆེན་གྱི་གདམས་ངག་ཉན་པའི་རྟེན། རྒྱུ་གང་ལ་བརྟེན་ནས་ཉན་པ། ཡུལ་གང་ལ་ཉན་པ། གདམས་ངག་གི་ངོ་བོ། ས་མཚམས་དང་ལྔ་ལས།",
+  "root_paragraph_page": "234",
+  "paragraph_key": "faf315df47cafeac",
+  "commentary": "འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།]",
+  "generated_at": "2026-08-21T06:57:26.093365Z",
+  "quotes": [
+    {
+      "commentary": "འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།]",
+      "quote_tibetan": "དེ་རྣམས་ཀྱི་ནང་ནས་དབྱེ་བ་ཞར་ལ་བརྗོད་ནས་གདམས་ངག་སྟེ། ཞེས་པའི་སྐབས་སུ། མཐའ་དཔྱད་པ་ལ། ཐེག་ཆེན་གྱི་གདམས་ངག་ཉན་པའི་རྟེན། རྒྱུ་གང་ལ་བརྟེན་ནས་ཉན་པ། ཡུལ་གང་ལ་ཉན་པ། གདམས་ངག་གི་ངོ་བོ། ས་མཚམས་དང་ལྔ་ལས།",
+      "relevance": "This quote introduces the analytical breakdown (mtha' dpyad pa) regarding the instructions of the Great Vehicle, corresponding to the analysis of the topic mentioned in the target paragraph.",
+      "location": "འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།], char offset ~139378 in the commentary file, unit 71/279",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 70,
+      "unit_hash": "0ac8e1ef34a2",
+      "passage_hash": "06619abaf5aa",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 279,
+    "units_scanned": 279,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

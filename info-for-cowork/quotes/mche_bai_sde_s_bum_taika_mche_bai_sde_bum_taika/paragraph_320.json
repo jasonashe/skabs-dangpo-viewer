@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "321_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 246",
+  "root_paragraph": "གཉིས་པ་ནི། ཤེས་བྱ་ལ་བདེན་པ་གཉིས་སུ་གྲངས་ངེས་ཏེ། ཡབ་སྲས་མཇལ་བའི་མདོ་ལས།འདི་ལྟར། དེ་བཞིན་གཤེགས་པས་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་གཉིས་ཐུགས་སུ་ཆུད་དེ་ཤེས་པར་བྱ་བ་ཡང་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་དེ་གཉིས་སུ་ཟད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "246",
+  "paragraph_key": "558c5a6885d43459",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+  "generated_at": "2026-08-20T04:14:41.349344Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "དེ་བཞིན་གཤེགས་པས་ཀུན་རྫོབ་དང་དོན་དམ་པའི་ཚུལ་དུ་ཐུགས་སུ་ཆུད་དེ། དེ་བཞིན་གཤེགས་པར་གྱུར་པ་དང་།",
+      "relevance": "This passage discusses how the Tathagata thoroughly realizes both conventional and ultimate aspects, which relates to the two truths mentioned in the target paragraph.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~339351 in the commentary file, unit 175/415",
+      "verification": "verified_fuzzy",
+      "correctness_score": 91,
+      "chunk_id": 174,
+      "unit_hash": "824994c45eef",
+      "passage_hash": "b67f15758ba6",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 415,
+    "units_scanned": 415,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

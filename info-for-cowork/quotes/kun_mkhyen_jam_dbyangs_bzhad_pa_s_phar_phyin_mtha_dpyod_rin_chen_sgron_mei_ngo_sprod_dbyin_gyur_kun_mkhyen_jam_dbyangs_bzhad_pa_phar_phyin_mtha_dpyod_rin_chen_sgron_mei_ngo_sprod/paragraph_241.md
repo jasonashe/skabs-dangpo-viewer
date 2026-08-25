@@ -1,0 +1,34 @@
+# Quote collection: ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།]
+**Target paragraph:** 242_གཉིས་པ་སྦྱོར། དུམ་མཚན་དང་པོ། 188
+
+> གཉིས་པ་སྦྱོར་ཚུལ་ལ་རྩོད་པ་སྤོང་བ་ལ། ཁོ་ན་རེ། རྒྱན་དང་མདོ་སྦྱར་ནས་འཆད་མི་རིགས་ཏེ། མདོ་ཁ་ཅིག་སྒྲ་ཇི་བཞིན་ཡིན་པས་སྦྱར་རུང་། ཁ་ཅིག་སྒྲ་ཇི་བཞིན་མིན་ཡང་རྒྱུ་མཚན་སྣང་བས་སྦྱར་རུང་ཡང་། བྱང་ཆུབ་རྒྱས་བཤད་ཀྱིས་སེམས་བསྐྱེད་གཉིས་པ་བསྟན་པར་འདོད་པ་ལྟ་བུ་མདོ་དེས་དོན་དེ་སྟོན་པ་ལ་ངེས་འབྱེད་མེད་པ་དང་༑ དྲོད་ཀྱི་སྐབས་སུ་བུད་མེད་དུ་མི་སྐྱེ་བར་བརྗོད་པ་ལྟ་བུ་དང་། རྒྱན་དུ་དོན་ཡོད་པ་གླེགས་བམ་ཁ་ཅིག་ཏུ་མདོ་མི་སྣང་བའི་ཕྱིར། ཞེས་ཟེར་ན། མདོ་སྦྱར་བའི་རྒྱུ་མཚན་མེད་པ་ལྟར་སྣང་བ་རྣམས་ནི་དེ་དག་ཏུ་སྦྱར་བའི་རྒྱུ་མཚན་གཉིས་ཡོད་པས་སྦྱར་རུང་སྟེ༑ རིམ་པ་བཞིན་སྦྱར་རིགས་པ་རྣམས་སྦྱར་བ་ན་ལྷག་མ་རྣམས་དེ་དང་སྦྱོར་བའི་ཤུགས་ལ་གོ་བར་འགྱུར་བའི་ཕྱིར་དང་། དེ་བཞིན་གཤེགས་པས་རྗེ་བཙུན་ལ་དེ་ལྟར་སྦྱར་བའི་ལུང་མངའ་བའི་ཕྱིར། དེ་ཡང་ཡིན་ཏེ། རྗེ་བཙུན་རྒྱལ་ཚབ་ཏུ་དབང་བསྐུར་བས་དམ་པའི་ཆོས་མཛོད་གཞན་གྱིས་ལྟ་བའི་གནས་མ་ཡིན་པ་ལ་ཕའི་ལུང་གིས་དབང་བསྒྱུར་བ་ཡིན་པའི་ཕྱིར་དང་། དྲོད་དང་བུད་མེད་དུ་མི་སྐྱེ་བར་བསྟན་པ་ལྟ་བུའི་རྒྱན་གྱི་སྒྲས་མ་ཟིན་པ་རྣམས་ནི་ཟླས་བསྡུས་ཏེ་བསྟན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> ཁོ་ན་རེ། རྒྱུད་བླ་མ་ཤིང་རྟའི་སྲོལ་འབྱེད་ཀྱི་བསྟན་བཅོས་ཡིན་
+
+- **Why relevant:** This quote introduces an objection regarding whether a certain treatise acts as the opener of a chariot-way, which is parallel to the debate in the target passage about aligning treatises and sūtras.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~245458 in the commentary file, unit 107/206
+- **Verification:** verified_exact
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> མདོ་ཁ་ཅིག་སྒྲ་ཇི་བཞིན་ཡིན་པས་སྦྱར་རུང་། ཁ་ཅིག་སྒྲ་ཇི་བཞིན་མིན་ཡང་རྒྱུ་མཚན་སྣང་བས་སྦྱར་རུང་ཡང་།
+
+- **Why relevant:** This quote from the target text discusses the problem of whether to connect certain sūtras literally or not, which corresponds to the commentary excerpt's discussion of matching sūtras with the treatises.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~128909 in the commentary file, unit 47/206
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> མདོ་ཁ་ཅིག་སྒྲ་ཇི་བཞིན་ཡིན་པས་སྦྱར་རུང་། ཁ་ཅིག་སྒྲ་ཇི་བཞིན་མིན་ཡང་རྒྱུ་མཚན་སྣང་བས་སྦྱར་རུང་ཡང་།
+
+- **Why relevant:** This quote is relevant to discussing whether and how various sūtra passages can be paired or connected with the Ornament, addressing potential objections regarding literal and non-literal interpretations.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~159288 in the commentary file, unit 63/206
+- **Verification:** UNVERIFIED
+
+## Quote (9% correctness) ⚠️ UNVERIFIED
+> ཁོ་ན་རེ། རྒྱན་དང་མདོ་སྦྱར་ནས་འཆད་མི་རིགས་ཏེ། མདོ་ཁ་ཅིག་སྒྲ་ཇི་བཞིན་ཡིན་པས་སྦྱར་རུང་། ཁ་ཅིག་སྒྲ་ཇི་བཞིན་མིན་ཡང་རྒྱུ་མཚན་སྣང་བས་སྦྱར་རུང་ཡང་། བྱང་ཆུབ་རྒྱས་བཤད་ཀྱིས་སེམས་བསྐྱེད་གཉིས་པ་བསྟན་པར་འདོད་པ་ལྟ་བུ་མདོ་དེས་དོན་དེ་སྟོན་པ་ལ་ངེས་འབྱེད་མེད་པ་དང་༑
+
+- **Why relevant:** This quote is relevant because it discusses the objection regarding whether it is appropriate to connect the Sūtra texts with the Ornament (རྒྱན་དང་མདོ་སྦྱར་ནས་འཆད་མི་རིགས་ཏེ), mirroring the subject of the target paragraph.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེའི་ངོ་སྤྲོད།], char offset ~180492 in the commentary file, unit 74/206
+- **Verification:** UNVERIFIED

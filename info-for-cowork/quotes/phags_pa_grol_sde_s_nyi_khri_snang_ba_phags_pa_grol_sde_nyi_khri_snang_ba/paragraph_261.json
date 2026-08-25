@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "262_འོ་ན་གླང། དུམ་མཚན་དང་པོ། 207",
+  "root_paragraph": "འོ་ན། གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བར་འདོད་པས། ཞེས་པའི་དོན་གང་ཞེ་ན༑ དེའི་དོན་ཡོད་དེ། སྟེང་ན་འདུག་པ་ལ་བཀྱེད་དེ་མི་ལྟ། འོག་ན་འདུག་པ་ལ་བཏུད་དེ་མི་ལྟ། གཡས་གཡོན་ན་འདུག་པ་ལ་མིག་བཟུར་ཏེ་མི་ལྟ། རྒྱབ་ཏུ་འདུག་པ་ལ་མཇིང་པ་བསྒྱུར་ཏེ་མི་ལྟ། ཐག་རིང་པོ་ན་འདུག་པ་ལ་བསྒྲིམས་ཏེ་མི་ལྟ། ཐག་ཉེ་བ་ན་འདུག་པ་ལ་བསྒྲིམས་པ་མེད་པར་ཡང་མི་ལྟ་བར་ཇི་ལྟར་འདུག་པའི་སྤྱོད་ལམ་དང་། ཇི་ལྟར་ལྟ་བའི་མིག་གིས་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་དུ་སེམས་ཅན་དང་ཆོས་ཐམས་ཅད་ལ་ལྟ་བ་ནི་གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བའི་དོན་ཡིན་པའི་ཕྱིར་ཏེ།དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར། གཉིས་པ་དོན་བསྡུ་བ་ལ། དེ་ལྟར་ན་དེ་ཡང་ས་གསེར་ཟླ་བ་མེ་ཞེས་བྱ་བ་ལ་སོགས་པས་སེམས་བསྐྱེད་པ་ཉི་ཤུ་རྩ་གཉིས་བཤད་པ་ཡིན་ནོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "207",
+  "paragraph_key": "56521ac10691aa95",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:24.760182Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར།",
+      "relevance": "The text references the three mother scriptures (Yum sum) as the source for explaining the elephant-look.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~400822 in the commentary file, unit 205/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 204,
+      "unit_hash": "fa7665f33ae3",
+      "passage_hash": "9a5bc90e007c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར།",
+      "relevance": "This quote provides scriptural source support from the three mother scriptures regarding the elephant's gaze.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~194988 in the commentary file, unit 100/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 99,
+      "unit_hash": "b0c5008f2322",
+      "passage_hash": "bd9af8695f49",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

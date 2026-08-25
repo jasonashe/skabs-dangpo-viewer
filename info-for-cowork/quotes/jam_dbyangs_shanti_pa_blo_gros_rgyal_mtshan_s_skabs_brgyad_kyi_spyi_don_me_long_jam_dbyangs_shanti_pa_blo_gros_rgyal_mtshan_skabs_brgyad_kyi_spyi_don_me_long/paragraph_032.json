@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "33_གཞན་ཡང་བསྟན། དུམ་མཚན་དང་པོ། 60",
+  "root_paragraph": "གཞན་ཡང་། བསྟན་བཅོས་ཆེན་པོའ་ིརྣམ་བཤད་མཛད། །ཅེས་པའི་བསྟན་བཅོས་དེ་ཉི་ཁྲི་ཁོ་ན་ལ་བྱེད་རིགས་པར་ཐལ། དམ་བཅའ་འཐད་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ༑ དེ་ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལ་བྱེད་རིགས་པའི་ཕྱིར་ཏེ། འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །ཞེས་གསུངས་པ་ལྟར་འཐད་པའི་ཕྱིར།",
+  "root_paragraph_page": "60",
+  "paragraph_key": "b06e8c171f8ebbae",
+  "commentary": "འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།]",
+  "generated_at": "2026-08-21T06:57:25.905089Z",
+  "quotes": [
+    {
+      "commentary": "འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།]",
+      "quote_tibetan": "དེ་ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལ་བྱེད་རིགས་པའི་ཕྱིར་ཏེ། འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །ཞེས་གསུངས་པ་ལྟར་འཐད་པའི་ཕྱིར།",
+      "relevance": "The target passage discusses whether the great treatise refers specifically to the Twenty Thousand (Sahasrikā) or to the Yum (Prajñāpāramitā) in general, which connects to the general hermeneutics of these texts discussed in the commentary.",
+      "location": "འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།], char offset ~33275 in the commentary file, unit 17/279",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 16,
+      "unit_hash": "2cdcfc124aa7",
+      "passage_hash": "64cfe101a8d2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 279,
+    "units_scanned": 279,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

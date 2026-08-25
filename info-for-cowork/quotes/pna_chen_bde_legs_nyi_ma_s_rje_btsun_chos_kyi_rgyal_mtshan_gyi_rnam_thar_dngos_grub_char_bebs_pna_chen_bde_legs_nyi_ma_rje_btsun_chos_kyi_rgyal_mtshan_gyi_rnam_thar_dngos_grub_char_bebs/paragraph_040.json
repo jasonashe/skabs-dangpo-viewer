@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "41_གཞན་ཡང་དེའི། དུམ་མཚན་དང་པོ། 63",
+  "root_paragraph": "གཞན་ཡང་། དེའི་རྒྱུད་ལ་རང་དོན་དོན་གཉེར་གྱི་བློ་ཡོད་པར་ཐལ། དེ་ས་བཅུ་པ་པ་གང་ཞིག །ས་བཅུ་པ་བའི་རྒྱུད་ལ་དེ་ཡོད་པའི་ཕྱིར། དང་པོ་དོན་གྱིས་སོང་། གཉིས་པ་གྲུབ་སྟེ། དེའི་རྒྱུད་ལ་རང་དོན་ཆོས་སྐུ་དོན་གཉེར་གྱི་བློ་ཡོད་པའི་ཕྱིར། ཁྱབ་སྟེ༑ རང་དོན་ཆོས་སྐུ་དེ་རང་དོན་གྱི་སྐུ་ཡིན་པའི་ཕྱིར། མ་གྲུབ་ན། སངས་རྒྱས་ཀྱི་སྐུ་ལ་རང་དོན་གྱི་སྐུ་དང་། གཞན་དོན་གྱི་སྐུ་གཉིས་སུ་ཕྱེ་བ་ལ་དགོས་པ་མེད་པར་ཐལ། མ་གྲུབ་པ་དེའི་ཕྱིར། ཞེས་པའི་དོན་ནོ། །",
+  "root_paragraph_page": "63",
+  "paragraph_key": "a917ed5c351f73a1",
+  "commentary": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]",
+  "generated_at": "2026-08-20T04:14:21.094847Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]",
+      "quote_tibetan": "དེ་ས་བཅུ་པ་པ་གང་ཞིག །ས་བཅུ་པ་བའི་རྒྱུད་ལ་དེ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote discusses whether a tenth-stage bodhisattva possesses certain mental states regarding their own welfare, which is the exact topic of Paragraph 1.",
+      "location": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།], char offset ~176519 in the commentary file, unit 91/174",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 90,
+      "unit_hash": "273109c3fb00",
+      "passage_hash": "29ee645ceb7e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 174,
+    "units_scanned": 174,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

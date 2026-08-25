@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "293_ཡིད་འོང་གི། དུམ་མཚན་དང་པོ། 229",
+  "root_paragraph": "ཡིད་འོང་གི་བྱམས་པ་ནི། སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་ནས་དྲིན་ཅན་འདི་ཐམས་ཅད་བདེ་བ་དང་ཕྲད་ན་འཕྲད་པར་གྱུར་ཅིག །འཕྲད་པར་བྱའོ་སྙམ་དུ་བསྒོམ་པར་བྱའོ། །དེ་ལྟ་བུའི་བྱམས་པ་དེ་ཕན་ཡོན་དང་ལྡན་ཏེ། ཏིང་ངེ་འཛིན་རྒྱལ་པོ་ལས༑བྱེ་བ་ཁྲག་ཁྲིག་དཀྲིགས་པའི་ཞིང་དག་ན། །མཆོད་པ་རྣམ་མང་དཔག་མེད་ཇི་སྙེད་པར། །སྐྱེས་མཆོག་རྣམས་ལ་དེ་ཡིས་རྟག་མཆོད་པས། །བྱམས་པའི་སེམས་ཀྱི་གྲངས་དང་ཆར་མི་ཕོད། །ཅེས་གསུངས་པའི་ཕྱིར། སྙིང་རྗེ་ཆེན་པོ་ནི་དེ་ལྟ་བུའི་སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་ནས་དྲིན་ཅན་འདི་རྣམས་སྡུག་བསྔལ་གྱིས་མནར་བ་སྙིང་རྗེ་སྙམ་དུ་ཡིད་འཁུལ་འཁུལ་གྱི་བར་དུ་བསྒོམ་པར་བྱའོ། །",
+  "root_paragraph_page": "229",
+  "paragraph_key": "3703bfc61641d81b",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+  "generated_at": "2026-08-20T04:14:41.110958Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "དེ་ནས་འདོད་པ་ན་སྤྱོད་པ་དང་། གཟུགས་ན་སྤྱོད་པ་དང་། གཟུགས་ཡོད་པ་ན་སྤྱོད་པའི་ལྷའི་བུ་རྣམས། ལྷ་རྫས་ཀྱི་ཙན་དན་གྱི་ཕྱེ་མ་དང་། ལྷ་རྫས་ཀྱི་མེ་ཏོག་ཨུཏྤ་ལ་དང་། པད་མོ་དང་། ཀུ་མུ་ད་དང་། པུཎྜ་རཱི་ཀ་མང་པོ་ཁྱེར་ཏེ། བཅོམ་ལྡན་འདས་ག་ན་བ་དེ་ལོགས་སུ་མངོན་པར་གཏོར་རོ་",
+      "relevance": "This passage describes the gods making offerings to the Buddha, which relates to the commentary's discussion on offerings made to supreme beings.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~447274 in the commentary file, unit 231/415",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 230,
+      "unit_hash": "e4f0eaf9f4bb",
+      "passage_hash": "df9fc9543b25",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 415,
+    "units_scanned": 415,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

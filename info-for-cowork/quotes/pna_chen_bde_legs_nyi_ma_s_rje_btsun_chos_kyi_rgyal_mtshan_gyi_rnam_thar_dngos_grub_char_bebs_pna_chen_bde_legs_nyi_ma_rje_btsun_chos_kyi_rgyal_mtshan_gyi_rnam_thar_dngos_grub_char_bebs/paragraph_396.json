@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "397_རོང་ཊཱིཀ་པ། དུམ་མཚན་དང་པོ། 286",
+  "root_paragraph": "རོང་ཊཱིཀ་པ་ན་རེ། ལུང་གི་ཆོས་དཀོན་མཆོག་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར། སློབ་པའི་ལམ་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར། སློབ་པའི་འགོག་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། མེད་དགག་ཡིན་པའི་ཕྱིར། སློབ་པ་འཕགས་པ་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཤེས་སྒྲིབ་ཀྱི་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར། ཞེས་ཟེར་ན།",
+  "root_paragraph_page": "286",
+  "paragraph_key": "b4db411194cd40f6",
+  "commentary": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]",
+  "generated_at": "2026-08-20T04:14:24.808097Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]",
+      "quote_tibetan": "མཐོང་སྤང་ཤེས་སྒྲིབ་གཟུང་རྟོག འཛིན་རྟོག་སོགས་བཞིའི་དངོས་གཉེན་དུ་གྱུར་པའི་དེ་བཞི་ཡོད།",
+      "relevance": "The commentary mentions the four aspects that act as direct antidotes to obstacles such as cognitive obscurations (ཤེས་སྒྲིབ་), which is relevant to the discussion of arhats and noble ones facing cognitive obscurations in paragraph 5.",
+      "location": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།], char offset ~196039 in the commentary file, unit 101/174",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 100,
+      "unit_hash": "99c8c4305ea6",
+      "passage_hash": "cc5e3e272404",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 174,
+    "units_scanned": 174,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "259_བཞི་པ་མདོ། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "བཞི་པ་མདོ་གཞན་མ་བཀོད་པའི་རྒྱུ་མཚན་ནི། སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་གཉིས་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་དུ་སྟོན་པའི་ཡུམ་གྱི་མདོ་ལས་གཞན་བློ་གྲོས་མི་བཟད་པའི་མདོ་དང་། སྡོང་པོ་བཀོད་པའི་མདོ་སོགས་ཐེག་ཆེན་སེམས་བསྐྱེད་སྟོན་པའི་མདོ་རྣམས་ཁུངས་སུ་མི་འདྲེན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཚིག་མང་དུ་དོགས་ནས་དེ་ལྟར་མ་དྲངས་པ་ཡིན་པའི་ཕྱིར༑ ཞེས་འཆད་པ་ལ།གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "6887db17fb787803",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.178497Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑",
+      "relevance": "This quote explains why other scriptures were not cited as sources to avoid excessive length, directly supporting the point made in Paragraph 9.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~428666 in the commentary file, unit 220/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 219,
+      "unit_hash": "5ece20d7a436",
+      "passage_hash": "0858a56a53ef",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ །",
+      "relevance": "The excerpt provides the exact reason why other sutras like the Vimalakirti or Gandavyuha were not cited as sources—fearing an excess of words—which is the exact topic discussed in paragraph 9.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~201150 in the commentary file, unit 104/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 103,
+      "unit_hash": "3161c9323e8b",
+      "passage_hash": "d8fe6e0d44a6",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

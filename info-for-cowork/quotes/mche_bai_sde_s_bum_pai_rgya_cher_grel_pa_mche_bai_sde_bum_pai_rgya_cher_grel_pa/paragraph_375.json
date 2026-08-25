@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "376_འོ་ན་སངས། དུམ་མཚན་དང་པོ། 273",
+  "root_paragraph": "འོ་ན། སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་གསུམ། །ཞེས་པས་སྒྲུབ་པའི་རྟེན་ལ་འདོམས་པའི་གདམས་ངག་འཆད་ཚུལ་དེ་གང་ཞེ་ན། འདི་ལ་མདོ་ལས་གསུངས་ཚུལ་དང་། བསྟན་བཅོས་ཀྱིས་འགྲེལ་ཚུལ་གཉིས་ལས། དང་པོ་ནི།ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །ཞེས་སོགས་གསུངས། གཉིས་པ་ནི། མདོའི་དོན་བཤད་པ་ལ། སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་གསུམ༑ ༑ཞེས་གསུངས། དེ་ཉིད་ཚིག་དོན་གྱི་སྒོ་ནས་འཆད་པ་ལ།སངས་རྒྱས་ལ་སངས་རྒྱས་དང་། ཞེས་སོགས་གསུངས།",
+  "root_paragraph_page": "273",
+  "paragraph_key": "3a10de67e283daf1",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:47.423255Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །",
+      "relevance": "This quote is relevant because it discusses how the sutra presents the practice of the perfection of wisdom regarding form, which matches the citation of the sutra's explanatory style in target paragraph 8.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~348265 in the commentary file, unit 178/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 177,
+      "unit_hash": "4e292dfb6846",
+      "passage_hash": "62e195763d0e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

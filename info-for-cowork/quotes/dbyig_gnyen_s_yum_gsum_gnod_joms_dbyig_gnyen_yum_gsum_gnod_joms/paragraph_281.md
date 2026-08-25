@@ -1,0 +1,20 @@
+# Quote collection: དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]
+**Target paragraph:** 282_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 221
+
+> ཁོ་ན་རེ། སྟོང་ཉིད་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་དངོས་སུ་མ་ཟིན་པའི་སེམས་བསྐྱེད་རྒྱུད་ལྡན་གྱི་ས་བརྒྱད་པ་བ་ཡོད་པར་ཐལ། སྤྱོད་པ་ཉམས་ལེན་གྱི་བྱ་བས་དངོས་སུ་མ་ཟིན་པའི་སེམས་བསྐྱེད་རྒྱུད་ལྡན་གྱི་དེ་ཡོད་པའི་ཕྱིར། འདོད་ན། བདེན་འཛིན་མངོན་གྱུར་པ་རྒྱུད་ལྡན་གྱི་དེ་ཡོད་པར་ཐལ་ལོ། །ཟེར་ན་མ་ཁྱབ། ཁོ་ན་རེ། སེམས་ཅན་གཅིག་གི་རྒྱུད་ལ་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་རྫས་ཐ་དད་པ་གཉིས་ཅིག་ཅར་དུ་ཡོད་པར་ཐལ༑ ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་པའི་རྒྱུད་ལ་ཐེག་ཆེན་སེམས་བསྐྱེད་ཡོད་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། མདོ་ལས།སེམས་ཅན་རྣམས་ནི་རྣམ་པར་ཤེས་པའི་རྒྱུད་རེ་རེ་བའོ། །ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་རིགས་མཐུན་རྫས་ཐ་དད་པ་དུ་མ་ཅིག་ཅར་དུ་མངོན་གྱུར་དུ་རྒྱུད་ལྡན་གྱི་སེམས་ཅན་མེད་པ་ལུང་དེའི་དོན་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (53% correctness) ⚠️ UNVERIFIED
+> སེམས་ཅན་རྣམས་ནི་རྣམ་པར་ཤེས་པའི་རྒྱུད་རེ་རེ་བའོ། །
+
+- **Why relevant:** This quote from the commentary discusses the scriptural basis regarding whether sentient beings have single or multiple streams of consciousness.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~477526 in the commentary file, unit 244/459
+- **Verification:** UNVERIFIED
+
+## Quote (43% correctness) ⚠️ UNVERIFIED
+> སེམས་ཅན་རྣམས་ནི་རྣམ་པར་ཤེས་པའི་རྒྱུད་རེ་རེ་བའོ། །
+
+- **Why relevant:** The commentary discusses how the mental continuum of sentient beings is singular, which is relevant to the citation and discussion of the scripture regarding individual streams of consciousness.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~834656 in the commentary file, unit 427/459
+- **Verification:** UNVERIFIED

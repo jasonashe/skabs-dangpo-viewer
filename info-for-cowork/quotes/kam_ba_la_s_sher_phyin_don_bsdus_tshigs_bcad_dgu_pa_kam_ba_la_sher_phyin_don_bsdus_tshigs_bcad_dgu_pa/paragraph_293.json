@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "294_ལྷག་བསམ་རྣམ། དུམ་མཚན་དང་པོ། 229",
+  "root_paragraph": "ལྷག་བསམ་རྣམ་དག་ནི། དེའི་རྗེས་དེ་ཐམས་ཅད་ཀྱི་སྡུག་བསྔལ་འདི་བདག་གཅིག་པུས་བསལ་བར་བྱའོ་སྙམ་དུ་ཡིད་འཁུལ་གྱི་བར་དུ་བསྒོམ་པའོ། །དེ་དྲུག་པོ་དེ་རྒྱུའི་མན་ངག་དྲུག་གོ །",
+  "root_paragraph_page": "229",
+  "paragraph_key": "1f464687b4fd87d5",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:34.530993Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དཀའ་འམ་མི་དཀའ་སྙམ་པ་ཡི། ། རྣམ་པར་རྟོག་པ་རྣམ་སྤངས་ནས། ། འགྲོ་བ་འདི་ནི་ཉམ་ཐག་ཅེས། ། ཁྱོད་བདག་ཉིད་ཀྱིས་ཞལ་གྱིས་བཞེས། །",
+      "relevance": "This quote supports the attitude of taking sole responsibility to save suffering sentient beings, which defines the 'altruistic intention' (lhag bsam) discussed in this target paragraph.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~666656 in the commentary file, unit 341/520",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 340,
+      "unit_hash": "9a0062d1f276",
+      "passage_hash": "8e19ebabb5bb",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

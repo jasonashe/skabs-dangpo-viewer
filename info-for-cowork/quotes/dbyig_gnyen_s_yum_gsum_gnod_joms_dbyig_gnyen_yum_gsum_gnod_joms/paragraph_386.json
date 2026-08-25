@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "387_ཁ་ཅིག་ཀུན། དུམ་མཚན་དང་པོ། 280",
+  "root_paragraph": "ཁ་ཅིག །ཀུན་རྫོབ་པའི་དགེ་འདུན་དཀོན་མཆོག་དང་། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་འགལ་ཟེར་ན་མི་འཐད་དེ། བྱང་འཕགས་ཡིན་ན། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དེ་ཡིན་ན་དོན་དམ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དོན་དམ་སེམས་བསྐྱེད་ཐོབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་དེ་ལྟར་དགོས་པའི་ཕྱིར་ཏེ། འཇུག་པ་ལས།དེ་ནས་བཟུང་སྟེ་དེ་ནི་ཐོབ་པར་གྱུར་པ་ཡི། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "280",
+  "paragraph_key": "39744c643b2438d0",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:20.443670Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "རབ་ཏུ་དགའ་བ་ལ་སོགས་པ་སེམས་བསྐྱེད་པ་བཅུ་ལ་དོན་དམ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའོ། །",
+      "relevance": "This quote defines the ultimate (don dam pa) bodhisattva in relation to the ten mental generations (sem sܟye pa bcu), which is directly relevant to the discussion of the ultimate bodhisattva and ultimate monastic community (dge 'dun) in the target passage.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~117350 in the commentary file, unit 60/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 59,
+      "unit_hash": "b941090bac51",
+      "passage_hash": "d2c117006abb",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "དེའི་ཕྱིར་འདི་ལྟ་སྟེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བ་འདི་ནི་མིང་ཙམ་མོ་ཞེས་བྱ་བ་གསུངས་སོ། །",
+      "relevance": "This quote discusses the designation and status of a bodhisattva as a mere name, which is relevant to the discussion of the definition and attainment of a bodhisattva in the target passage.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~500874 in the commentary file, unit 256/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 255,
+      "unit_hash": "db7c24e3e766",
+      "passage_hash": "06ee889079e9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

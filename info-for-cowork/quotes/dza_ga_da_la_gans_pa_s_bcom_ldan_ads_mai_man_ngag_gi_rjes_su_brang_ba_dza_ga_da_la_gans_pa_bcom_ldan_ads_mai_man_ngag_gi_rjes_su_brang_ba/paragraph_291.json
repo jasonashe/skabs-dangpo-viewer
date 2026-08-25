@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "292_དྲིན་གཟོ་བ། དུམ་མཚན་དང་པོ། 228",
+  "root_paragraph": "དྲིན་གཟོ་བ་ནི། སློབ་སྤྲིངས་ལས།ཉེ་དུ་འཁོར་བའི་རྒྱ་མཚོའི་ཁོངས་སུ་ཆུད་གྱུར་པ། །ཀློང་གི་ནང་དུ་ལྷུང་བ་ལྟ་བུར་སྣང་བཞིན་དུ། །སྐྱེ་འཆི་འཕོས་པས་ངོ་མ་ཤེས་པ་དེ་བོར་ནས། །གལ་ཏེ་གཅིག་ཐར་བྱེད་ན་དེ་ལས་ཁྲེལ་བོར་མེད། །ཅེས་གསུངས་པ་ལྟར། བདག་གིས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་བདེ་བ་སྒྲུབ་ཅིང་སྡུག་བསྔལ་སེལ་བའི་ཐབས་ལ་འབད་དགོས་ཏེ། སེམས་ཅན་འདི་དག་ཐམས་ཅད་ནི་བདག་གི་བདེ་བ་སྒྲུབ་ཅིང་སྡུག་བསྔལ་བསལ་བའི་དྲིན་ཅན་ཤ་སྟག་ཡིན་སྙམ་དུ་བསྒོམ་པར་བྱའོ། །",
+  "root_paragraph_page": "228",
+  "paragraph_key": "80213b699507e4d7",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:02.622488Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "བདག་ཅག་གིས་ནི་བཀའ་དྲིན་གཟོ་བར་བགྱི་ཞེས་བྱ་བ་ལ་སོགས་པ་སྟེ།",
+      "relevance": "This quote from the commentary discusses the concept of repaying kindness (བཀའ་དྲིན་གཟོ་བ།), which matches the topic of paragraph 4.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~185176 in the commentary file, unit 96/524",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 95,
+      "unit_hash": "416186d16129",
+      "passage_hash": "d54b4c431584",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "བྱས་པ་གཟོ་བ་ནི་ཐོས་པ་ཤེས་པས་སོ། ། བྱས་པ་རིག་པ་ནི་ཐོས་པའི་འབྲས་བུ་རིག་པའི་ཕྱིར་རོ། །",
+      "relevance": "This quote explains the meaning of recognizing kindness and repaying it, which is the direct topic of Paragraph 4 on repaying kindness (དྲིན་གཟོ་བ).",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~942589 in the commentary file, unit 484/524",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 483,
+      "unit_hash": "13228dbc88c5",
+      "passage_hash": "cf9709106bce",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

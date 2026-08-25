@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "344_གཞན་ཡང་ཆོས། དུམ་མཚན་དང་པོ། 258",
+  "root_paragraph": "གཞན་ཡང་། ཆོས་ཐམས་ཅད་ཡོད་པ་ཡང་ཡིན། མེད་པ་ཡང་ཡིན། གཉིས་ཀ་ཡང་ཡིན༑ གཉིས་ཀ་མ་ཡིན་པ་ཡང་ཡིན་པར་ཐལ། ཆོས་ཐམས་ཅད་ཡོད་པ་ཡང་མ་ཡིན། མེད་པ་ཡང་མ་ཡིན། གཉིས་ཀ་ཡང་མ་ཡིན། གཉིས་ཀ་མ་ཡིན་པ་ཡང་མ་ཡིན་པའི་ཕྱིར། རྟགས་ཁས༑ གཞན་ཡང་། ལུང་མ་བསྟན་གྱི་ལྟ་བ་བཅུ་བཞི་པོ་དེ་ཡང་དག་པའི་ལྟ་བ་ཡིན་པར་ཐལ། ཆོས་ཐམས་ཅད་ཡོད་པ་ཡང་མ་ཡིན། མེད་པ་ཡང་མ་ཡིན། གཉིས་ཀ་ཡང་མ་ཡིན། གཉིས་ཀ་མ་ཡིན་པ་ཡང་མ་ཡིན་པར་ལྟ་བའི་ལྟ་བ་དེ་ཡང་དག་པའི་ལྟ་བ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "258",
+  "paragraph_key": "740e572688389219",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:35.788151Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "ཆོས་ཐམས་ཅད་ཡོད་པ་ཡང་མ་ཡིན། མེད་པ་ཡང་མ་ཡིན། གཉིས་ཀ་ཡང་མ་ཡིན། གཉིས་ཀ་མ་ཡིན་པ་ཡང་མ་ཡིན་པར་ལྟ་བའི་ལྟ་བ་དེ་ཡང་དག་པའི་ལྟ་བ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote is relevant as it directly addresses the tetralemma concerning the existence or non-existence of all phenomena discussed in the target paragraph.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~622110 in the commentary file, unit 318/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 317,
+      "unit_hash": "a79fe0cb217e",
+      "passage_hash": "f7b0635fdd47",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

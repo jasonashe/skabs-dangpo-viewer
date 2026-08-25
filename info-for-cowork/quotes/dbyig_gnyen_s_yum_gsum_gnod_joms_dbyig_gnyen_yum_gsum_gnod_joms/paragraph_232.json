@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "233_ལྔ་པ་ལ། དུམ་མཚན་དང་པོ། 184",
+  "root_paragraph": "ལྔ་པ་ལ། སྐབས་རྣམས་སུ་སྒོམ་ལམ་ཡང་ཡང་བསྟན་པས་ཟློས་སྐྱོན་ཡོད་དོ་ཞེ་ན། ལམ་ཤེས་སུ་བཤད་པའི་སྒོམ་ལམ་ནི། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་༑ ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན། སྐབས་བཞི་པར། སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །ཞེས་པ་ནི་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན། སྐབས་ལྔ་པར། སྒོམ་ལམ་བཤད་པ་ནི་སྒོམ་སྤང་རྟོག་པའི་གཉེན་པོའི་ཆ་ནས་བསྟན། གདམས་ངག་གི་སྐབས་སུ། སྒོམ་ཞེས་བྱ་ལ། ཞེས་གསུངས་པ་ནི། གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་བསྟན། གཉེན་པོའ་ིཚོགས་སྒྲུབ་ཏུ་སྒོམ་པའི་ལམ་ཞེས་གསུངས་པ་ནི། གཉེན་པོའ་ིཚོགས་ཀྱི་དབྱེ་བ་ཤེས་པའི་ཕྱིར་དུ་བསྟན་པ་ཡིན།",
+  "root_paragraph_page": "184",
+  "paragraph_key": "312ef47f14726f90",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:18.453484Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "སྐབས་བཞི་པར། སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །ཞེས་པ་ནི་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན།",
+      "relevance": "This quote explains the meaning of the fourth section regarding the path of meditation in terms of the signs of non-retrogression, which is discussed in paragraph 1.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~185695 in the commentary file, unit 95/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 94,
+      "unit_hash": "a02cfd908878",
+      "passage_hash": "ea644d20aa3d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན།",
+      "relevance": "This paragraph discusses how the path of meditation is taught from the perspective of not abiding in the two extremes, relating to the first topic.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~297899 in the commentary file, unit 153/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 152,
+      "unit_hash": "964b751826f6",
+      "passage_hash": "60ffd7f0413c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

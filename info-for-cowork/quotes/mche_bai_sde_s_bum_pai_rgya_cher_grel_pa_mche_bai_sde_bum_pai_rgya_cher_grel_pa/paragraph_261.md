@@ -1,0 +1,27 @@
+# Quote collection: མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]
+**Target paragraph:** 262_འོ་ན་གླང། དུམ་མཚན་དང་པོ། 207
+
+> འོ་ན། གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བར་འདོད་པས། ཞེས་པའི་དོན་གང་ཞེ་ན༑ དེའི་དོན་ཡོད་དེ། སྟེང་ན་འདུག་པ་ལ་བཀྱེད་དེ་མི་ལྟ། འོག་ན་འདུག་པ་ལ་བཏུད་དེ་མི་ལྟ། གཡས་གཡོན་ན་འདུག་པ་ལ་མིག་བཟུར་ཏེ་མི་ལྟ། རྒྱབ་ཏུ་འདུག་པ་ལ་མཇིང་པ་བསྒྱུར་ཏེ་མི་ལྟ། ཐག་རིང་པོ་ན་འདུག་པ་ལ་བསྒྲིམས་ཏེ་མི་ལྟ། ཐག་ཉེ་བ་ན་འདུག་པ་ལ་བསྒྲིམས་པ་མེད་པར་ཡང་མི་ལྟ་བར་ཇི་ལྟར་འདུག་པའི་སྤྱོད་ལམ་དང་། ཇི་ལྟར་ལྟ་བའི་མིག་གིས་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་དུ་སེམས་ཅན་དང་ཆོས་ཐམས་ཅད་ལ་ལྟ་བ་ནི་གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བའི་དོན་ཡིན་པའི་ཕྱིར་ཏེ།དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར། གཉིས་པ་དོན་བསྡུ་བ་ལ། དེ་ལྟར་ན་དེ་ཡང་ས་གསེར་ཟླ་བ་མེ་ཞེས་བྱ་བ་ལ་སོགས་པས་སེམས་བསྐྱེད་པ་ཉི་ཤུ་རྩ་གཉིས་བཤད་པ་ཡིན་ནོ། །ཞེས་གསུངས།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> ཇི་ལྟར་འདུག་པའི་སྤྱོད་ལམ་དང་ཇི་ལྟར་ལྟ་བའི་མིག་གིས་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་དུ་སེམས་ཅན་ཐམས་ཅད་དང་། ཆོས་ཐམས་ཅད་ལ་ལྟ་བ་ནི་གླང་པོ་ཆེའི་ལྟ་སྟངས་ཞེས་བྱ་སྟེ་ལྟ་སྟངས་དེ་ལྟ་བུས་བལྟས་ནས།
+
+- **Why relevant:** This excerpt details the specific practice of the elephant's gaze, matching the discussion in paragraph 6.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~156178 in the commentary file, unit 80/527
+- **Verification:** verified_exact
+
+## Quote (45% correctness) ⚠️ UNVERIFIED
+> དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quote supports the explanation of the elephant-like gaze (གླང་པོ་ཆེའི་ལྟ་སྟངས་) as found in the commentary and discussed in the target paragraph.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~225 in the commentary file, unit 1/527
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quote cites the textual source (Yum Sum Gnod Joms) for the specific explanation of the elephant-like gaze.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~602145 in the commentary file, unit 309/527
+- **Verification:** UNVERIFIED

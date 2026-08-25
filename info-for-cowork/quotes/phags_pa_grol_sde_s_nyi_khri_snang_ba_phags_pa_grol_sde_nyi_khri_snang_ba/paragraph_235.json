@@ -1,0 +1,91 @@
+{
+  "root_paragraph_heading": "236_སྐབས་གཉིས་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་གཉིས་པར་ངེས་འབྱེད་བཞི་ཚན་གཉིས་བསྟན་པ་ནི། ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་གཟུགས་སོགས་ལ་དམིགས་ནས་རྣམ་པ་སྟོང་ཉིད་དབྱེར་མེད་པ་ལ་སོགས་པའི་རྣམ་པར་བསྟན། རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་ཆོས་ཐམས་ཅད་བཏགས་པ་ཙམ་ལ་དམིགས་ནས་རྣམ་པ་བཏགས་པ་དང་མི་འགལ་བར་ཆོས་ཉིད་སྟོན་པའི་རྣམ་པ་ཅན་ལ་སོགས་པར་བསྟན་པ་ཡིན་པས། དེ་གསུམ་ལ་སྔ་མ་སྔ་མ་ལས་ཕྱི་མ་ཕྱི་མ་དམིགས་རྣམ་མི་འདྲ་བའི་ཕྱིར།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "10bcc5c472d84493",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:24.537151Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "གཟུགས་སོགས་ཕུང་པོའི་སྟོང་ཉིད་ཕྱིར། ། སྟོང་པ་ཉིད་རྣམས་དབྱེར་མེད་པས། །",
+      "relevance": "This quote from the excerpt discusses how the aspect is the inseparable emptiness of the aggregates like form, matching the topic of the first set of the fourfold certainties of engagement in paragraph 11.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~636114 in the commentary file, unit 326/328",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 325,
+      "unit_hash": "c9e2ac0ae861",
+      "passage_hash": "c9404c8f2d0d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "བཏགས་པ་དང་མི་འགལ་བར་ཆོས་ཉིད་སྟོན་པ་རྣམ་པ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote discusses the aspect of showing the true nature without contradicting imputed existence, matching the second certainty in paragraph 11.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~636464 in the commentary file, unit 326/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 84,
+      "chunk_id": 325,
+      "unit_hash": "c9e2ac0ae861",
+      "passage_hash": "c9404c8f2d0d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "ཆོས་ཐམས་ཅད་བཏགས་པ་ཙམ་ལ་མི་དམིགས་པའི་ཕྱིར།",
+      "relevance": "This quote explains the object of engagement for the second certainty, matching the discussion in paragraph 11.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~636393 in the commentary file, unit 326/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 80,
+      "chunk_id": 325,
+      "unit_hash": "c9e2ac0ae861",
+      "passage_hash": "c9404c8f2d0d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་གཟུགས་སོགས་ལ་དམིགས་ནས་རྣམ་པ་སྟོང་ཉིད་དབྱེར་མེད་པ་ལ་སོགས་པའི་རྣམ་པར་བསྟན།",
+      "relevance": "This quote explains how the commentary discusses the path of the hearers (ཉན་ཐོས་ཀྱི་ལམ་) in relation to the sixteen aspects and emptiness, which is relevant to paragraph 11's discussion of the second chapter's four kinds of definite emergence (ངེས་འབྱེད་བཞི་ཚན་གཉིས་).",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~276191 in the commentary file, unit 141/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 140,
+      "unit_hash": "6b524936c769",
+      "passage_hash": "1783e8635ba5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་གཟུགས་སོགས་ལ་དམིགས་ནས་རྣམ་པ་སྟོང་ཉིད་དབྱེར་མེད་པ་ལ་སོགས་པའི་རྣམ་པར་བསྟན། རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་ཆོས་ཐམས་ཅད་བཏགས་པ་ཙམ་ལ་དམིགས་ནས་རྣམ་པ་བཏགས་པ་དང་མི་འགལ་བར་ཆོས་ཉིད་སྟོན་པའི་རྣམ་པ་ཅན་ལ་སོགས་པར་བསྟན་པ་ཡིན་པས།",
+      "relevance": "This passage from the commentary explains the specific objects of focus (dmigs pa) and mental aspects (rnam pa) for the paths of the Hearers and Solitary Realizers within the context of the second chapter, matching the target paragraph.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~128348 in the commentary file, unit 66/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 65,
+      "unit_hash": "fd224dfc89d5",
+      "passage_hash": "9ea503142d9e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "352_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 262",
+  "root_paragraph": "བཞི་པ་ནི། མདོ་ལས།ཤཱ་རིའི་བུ་གཞན་ཡང་བྱང་ཆེན་དེ་ལྟར་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་བདག་ཉིད་ལ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དེར་བརྩོན་ཞེས་བྱ་བའམ། མི་བརྩོན་ཞེས་བྱ་བར་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ། །ཞེས་པ་ནས། ཤཱ་རིའི་བུ་བྱང་ཆེན་དེ་ལྟར་བརྩོན་པ་ནི་ཤེར་ཕྱིན་ལ་བརྩོན་ཞེས་བརྗོད་པར་བྱའོ། །ཞེས་པའི་བར་གྱིས་བསྟན། དེའི་དོན་བཤད་པ་ལ།ལམ་ལ་སྦྱིན་པ་ལ་སོགས་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་བདག་ཉིད་དམ་ནང་སྟོང་པ་ཉིད་ལ་སོགས་པ་ནི། ཕྱི་སྟོང་པ་ཉིད་ལ་སོགས་པ་དང་། སྔོན་གྱི་མཐའ་དང་། ཕྱི་མའི་མཐའ་དག་ཕན་ཚུན་ལྡན་པ་དང་མི་ལྡན་པ་མ་ཡིན་པ་ཉིད་དུ་སྒྲུབ་བོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "262",
+  "paragraph_key": "472725e5218cea24",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.983398Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ལམ་ལ་སྦྱིན་པ་ལ་སོགས་པ་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྣམས་དང་། བདག་ཉིད་དམ་ནང་སྟོང་པ་ལ་སོགས་པ་ནི་ཕྱི་སྟོང་པ་ཉིད་ལ་སོགས་པ་དང་ལྷན་ཅིག་དང་སྔོན་གྱི་མཐའ་དང་ཕྱི་མའི་མཐའ་དག་ཕན་ཚུན་དུ་ལྡན་པ་དང་མི་ལྡན་པ་མ་ཡིན་པ་ཉིད་དུ་བསྒྲུབ་བོ། །",
+      "relevance": "This quote explains how the perfections on the path and inner emptiness are taught in relation to outer emptiness and the extremes of past and future.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~75354 in the commentary file, unit 39/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 83,
+      "chunk_id": 38,
+      "unit_hash": "a3750bd18a95",
+      "passage_hash": "b98cc4bb7d8a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ཤཱ་རིའི་བུ་གཞན་ཡང་བྱང་ཆེན་དེ་ལྟར་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་བདག་ཉིད་ལ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དེར་བརྩོན་ཞེས་བྱ་བའམ། མི་བརྩོན་ཞེས་བྱ་བར་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ། །",
+      "relevance": "This quote directly supports target paragraph 2's mention of not perceiving striving or non-striving in the perfections on the path.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~505385 in the commentary file, unit 260/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 259,
+      "unit_hash": "b181914034ab",
+      "passage_hash": "1e36c75aaab8",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

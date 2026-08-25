@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "229_དང་པོ་ནི། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "དང་པོ་ནི། གདམས་ངག་གི་སྐབས་སུ་སྒྲུབ་དང་། ཞེས་དང་། སྒྲུབ་པ་བཞི་རྣམས་ཟློས་པར་འགྱུར་ཏེ། སྒྲུབ་པ་ཁྱད་པར་མེད་པ་ཡང་ཡང་བསྟན་པའི་ཕྱིར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་ཡིན་ལ། གཉིས་པ་དེ་སྒྲུབ་པ་རང་གི་ངོ་བོ་དང་། དབྱེ་བ་བསྟན་པ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "182",
+  "paragraph_key": "e2c140071aae9f85",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:24.477505Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "སྒྲུབ་པ་བཞི་ནི།",
+      "relevance": "This quote discusses the four practices (སྒྲུབ་པ་བཞི་), which provides the immediate context for explaining potential repetitions and classifications of these practices as addressed in Paragraph 4.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~198245 in the commentary file, unit 102/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 101,
+      "unit_hash": "88d787d9a6d9",
+      "passage_hash": "30c49dac8c7b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "དང་པོ་དེ་གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་ཡིན་ལ། གཉིས་པ་དེ་སྒྲུབ་པ་རང་གི་ངོ་བོ་དང་། དབྱེ་བ་བསྟན་པ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote explains why there is no fault of repetition regarding the topic of practice (sgrub pa) in the context of instructions, matching paragraph 4.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~462697 in the commentary file, unit 237/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 236,
+      "unit_hash": "63c79ff017f6",
+      "passage_hash": "00fccbc82316",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

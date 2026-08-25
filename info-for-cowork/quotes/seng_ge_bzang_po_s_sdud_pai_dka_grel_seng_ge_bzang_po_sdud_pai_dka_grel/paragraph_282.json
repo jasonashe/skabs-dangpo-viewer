@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "283_ཁ་ཅིག་རྩ། དུམ་མཚན་དང་པོ། 221",
+  "root_paragraph": "ཁ་ཅིག ། རྩ་བར་མ་ཁྱབ་སྟེ། ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་སེམས་བྱུང་ཡིན་པའི་ཕྱིར་ཏེ། བྱང་སར།བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྨོན་ལམ་ནི་སེམས་བསྐྱེད་པའོ༑ ༑ཞེས་དང་། མདོ་སྡེའི་རྒྱན་ལས།བརྟན་པ་རྣམས་ཀྱི་སྨོན་ལམ་ནི། །སེམས་པ་འདུན་དང་བཅས་པ་སྟེ། །ཞེས་དང་། དེའི་འགྲེལ་པར།ཡོན་ཏན་གསུམ་དང་གཉིས་ལ་དམིགས་པའི་འདུན་པ་དང་ལྡན་པའི་སེམས་པ་ནི་སེམས་བསྐྱེད་པ་ཞེས་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། དེས་ཐེག་ཆེན་སེམས་བསྐྱེད་ལ་སྨོན་ལམ་དང་འདུན་པའི་མིང་གིས་བཏགས་ནས་བསྟན་པ་ཙམ་ཡིན་པའི་ཕྱིར་ཏེ། མདོ་སྡེའི་རྒྱན་ལས།སྤྲོ་བ་ཆེ་དང་རྩོམ་པ་ཆེ། །ཞེས་སོགས་ཀྱིས་ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་གཙོ་སེམས་སུ་བསྟན་པར་རྒྱན་སྣང་ལས་གསུངས་པའི་ཕྱིར། ཉི་སྣང་ལས།སེམས་བསྐྱེད་པ་ཞེས་བྱ་བ་ནི་སེམས་ནི་རྣམ་པར་ཤེས་པ་སྟེ་རྣམ་པར་རིག་པའོ་རྣམ་པར་རིག་པ་དེ་ཡང་གང་ཞེ་ན༑ ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་སྟེ། ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "221",
+  "paragraph_key": "aff7e283b0189a69",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:17.523970Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སྤྲོ་བ་ཆེ་དང་རྩོམ་པ་ཆེ། །དོན་ཆེ་བ་དང་འབྱུང་བ་ཆེ། །བྱང་ཆུབ་སེམས་དཔའི་སེམས་པ་སྟེ། །དོན་གཉིས་ལྡན་པའི་སེམས་འབྱུང་བ། །",
+      "relevance": "This passage is quoted to show that the generation of the awakening mind is taught as a primary mind (principal mind, gְso sems) rather than just a secondary mind.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~477456 in the commentary file, unit 245/440",
+      "verification": "verified_fuzzy",
+      "correctness_score": 97,
+      "chunk_id": 244,
+      "unit_hash": "ddea8ff9f514",
+      "passage_hash": "8feac9d2de56",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྨོན་ལམ་ནི་སེམས་བསྐྱེད་པའོ། །",
+      "relevance": "This quote from the excerpt discusses the nature of the aspiration and mind generation (sems bskyed) in relation to bodhisattvas, which is relevant to the discussion on whether the mind generation is a mental factor (sems byུང་).",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~297985 in the commentary file, unit 153/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 152,
+      "unit_hash": "4f77c547d566",
+      "passage_hash": "3a5dda833bbc",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "བརྟན་པ་རྣམས་ཀྱི་སྨོན་ལམ་ནི། །སེམས་པ་འདུན་དང་བཅས་པ་སྟེ། །",
+      "relevance": "This quote defines the aspiration of steadfast beings as a mental intention accompanied by longing, supporting the analysis of whether mind generation involves such mental factors.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~297262 in the commentary file, unit 153/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 152,
+      "unit_hash": "4f77c547d566",
+      "passage_hash": "3a5dda833bbc",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

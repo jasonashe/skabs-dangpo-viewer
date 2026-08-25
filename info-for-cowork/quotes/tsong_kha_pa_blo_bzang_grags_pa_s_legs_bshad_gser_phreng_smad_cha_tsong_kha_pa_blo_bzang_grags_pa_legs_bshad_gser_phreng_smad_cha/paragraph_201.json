@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "202_ཁ་ཅིག་གདུལ། དུམ་མཚན་དང་པོ། 165",
+  "root_paragraph": "ཁ་ཅིག །གདུལ་བྱའི་ཉོན་མོངས་སྤོང་ཕྱིར་དུ་གསུངས་པའི་སངས་རྒྱས་ཀྱི་གསུང་༑ བཀའི་མཚན་ཉིད་ཟེར་བ་མི་འཐད་དེ། བཀའི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་ཡིན་ན། ཉོན་མོངས་སྤང་དགོས་ཀྱི་གང་ཟག་ཡིན་པས་མ་ཁྱབ་པའི་ཕྱིར་ཏེ། དེར་གྱུར་པའི་ཉན་ཐོས་དགྲ་བཅོམ་ཡོད་པའི་ཕྱིར། གཞན་ཡང་། ཤཱ་རིའི་བུའི་ངག་ཏུ་གྱུར་པའི་སངས་རྒྱས་ཀྱི་བཀའ་ཆོས་ཅན། སངས་རྒྱས་ཀྱི་གསུང་ཡིན་པར་ཐལ། སངས་རྒྱས་ཀྱི་བཀའ་ཡིན་པའི་ཕྱིར། འདོད་ན། གསུང་དབྱངས་ཡན་ལག་དྲུག་ཅུའི་ཡོན་ཏན་དང་ལྡན་པར་ཐལ། འདོད་པའི་ཕྱིར། ཁྱབ་སྟེ། མདོ་སྡེའི་རྒྱན་ལས།བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །ཅེས་གསུངས་པའི་ཕྱིར། དེས་མཚོན་ནས་གཞན་ཡང་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "165",
+  "paragraph_key": "e444d538a4c3c94a",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:57.498153Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས། །ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ།",
+      "relevance": "This passage directly quotes the verse from the Abhisamayalankara regarding the sixty branches of speech, which is used to support the discussion on Buddha's speech in target paragraph 2.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~623624 in the commentary file, under ‘ཚ’, unit 320/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 53,
+      "chunk_id": 319,
+      "unit_hash": "f875d08303b9",
+      "passage_hash": "5d93f98b374f",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "The commentary excerpt discusses the sixty speech attributes of the Buddha, matching the citation in paragraph 2 regarding the Buddha's speech.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~116973 in the commentary file, under ‘ཚ’, unit 61/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 60,
+      "unit_hash": "8ddfd6507645",
+      "passage_hash": "feb7391f8808",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "གཞན་ཡང་། ཤཱ་རིའི་བུའི་ངག་ཏུ་གྱུར་པའི་སངས་རྒྱས་ཀྱི་བཀའ་ཆོས་ཅན། སངས་རྒྱས་ཀྱི་གསུང་ཡིན་པར་ཐལ། སངས་རྒྱས་ཀྱི་བཀའ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote is relevant because the commentary excerpt also discusses passages involving statements by Shariputra regarding the Buddha's teachings.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~381720 in the commentary file, under ‘ཚ’, unit 196/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 195,
+      "unit_hash": "eb8792dfa653",
+      "passage_hash": "cacd0ec15949",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "The commentary excerpt cites this exact verse from the Abhisāmayālaṅkāra (or related literature) concerning the qualities of the Buddha's speech, which is directly relevant to target paragraph 2's discussion of the sixty branches of the Buddha's speech and the citation of the Mūlamadhyamakakārikā/Abhisamayālaṅkāra.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~732110 in the commentary file, under ‘ཚ’, unit 376/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 375,
+      "unit_hash": "6a5f2d6a3528",
+      "passage_hash": "c76fa5754626",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

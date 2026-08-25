@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "300_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 232",
+  "root_paragraph": "གསུམ་པ་ནི། སློབ་དཔོན་གྱིས་སྨོན་སེམས་ཀྱི་བསླབ་བྱ་རྣམས་སློབ་མ་ལ་བརྗོད་པར་བྱ། དེས་ཀྱང་སློབ་དཔོན་གྱིས་གསུངས་པའི་བསླབ་བྱ་རྣམས་དང་། གཞན་ཡང་༑ བྱང་སེམས་ཀྱི་སྡེ་སྣོད་དགོངས་འགྲེལ་དང་བཅས་པ་ལ་ཐོས་བསམ་ཚུལ་བཞིན་དུ་བྱས་པའི་སྒོ་ནས་ཉེས་སྤྱོད་མཐའ་དག་སྤོང་བ་དང་། དགེ་ཚོགས་མཐའ་དག་རང་ཉིད་ཀྱིས་སྒྲུབ་ཅིང་གཞན་ཡང་དེ་ལ་འགོད་པ་དང་། དེ་ལ་ཞུགས་པ་རྣམས་ལ་དགེ་བའི་ལེགས་སོ་བརྗོད་ཅིང་ཡིད་ཀྱིས་རྗེས་སུ་ཡི་རང་བསྒོམས་ཤིང་རང་གཞན་གྱི་དགེ་རྩ་ཐམས་ཅད་བྱང་ཆུབ་ཀྱི་སེམས་མ་ཐོབ་པ་ཐོབ་པ་དང་། ཐོབ་པ་མི་ཉམས་ཤིང་གོང་ནས་གོང་དུ་འཕེལ་བའི་ཕྱིར་དུ་ཉིན་ལན་གསུམ་མཚན་ལན་གསུམ་དུ་བསྔོ་བ་དང་སྨོན་ལམ་རྣམ་པར་དག་པས་རྒྱས་གདབ་པར་བྱའོ། །",
+  "root_paragraph_page": "232",
+  "paragraph_key": "89e4e45e5a906630",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:17.680743Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "དེ་བས་ན་དེ་ཉིད་ཀྱི་ཕྱིར་དེས་གསུངས་པའི་རིམ་པ་བཞིན་སྨྲ་ཞིང་རྗེས་སུ་ཡི་རང་བར་བྱེད་པ་ནི་རྒྱལ་བ་རྣམས་ཀྱིས་གསུངས་པ་སྨྲ་བ་ཡིན་ཏེ།",
+      "relevance": "This quote supports the practice of speaking and rejoicing in accordance with the teachings, which is relevant to the concluding practices of rejoicing and dedication discussed in paragraph 25.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~97149 in the commentary file, unit 51/440",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 50,
+      "unit_hash": "4fa7285f3698",
+      "passage_hash": "673a2e3442d2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

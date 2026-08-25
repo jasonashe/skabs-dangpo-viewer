@@ -1,0 +1,27 @@
+# Quote collection: མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]
+**Target paragraph:** 377_འདི་ལ་ཡང། དུམ་མཚན་དང་པོ། 274
+
+> འདི་ལ་ཡང་སོ་སོར་བཤད་པ་དང་། དོན་བསྡུ་བ་གཉིས། དང་པོ་ལ། སངས་རྒྱས་དཀོན་མཆོག །ཆོས་དཀོན་མཆོག །དགེ་འདུན་དཀོན་མཆོག་ལ་གདམས་པ་དང་གསུམ་ལས། དང་པོ་ནི།བྱང་ཆེན་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ། ཞེས་པ་ནས། བྱང་ཆུབ་སེམས་དཔའི་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ནི་བྱང་ཆུབ་བོ། །ཤཱ་རི་དྭ་ཏིའི་བུ་བྱང་ཆེན་དེ་ལྟར་བརྩོན་ཞེས་བརྗོད་པར་བྱའོ། །ཞེས་པའི་བར་གྱིས་བསྟན། དེའི་དོན་བཤད་པ་ལ།སངས་རྒྱས་ལ་སངས་རྒྱས་དང་བྱང་ཆུབ་དག་མཚན་ཉིད་གཅིག་པ་ཉིད་ཀྱིས་སངས་རྒྱས་སུ་བྱེད་པའི་ཆོས་ཀྱི་མཚན་ཉིད་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མི་དམིགས་པ་ལ་གཟུགས་ལ་སོགས་པ་མི་སྦྱོར་བས། དམིགས་པར་བྱ་བ་དང་དམིགས་པར་བྱེད་པ་མཉམ་པ་ཉིད་དུ་ཤེས་པ་ཞེས་བྱ་བ་དང་། ཞེས་གསུངས། དོན་ནི། གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མི་སྦྱོར་ཞེས་སོགས་ཀྱི་མདོ་ཆོས་ཅན། སངས་རྒྱས་དཀོན་མཆོག་ལ་གདམས་པ་ཡིན་ཏེ། དེ་ལ་སྐྱབས་གནས་ཡང་དག་ཏུ་བདེན་ཞེན་དགག་པའི་ཕྱིར་དུ་འདོམས་པའི་མདོ་ཚིག་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (49% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རི་དྭ་ཏིའི་བུ་བྱང་ཆེན་དེ་ལྟར་བརྩོན་ཞེས་བརྗོད་པར་བྱའོ། །
+
+- **Why relevant:** This quote is relevant as it directly corresponds to the target passage discussing the encouragement of the bodhisattva in the perfection of wisdom and the non-apprehension of the omniscience of the Buddha.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~169665 in the commentary file, unit 87/527
+- **Verification:** UNVERIFIED
+
+## Quote (46% correctness) ⚠️ UNVERIFIED
+> བྱང་ཆེན་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ།
+
+- **Why relevant:** This quote is relevant because it discusses the practitioner engaging in the perfection of wisdom regarding form, matching the topic of the Buddha jewel section in Paragraph 1.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~458666 in the commentary file, unit 235/527
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> བྱང་ཆུབ་སེམས་དཔའི་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ནི་བྱང་ཆུབ་བོ། །ཤཱ་རི་དྭ་ཏིའི་བུ་བྱང་ཆེན་དེ་ལྟར་བརྩོན་ཞེས་བརྗོད་པར་བྱའོ། །
+
+- **Why relevant:** This quote provides the basis for discussing the instructions regarding the Buddha jewel and omniscience as mentioned in Paragraph 1.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~454784 in the commentary file, unit 233/527
+- **Verification:** UNVERIFIED

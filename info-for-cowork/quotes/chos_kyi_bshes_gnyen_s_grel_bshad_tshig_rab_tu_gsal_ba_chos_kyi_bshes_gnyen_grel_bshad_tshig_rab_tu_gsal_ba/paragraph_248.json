@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "249_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 192",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་དེའི་དོན་བཤད་པའི་སྒོ་ནས་ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་མཚན་ཉིད་ཀྱི་སྒོ་ནས་མདོར་བསྟན་གྱི་ཚུལ་གྱིས་འཆད་པ་ལ། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས། དེ་ཡང་སེམས་བསྐྱེད་པ་ནི། ཞེས་པས་མཚོན་བྱ་དང་། གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་པས་མཚན་ཉིད་དེ་བསྟན།",
+  "root_paragraph_page": "192",
+  "paragraph_key": "8cc8c61ca9d10928",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:11.735793Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། ། ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This quote provides the root verse defining the generation of the altruistic mind (bodhicitta) through its subject and characteristics, which is analyzed in the target passage.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~607853 in the commentary file, unit 312/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 311,
+      "unit_hash": "36c89e1e965d",
+      "passage_hash": "eade4ecf01cc",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི། དེ་ཡང་ས་གསེར་ཟླ་བ་མེ། ། ཞེས་བྱ་བ་ལ་སོགས་པའོ། །",
+      "relevance": "This quote relates to the discussion of the initial generation of the mind (sems bskyed) and its defining verses.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~333571 in the commentary file, unit 171/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 83,
+      "chunk_id": 170,
+      "unit_hash": "0a3b8fe0d6d8",
+      "passage_hash": "ed60b1970642",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 416,
+    "fraction": 0.9881,
+    "complete": false,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

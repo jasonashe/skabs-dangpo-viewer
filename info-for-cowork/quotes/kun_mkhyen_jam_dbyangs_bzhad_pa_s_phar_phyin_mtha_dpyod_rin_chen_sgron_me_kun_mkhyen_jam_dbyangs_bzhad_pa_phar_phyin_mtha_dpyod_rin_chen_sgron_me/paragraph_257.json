@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "258_གསུམ་པ་དྲིས། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "གསུམ་པ་དྲིས་ལན་དེས་གྲུབ་པའི་དོན་བཤད་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་ལ་དམིགས་པ་ཡིན་ཏེ། དེ་གོང་དུ་མདོ་བཞི་ལས་སྒྲུབ་པ་དེའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "7abc7ca2db8d7cf2",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:58.805770Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote is used to explain that generating bodhicitta is characterized by the desire for complete enlightenment for the sake of others.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~475409 in the commentary file, unit 242/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 241,
+      "unit_hash": "8cf1aaa43860",
+      "passage_hash": "c3847f346e67",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

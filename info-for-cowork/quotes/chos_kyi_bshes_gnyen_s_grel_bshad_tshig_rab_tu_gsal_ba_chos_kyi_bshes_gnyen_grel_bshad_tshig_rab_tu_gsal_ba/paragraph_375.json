@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "376_འོ་ན་སངས། དུམ་མཚན་དང་པོ། 273",
+  "root_paragraph": "འོ་ན། སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་གསུམ། །ཞེས་པས་སྒྲུབ་པའི་རྟེན་ལ་འདོམས་པའི་གདམས་ངག་འཆད་ཚུལ་དེ་གང་ཞེ་ན། འདི་ལ་མདོ་ལས་གསུངས་ཚུལ་དང་། བསྟན་བཅོས་ཀྱིས་འགྲེལ་ཚུལ་གཉིས་ལས། དང་པོ་ནི།ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །ཞེས་སོགས་གསུངས། གཉིས་པ་ནི། མདོའི་དོན་བཤད་པ་ལ། སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་གསུམ༑ ༑ཞེས་གསུངས། དེ་ཉིད་ཚིག་དོན་གྱི་སྒོ་ནས་འཆད་པ་ལ།སངས་རྒྱས་ལ་སངས་རྒྱས་དང་། ཞེས་སོགས་གསུངས།",
+  "root_paragraph_page": "273",
+  "paragraph_key": "3a10de67e283daf1",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:13.630208Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དཀོན་མཆོག་གསུམ་པོ་དང་།",
+      "relevance": "This quote is relevant as it discusses the three jewels in the context of the commentary's analysis of disputations.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~781769 in the commentary file, unit 400/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 399,
+      "unit_hash": "fd149ae203b6",
+      "passage_hash": "1d8e8971d07e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "53_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 69",
+  "root_paragraph": "གཉིས་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དེ་སྟོན་པ་ལ། འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས། ཞེས་གསུངས། ཐབས་ལམ་ཤེས་དེ་སྟོན་པ་ལ། ལམ་ཤེས་ཉིད་ཀྱིས། ཞེས་གསུངས། འདིའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །ཞེས་གསུངས། གསུམ་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དང་སྐྱེ་བའི་རྟེན་གཉིས་ཀའི་དབང་དུ་བྱས་པ་ནི། ཐུབ་རྣམས། ཞེས་པས་འཆད། ཐབས་རྣམ་མཁྱེན་དེ་འཆད་པ་ལ། གང་དང་ཡང་དག་ལྡན་པས། ཞེས་གསུངས༑ དེའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུངས་པ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "69",
+  "paragraph_key": "7238dc5f0d227d33",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:15.863561Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "འཇིག་རྟེན་གྱིས་གང་དག་གིས་སྒྲོལ་བར་བྱེད་པ་ཞེས་བྱ་བ་ནི་འཕགས་པའི་གང་ཟག་གི་འཇིག་རྟེན་གྱིས་སོ། །",
+      "relevance": "This quote explains how the world is liberated, matching the theme of fulfilling worldly purposes discussed in paragraph 5.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~529822 in the commentary file, unit 271/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 270,
+      "unit_hash": "bd6f67fe0015",
+      "passage_hash": "924cc752f015",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །",
+      "relevance": "The commentary excerpt discusses the meaning of actions and worldly benefit in relation to the paths, which is relevant to explaining the verse regarding accomplishing the world's purpose (འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་).",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~530146 in the commentary file, unit 271/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 51,
+      "chunk_id": 270,
+      "unit_hash": "bd6f67fe0015",
+      "passage_hash": "924cc752f015",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

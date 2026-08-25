@@ -1,0 +1,27 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]
+**Target paragraph:** 94_གཉིས་པ་རྩ། དུམ་མཚན་དང་པོ། 93
+
+> གཉིས་པ་རྩ་བའི་ཚིག་དོན་བཤད་པ་ལ། མཚམས་སྦྱར་དུ། རེ་ཞིག་དང་པོར་ཡུམ་ལ་ཡོན་ཏན་ཇི་ལྟ་བ་བཞིན་དུ་བརྗོད་པ་སྔོན་དུ་འགྲོ་བ་ཅན་གྱི་ཕྱག་འཚལ་བ། ཞེས་བཤད་ན། ཉན་ཐོས་ཞི་བ། ཞེས་སོགས་ཀྱིས་མཁྱེན་གསུམ་གྱི་ཡོན་ཏན་གྱི་སྒོ་ནས་ཡུམ་ལ་བསྟོད་ན་བསྟོད་ཕྱག་མཛད་ཚུལ་དེ་གང་ཞེ་ན། འདི་ལ་སོ་སོའ་ིཡོན་ཏན་བརྗོད་པ་དང་༑ བསྡུས་ཏེ་ཕྱག་འཚལ་བ་གཉིས་ལས། དང་པོ་ལ། གཞི་ཤེས་ཀྱིས་ཉེར་ཞིར་ཁྲིད་ཚུལ༑ ལམ་ཤེས་ཀྱིས་འཇིག་རྟེན་གྱི་དོན་སྒྲུབ་ཚུལ། རྣམ་མཁྱེན་གྱིས་ཆོས་འཁོར་སྐོར་བའི་བདག་རྐྱེན་བྱེད་ཚུལ་བཤད་པ་དང་གསུམ་ལས། དང་པོ་ལ། གཞི་ཤེས་སྒོམ་པའི་རྟེན་གྱི་གང་ཟག །ཐབས་གཞི་ཤེས་ཀྱི་ངོ་བོ། ཐབས་དེ་ལ་བརྟེན་ནས་འབྲས་བུ་མངོན་དུ་བྱེད་ཚུལ་དང་གསུམ་ལས། དང་པོ་ནི།ཉན་ཐོས་དང་དེའི་ཕྱོགས་སུ་བསླན་པ་རྣམ་པར་ཐར་པ་ཅུང་ཟད་ཙམ་ཞིག་གིས་ལྷག་པ་རིམ་པ་གཅིག་གིས་བསྟན་པ་རང་སངས་རྒྱས་ཀྱང་སྟེ། མྱ་ངན་ལས་འདའ་བར་འདོད་པ་རྣམས། ཞེས་པས་འཆད། གཉིས་པ་ནི།གཞི་ཐམས་ཅད་སྐྱེ་བ་མེད་པར་ཡོངས་སུ་ཤེས་པ་ཉིད་ཀྱིས། ཞེས་པས་འཆད། གསུམ་པ་ནི༑ཕུང་པོ་དང་བཅས་པ་དང་ཕུང་པོ་མེད་པའི་མཚན་ཉིད་ཀྱི་མྱ་ངན་ལས་འདས་པ་རྣམ་པ་གཉིས་ཐོབ་པར་མཛད་པ་གང་ཡིན་པ་དང་། ཞེས་པས་འཆད།
+
+*Coverage: complete.*
+
+## Quote (47% correctness) ⚠️ UNVERIFIED
+> གཞི་ཐམས་ཅད་སྐྱེ་བ་མེད་པར་ཡོངས་སུ་ཤེས་པ་ཉིད་ཀྱིས།
+
+- **Why relevant:** This quote explains the foundational understanding of the lack of arising of all bases, corresponding to the analysis of the basis-knowledge in paragraph 19.
+- **Location:** སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~61215 in the commentary file, under ‘རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས།’, unit 32/101
+- **Verification:** UNVERIFIED
+
+## Quote (41% correctness) ⚠️ UNVERIFIED
+> ཕུང་པོ་དང་བཅས་པ་དང་ཕུང་པོ་མེད་པའི་མཚན་ཉིད་ཀྱི་མྱ་ངན་ལས་འདས་པ་རྣམ་པ་གཉིས་ཐོབ་པར་མཛད་པ་གང་ཡིན་པ་དང་།
+
+- **Why relevant:** This quote explains the two types of nirvana (with and without remainder), which is the direct topic of discussion in paragraph 19.
+- **Location:** སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~63420 in the commentary file, under ‘ཐེག་ཆེན་གྱི་མཐོང་ལམ།’, unit 33/101
+- **Verification:** UNVERIFIED
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> ཉན་ཐོས་དང་དེའི་ཕྱོགས་སུ་བསླན་པ་རྣམས་པར་ཐར་པ་ཅུང་ཟད་ཙམ་ཞིག་གིས་ལྷག་པ་རིམ་པ་གཅིག་གིས་བསྟན་པ་རང་སངས་རྒྱས་ཀྱང་སྟེ། མྱ་ངན་ལས་འདའ་བར་འདོད་པ་རྣམས།
+
+- **Why relevant:** This quote explains the nature and characteristics of the individual practitioners seeking liberation, specifically the Hearers and Pratyekabuddhas, matching the discussion in paragraph 19.
+- **Location:** སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~59580 in the commentary file, under ‘རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས།’, unit 31/101
+- **Verification:** UNVERIFIED

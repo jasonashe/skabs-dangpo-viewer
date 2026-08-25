@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "66_གསུམ་པ་གུས། དུམ་མཚན་དང་པོ། 77",
+  "root_paragraph": "གསུམ་པ་གུས་པའི་དགོས་པ་ནི། དེ་ལྟར་གུས་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་དགོས་པ་ཡོད་དེ། དེ་ལ་བརྟེན་ནས་ཐོས་བསམ་སྒོམ་གསུམ་གྱི་ཤེས་རབ་རྣམས་རིམ་གྱིས་སྐྱེ་བར་འགྱུར་བའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ནས་ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པའི་ཤེས་པ་སྐྱེ་བའི་རིམ་གྱིས། ཞེས་གསུངས། གཉིས་པ་མཐར་ཐུག་གི་དགོས་པ་ནི། དེ་ལྟར་མཆོད་བརྗོད་ཀྱི་ཚིགས་བཅད་ཐོས་པས་དང་བ། དེ་ལས་དོན་གཉེར་གྱི་འདུན་པ། དེ་ལས་ཐོས་བསམ་གྱིས་ཞུགས་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་བརྟེན་ནས་མཐར་ལེགས་པའི་མཆོག་རྣམ་མཁྱེན་འཐོབ་པར་འགྱུར་གྱི། ཞེས་འཆད་པ་ལ༑ལེགས་པའི་མཆོག་འཐོབ་པར་འགྱུར་རོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "77",
+  "paragraph_key": "021b3815a3eefa48",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:08.979925Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པ་ཤེས་པའི་རིམ་གྱིས་ཞེས་བྱ་བ་ནི་ཤེས་རབ་གསུམ་གྱི་རིམ་གྱིས་འཇུག་པའོ། །",
+      "relevance": "This quote explains the progression of developing wisdom through hearing and other stages, which is relevant to the discussion of training by means of the three wisdoms in paragraph 2.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~68362 in the commentary file, unit 35/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 34,
+      "unit_hash": "a71a1e49b9dc",
+      "passage_hash": "3cf2d3767db1",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེའི་ཕྱིར་དེ་ལྟར་བསྒོམས་པས་འདྲིས་པར་བྱ་དགོས་པའི་ཕྱིར་ན་ཐམས་ཅད་མཁྱེན་པ་ཉིད་གསུམ་སྒོམ་པར་བྱེད་པས་དེ་བསྟན་ཞེས་སྦྱར་རོ། །",
+      "relevance": "This quote discusses how the three omnisciences must be practiced and integrated through meditation, which is relevant to the progression of cultivating wisdom through listening, contemplation, and meditation.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~188300 in the commentary file, unit 97/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 79,
+      "chunk_id": 96,
+      "unit_hash": "b67ff6776a35",
+      "passage_hash": "a6cbb738a674",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "ལེགས་པའི་མཆོག་འཐོབ་པར་འགྱུར་རོ། །",
+      "relevance": "This quote affirms that through these practices one ultimately attains the supreme excellence of omniscience.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~73734 in the commentary file, unit 38/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 37,
+      "unit_hash": "a6f622aed6d7",
+      "passage_hash": "731aad0e02c3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེ་ནས་ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པའི་ཤེས་པ་སྐྱེ་བའི་རིམ་གྱིས།",
+      "relevance": "This quote supports the idea that respect and devotion lead to the sequential generation of the wisdom of listening, contemplation, and meditation.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~73293 in the commentary file, unit 38/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 37,
+      "unit_hash": "a6f622aed6d7",
+      "passage_hash": "731aad0e02c3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

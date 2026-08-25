@@ -1,0 +1,20 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]
+**Target paragraph:** 117_ཁ་ཅིག་དོན། དུམ་མཚན་དང་པོ། 107
+
+> ཁ་ཅིག །དོན་དམ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད་དང་། ཀུན་རྫོབ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་མདོ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད་ཟེར་ན། ཤེས་རབ་སྙིང་པོ་ཆོས་ཅན། ངེས་དོན་གྱི་མདོ་ཡིན་པར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར། རྟགས་གྲུབ་སྟེ། འཁོར་ལོ་བར་པ་ཡིན་པའི་ཕྱིར། ཁྱབ་སྟེ། དགོངས་འགྲེལ་ལས།སྟོང་པ་ཉིད་སྨོས་པའི་རྣམ་པས། ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (46% correctness) ⚠️ UNVERIFIED
+> སྟོང་པ་ཉིད་སྨོས་པའི་རྣམ་པས།
+
+- **Why relevant:** This quote supports the classification and analysis of emptiness-related definitive meaning teachings.
+- **Location:** སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~688608 in the commentary file, unit 353/440
+- **Verification:** UNVERIFIED
+
+## Quote (38% correctness) ⚠️ UNVERIFIED
+> སྟོང་པ་ཉིད་སྨོས་པའི་རྣམ་པས།
+
+- **Why relevant:** The commentary cites the Samdhinirmocana-sūtra while discussing explicit versus implicit meanings and emptiness.
+- **Location:** སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~322174 in the commentary file, unit 166/440
+- **Verification:** UNVERIFIED

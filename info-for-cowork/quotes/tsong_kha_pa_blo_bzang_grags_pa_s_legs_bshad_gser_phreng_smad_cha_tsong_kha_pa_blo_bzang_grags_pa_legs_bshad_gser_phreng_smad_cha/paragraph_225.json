@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "226_རྩེ་སྦྱོར་མཚོན། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "རྩེ་སྦྱོར་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བརྒྱད་དུ་ཡོད་དེ། རྟགས་བཅུ་གཉིས་པོ་དང་ལྡན་པའི་རྩེ་སྦྱོར། བསོད་ནམས་རྣམ་པར་འཕེལ་བའི་རྩེ་སྦྱོར། བརྟན་པའི་རྩེ་སྦྱོར། སེམས་ཀུན་ཏུ་གནས་པའི་རྩེ་སྦྱོར། མཐོང་ལམ་རྩེ་སྦྱོར། སྒོམ་ལམ་རྩེ་སྦྱོར། བར་ཆད་མེད་པའི་རྩེ་སྦྱོར། བསལ་བྱ་ལོག་སྒྲུབ་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། མཐར་གྱིས་སྦྱོར་བ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་གསུམ་དུ་ཡོད་དེ། དེ་ལ་ཕར་ཕྱིན་དྲུག་གི་མཐར་གྱིས་སྦྱོར་བ་དྲུག །རྗེས་དྲན་དྲུག་གི་དེ་དྲུག །དངོས་མེད་ངོ་བོ་ཉིད་ཀྱི་དེ་དང་བཅུ་གསུམ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "182",
+  "paragraph_key": "73e4361d0b338bfe",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:57.844636Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "བསོད་ནམས་རྣམས་པར་འཕེལ་བའི་རྩེ་མོས་རྣམ་པར་རམ་ཁྱད་པར་དུ་སྤེལ་བའི་རྟོགས་པ་ལ་རང་དབང་དུ་གྱུར་པ་མཐར་ཕྱིན་པའི་མཚན་ཉིད་རྣམས་ནི་ངེས་པར་བརྟན་པ་ཡིན་པས་སོ། །",
+      "relevance": "This passage discusses the progressive stages of practice related to the peak conjunctions (རྩེ་སྦྱོར་), matching the topics enumerated in Paragraph 2.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~372746 in the commentary file, under ‘ཚ’, unit 191/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 83,
+      "chunk_id": 190,
+      "unit_hash": "6770f041e105",
+      "passage_hash": "be7c1c05a6e4",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "རྟགས་བཅུ་གཉིས་པོ་དང་ལྡན་པའི་རྩེ་སྦྱོར། བསོད་ནམས་རྣམ་པར་འཕེལ་བའི་རྩེ་སྦྱོར།",
+      "relevance": "This passage directly supports the target paragraph's enumeration of the topics of the peak practice (rtse sbyor), specifically mentioning the twelve signs and the increase of merit.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~366651 in the commentary file, under ‘ཚ’, unit 188/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 61,
+      "chunk_id": 187,
+      "unit_hash": "e97fea9287ef",
+      "passage_hash": "92cee50f1a21",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མཐར་གྱིས་སྦྱོར་བ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་གསུམ་དུ་ཡོད་དེ། དེ་ལ་ཕར་ཕྱིན་དྲུག་གི་མཐར་གྱིས་སྦྱོར་བ་དྲུག །རྗེས་དྲན་དྲུག་གི་དེ་དྲུག །དངོས་མེད་ངོ་བོ་ཉིད་ཀྱི་དེ་དང་བཅུ་གསུམ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This target passage discusses the thirteen constituents of the gradual application (མཐར་གྱིས་སྦྱོར་བ), and the provided quote from the commentary explicitly details the six gradual practices of the perfections, the six recollections, and the one of lack of intrinsic nature, which totals thirteen.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~530835 in the commentary file, under ‘ཚ’, unit 273/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 272,
+      "unit_hash": "848156d8b22e",
+      "passage_hash": "a9001131eb7b",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

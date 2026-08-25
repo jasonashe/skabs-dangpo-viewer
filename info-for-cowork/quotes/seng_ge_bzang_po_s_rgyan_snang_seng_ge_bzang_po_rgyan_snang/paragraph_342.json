@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "343_གཞན་ཡང་རྩ། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། རྩ་བ་ཤེས་རབ་ལས།གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །ཞེས་སོགས་གསུངས་པ་མི་འཐད་པར་ཐལ། བདེན་སྟོང་ལ་བྱ་བྱེད་མི་རུང་བའི་ཕྱིར།གཞན་ཡང་། གཟུགས་མེད་པར་ཐལ། མདོ་ལས༑གཟུགས་མེད། སྒྲ་མེད། ཅེས་སོགས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་མི་ནུས་ཏེ། གཟུགས་སོགས་ཕུང་པོ་ལྔ་ཡོད་པའི་ཕྱིར་ཏེ། ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་ཐམས་ཅད་ཡོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས།",
+  "root_paragraph_page": "257",
+  "paragraph_key": "936b6e6ecc7afcbb",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.911315Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This verse is cited in the target paragraph in the context of discussing whether conventional activities and functions are tenable for entities that are empty of true existence.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~887900 in the commentary file, unit 456/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 47,
+      "chunk_id": 455,
+      "unit_hash": "86b14c1bb5ad",
+      "passage_hash": "b13751c93a58",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This well-known verse from the *Mulamadhyamakakarika* establishes that the validity of all conventional phenomena (everything is workable) depends on the framework of emptiness.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~268432 in the commentary file, unit 138/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 137,
+      "unit_hash": "41e282986c15",
+      "passage_hash": "e2108595a654",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This citation establishes that everything functions coherently precisely because emptiness is tenable, countering the view that emptiness destroys action and result.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~157066 in the commentary file, unit 81/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 80,
+      "unit_hash": "f0b32cd5e74d",
+      "passage_hash": "45fe975a30fd",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

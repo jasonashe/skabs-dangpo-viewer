@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "53_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 69",
+  "root_paragraph": "གཉིས་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དེ་སྟོན་པ་ལ། འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས། ཞེས་གསུངས། ཐབས་ལམ་ཤེས་དེ་སྟོན་པ་ལ། ལམ་ཤེས་ཉིད་ཀྱིས། ཞེས་གསུངས། འདིའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །ཞེས་གསུངས། གསུམ་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དང་སྐྱེ་བའི་རྟེན་གཉིས་ཀའི་དབང་དུ་བྱས་པ་ནི། ཐུབ་རྣམས། ཞེས་པས་འཆད། ཐབས་རྣམ་མཁྱེན་དེ་འཆད་པ་ལ། གང་དང་ཡང་དག་ལྡན་པས། ཞེས་གསུངས༑ དེའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུངས་པ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "69",
+  "paragraph_key": "7238dc5f0d227d33",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:51.914082Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "ལམ་ཤེས་ཉིད་ཀྱིས།",
+      "relevance": "This quote is used to explain the path-knowledge aspect (lam shes) in the context of the homage.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~103242 in the commentary file, unit 53/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 46,
+      "chunk_id": 52,
+      "unit_hash": "6267aac1c980",
+      "passage_hash": "f30fe539ca4c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས།",
+      "relevance": "This quote is used to explain the basis that sets apart the classification of realizations associated with benefiting beings.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~93843 in the commentary file, unit 48/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 47,
+      "unit_hash": "b64136f7b0f9",
+      "passage_hash": "61932a27c517",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

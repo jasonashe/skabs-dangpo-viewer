@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "352_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 262",
+  "root_paragraph": "བཞི་པ་ནི། མདོ་ལས།ཤཱ་རིའི་བུ་གཞན་ཡང་བྱང་ཆེན་དེ་ལྟར་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་བདག་ཉིད་ལ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དེར་བརྩོན་ཞེས་བྱ་བའམ། མི་བརྩོན་ཞེས་བྱ་བར་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ། །ཞེས་པ་ནས། ཤཱ་རིའི་བུ་བྱང་ཆེན་དེ་ལྟར་བརྩོན་པ་ནི་ཤེར་ཕྱིན་ལ་བརྩོན་ཞེས་བརྗོད་པར་བྱའོ། །ཞེས་པའི་བར་གྱིས་བསྟན། དེའི་དོན་བཤད་པ་ལ།ལམ་ལ་སྦྱིན་པ་ལ་སོགས་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་བདག་ཉིད་དམ་ནང་སྟོང་པ་ཉིད་ལ་སོགས་པ་ནི། ཕྱི་སྟོང་པ་ཉིད་ལ་སོགས་པ་དང་། སྔོན་གྱི་མཐའ་དང་། ཕྱི་མའི་མཐའ་དག་ཕན་ཚུན་ལྡན་པ་དང་མི་ལྡན་པ་མ་ཡིན་པ་ཉིད་དུ་སྒྲུབ་བོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "262",
+  "paragraph_key": "472725e5218cea24",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:12.878247Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "དེ་བཞིན་ཉིད་སོགས་དང་། །མཚུངས་པར་ལྡན་དང་མི་ལྡན་དང་། །",
+      "relevance": "This quote from the commentary explains the third of the nine aspects related to wrong conceptions regarding non-association or association with suchness (de bzhin nyid), which corresponds to the topic discussed in Paragraph 2.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~153096 in the commentary file, unit 78/360",
+      "verification": "verified_fuzzy",
+      "correctness_score": 97,
+      "chunk_id": 77,
+      "unit_hash": "e791ccfa1c42",
+      "passage_hash": "52b11fce7347",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གཟུགས་ལ་སོགས་པའི་ཤེས་བྱ་དང་། དེ་བཞིན་ཉིད་དག་ཡོངས་སུ་མ་ཤེས་པས་དེ་བཞིན་ཉིད་ལ་སོགས་པ་དང་མཚུངས་པར་ལྡན་པ་དང་མི་ལྡན་པ་ལ་ཀུན་ཏུ་རྨོངས་པ་དང་། །",
+      "relevance": "This passage explains the misconception concerning whether objects such as form are associated or unassociated with suchness, matching the theme of Paragraph 2.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~153192 in the commentary file, unit 78/360",
+      "verification": "UNVERIFIED",
+      "correctness_score": 84,
+      "chunk_id": 77,
+      "unit_hash": "e791ccfa1c42",
+      "passage_hash": "52b11fce7347",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 360,
+    "units_scanned": 360,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

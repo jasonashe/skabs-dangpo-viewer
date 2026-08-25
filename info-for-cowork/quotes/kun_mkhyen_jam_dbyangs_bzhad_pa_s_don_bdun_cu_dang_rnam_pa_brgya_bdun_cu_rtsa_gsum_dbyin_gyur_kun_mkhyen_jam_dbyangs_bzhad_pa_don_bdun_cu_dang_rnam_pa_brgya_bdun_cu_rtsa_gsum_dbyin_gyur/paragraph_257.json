@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "258_གསུམ་པ་དྲིས། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "གསུམ་པ་དྲིས་ལན་དེས་གྲུབ་པའི་དོན་བཤད་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་ལ་དམིགས་པ་ཡིན་ཏེ། དེ་གོང་དུ་མདོ་བཞི་ལས་སྒྲུབ་པ་དེའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "7abc7ca2db8d7cf2",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:13:49.578705Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ།",
+      "relevance": "This explains that generating the mind is essentially desiring complete enlightenment for the sake of others' welfare, matching the focus on the altruistic intent of the Mahāyāna mind generation.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~1104429 in the commentary file, unit 552/606",
+      "verification": "UNVERIFIED",
+      "correctness_score": 17,
+      "chunk_id": 551,
+      "unit_hash": "95a0516da08e",
+      "passage_hash": "2b0b8441d4f3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 606,
+    "units_scanned": 606,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

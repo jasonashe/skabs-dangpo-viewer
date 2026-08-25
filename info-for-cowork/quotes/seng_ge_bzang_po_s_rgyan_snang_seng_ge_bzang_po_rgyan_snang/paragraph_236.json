@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "237_སྐབས་བཞི་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་བཞི་པར། དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །ཞེས་སོགས་སུ་བསྟན་པ་ནི་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ། སྐབས་ལྔ་པར། སྦྱོར་ལམ་བསྟན་པ་ནི་རྩེ་སྦྱོར་གྱི་བསྟན་པ་ཡིན་པས་མི་ཟློས་པའི་ཕྱིར། འདི་དག་ནི་འཕགས་པའི་བཞེད་པ་གསེར་ཕྲེང་དུ་བཀོད་པའོ།།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "aa12c9d41b6f3b0d",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:20.991013Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འདི་སྙམ་དུ་ཇི་སྲིད་མངོན་པར་ཞེན་པའི་ཚུལ་གྱིས་མཚན་མར་འཛིན་པ་ལ་སྤྱོད་པ་དེ་སྲིད་དུ་མཚན་མ་ནི་བྱང་ཆུབ་སེམས་དཔའི་ཉོན་མོངས་པའོ་ཞེས་གསུངས་པས་དམིགས་པའི་གཡང་ས་འཁོར་བའི་ཉོན་མོངས་པའི་ལྟུང་བར་གྱུར་པ་ཡིན་ནོ། །",
+      "relevance": "This quote relates to the discussion of the fourth chapter's practices and ways of apprehending marks or objects without falling into extremes or conceptual elaborations.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~119641 in the commentary file, unit 62/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 61,
+      "unit_hash": "1325adbb3374",
+      "passage_hash": "62ea747ba075",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །སེམས་ཅན་ཐམས་ཅད་ཡིན་པར་བསྔགས། །དེ་དག་ཉིད་ལ་སེམས་མཉམ་སོགས། །རྣམ་པ་དག་ནི་བཅུར་བཤད་དོ། །",
+      "relevance": "This passage is relevant because it provides the root verse explaining the object of focus and aspects of the heat stage (dro ba) of the warming/appetizing practices that correspond to the fourth chapter's analysis.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~803513 in the commentary file, unit 413/577",
+      "verification": "verified_fuzzy",
+      "correctness_score": 97,
+      "chunk_id": 412,
+      "unit_hash": "1c9b640ba915",
+      "passage_hash": "b12f789f8aea",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

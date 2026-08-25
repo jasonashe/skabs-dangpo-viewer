@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "282_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 221",
+  "root_paragraph": "ཁོ་ན་རེ། སྟོང་ཉིད་རྟོགས་པའི་ཤེས་རབ་ཀྱིས་དངོས་སུ་མ་ཟིན་པའི་སེམས་བསྐྱེད་རྒྱུད་ལྡན་གྱི་ས་བརྒྱད་པ་བ་ཡོད་པར་ཐལ། སྤྱོད་པ་ཉམས་ལེན་གྱི་བྱ་བས་དངོས་སུ་མ་ཟིན་པའི་སེམས་བསྐྱེད་རྒྱུད་ལྡན་གྱི་དེ་ཡོད་པའི་ཕྱིར། འདོད་ན། བདེན་འཛིན་མངོན་གྱུར་པ་རྒྱུད་ལྡན་གྱི་དེ་ཡོད་པར་ཐལ་ལོ། །ཟེར་ན་མ་ཁྱབ། ཁོ་ན་རེ། སེམས་ཅན་གཅིག་གི་རྒྱུད་ལ་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་རྫས་ཐ་དད་པ་གཉིས་ཅིག་ཅར་དུ་ཡོད་པར་ཐལ༑ ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་པའི་རྒྱུད་ལ་ཐེག་ཆེན་སེམས་བསྐྱེད་ཡོད་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། མདོ་ལས།སེམས་ཅན་རྣམས་ནི་རྣམ་པར་ཤེས་པའི་རྒྱུད་རེ་རེ་བའོ། །ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་རིགས་མཐུན་རྫས་ཐ་དད་པ་དུ་མ་ཅིག་ཅར་དུ་མངོན་གྱུར་དུ་རྒྱུད་ལྡན་གྱི་སེམས་ཅན་མེད་པ་ལུང་དེའི་དོན་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "221",
+  "paragraph_key": "faa1a37514ba9a5d",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.394175Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སེམས་ཅན་རྣམས་ནི་རྣམ་པར་ཤེས་པའི་རྒྱུད་རེ་རེ་བའོ་ཞེས་འབྱུང་བས།",
+      "relevance": "This quote supports the discussion on whether multiple distinct consciousness streams can exist simultaneously in one sentient being, citing the principle that sentient beings possess individual, distinct mental continuums.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~864723 in the commentary file, unit 444/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 82,
+      "chunk_id": 443,
+      "unit_hash": "5dcd44375b8b",
+      "passage_hash": "0ffef6643b8c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སེམས་ཅན་རྣམས་ནི་རྣམ་པར་ཤེས་པའི་རྒྱུད་རེ་རེ་བའོ། །",
+      "relevance": "This quote is cited to address the misconception regarding multiple distinct cognitive states existing at once, referencing the scriptural basis that sentient beings have single, individual streams of consciousness.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~864723 in the commentary file, unit 444/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 79,
+      "chunk_id": 443,
+      "unit_hash": "5dcd44375b8b",
+      "passage_hash": "0ffef6643b8c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

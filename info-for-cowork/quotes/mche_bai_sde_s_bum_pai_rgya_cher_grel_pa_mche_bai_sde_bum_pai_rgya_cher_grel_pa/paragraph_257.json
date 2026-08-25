@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "258_གསུམ་པ་དྲིས། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "གསུམ་པ་དྲིས་ལན་དེས་གྲུབ་པའི་དོན་བཤད་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་ལ་དམིགས་པ་ཡིན་ཏེ། དེ་གོང་དུ་མདོ་བཞི་ལས་སྒྲུབ་པ་དེའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "7abc7ca2db8d7cf2",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:45.833306Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote summarizes that the generation of bodhicitta is characterized by the desire for complete enlightenment for the sake of others' welfare.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~600345 in the commentary file, unit 308/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 33,
+      "chunk_id": 307,
+      "unit_hash": "c38e54023f7f",
+      "passage_hash": "294211374eff",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

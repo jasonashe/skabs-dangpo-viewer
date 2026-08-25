@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "177_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 149",
+  "root_paragraph": "ཁོ་ན་རེ། དམན་ལམ་སྔོན་དུ་མ་སོང་བའི་བྱང་སེམས་འཕགས་པས་རྫོགས་སྨིན་སྦྱངས་གསུམ་མ་བྱས་པར་རང་གི་ཐོབ་བྱར་གྱུར་པའི་འདིར་བསྟན་ཡང་དག་མཐའ་མངོན་དུ་བྱེད་ནུས་པར་ཐལ། དེས་དེ་གསུམ་མ་བྱས་པར་འདིར་བསྟན་ཡང་དག་མཐའ་མངོན་དུ་བྱེད་ནུས་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། དེ་ངོ་བོ་ཉིད་སྐུ་ཡིན་པའི་ཕྱིར་ཏེ། དེའི་ཐོབ་བྱའི་མྱང་འདས་དེ་མི་གནས་པའི་མྱང་འདས་ཡིན་པའི་ཕྱིར། མ་གྲུབ་ན། དེ་ཆོས་ཅན༑ ཁྱོད་ཀྱི་ཐོབ་བྱར་གྱུར་པའི་དེ་དེར་ཐལ། ཁྱོད་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་པའི་ཕྱིར་ཟེར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "149",
+  "paragraph_key": "ee09f04578d16fdb",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+  "generated_at": "2026-08-20T04:14:40.248062Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "ཡང་དག་པའི་མཐའ་མ་ཡིན་པར་མ་ཡིན་ཞེས་བྱ་བ་ནི་མྱ་ངན་ལས་འདས་པའི་ཚེ་ཡང་དག་པའི་དོན་གྱི་མཐའོ་ཞེས་བྱ་བའམ། ཡང་དག་པའི་དོན་གྱི་མཐའ་མ་ཡིན་ནོ་ཞེས་བྱ་བར་རྣམ་པར་རྟོག་པ་མེད་པའི་ཕྱིར་རོ། །",
+      "relevance": "This passage explains the true limit (ཡང་དག་པའི་མཐའ་ / dharmata) in a non-conceptual way, which is directly relevant to the discussion about realizing the true limit in target paragraph 1.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~10166 in the commentary file, unit 6/415",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 5,
+      "unit_hash": "57f96d43d6ec",
+      "passage_hash": "2e89edb2b6f0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 415,
+    "units_scanned": 415,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "root_paragraph_heading": "202_ཁ་ཅིག་གདུལ། དུམ་མཚན་དང་པོ། 165",
+  "root_paragraph": "ཁ་ཅིག །གདུལ་བྱའི་ཉོན་མོངས་སྤོང་ཕྱིར་དུ་གསུངས་པའི་སངས་རྒྱས་ཀྱི་གསུང་༑ བཀའི་མཚན་ཉིད་ཟེར་བ་མི་འཐད་དེ། བཀའི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་ཡིན་ན། ཉོན་མོངས་སྤང་དགོས་ཀྱི་གང་ཟག་ཡིན་པས་མ་ཁྱབ་པའི་ཕྱིར་ཏེ། དེར་གྱུར་པའི་ཉན་ཐོས་དགྲ་བཅོམ་ཡོད་པའི་ཕྱིར། གཞན་ཡང་། ཤཱ་རིའི་བུའི་ངག་ཏུ་གྱུར་པའི་སངས་རྒྱས་ཀྱི་བཀའ་ཆོས་ཅན། སངས་རྒྱས་ཀྱི་གསུང་ཡིན་པར་ཐལ། སངས་རྒྱས་ཀྱི་བཀའ་ཡིན་པའི་ཕྱིར། འདོད་ན། གསུང་དབྱངས་ཡན་ལག་དྲུག་ཅུའི་ཡོན་ཏན་དང་ལྡན་པར་ཐལ། འདོད་པའི་ཕྱིར། ཁྱབ་སྟེ། མདོ་སྡེའི་རྒྱན་ལས།བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །ཅེས་གསུངས་པའི་ཕྱིར། དེས་མཚོན་ནས་གཞན་ཡང་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "165",
+  "paragraph_key": "e444d538a4c3c94a",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:10.982899Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་ཕྱིར་མི་ལྡོག་པ་མ་གཏོགས་པ་དབང་པོ་རྟུལ་པོ་སྟེ་ཞེས་གསུངས་སོ་ཞེས་ཟེར་རོ། །",
+      "relevance": "This passage is relevant because it discusses statements attributed to Shariputra regarding the faculties of bodhisattvas, which relates to the target paragraph's discussion of Shariputra's speech and Buddha's word.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~126906 in the commentary file, unit 66/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 65,
+      "unit_hash": "c11aa9836a0a",
+      "passage_hash": "c93f694e780e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "This quote from Abhisamayalankara is cited to show that Buddha's speech possesses the sixty speech branches.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~642772 in the commentary file, unit 330/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 329,
+      "unit_hash": "4d4ead9407ab",
+      "passage_hash": "118b1e4f5c90",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "This quote is cited in the commentary excerpt via the target passage to explain the vastness and inconceivable nature of the sixty speech-attributes of the Buddha's teachings.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~564696 in the commentary file, unit 290/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 33,
+      "chunk_id": 289,
+      "unit_hash": "d0eea38f3e5a",
+      "passage_hash": "d784eee9ba4d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "This verse from the Abhisamayalankara is quoted in target paragraph 2 to support the argument regarding the qualities of the Buddha's speech.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~660083 in the commentary file, unit 338/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 337,
+      "unit_hash": "22d164403e70",
+      "passage_hash": "c7788441b731",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "བདེ་གཤེགས་གསུང་ནི་མཐའ་ཡས་པས༑ ༑ཡན་ལག་དྲུག་ཅུ་བསམ་མི་ཁྱབ། །",
+      "relevance": "This verse from the Abhisamayalankara is quoted in the commentary and matches the reference in the target passage concerning the sixty branches of speech.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~720999 in the commentary file, unit 369/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 26,
+      "chunk_id": 368,
+      "unit_hash": "ac20d6d6c12b",
+      "passage_hash": "c5694bb262bd",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

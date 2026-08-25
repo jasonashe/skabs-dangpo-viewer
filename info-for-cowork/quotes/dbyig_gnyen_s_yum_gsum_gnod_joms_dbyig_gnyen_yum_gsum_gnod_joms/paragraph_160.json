@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "161_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 135",
+  "root_paragraph": "གཉིས་པ་ལ། ཁ་ཅིག །འདིར་བསྟན་ཤེས་བྱའི་ལམ་དང་། བསྐྱེད་བྱའི་ལམ་གཉིས་མི་གཅིག་སྟེ། ལེགས་བཤད་གསེར་ཕྲེང་ལས།བསྐྱེད་བྱར་བཤད་པའི་ལམ་འོག་མ་གཉིས་བཏགས་པ་བ་དང་། ཤེས་བྱར་བཤད་པའི་ལམ་གསུམ་ག་མཚན་ཉིད་པ་ཡིན་ནོ༑ ༑ཞེས་གསུངས་པའི་ཕྱིར། ཞེས་ཟེར། རང་ལུགས་ནི། དེ་གཉིས་དོན་གཅིག་སྟེ། བྱང་སེམས་འཕགས་པས་འདིར་བསྟན་ཉན་རང་གི་ལམ་རྒྱུད་ལ་བསྐྱེད་པའི་སྒོ་ནས་ཤེས་པར་བྱེད་པ་ཡིན་པའི་ཕྱིར་ཏེ། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "135",
+  "paragraph_key": "eebd7e13c9b1ee4e",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:17.468404Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote supports the own-system position that the paths are identical because one must generate and know all paths.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~143927 in the commentary file, unit 74/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 45,
+      "chunk_id": 73,
+      "unit_hash": "b22c2db528a9",
+      "passage_hash": "3ebe8b423d70",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote from the text supports the author's own philosophical position that the paths are not different in essence and must all be generated and understood.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~574730 in the commentary file, unit 294/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 293,
+      "unit_hash": "0151e7672608",
+      "passage_hash": "fd950021e768",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote supports the view that the two paths (the path to be generated and the path to be known) are identical, as one must generate and know all paths.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~641610 in the commentary file, unit 328/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 327,
+      "unit_hash": "320334cb13c6",
+      "passage_hash": "2bade4780fc3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

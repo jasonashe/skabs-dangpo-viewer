@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "65_གཉིས་པ་དད། དུམ་མཚན་དང་པོ། 76",
+  "root_paragraph": "གཉིས་པ་དད་པའི་དགོས་པ་ནི། རབ་ཏུ་དང་བ་སྐྱེ་བའི་ཆེད་དུ། ཞེས་འཆད་ན། རྒྱན་གྱི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་གཉིས་པོ་དེས་མཆོད་བརྗོད་ཀྱི་ཚིགས་བཅད་ཐོས་པ་ལ་བརྟེན་ནས་ཡུམ་ལ་དང་བ་བསྐྱེད་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་དགོས་པ་ཡོད་དེ༑ དེ་ལ་བརྟེན་ནས་དེ་གཉིས་ཀྱིས་མཁྱེན་གསུམ་བརྗོད་བྱར་བྱེད་པའི་གསུང་རབ་ལ་འཛིན་པ་ལ་སོགས་པའི་དོན་དུ་གུས་པར་འགྱུར་བའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ལ་རབ་ཏུ་དང་བས་ཀྱང་དེའི་ཡོན་ཏན་མངོན་པར་འདོད་པའི་གང་ཟག་གཉིས་ཀ་ཡང་དེ་དང་དེ་ལ་བརྟེན་པའི་གསུང་རབ་ལ་རྣམ་པ་ཐམས་ཅད་དུ་གཟུང་བ་ལ་སོགས་པའི་དོན་དུ་ཤིན་ཏུ་གུས་པར་བྱེད་དོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "76",
+  "paragraph_key": "46ebd757310bac0c",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:16.083417Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "དད་པ་དེ་ཡང་གནས་གསུམ་ལ་ལྷག་པར་འགྱུར་ཏེ། ཆོས་ཟབ་མོ་བཤད་པ་དང་། ཤིན་ཏུ་བྱ་དཀའ་བ་བསྒྲུབ་པ་དང་། སངས་རྒྱས་ཀྱི་ཆོས་ཤིན་ཏུ་ངོ་མཚར་རྨད་དུ་བྱུང་བ་རྣམས་ལ་བྱ་སྟེ།",
+      "relevance": "This passage discusses how faith becomes heightened in relation to profound teachings and practices, which is relevant to the discussion of generating faith in the mother texts.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~276908 in the commentary file, unit 142/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 141,
+      "unit_hash": "5c71895d6154",
+      "passage_hash": "cba200e64794",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

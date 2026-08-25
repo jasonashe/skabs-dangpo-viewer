@@ -1,0 +1,41 @@
+# Quote collection: རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]
+**Target paragraph:** 122_བྱེ་བྲག་སྨྲ། དུམ་མཚན་དང་པོ། 109
+
+> བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག །མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། འཁོར་ལོ་རིན་པོ་ཆེ་དང་ཆོས་མཚུངས་པ་མཐོང་ལམ་ཁོ་ན་ལ་ཡོད་པའི་ཕྱིར་ཏེ། མཐོང་ལམ་གྱིས་བདེན་པ་མངོན་སུམ་དུ་རྟོགས་པས་འཁོར་ལོ་མྱུར་དུ་འགྲོ་བ་དང་ཆོས་མཚུངས་པའི་ཕྱིར་དང་། ཁམས་གོང་མའི་བདེན་པ་ལ་དམིགས་པས་མཐོ་བ་ལ་འཕར་བ་དང་ཆོས་མཚུངས༑ ཁམས་འོག་མའི་བདེན་པ་ལ་དམིགས་པས་དམའ་བ་ལ་འབབ་པ་དང་ཆོས་མཚུངས༑ བར་ཆད་མེད་ལམ་གྱིས་སྤང་བྱའི་ས་བོན་གཅོད་པས་མ་རྒྱལ་བ་ལས་རྒྱལ་བ་དང་ཆོས་མཚུངས། རྣམ་གྲོལ་ལམ་གྱིས་བྲལ་ཐོབ་འཛིན་པས་རྒྱལ་བ་རྣལ་དུ་འགོད་པ་དང་ཆོས་མཚུངས་པའི་ཕྱིར། ཞེས་འདོད། བཙུན་པ་དབྱངས་སྒྲོག་ན་རེ། འཕགས་ལམ་ཡན་ལག་བརྒྱད་ཁོ་ན་ཆོས་འཁོར་ཡིན་ཏེ། འཁོར་ལོ་རིན་པོ་ཆེ་དང་ཆོས་མཚུངས་པ་དེ་ཁོ་ན་ལ་ཡོད་པའི་ཕྱིར་ཏེ། ཡང་དག་པའི་ལྟ་བ། རྟོག་པ། རྩོལ་བ་གསུམ་ནི་གཅོད་པར་བྱེད་པའི་རྩིབས་དང་ཆོས་མཚུངས་ཏེ། དེ་གསུམ་ཤེས་རབ་ཀྱི་བསླབ་པ་ཡིན་པས། རང་གི་མི་མཐུན་ཕྱོགས་འཇོམས་པར་བྱེད་པའི་ཕྱིར། ངག །ལས་ཀྱི་མཐའ། འཚོ་བ་གསུམ་ནི་རྟེན་པར་བྱེད་པའི་ལྟེ་བ་དང་ཆོས་མཚུངས་ཏེ། དེ་གསུམ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པ་ཡིན་པས་བསླབ་པ་གཞན་གཉིས་ཀྱི་རྟེན་བྱེད་པའི་ཕྱིར། དྲན་པ་དང་། ཏིང་ངེ་འཛིན་གཉིས་སྡུད་པར་བྱེད་པའི་མུ་ཁྱུད་དང་ཆོས་མཚུངས་ཏེ། དེ་གཉིས་ཏིང་ངེ་འཛིན་གྱི་བསླབ་པའི་ནང་དུ་འདུ་བས་སེམས་དམིགས་པ་ལ་སྡུད་བྱེད་ཡིན་པའི་ཕྱིར། ཞེས་འདོད་དེ།མཛོད་ལས།ཆོས་ཀྱི་འཁོར་ལོ་མཐོང་བའི་ལམ། །མྱུར་བར་འགྲོ་སོགས་རྩིབས་སོགས་ཀྱིས། །ཞེས་གསུངས་པའི་ཕྱིར། རང་ལུགས་ནི། བཀའ་དང་ལམ་ཞུགས་ཀྱི་མངོན་པར་རྟོགས་པ་གང་རུང་གིས་བསྡུས་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན༑ ཆོས་འཁོར་གྱི་ངོ་བོ།
+
+*Coverage: complete.*
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> མཛོད་ལས།ཆོས་ཀྱི་འཁོར་ལོ་མཐོང་བའི་ལམ། །མྱུར་བར་འགྲོ་སོགས་རྩིབས་སོགས་ཀྱིས། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quote provides the verse from the Abhidharmakosa cited in paragraph 22 to establish how the path of seeing functions as the turning of the wheel.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~197828 in the commentary file, unit 101/208
+- **Verification:** UNVERIFIED
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཀྱི་འཁོར་ལོ་མཐོང་བའི་ལམ། །མྱུར་བར་འགྲོ་སོགས་རྩིབས་སོགས་ཀྱིས། །
+
+- **Why relevant:** This verse from the Abhidharmakośa is cited by the Vaibhāṣikas to argue that the wheel of dharma specifically refers to the path of seeing due to its similarity to a chariot wheel.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~292963 in the commentary file, unit 149/208
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཀྱི་འཁོར་ལོ་མཐོང་བའི་ལམ། །མྱུར་བར་འགྲོ་སོགས་རྩིབས་སོགས་ཀྱིས། །
+
+- **Why relevant:** The commentary quotes the Abhidharmakosa verse connecting the characteristics of the path of seeing with the rim and other parts of the wheel.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~145118 in the commentary file, unit 74/208
+- **Verification:** UNVERIFIED
+
+## Quote (33% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཀྱི་འཁོར་ལོ་མཐོང་བའི་ལམ། །མྱུར་བར་འགྲོ་སོགས་རྩིབས་སོགས་ཀྱིས། །
+
+- **Why relevant:** This verse from the Abhidharmakośa is cited by the opponent to argue that the path of seeing alone constitutes the turning of the wheel of doctrine due to its similarities with a chariot wheel.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~158351 in the commentary file, unit 81/208
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཀྱི་འཁོར་ལོ་མཐོང་བའི་ལམ། །མྱུར་བར་འགྲོ་སོགས་རྩིབས་སོགས་ཀྱིས། །
+
+- **Why relevant:** This verse from the Abhidharmakośa is cited by the Vaibhasika view to link the defining characteristics of the wheel of dharma to the path of seeing.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~356944 in the commentary file, unit 182/208
+- **Verification:** UNVERIFIED

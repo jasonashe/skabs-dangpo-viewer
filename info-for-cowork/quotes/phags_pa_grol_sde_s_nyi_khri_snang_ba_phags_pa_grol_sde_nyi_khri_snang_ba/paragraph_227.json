@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "228_འདི་དག་གིས། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "འདི་དག་གིས་ཟློས་པ་སྤོང་བ་ལ་འཕགས་པའི་ལུགས་དང་། སློབ་དཔོན་གྱི་ལུགས་གཉིས་ལས། སློབ་དཔོན་གྱི་བཞེད་པ་ནི་སྐབས་བཞི་པར་འཆད་ལ། འཕགས་པ་ལྟར་ན་སྒྲུབ་པ་དང་། སྦྱོར་བ་དང་། གང་ཟག་དང་། རྟོག་པ་དང་། སྒོམ་ལམ་དང་། མཐོང་ལམ་དང་། སྦྱོར་ལམ་ལ་ཟློས་པ་སྤང་བའོ། །",
+  "root_paragraph_page": "182",
+  "paragraph_key": "ff5245b7f9d44470",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:24.468580Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "འཕགས་པ་ལྟར་ན་སྒྲུབ་པ་དང་། སྦྱོར་བ་དང་། གང་ཟག་དང་། རྟོག་པ་དང་། སྒོམ་ལམ་དང་། མཐོང་ལམ་དང་། སྦྱོར་ལམ་ལ་ཟློས་པ་སྤང་བའོ། །",
+      "relevance": "This quote lists the categories where the noble tradition avoids repetition, corresponding directly to the topic of avoiding redundancy discussed in target paragraph 3.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~460788 in the commentary file, unit 236/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 23,
+      "chunk_id": 235,
+      "unit_hash": "a5d40a868307",
+      "passage_hash": "00fccbc82316",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

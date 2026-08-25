@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "249_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 192",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་དེའི་དོན་བཤད་པའི་སྒོ་ནས་ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་མཚན་ཉིད་ཀྱི་སྒོ་ནས་མདོར་བསྟན་གྱི་ཚུལ་གྱིས་འཆད་པ་ལ། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས། དེ་ཡང་སེམས་བསྐྱེད་པ་ནི། ཞེས་པས་མཚོན་བྱ་དང་། གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་པས་མཚན་ཉིད་དེ་བསྟན།",
+  "root_paragraph_page": "192",
+  "paragraph_key": "8cc8c61ca9d10928",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:51.916173Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This quote defines the characteristics of generating the Mahayana altruistic intention (sems bskyed) based on wanting complete enlightenment for the sake of others.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~82787 in the commentary file, under ‘ཙ’, unit 43/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 26,
+      "chunk_id": 42,
+      "unit_hash": "bcd517c972ef",
+      "passage_hash": "fae0f1294614",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

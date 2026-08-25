@@ -1,0 +1,13 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]
+**Target paragraph:** 35_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 60
+
+> བཞི་པ་ནི། དེས་ན་སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་འགྲེལ་པ་རྩོམ་རིགས་ཏེ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱམས་པ་མགོན་པོའ་ིཞལ་མངོན་སུམ་དུ་གཟིགས་ཏེ། འགྲེལ་པ་རྩོམ་པའི་གསུང་གི་གནང་བ་ཐོབ་པའི་ཕྱིར། རྒྱུ་མཚན་དེའི་ཕྱིར་ན་ཕྱི་རབས་ཀྱི་གཟུར་གནས་རྣམས་འགྲེལ་པ་འདི་ལ་འཆད་ཉན་གྱི་སྒོ་ནས་འཇུག་རིགས་སོ། །ཞེས་འཆད་པ་ལ།དེ་ལྟས་ཤིན་ཏུ་རྙེད་དཀའ་བ། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།
+
+*Coverage: complete.*
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> དེ་ལྟས་ཤིན་ཏུ་རྙེད་དཀའ་བ། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།
+
+- **Why relevant:** This quote supports the point about directly seeing Maitreya and obtaining permission to write the commentary, corresponding to the target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~68902 in the commentary file, unit 36/577
+- **Verification:** UNVERIFIED

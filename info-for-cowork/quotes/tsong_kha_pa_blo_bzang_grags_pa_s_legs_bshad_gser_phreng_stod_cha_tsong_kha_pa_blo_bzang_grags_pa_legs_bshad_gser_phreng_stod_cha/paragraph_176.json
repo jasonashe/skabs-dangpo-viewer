@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "177_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 149",
+  "root_paragraph": "ཁོ་ན་རེ། དམན་ལམ་སྔོན་དུ་མ་སོང་བའི་བྱང་སེམས་འཕགས་པས་རྫོགས་སྨིན་སྦྱངས་གསུམ་མ་བྱས་པར་རང་གི་ཐོབ་བྱར་གྱུར་པའི་འདིར་བསྟན་ཡང་དག་མཐའ་མངོན་དུ་བྱེད་ནུས་པར་ཐལ། དེས་དེ་གསུམ་མ་བྱས་པར་འདིར་བསྟན་ཡང་དག་མཐའ་མངོན་དུ་བྱེད་ནུས་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། དེ་ངོ་བོ་ཉིད་སྐུ་ཡིན་པའི་ཕྱིར་ཏེ། དེའི་ཐོབ་བྱའི་མྱང་འདས་དེ་མི་གནས་པའི་མྱང་འདས་ཡིན་པའི་ཕྱིར། མ་གྲུབ་ན། དེ་ཆོས་ཅན༑ ཁྱོད་ཀྱི་ཐོབ་བྱར་གྱུར་པའི་དེ་དེར་ཐལ། ཁྱོད་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་པའི་ཕྱིར་ཟེར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "149",
+  "paragraph_key": "ee09f04578d16fdb",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:50.877130Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "ཇི་སྲིད་དུ་དགེ་བའི་རྩ་བ་དེ་དག་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་སྨིན་པར་མ་གྱུར་པ་དེ་སྲིད་དུ་ཡང་དག་པའི་མཐའ་དམ་པ་མངོན་དུ་མི་བྱེད་དོ། །",
+      "relevance": "This passage is relevant to discussing whether a bodhisattva without prior Lesser Vehicle training can directly actualize the ultimate reality (yáng-dá-mǐh-tǎ).",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~111259 in the commentary file, under ‘ཙ’, unit 57/502",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 56,
+      "unit_hash": "750dc1070282",
+      "passage_hash": "9f368db84040",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "258_གསུམ་པ་དྲིས། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "གསུམ་པ་དྲིས་ལན་དེས་གྲུབ་པའི་དོན་བཤད་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་ལ་དམིགས་པ་ཡིན་ཏེ། དེ་གོང་དུ་མདོ་བཞི་ལས་སྒྲུབ་པ་དེའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "7abc7ca2db8d7cf2",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:14.012108Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "The commentary summarizes that mind generation is essentially the desire for full enlightenment for the sake of others.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~14072 in the commentary file, under ‘སེམས་བསྐྱེད།’, unit 8/101",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 7,
+      "unit_hash": "f39d78b1095b",
+      "passage_hash": "6446320707de",
+      "folio": null,
+      "sa_bcad": "སེམས་བསྐྱེད།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote explains that the mind generation (sems bskyed) is the nature of desiring complete enlightenment for the sake of others, which directly supports the reasoning in Paragraph 8.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~68745 in the commentary file, under ‘རྗེས་སུ་ཡི་རང་སྒོམ་ལམ།’, unit 36/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 45,
+      "chunk_id": 35,
+      "unit_hash": "5e6b53c6107b",
+      "passage_hash": "c5d232f863f4",
+      "folio": null,
+      "sa_bcad": "རྗེས་སུ་ཡི་རང་སྒོམ་ལམ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "This summarizes the established conclusion that the generation of the mind possesses the nature of desiring complete enlightenment for the sake of others.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~5086 in the commentary file, under ‘མཆོད་བརྗོད།’, unit 3/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 2,
+      "unit_hash": "428e6e90322d",
+      "passage_hash": "f660f5a95778",
+      "folio": null,
+      "sa_bcad": "མཆོད་བརྗོད།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "This quote concludes that mind generation is characterized by the desire for fully enlightened awakening for the sake of others.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~37794 in the commentary file, under ‘ཐེག་ཆེན་སྒྲུབ་པའི་དམིགས་པ།’, unit 20/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 19,
+      "unit_hash": "91249c09a436",
+      "passage_hash": "db819e94b6a8",
+      "folio": null,
+      "sa_bcad": "ཐེག་ཆེན་སྒྲུབ་པའི་དམིགས་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

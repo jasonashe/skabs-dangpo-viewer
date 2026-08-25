@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "33_གཞན་ཡང་བསྟན། དུམ་མཚན་དང་པོ། 60",
+  "root_paragraph": "གཞན་ཡང་། བསྟན་བཅོས་ཆེན་པོའ་ིརྣམ་བཤད་མཛད། །ཅེས་པའི་བསྟན་བཅོས་དེ་ཉི་ཁྲི་ཁོ་ན་ལ་བྱེད་རིགས་པར་ཐལ། དམ་བཅའ་འཐད་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ༑ དེ་ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལ་བྱེད་རིགས་པའི་ཕྱིར་ཏེ། འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །ཞེས་གསུངས་པ་ལྟར་འཐད་པའི་ཕྱིར།",
+  "root_paragraph_page": "60",
+  "paragraph_key": "b06e8c171f8ebbae",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:48.559869Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ།",
+      "relevance": "The commentary explicitly mentions this quote to explain that the treatise refers to the three mother scriptures (yab gyas 'bring bsdus gsum).",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~32178 in the commentary file, under ‘ཙ’, unit 17/502",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 16,
+      "unit_hash": "3c88099fbb5a",
+      "passage_hash": "04dfb67181f3",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །ཞེས་གསུངས་པ་ལྟར་འཐད་པའི་ཕྱིར།",
+      "relevance": "This quote from the commentary explicitly discusses how treatises (bstan bcos) refer specifically to the Mother scriptures (gyal ba'i yum), supporting the argument in paragraph 1 regarding the categorization of texts.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~136506 in the commentary file, under ‘ཙ’, unit 70/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 69,
+      "unit_hash": "a9e6004c5de1",
+      "passage_hash": "dfaec9cea939",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "འགྲེལ་བཤད་ཚིག་གསལ་ལས།ངེས་པའི་ཚིག་གི་ཚུལ་གྱིས་ན་བསྟན་བཅོས་ཏེ། དེ་ཡང་ཁྱད་པར་ཅན་རྒྱལ་བའི་ཡུམ་རྣམས་སོ། །ཞེས་གསུངས་པ་ལྟར་འཐད་པའི་ཕྱིར།",
+      "relevance": "This quote from the commentary supports the target passage's discussion of the term 'treatise' (bstan bcos) as referring specifically to the mother scriptures based on the Prasannapadā.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~64351 in the commentary file, under ‘ཙ’, unit 33/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 32,
+      "unit_hash": "de4b9b65814c",
+      "passage_hash": "9a76bae14b80",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

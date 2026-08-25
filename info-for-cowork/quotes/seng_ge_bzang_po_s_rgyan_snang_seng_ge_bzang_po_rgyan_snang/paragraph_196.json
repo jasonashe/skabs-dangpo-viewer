@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "197_ཁ་ཅིག་བསྟན། དུམ་མཚན་དང་པོ། 162",
+  "root_paragraph": "ཁ་ཅིག །བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་གྱི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱའི་རྒྱུད་ལ་བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་ཡོད་ཟེར་ན། མི་འཐད་དེ། བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་ཡིན་ན། རྗེ་བཙུན་བྱམས་མགོན་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པའི་ཕྱིར། རྟགས་འབུད་དོ། །ཁོ་ན་རེ།དེ་ཡོད་པར་ཐལ། སློབ་དཔོན་སེང་གེ་བཟང་པོའ་ིརྒྱུད་ལ་དེ་ཡོད་པའི་ཕྱིར་ཏེ། དེའི་རྒྱུད་ཀྱི། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །ཞེས་པའི་གཞུང་ཚིག་དེ་བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་གྱི་གཞུང་ཚིག་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཡོད་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། དེའི་རྒྱུད་ཀྱིས་བསྡུས་པའི་ཞལ་ནས་གསུངས་པའི་བཀའ་ཡོད་པར་ཐལ༑ དེའི་རྒྱུད་ཀྱི་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི་ཉན་ཐོས་ཀྱི་ལམ་གང་ཡིན་པ་དང་། ཞེས་པའི་གཞུང་ཚིག་དེ་དེ་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཡུམ་བར་མའི་མདོ་ཚིག་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཡོད་པའི་ཕྱིར། ཁྱབ་པ་སོང་། དེ་ལ་སོགས་པ་མང་པོ་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "162",
+  "paragraph_key": "366fa4e677673a6e",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:20.647910Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "This verse is quoted in the commentary and discussed regarding whether it forms part of the text belonging to the lineage of Maitreya or Sengge Wangpo.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~59663 in the commentary file, unit 31/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 30,
+      "unit_hash": "66a813797fb4",
+      "passage_hash": "61298ba8976b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

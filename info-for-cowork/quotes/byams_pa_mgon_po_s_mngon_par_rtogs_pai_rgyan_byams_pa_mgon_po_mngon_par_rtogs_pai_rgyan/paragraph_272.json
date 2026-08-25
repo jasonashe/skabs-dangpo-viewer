@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "273_གསུམ་པ་དབྱེ། དུམ་མཚན་དང་པོ། 215",
+  "root_paragraph": "གསུམ་པ་དབྱེ་བ་ལ། དཔེའི་སྒོ་ནས། ས་མཚམས་ཀྱི་སྒོ་ནས། བསྐྱེད་ཚུལ་གྱི་སྒོ་ནས། ཕྲ་རགས་ཀྱི་སྒོ་ནས། ངོ་བོའ་ིསྒོ་ནས། སྒྲས་བརྗོད་ཀྱི་སྒོ་ནས་དབྱེ་བ་དང་དྲུག ། དང་པོ་ལ། དཔེའི་སྒོ་ནས་ས་ལྟ་བུ་ནས། སྤྲིན་ལྟ་བུའི་བར་ཉེར་གཉིས་ཡོད་དེ། དེ་ཡང་ས་གསེར་ཟླ་བ་མེ། །ཞེས་སོགས་དང་། མདོ་སྡེའི་རྒྱན་ལས།སྐྱེད་པ་ས་དང་མཚུངས་པ་སྟེ༑ ༑གཞན་ནི་བཟང་པོའ་ིགསེར་དང་འདྲ། །ཟླ་བ་ཡར་གྱི་ཚེས་པ་བཞིན། །གཞན་ནི་མེ་དང་འདྲ་ཤེས་བྱ། །ཞེས་སོགས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "215",
+  "paragraph_key": "b9e03b5265d227f4",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+  "generated_at": "2026-08-20T04:14:33.177936Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+      "quote_tibetan": "དེ་ཡང་ས་གསེར་ཟླ་བ་མེ། །གཏེར་དང་རིན་ཆེན་འབྱུང་གནས་མཚོ། །རྡོ་རྗེ་རི་སྨན་བཤེས་གཉེན་དང་། །ཡིད་བཞིན་ནོར་བུ་ཉི་མ་གླུ། །རྒྱལ་པོ་མཛོད་དང་ལམ་པོ་ཆེ། །བཞོན་པ་བཀོད་མའི་ཆུ་དང་ནི། །སྒྲ་སྙན་ཆུ་བོ་སྤྲིན་རྣམས་ཀྱིས། །རྣམ་པ་ཉི་ཤུ་རྩ་གཉིས་སོ། །",
+      "relevance": "This quote lists the twenty-two similes of the generation of the awakening mind (bodhicitta), which directly supports the commentary's discussion on the classification based on examples.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།], char offset ~2735 in the commentary file, unit 2/19",
+      "verification": "verified_fuzzy",
+      "correctness_score": 97,
+      "chunk_id": 1,
+      "unit_hash": "ea22886d8ac5",
+      "passage_hash": "bb364c4258ee",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 19,
+    "units_scanned": 19,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

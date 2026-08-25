@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "343_གཞན་ཡང་རྩ། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། རྩ་བ་ཤེས་རབ་ལས།གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །ཞེས་སོགས་གསུངས་པ་མི་འཐད་པར་ཐལ། བདེན་སྟོང་ལ་བྱ་བྱེད་མི་རུང་བའི་ཕྱིར།གཞན་ཡང་། གཟུགས་མེད་པར་ཐལ། མདོ་ལས༑གཟུགས་མེད། སྒྲ་མེད། ཅེས་སོགས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་མི་ནུས་ཏེ། གཟུགས་སོགས་ཕུང་པོ་ལྔ་ཡོད་པའི་ཕྱིར་ཏེ། ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་ཐམས་ཅད་ཡོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས།",
+  "root_paragraph_page": "257",
+  "paragraph_key": "936b6e6ecc7afcbb",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:57.892538Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This famous verse from Nagarjuna is referenced to support the tenability of all conventional phenomena and causal processes when emptiness is properly established.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~354343 in the commentary file, unit 181/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 180,
+      "unit_hash": "8e045db31d64",
+      "passage_hash": "ce4ab84680d4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར། །",
+      "relevance": "This quote is referenced to discuss whether emptiness allows for the coherence of all conventional phenomena and activities.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~140047 in the commentary file, unit 72/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 24,
+      "chunk_id": 71,
+      "unit_hash": "bd78c284463c",
+      "passage_hash": "ef921e0ee861",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

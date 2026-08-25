@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "36_ལྔ་པ་ནི། དུམ་མཚན་དང་པོ། 61",
+  "root_paragraph": "ལྔ་པ་ནི། འོ་ན་ཁྱོད་ཀྱིས་མདོ་དང་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་མངོན་སུམ་དུ་རྟོགས་ནས་བསྟན་བཅོས་བརྩམས་པ་ཡིན་ནམ་ཞེ་ན། ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར། ཞེས་ཁེངས་བསྐྱུངས་ཏེ་སྤྲོ་བ་བསྐྱེད་པའི་རྒྱུ་མཚན་འཆད་པ་ལ།རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+  "root_paragraph_page": "61",
+  "paragraph_key": "f1087316cd57ad7f",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:14.955846Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །",
+      "relevance": "This verse is cited to illustrate the author's humility and pure motivation to benefit self and others despite lacking omniscience.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~248844 in the commentary file, unit 128/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 68,
+      "chunk_id": 127,
+      "unit_hash": "63b0a7fe3990",
+      "passage_hash": "2492d2e63184",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །",
+      "relevance": "This verse is cited to explain the author's motivation of wishing to benefit oneself and others even when lacking direct omniscience.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~444509 in the commentary file, unit 228/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 50,
+      "chunk_id": 227,
+      "unit_hash": "48a6b1e6bcf0",
+      "passage_hash": "5f0c6261597e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+      "relevance": "This quote illustrates the author's humility and motivation for composing the commentary despite not having direct omniscience, matching the discussion in the target paragraph.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~439139 in the commentary file, unit 225/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 224,
+      "unit_hash": "c0f7cb2fc7d1",
+      "passage_hash": "8d0ad9f8c235",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

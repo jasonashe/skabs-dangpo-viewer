@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "352_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 262",
+  "root_paragraph": "བཞི་པ་ནི། མདོ་ལས།ཤཱ་རིའི་བུ་གཞན་ཡང་བྱང་ཆེན་དེ་ལྟར་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་བདག་ཉིད་ལ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དེར་བརྩོན་ཞེས་བྱ་བའམ། མི་བརྩོན་ཞེས་བྱ་བར་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ། །ཞེས་པ་ནས། ཤཱ་རིའི་བུ་བྱང་ཆེན་དེ་ལྟར་བརྩོན་པ་ནི་ཤེར་ཕྱིན་ལ་བརྩོན་ཞེས་བརྗོད་པར་བྱའོ། །ཞེས་པའི་བར་གྱིས་བསྟན། དེའི་དོན་བཤད་པ་ལ།ལམ་ལ་སྦྱིན་པ་ལ་སོགས་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་བདག་ཉིད་དམ་ནང་སྟོང་པ་ཉིད་ལ་སོགས་པ་ནི། ཕྱི་སྟོང་པ་ཉིད་ལ་སོགས་པ་དང་། སྔོན་གྱི་མཐའ་དང་། ཕྱི་མའི་མཐའ་དག་ཕན་ཚུན་ལྡན་པ་དང་མི་ལྡན་པ་མ་ཡིན་པ་ཉིད་དུ་སྒྲུབ་བོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "262",
+  "paragraph_key": "472725e5218cea24",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:00.593448Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "ཕར་ཕྱིན་ལ།",
+      "relevance": "This quote is relevant to the discussion of applying oneself to the perfection of generosity and other perfections as explained in Paragraph 2.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~386635 in the commentary file, unit 197/208",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 196,
+      "unit_hash": "09bb1c7d6ee6",
+      "passage_hash": "329e8b13ed67",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 208,
+    "units_scanned": 208,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "298_གསུམ་པ་ལ། དུམ་མཚན་དང་པོ། 230",
+  "root_paragraph": "གསུམ་པ་ལ། བླང་བའི་ཡུལ། རྟེན་གྱི་གང་ཟག །ཇི་ལྟར་བླང་བའི་ཆོ་གའོ༑ ༑དང་པོ་ནི། གོང་མ་རྣམས་སྨོན་སེམས་དང་ལྡན་ཞིང་དེའི་བསླབ་བྱ་ལ་གནས་པས་མི་ཆོག་གི །འཇུག་སྡོམ་དང་ལྡན་པ་གཅིག་དགོས་པར་བཞེད་དོ། །གཉིས་པ་ནི། ལྷ་ཀླུ་སོགས་ལུས་དང་བསམ་པའི་སྒོ་ནས་སྨོན་སེམས་སྐྱེ་རུང་བ་ཐམས་ཅད་འདིའི་རྟེན་དུ་རུང་ཡང་འདི་ནི་ལམ་སྒྲོན་འགྲེལ་པར་འཁོར་བའི་ཡིད་འབྱུང་བ་འཆི་བ་མི་རྟག་པ་དྲན་པ་ཤེས་རབ་དང་སྙིང་རྗེ་ཆེ་བ། ཞེས་གསུངས་པ་ལྟར་རོ། །",
+  "root_paragraph_page": "230",
+  "paragraph_key": "fd6152550cd38d5a",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:13:51.180098Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "དེས་མཚོན་ནས་ལམ་ཤེས་སྐྱེ་བའི་སྣོད་རུང་ལ་ཆགས་སོགས་ཉོན་མོངས་གང་ཤས་ཆེ་བ་བཅོམ་པ་ཞིག་དགོས་པར་ཤུགས་ཀྱིས་བསྟན་ཅིང་། དེས་ན་རྟེན་ཆགས་སོགས་ཉོན་མོངས་གང་ཤས་ཆེ་བ་བཅོམ་པ་ནི་ལམ་ཤེས་ཀྱི་ཡན་ལག་དང་པོ་ཡིན་ནོ། །",
+      "relevance": "This passage from the excerpt discusses the suitable basis or vessel for generating a path (such as afflictive emotions being overcome), which is relevant to the discussion of the suitable supports and bases for generating mind-generation in Paragraph 2.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~825565 in the commentary file, unit 411/606",
+      "verification": "verified_fuzzy",
+      "correctness_score": 97,
+      "chunk_id": 410,
+      "unit_hash": "da701385c543",
+      "passage_hash": "d942086be121",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 606,
+    "units_scanned": 606,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

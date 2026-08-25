@@ -1,0 +1,139 @@
+# Quote collection: དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]
+**Target paragraph:** 1_དེ་ལ་འདིར། དུམ་མཚན་དང་པོ། 38
+
+> དེ་ལ་འདིར་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འདི་འཆད་པ་ལ། བསྟན་བཅོས་ཀྱི་སྔོན་དུ་འགྲོ་བ་སྤྱིར་བཤད་པ་དང་། སྐབས་སུ་བབས་པའི་བསྟན་བཅོས་དངོས་བཤད་པ་གཉིས། དང་པོ་ལ། རྒྱན་གྱི་བཤད་བྱའི་རྩ་བའི་མདོ་ངོས་གཟུང་བ་དང་། རྒྱན་གྱིས་མདོ་དོན་ཇི་ལྟར་བཀྲལ་བའི་ཚུལ་དང་། རྒྱན་ལ་འགྲེལ་པ་ཇི་ལྟར་བྱུང་ཚུལ་དང་། འགྲེལ་པ་གང་གི་རྗེས་སུ་འབྲངས་ནས་མངོན་རྟོགས་རྒྱན་ཇི་ལྟར་འཆད་པའི་ཚུལ་དང་བཞི་ལས། དང་པོ་ནི། ཆོས་ཀྱི་རྗེ་ཐུབ་པའི་དབང་པོ་དེ་ཉིད་ཀྱིས་དང་པོར་བྱང་ཆུབ་མཆོག་ཏུ་ཐུགས་བསྐྱེད། བར་དུ་བསྐལ་ཆེན་གྲངས་མེད་གསུམ་གྱི་ཚོགས་བསགས། མཐར་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། འཇིག་ཚོགས་ལ་ལྟ་བའི་རི་བོ་ཉི་ཤུ་མཐོ་ལ་བརླིང་བས་ངོས་ཀུན་ནས་བསྐོར་ཞིང་མ་རིག་པའི་མུན་པ་སྟུག་པོ་ཅན། ལྟ་བ་ངན་པ་སྣ་ཚོགས་པའི་འཁྲི་ཤིང་གིས་ཐར་པའི་ལམ་བསྒྲིབས་ལ། ཕྲ་རྒྱས་ཀྱི་དུག་གི་ལྗོན་ཤིང་སྡུག་བསྔལ་གྱི་འབྲས་བུ་ཡིད་དུ་མི་འོང་བ་སྟེར་བས་དཀྲིགས་པ། སྲིད་པའི་ཆུ་ཀླུང་ཆེན་པོས་ཡོངས་སུ་འཁྱུད་པའི་འཁོར་བའི་འབྲོག་དགོན་པ་ཆེན་པོ་ལས་ལུས་ཅན་མཐའ་དག་བསྒྲལ་ཏེ་ཉིད་ཀྱིས་སྐུ་ཉམས་སུ་བསྟར་བའི་འབྲས་བུ་མཆོག་ལ་འགོད་པར་མཛད་ནས། སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ་པའི་ཐབས་སུ་སྐལ་བ་དང་ལྡན་པའི་གདུལ་བྱ་རྣམས་ལ་ཆོས་ཇི་སྙེད་ཅིག་བཀའ་བསྩལ་པ་རྣམས་ཀྱི་ནང་ནས་ཆེས་ཤིན་ཏུ་ཟབ་པ་དང་ལྡན་པ་ནི་རྒྱལ་བ་ཀུན་གྱི་བགྲོད་པ་གཅིག་པའི་ལམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མདོ་སྡེ་རིན་པོ་ཆེ་འདི་ཉིད་ཡིན་ཏེ། མདོ་ལས།ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །ཞེས་དང་། མཇུག་ཡོངས་སུ་གཏད་པའི་ལེའུར།ཀུན་དགའ་བོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་འཇིག་རྟེན་ན་ཇི་སྲིད་དུ་སྤྱོད་པ་དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པ་བཞུགས་པར་རིག་པར་བྱའོ། །ཀུན་དགའ་བོ། དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་སྟོན་པར་རིག་པར་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་འདོད་པས་ཤེས་པར་བྱ་བ་སྨོས་པས་ནི་བྱང་ཆུབ་སེམས་དཔའི་བསམ་པ་བསྟན་ཏོ། །
+
+- **Why relevant:** This quote from the commentary discusses the phrase regarding realizing all dharmas in all aspects, which is cited in the target passage from the perfection of wisdom sutra.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~147229 in the commentary file, unit 76/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> རབ་འབྱོར་ནམ་མཁའ་ལྟར་ཆགས་པ་མེད་པའི་མཚན་ཉིད་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ་ཞེས་བྱ་བ་ནི་ནམ་མཁའ་བཞིན་དུ་ཐོགས་པ་མེད་པའི་མཚན་ཉིད་དོ་ཞེས་བྱ་བའི་ཐ་ཚིག་གོ། །
+
+- **Why relevant:** This quote explains the nature of the Perfection of Wisdom as being unattached like space, relating to the extensive discussion of the Prajnaparamita sutras in the target passage.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~746944 in the commentary file, unit 382/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ཤཱ་རིའི་བུས་བཅོམ་ལྡན་འདས་ཇི་ལྟར་བྱང་ཆུབ་སེམས་དཔས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱད་པར་བགྱི་ཞེས་ཞུས་པ་ནི་ཆོས་རྣམ་པ་གསུམ་དམིགས་པ་དང་བཅས་པ་དང་། མཚན་མ་དང་བཅས་པའི་ཚུལ་གྱིས་ཞུས་ཏེ། བྱང་ཆུབ་སེམས་དཔའ་དང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། དེ་ལ་སྤྱོད་པའོ། །
+
+- **Why relevant:** This quote explains the context of Sariputra's question regarding how a bodhisattva should practice the perfection of wisdom, corresponding to the themes discussed in paragraph 1.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~196355 in the commentary file, unit 101/459
+- **Verification:** verified_exact
+
+## Quote (81% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་འདོད་པས་ཤེས་པར་བྱ་བ་དེ་ཉིད་ཀྱིས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་བསྟན་ཟིན་ན་ཡང་འདིར་ཅིའི་ཕྱིར་བསྟན་ཞེ་ན།
+
+- **Why relevant:** The commentary explicitly references and analyzes the same sutra line about practicing the perfection of wisdom to attain complete enlightenment that is quoted in the target passage.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~149808 in the commentary file, unit 77/459
+- **Verification:** UNVERIFIED
+
+## Quote (79% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་འདོད་པས་ཞེས་བྱ་བ་ནི་བསམ་པ་ཕུན་སུམ་ཚོགས་པར་བསྟན་པས་གནས་བསྟན་པ་ཡིན་ནོ། །
+
+- **Why relevant:** The commentary cites and explains the foundational verse of the Perfection of Wisdom sutra concerning complete awakening, which is referenced in paragraph 1.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~123895 in the commentary file, unit 64/459
+- **Verification:** UNVERIFIED
+
+## Quote (69% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** The commentary excerpt discusses how beings train in the perfection of wisdom to attain complete awakening, matching the citation of the root sutra in the target paragraph.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~253615 in the commentary file, unit 130/459
+- **Verification:** UNVERIFIED
+
+## Quote (68% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** The commentary excerpt discusses this exact passage as the root quote defining the aspiration to attain complete enlightenment through the perfection of wisdom.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~336619 in the commentary file, unit 172/459
+- **Verification:** UNVERIFIED
+
+## Quote (58% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** This quote supports the target passage's citation of the root sutra regarding training in the perfection of wisdom.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~192076 in the commentary file, unit 99/459
+- **Verification:** UNVERIFIED
+
+## Quote (57% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** The commentary excerpt discusses the identical phrase concerning realizing all phenomena to attain complete enlightenment and practicing the perfection of wisdom, which is cited in target paragraph 1.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~843477 in the commentary file, unit 431/459
+- **Verification:** UNVERIFIED
+
+## Quote (52% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** This quote from the commentary excerpt provides the exact scriptural quotation that paragraph 1 uses to illustrate the core topic of practicing the perfection of wisdom.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~682720 in the commentary file, unit 349/459
+- **Verification:** UNVERIFIED
+
+## Quote (50% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** This passage is relevant to target paragraph 1 as it provides the core scriptural citation on practicing the perfection of wisdom in order to attain complete enlightenment.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~660107 in the commentary file, unit 337/459
+- **Verification:** UNVERIFIED
+
+## Quote (49% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** The commentary excerpt discusses realizing all phenomena in the unexcelled way through the perfection of wisdom, which is directly relevant to target paragraph 1 discussing the aspiration and practice of mastering the perfection of wisdom.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~629448 in the commentary file, unit 322/459
+- **Verification:** UNVERIFIED
+
+## Quote (47% correctness) ⚠️ UNVERIFIED
+> ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** This quote supports the commentary's point about the ultimate purpose of practicing the Prajnaparamita for complete enlightenment.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~700172 in the commentary file, unit 358/459
+- **Verification:** UNVERIFIED
+
+## Quote (44% correctness) ⚠️ UNVERIFIED
+> ཀུན་དགའ་བོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་འཇིག་རྟེན་ན་ཇི་སྲིད་དུ་སྤྱོད་པ་དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པ་བཞུགས་པར་རིག་པར་བྱའོ། །ཀུན་དགའ་བོ། དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་སྟོན་པར་རིག་པར་བྱའོ། །
+
+- **Why relevant:** This passage is quoted in the target paragraph as scriptural support for the enduring presence and teaching of the Tathāgata through the Prajñāpāramitā.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~762219 in the commentary file, unit 390/459
+- **Verification:** UNVERIFIED
+
+## Quote (42% correctness) ⚠️ UNVERIFIED
+> ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མདོ་སྡེ་རིན་པོ་ཆེ་འདི་ཉིད་ཡིན་ཏེ། མདོ་ལས།ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
+
+- **Why relevant:** The commentary discusses how training in the perfection of wisdom relates to realizing all phenomena completely, which corresponds to the target passage citing Shariputra's instruction on striving for full enlightenment through the perfection of wisdom.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~133894 in the commentary file, unit 69/459
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> མདོ་ལས།ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །ཞེས་དང་། མཇུག་ཡོངས་སུ་གཏད་པའི་ལེའུར།ཀུན་དགའ་བོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་འཇིག་རྟེན་ན་ཇི་སྲིད་དུ་སྤྱོད་པ་དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པ་བཞུགས་པར་རིག་པར་བྱའོ། །ཀུན་དགའ་བོ། དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་སྟོན་པར་རིག་པར་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary excerpt cites passages from the Prajñāpāramitā sūtra regarding training in the perfection of wisdom and the enduring presence of the Tathāgata, which supports the source text's discussion of the root sūtra and its concluding chapters.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~726264 in the commentary file, unit 371/459
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> མདོ་ལས།ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །ཞེས་དང་།
+
+- **Why relevant:** This quote from the target text provides scriptural support regarding the necessity of training in the perfection of wisdom.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~744034 in the commentary file, unit 380/459
+- **Verification:** UNVERIFIED
+
+## Quote (27% correctness) ⚠️ UNVERIFIED
+> མདོ་ལས།ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །ཞེས་དང་། མཇུག་ཡོངས་སུ་གཏད་པའི་ལེའུར།ཀུན་དགའ་བོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་འཇིག་རྟེན་ན་ཇི་སྲིད་དུ་སྤྱོད་པ་དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པ་བཞུགས་པར་རིག་པར་བྱའོ། །ཀུན་དགའ་བོ། དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་སྟོན་པར་རིག་པར་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This passage is not matched because the target quotation does not appear verbatim in the commentary excerpt.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~298205 in the commentary file, unit 153/459
+- **Verification:** UNVERIFIED
+
+## Quote (26% correctness) ⚠️ UNVERIFIED
+> མདོ་ལས།ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འཚལ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །ཞེས་དང་། མཇུག་ཡོངས་སུ་གཏད་པའི་ལེའུར།ཀུན་དགའ་བོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་འཇིག་རྟེན་ན་ཇི་སྲིད་དུ་སྤྱོད་པ་དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པ་བཞུགས་པར་རིག་པར་བྱའོ། །ཀུན་དགའ་བོ། དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་སྟོན་པར་རིག་པར་བྱའོ། །
+
+- **Why relevant:** The commentary excerpt discusses the dialogue between Sariputra and the Buddha regarding practicing the Perfection of Wisdom, matching the citation of the root sutra text in Paragraph 1.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~826394 in the commentary file, unit 423/459
+- **Verification:** UNVERIFIED

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "397_རོང་ཊཱིཀ་པ། དུམ་མཚན་དང་པོ། 286",
+  "root_paragraph": "རོང་ཊཱིཀ་པ་ན་རེ། ལུང་གི་ཆོས་དཀོན་མཆོག་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར། སློབ་པའི་ལམ་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར། སློབ་པའི་འགོག་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། མེད་དགག་ཡིན་པའི་ཕྱིར། སློབ་པ་འཕགས་པ་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཤེས་སྒྲིབ་ཀྱི་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར། ཞེས་ཟེར་ན།",
+  "root_paragraph_page": "286",
+  "paragraph_key": "b4db411194cd40f6",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:03.352454Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote is cited to show that textual teachings are to be abandoned like a raft when reaching ultimate realization, supporting the thesis in Rong Ṭīkpa's assertion in Paragraph 5.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~735568 in the commentary file, unit 378/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 377,
+      "unit_hash": "9f1529a9abb9",
+      "passage_hash": "e2aea40216bb",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །",
+      "relevance": "This quote supports the idea cited in Rong Ṭīkpa's assertion that scriptural/textual Dharma is not an ultimate refuge because it is to be abandoned like a raft upon reaching full realization.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~49059 in the commentary file, unit 26/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 25,
+      "unit_hash": "5e773fed06d0",
+      "passage_hash": "761cf4eed2a5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

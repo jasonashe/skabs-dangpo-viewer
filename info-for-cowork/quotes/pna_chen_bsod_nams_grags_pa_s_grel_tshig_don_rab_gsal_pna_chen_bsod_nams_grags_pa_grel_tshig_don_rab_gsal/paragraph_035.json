@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "36_ལྔ་པ་ནི། དུམ་མཚན་དང་པོ། 61",
+  "root_paragraph": "ལྔ་པ་ནི། འོ་ན་ཁྱོད་ཀྱིས་མདོ་དང་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་མངོན་སུམ་དུ་རྟོགས་ནས་བསྟན་བཅོས་བརྩམས་པ་ཡིན་ནམ་ཞེ་ན། ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར། ཞེས་ཁེངས་བསྐྱུངས་ཏེ་སྤྲོ་བ་བསྐྱེད་པའི་རྒྱུ་མཚན་འཆད་པ་ལ།རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+  "root_paragraph_page": "61",
+  "paragraph_key": "f1087316cd57ad7f",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:25.165137Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །",
+      "relevance": "This quote is cited in paragraph 4 to introduce the humble attitude and the motivation of benefiting oneself and others while composing the commentary.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~6139 in the commentary file, unit 4/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 65,
+      "chunk_id": 3,
+      "unit_hash": "410232c403b7",
+      "passage_hash": "b4654dc3b7ca",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This passage explains why an author might compose a commentary even if they lack direct omniscience regarding every detail, focusing on the intention to benefit others, which matches the theme of paragraph 4.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~427256 in the commentary file, unit 219/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 218,
+      "unit_hash": "07b9c5b67928",
+      "passage_hash": "9e6d5f820b7c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

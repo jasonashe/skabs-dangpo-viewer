@@ -1,0 +1,91 @@
+{
+  "root_paragraph_heading": "376_འོ་ན་སངས། དུམ་མཚན་དང་པོ། 273",
+  "root_paragraph": "འོ་ན། སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་གསུམ། །ཞེས་པས་སྒྲུབ་པའི་རྟེན་ལ་འདོམས་པའི་གདམས་ངག་འཆད་ཚུལ་དེ་གང་ཞེ་ན། འདི་ལ་མདོ་ལས་གསུངས་ཚུལ་དང་། བསྟན་བཅོས་ཀྱིས་འགྲེལ་ཚུལ་གཉིས་ལས། དང་པོ་ནི།ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །ཞེས་སོགས་གསུངས། གཉིས་པ་ནི། མདོའི་དོན་བཤད་པ་ལ། སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་གསུམ༑ ༑ཞེས་གསུངས། དེ་ཉིད་ཚིག་དོན་གྱི་སྒོ་ནས་འཆད་པ་ལ།སངས་རྒྱས་ལ་སངས་རྒྱས་དང་། ཞེས་སོགས་གསུངས།",
+  "root_paragraph_page": "273",
+  "paragraph_key": "3a10de67e283daf1",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:22.161690Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སངས་རྒྱས་ལ་སོགས་དཀོན་མཆོག་ལ་སོགས་པའི་རང་བཞིན་གྱིས་སོ། །",
+      "relevance": "This passage explains the discussion of the Three Jewels starting with the Buddha, matching the target paragraph's citation of the verse on the Three Jewels.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~516947 in the commentary file, unit 266/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 73,
+      "chunk_id": 265,
+      "unit_hash": "aa67fe8824c0",
+      "passage_hash": "e199693600e2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །",
+      "relevance": "This quote from the commentary explains the meaning of not applying form to all-knowledgeable omniscience in the Prajnaparamita as discussed in target paragraph 1.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~610327 in the commentary file, unit 314/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 313,
+      "unit_hash": "e3dc16ed7f8e",
+      "passage_hash": "6be7eeed9ec8",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །",
+      "relevance": "This quote from the commentary explains how the sutra teaches the instruction on the basis of practice regarding the Three Jewels, specifically corresponding to the citation in target paragraph 1.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~75683 in the commentary file, unit 39/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 38,
+      "unit_hash": "a3750bd18a95",
+      "passage_hash": "b98cc4bb7d8a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །",
+      "relevance": "This quote from the commentary explains the scriptural source regarding how a bodhisattva practicing the perfection of wisdom does not associate form with omniscience.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~117744 in the commentary file, unit 61/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 60,
+      "unit_hash": "01be9f1a5443",
+      "passage_hash": "62ea747ba075",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ཤཱ་རི་དྭ་ཏིའི་བུ་གཞན་ཡང་ཤེར་ཕྱིན་ལ་སྤྱོད་པའི་ཚེ་གཟུགས་ལ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་སྦྱོར་བར་མི་བྱེད་དེ། འདི་ལྟར་གཟུགས་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །",
+      "relevance": "This quote from the commentary explains the scriptural source regarding how to apply the practice of the perfection of wisdom without associating it with the ultimate omniscience on form, which corresponds to the teachings on the Buddha jewel.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~54084 in the commentary file, unit 28/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 27,
+      "unit_hash": "8e7c3cb3abc4",
+      "passage_hash": "3097611002f7",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

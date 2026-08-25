@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "53_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 69",
+  "root_paragraph": "གཉིས་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དེ་སྟོན་པ་ལ། འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས། ཞེས་གསུངས། ཐབས་ལམ་ཤེས་དེ་སྟོན་པ་ལ། ལམ་ཤེས་ཉིད་ཀྱིས། ཞེས་གསུངས། འདིའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །ཞེས་གསུངས། གསུམ་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དང་སྐྱེ་བའི་རྟེན་གཉིས་ཀའི་དབང་དུ་བྱས་པ་ནི། ཐུབ་རྣམས། ཞེས་པས་འཆད། ཐབས་རྣམ་མཁྱེན་དེ་འཆད་པ་ལ། གང་དང་ཡང་དག་ལྡན་པས། ཞེས་གསུངས༑ དེའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུངས་པ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "69",
+  "paragraph_key": "7238dc5f0d227d33",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:19.318770Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས་ལམ་ཤེས་ཉིད་ཀྱིས་འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །",
+      "relevance": "The commentary quotes this line to discuss the path-knowledge (lam shes) and its function of accomplishing the welfare of beings.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~524 in the commentary file, unit 1/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 0,
+      "unit_hash": "5e83b6af15ce",
+      "passage_hash": "61da5eca29ef",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གང་དང་ཡང་དག་ལྡན་པས་ཐུབ་རྣམས་རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུང་བ། །",
+      "relevance": "The commentary quotes this line regarding the omniscient wisdom (rnam mkhyen) and the detailed presentation of all aspects.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~596 in the commentary file, unit 1/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 0,
+      "unit_hash": "5e83b6af15ce",
+      "passage_hash": "61da5eca29ef",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །",
+      "relevance": "This quote is relevant to explaining the result of the path of the path-knower (lam shes) in accomplishing the welfare of the world.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~552738 in the commentary file, unit 284/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 283,
+      "unit_hash": "689c378b05a3",
+      "passage_hash": "db34b32c18db",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

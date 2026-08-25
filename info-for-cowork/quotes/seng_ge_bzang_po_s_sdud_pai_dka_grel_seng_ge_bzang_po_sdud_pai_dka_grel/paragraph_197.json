@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "198_གཞན་ཡང་བྱང། དུམ་མཚན་དང་པོ། 163",
+  "root_paragraph": "གཞན་ཡང་། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི།སྐྱེས་བུ་རང་བཞིན་མ་ཡིན་རྣམ་འགྱུར་མིན༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་ཕྱི་རོལ་པའི་གཞུང་ཡིན་པར་ཐལ། དེ་འདྲ་ཡོད་པ་གང་ཞིག ༑སློབ་དཔོན་སེང་གེ་བཟང་པོའི་རྒྱུད་ཀྱི། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་གྱི་གཞུང་ཚིག་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེ་ཆོས་ཅན། བསྟན་བཅོས་རྣམ་དག་ཡིན་པར་ཐལ། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི་བསྟན་བཅོས་ཡིན་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། ཕྱི་རོལ་པའི་གཞུང་ཡིན་པའི་ཕྱིར།རྟགས་ཁྱབ་ཁས།",
+  "root_paragraph_page": "163",
+  "paragraph_key": "2fea077ec8d2d5a9",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:16.670428Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "The target passage uses this exact line from the commentary to construct an argument regarding the categorization of verses within the mental continuum of noble bodhisattvas.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~478514 in the commentary file, unit 245/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 49,
+      "chunk_id": 244,
+      "unit_hash": "ddea8ff9f514",
+      "passage_hash": "8feac9d2de56",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "This quote from the commentary is analyzed in paragraph 23 in connection with a dialectical argument about whether a verse of the Abhisamayalankara can be categorized as an external text.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~532307 in the commentary file, unit 273/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 49,
+      "chunk_id": 272,
+      "unit_hash": "9e25bb08ab30",
+      "passage_hash": "d3e27ac9e41f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "This quote is referenced in the target passage as part of an analysis regarding whether specific scriptural lines belong to the commentary or are extraneous.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~703587 in the commentary file, unit 361/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 360,
+      "unit_hash": "1b41e863040f",
+      "passage_hash": "1f875a5749dd",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

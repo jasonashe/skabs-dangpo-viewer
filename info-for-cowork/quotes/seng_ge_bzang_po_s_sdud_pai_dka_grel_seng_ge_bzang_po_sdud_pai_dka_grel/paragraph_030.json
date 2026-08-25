@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "31_འདི་ལ་ཐོགས། དུམ་མཚན་དང་པོ། 59",
+  "root_paragraph": "འདི་ལ་ཐོགས་མེད་ཀྱིས་རྣམ་བཤད་མཛད་ཚུལ་དང་། དབྱིག་གཉེན་གྱིས་བཀྲོལ་ཚུལ་དང་། འཕགས་པས་ཕྱེ་ཚུལ། བཙུན་པས་རྣམ་བཤད་བྱས་ཚུལ་དང་བཞི་ལས༑ དང་པོ་ནི། འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །ཅེས་སོགས་ཀྱིས་འཆད། གཉིས་པ་ནི།འགྲོ་དོན་རྩ་ལག་དབྱིག་གི་གཉེན། །ཞེས་སོགས་ཀྱིས་འཆད། གསུམ་པ་ནི།འཕགས་པའི་ཁོངས་སུ་གཏོགས་པ་ཡི། །ཞེས་སོགས་ཀྱིས་འཆད། བཞི་པ་ནི༑དེ་ཡི་འོག་ཏུ་རྣམ་གྲོལ་སྡེ། །ཞེས་སོགས་ཀྱིས་འཆད།",
+  "root_paragraph_page": "59",
+  "paragraph_key": "179d52d390fb8939",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:14.901574Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "འཕགས་པའི་ཁོངས་སུ་གཏོགས་པ་ཡི། །",
+      "relevance": "This quote is quoted and discussed in relation to the third part of the analysis in paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~440307 in the commentary file, unit 226/440",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 225,
+      "unit_hash": "f8e78d30f833",
+      "passage_hash": "5f0c6261597e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "དེ་ཡི་འོག་ཏུ་རྣམ་གྲོལ་སྡེ། །",
+      "relevance": "This quote is referenced to explain the fourth part of the analysis by the masters in paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~442075 in the commentary file, unit 227/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 62,
+      "chunk_id": 226,
+      "unit_hash": "153e4ef87e89",
+      "passage_hash": "5f0c6261597e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "འགྲོ་དོན་རྩ་ལག་དབྱིག་གི་གཉེན། །",
+      "relevance": "This quote is relevant as it directly corresponds to the second part of Asanga's analysis mentioned in paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~439859 in the commentary file, unit 226/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 50,
+      "chunk_id": 225,
+      "unit_hash": "f8e78d30f833",
+      "passage_hash": "5f0c6261597e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

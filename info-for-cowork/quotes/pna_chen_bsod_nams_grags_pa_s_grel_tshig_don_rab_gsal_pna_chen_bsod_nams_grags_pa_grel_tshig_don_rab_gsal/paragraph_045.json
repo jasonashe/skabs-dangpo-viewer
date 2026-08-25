@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "46_གཞན་ཡང་རྗེ། དུམ་མཚན་དང་པོ། 66",
+  "root_paragraph": "གཞན་ཡང་། རྗེ་བཙུན་བྱམས་པ་དེ་མ་འོངས་པ་ན་འཛམ་བུའི་གླིང་དུ་བྱོན་པའི་ཚེ་སྲིད་པ་ཐ་མ་པའི་བྱང་སེམས་ཡིན་པར་ཐལ། དེ་ད་ལྟ་སྐྱེ་བ་གཅིག་ཐོགས་ཀྱི་བྱང་སེམས་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེའི་ཚེ་དེ་རྟེན་དེ་ལ་འཚང་རྒྱ་བར་ཐལ་ལོ། །",
+  "root_paragraph_page": "66",
+  "paragraph_key": "1cc8412aa8776cac",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:25.240496Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "དྲུག་པ་ལ། ས་བཅུ་པ་ཐོབ་མ་ཐག་པ་ལ་འགོད་པ། སྐྱེ་བ་གཅིག་གིས་ཐོགས་པ་ལ་འགོད་པ། སྲིད་པ་ཐ་མ་པ་ལ་འགོད་པའོ། །",
+      "relevance": "This passage is relevant because it discusses the tenth bhumi and the state of being 'inhibited by only one birth' (སྐྱེ་བ་གཅིག་གིས་ཐོགས་པ), which relates to the target passage's discussion of Maitreya as a final-existence bodhisattva.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~415340 in the commentary file, unit 213/221",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 212,
+      "unit_hash": "c9c0b460d4a9",
+      "passage_hash": "7c8b861a0c5a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "དེ་ད་ལྟ་སྐྱེ་བ་གཅིག་ཐོགས་ཀྱི་བྱང་སེམས་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote connects to the discussion of Maitreya being a once-future-life bodhisattva (skye ba gcig thogs pa) as mentioned in the target passage.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~100173 in the commentary file, unit 52/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 46,
+      "chunk_id": 51,
+      "unit_hash": "b505e7689758",
+      "passage_hash": "9b33b46034d8",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

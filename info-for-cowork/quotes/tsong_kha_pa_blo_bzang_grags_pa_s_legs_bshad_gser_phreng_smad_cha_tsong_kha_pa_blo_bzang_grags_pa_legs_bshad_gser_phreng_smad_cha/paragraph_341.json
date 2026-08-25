@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "342_གཞན་ཡང་བདེན། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། བདེན་སྟོང་ལ་བྱ་བྱེད་ལས་གསུམ་མི་རུང་བས་ཁྱབ་པར་ཐལ། ཆོས་ཐམས་ཅད་བདེན་སྟོང་མ་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། རྩ་བ་ཤེས་རབ་ལས༑གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །ཞེས་གསུངས་པ་འདི་རང་གཞུང་དུ་ཐལ་ལོ། །འདོད་ན།གལ་ཏེ་འདི་ཀུན་མི་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད༑ ༑འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །ཞེས་གསུངས་པ་འདི་ཕྱོགས་སྔ་མའི་གཞུང་དུ་ཐལ་ལོ། །",
+  "root_paragraph_page": "257",
+  "paragraph_key": "a0cbaf06d01b8970",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:59.558738Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This quote from the Root Treatise on the Middle Way is cited in the commentary to discuss whether emptiness is compatible with the functions of origination and cessation, which is the core topic of paragraph 6.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~1008932 in the commentary file, under ‘ཚ’, unit 518/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 517,
+      "unit_hash": "645573a9b9c6",
+      "passage_hash": "b10fe1ef9ba2",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "རྩ་བ་ཤེས་རབ་ལས།གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse from the Mulamadhyamakakarika is used to analyze the logical consequences concerning whether phenomena are empty or not.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~1016915 in the commentary file, under ‘ཚ’, unit 522/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 521,
+      "unit_hash": "e7ce83d09e73",
+      "passage_hash": "dcc6eb34e3a2",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

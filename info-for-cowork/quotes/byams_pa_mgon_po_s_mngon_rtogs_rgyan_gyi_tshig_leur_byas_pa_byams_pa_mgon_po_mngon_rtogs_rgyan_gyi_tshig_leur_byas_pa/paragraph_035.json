@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "36_ལྔ་པ་ནི། དུམ་མཚན་དང་པོ། 61",
+  "root_paragraph": "ལྔ་པ་ནི། འོ་ན་ཁྱོད་ཀྱིས་མདོ་དང་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་མངོན་སུམ་དུ་རྟོགས་ནས་བསྟན་བཅོས་བརྩམས་པ་ཡིན་ནམ་ཞེ་ན། ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར། ཞེས་ཁེངས་བསྐྱུངས་ཏེ་སྤྲོ་བ་བསྐྱེད་པའི་རྒྱུ་མཚན་འཆད་པ་ལ།རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+  "root_paragraph_page": "61",
+  "paragraph_key": "f1087316cd57ad7f",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:33.461628Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "ཀུན་ཏུ་བདག་གི་ངོ་བོ་ནི། ། སྟོན་པ་ཉིད་དང་ཉི་ཤུ་འོ། །",
+      "relevance": "This quote from the commentary excerpt corresponds to the verse cited in paragraph 4 regarding the intention of composing the treatise out of a wish to benefit oneself and others.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~10310 in the commentary file, unit 6/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 5,
+      "unit_hash": "47c64a8a6b0b",
+      "passage_hash": "3edfadbc46e9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

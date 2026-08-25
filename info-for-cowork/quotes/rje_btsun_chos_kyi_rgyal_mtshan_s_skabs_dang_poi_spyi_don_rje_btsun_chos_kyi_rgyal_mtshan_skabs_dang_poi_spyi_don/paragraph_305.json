@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "306_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 235",
+  "root_paragraph": "གཉིས་པ་ནི། ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ཆེན་པོ་ཐོབ་ནས་ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་ལ་བརྟེན་ནས་མཆོག་གི་སྤྲུལ་སྐུ་ལས་གདམས་ངག་དངོས་སུ་ཉན་པ་ཡིན་ཏེ། མདོ་སྡེའི་རྒྱན་ལས།དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ ༑ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །ཞེས་གསུངས་པའི་ཕྱིར། འོ་ན། ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་གང་ཞེ་ན། འདི་ལ་ངོ་བོ། སྒྲ་བཤད༑ ས་མཚམས་དང་གསུམ་ལས།",
+  "root_paragraph_page": "235",
+  "paragraph_key": "dd2c4c96add79a1d",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:02.896228Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།]",
+      "quote_tibetan": "དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ །ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །",
+      "relevance": "This verse from the Abhisamayalankara / Mahayanasutralankara cited in the text explains how practitioners obtain vast instructions relying on the continuous stream of Dharma meditation.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།], char offset ~448111 in the commentary file, under ‘འཇུག་པའི་རྒྱ་ཆེར་འགྲེལ་ལས་མ་རྙེད།’, unit 228/228",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 227,
+      "unit_hash": "aa05baa30cb5",
+      "passage_hash": "7c641d9f3195",
+      "folio": null,
+      "sa_bcad": "འཇུག་པའི་རྒྱ་ཆེར་འགྲེལ་ལས་མ་རྙེད།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 228,
+    "units_scanned": 228,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

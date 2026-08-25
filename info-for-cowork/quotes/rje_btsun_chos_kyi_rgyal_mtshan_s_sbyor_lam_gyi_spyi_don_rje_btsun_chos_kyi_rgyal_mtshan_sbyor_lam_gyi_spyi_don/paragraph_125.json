@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "126_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 111",
+  "root_paragraph": "གསུམ་པ་ནི། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+  "root_paragraph_page": "111",
+  "paragraph_key": "31f738554046b0e8",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:59.153004Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "ཀུན་རྫོབ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱེད་པ་དང་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའི་མཚན་ཉིད། དོན་དམ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའི་མཚན་ཉིད།",
+      "relevance": "This passage from the commentary defines the criteria for provisional (དྲང་དོན་) and definitive (ངེས་དོན་) sutras, directly corresponding to the definitions discussed in Paragraph 1.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~148587 in the commentary file, unit 76/208",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 75,
+      "unit_hash": "3f0bc284f292",
+      "passage_hash": "cd83d95db52e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+      "relevance": "This quote defines the definitive meaning (nges don) of sutras based on whether they explicitly teach emptiness as their primary topic.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~145251 in the commentary file, unit 74/208",
+      "verification": "UNVERIFIED",
+      "correctness_score": 65,
+      "chunk_id": 73,
+      "unit_hash": "c74203436b1d",
+      "passage_hash": "f3915e6ba13c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོང་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+      "relevance": "This quote from paragraph 1 is matched by the commentary excerpt discussing the exact definitions of definitive (ངེས་དོན་) and interpretable (དྲང་དོན་) sutras.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~135150 in the commentary file, unit 69/208",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 68,
+      "unit_hash": "ef7403ab46c9",
+      "passage_hash": "3df9f2289f11",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 208,
+    "units_scanned": 208,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

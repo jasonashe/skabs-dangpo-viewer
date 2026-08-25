@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "251_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 193",
+  "root_paragraph": "གཉིས་པ་ལ་རྩོད་པ་དང་། ལན་གཉིས་ལས། དང་པོ་ནི། ཁོ་ན་རེ། གཞན་དོན་དུ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དོན་གཉེར་གྱི་འདུན་པ་ཆོས་ཅན། སེམས་བསྐྱེད་མ་ཡིན་པར་ཐལ། སེམས་བྱུང་ཡིན་པའི་ཕྱིར། འདོད་ན། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས་པ་དང་འགལ་ལོ། །ཞེས་པའི་རྒོལ་བ་དེ་སྟོན་པ་ལ།ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པ་ཉིད་ནི་དེ་དོན་དུ་གཉེར་བ་དགེ་བའི་ཆོས་ལ་འདུན་པ་སེམས་ལས་བྱུང་བ་ཡིན་ལ། སེམས་བསྐྱེད་པ་ནི་སེམས་ཡུལ་ཁྱད་པར་དུ་འཕགས་པ་སྣང་བ་ཅན་འབྱུང་བ་མ་ཡིན་ནམ། ཇི་ལྟར་ན་དེ་སེམས་བསྐྱེད་པ་ཡིན་པར་འགྱུར་ཞེ་ན། ཞེས་གསུངས།",
+  "root_paragraph_page": "193",
+  "paragraph_key": "8f5c405994551699",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:34.005843Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། ། ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This quote is the exact verse cited in the objection regarding whether aspiring for complete enlightenment constitutes the mind of enlightenment or merely a mental factor.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~40429 in the commentary file, unit 21/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 20,
+      "unit_hash": "7fe864760384",
+      "passage_hash": "90bc08c7d7c5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This quote is used within the objector's query to question how a mental factor of aspiration can be classified as semskye.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~4593 in the commentary file, unit 3/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 81,
+      "chunk_id": 2,
+      "unit_hash": "742436d687e4",
+      "passage_hash": "30c104283174",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

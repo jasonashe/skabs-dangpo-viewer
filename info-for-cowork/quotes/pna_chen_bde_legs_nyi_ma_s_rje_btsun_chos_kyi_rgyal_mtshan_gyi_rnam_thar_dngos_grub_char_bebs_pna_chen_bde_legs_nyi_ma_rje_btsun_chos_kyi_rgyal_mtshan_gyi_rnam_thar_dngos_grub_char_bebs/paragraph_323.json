@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "324_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 247",
+  "root_paragraph": "གཉིས་པ་ལ། རྣམ་གྲངས་པའི་དང་། རྣམ་གྲངས་པ་མ་ཡིན་པའི་ཡུལ་དོན་དམ་གཉིས་ལས། དང་པོ་ནི། མྱུ་གུ་དང་བདེན་མེད་ཀྱི་ཚོགས་དོན་ལྟ་བུ། གཉིས་པ་ནི། མྱུ་གུ་བདེན་པས་སྟོང་པའི་སྟོང་ཉིད་ལྟ་བུ། དེ་ལྟར་ཡང་། སྟོང་ཐུན་ལས།བདེན་མེད་ལྟ་བུའི་མེད་དགག་དོན་དམ་དངོས་དང་། བདེན་མེད་དང་མྱུ་གུ་ཚོགས་པའི་མ་ཡིན་དགག་ལྟ་བུ་ནི་མཐུན་པའི་དོན་དམ་དུ་འཇོག་པས་ཡུལ་དང་ཡུལ་ཅན་གཉིས་ཀ་ལ་འབྱེད་ཚུལ་ཤེས་དགོས་སོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "247",
+  "paragraph_key": "6a1915a2a2952658",
+  "commentary": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]",
+  "generated_at": "2026-08-20T04:14:24.144562Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]",
+      "quote_tibetan": "གཟུགས་དང་གཟུགས་འཛིན་ཚད་མ་རྫས་གཞན་གྱིས་སྟོང་པའི་སྟོང་ཉིད་ལྟ་བུ་ལ་བྱེད།",
+      "relevance": "This quote from the commentary discusses the concept of emptiness of another entity (gzhan stong in a specific context) in relation to forms and form-graspers, which is relevant to the discussion of ultimate objects and components of emptiness.",
+      "location": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།], char offset ~88007 in the commentary file, unit 46/174",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 45,
+      "unit_hash": "cefdb8d18e5e",
+      "passage_hash": "45bfa4834515",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 174,
+    "units_scanned": 174,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "342_གཞན་ཡང་བདེན། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། བདེན་སྟོང་ལ་བྱ་བྱེད་ལས་གསུམ་མི་རུང་བས་ཁྱབ་པར་ཐལ། ཆོས་ཐམས་ཅད་བདེན་སྟོང་མ་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། རྩ་བ་ཤེས་རབ་ལས༑གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །ཞེས་གསུངས་པ་འདི་རང་གཞུང་དུ་ཐལ་ལོ། །འདོད་ན།གལ་ཏེ་འདི་ཀུན་མི་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད༑ ༑འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །ཞེས་གསུངས་པ་འདི་ཕྱོགས་སྔ་མའི་གཞུང་དུ་ཐལ་ལོ། །",
+  "root_paragraph_page": "257",
+  "paragraph_key": "a0cbaf06d01b8970",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:57.885849Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse from the Mulamadhyamakakarika is used in paragraph 17 as an opponent's citation regarding the perceived faults of emptiness.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~377456 in the commentary file, unit 192/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 33,
+      "chunk_id": 191,
+      "unit_hash": "3b8d3c715210",
+      "passage_hash": "3ed0f431ebf9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse from the Mulamadhyamakakarika is utilized in a consequence (thal 'gyur) argument concerning whether emptiness entails the non-existence of functional things and the four noble truths.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~360488 in the commentary file, unit 184/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 183,
+      "unit_hash": "5b0ea78de725",
+      "passage_hash": "ce4ab84680d4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse from the *Mulamadhyamakakarika* is cited to present the consequence raised against emptiness regarding the functioning of phenomena and the four noble truths.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~364261 in the commentary file, unit 186/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 185,
+      "unit_hash": "12a447b3adbc",
+      "passage_hash": "86c8098f5189",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse from the Mulamadhyamikakarika presents the consequence argued by opponents that if everything is empty, the Four Noble Truths and functions would be negated.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~138870 in the commentary file, unit 71/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 70,
+      "unit_hash": "a90412a17558",
+      "passage_hash": "ef921e0ee861",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "321_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 246",
+  "root_paragraph": "གཉིས་པ་ནི། ཤེས་བྱ་ལ་བདེན་པ་གཉིས་སུ་གྲངས་ངེས་ཏེ། ཡབ་སྲས་མཇལ་བའི་མདོ་ལས།འདི་ལྟར། དེ་བཞིན་གཤེགས་པས་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་གཉིས་ཐུགས་སུ་ཆུད་དེ་ཤེས་པར་བྱ་བ་ཡང་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་དེ་གཉིས་སུ་ཟད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "246",
+  "paragraph_key": "558c5a6885d43459",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:12.824731Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་རྣམས་ནི་དོན་དམ་པའི་བདེན་པ་རབ་ཏུ་ཞི་བ་དེ་ཐུགས་རྗེ་ཆེན་པོས་ཆེད་དུ་མངོན་སུམ་དུ་མི་མཛད་ཀི། བདེན་པ་གཉིས་སུ་དབྱེར་མེད་ཅིང་ཕ་རོལ་གྱི་དོན་དང་རྣམ་པར་ཤེས་པ་གཉིས་གང་དུ་ཡང་རྟག་ཏུ་མེད་མོད་ཀི།",
+      "relevance": "This passage is relevant because it discusses the two truths and their relationship in the context of the Tathagatas.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~285793 in the commentary file, unit 147/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 84,
+      "chunk_id": 146,
+      "unit_hash": "57516ccf6968",
+      "passage_hash": "acb3e7ac8ffc",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

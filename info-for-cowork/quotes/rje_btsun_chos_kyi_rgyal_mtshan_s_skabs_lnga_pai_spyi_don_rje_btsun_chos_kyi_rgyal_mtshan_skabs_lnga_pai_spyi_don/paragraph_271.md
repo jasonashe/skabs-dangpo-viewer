@@ -1,0 +1,20 @@
+# Quote collection: རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]
+**Target paragraph:** 272_གཞན་ཡང་བྱང། དུམ་མཚན་དང་པོ། 215
+
+> གཞན་ཡང་། བྱང་སེམས་ཚོགས་ལམ་པའི་རྒྱུད་ཀྱི་དེ་འདྲའི་སེམས་བསྐྱེད་ཆོས་ཅན། ཀུན་རྫོབ་སེམས་བསྐྱེད་ཡིན་པར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར། རང་གི་དམིགས་ཡུལ་དུ་གྱུར་པའི་ཀུན་རྫོབ་དང་སངས་རྒྱས་ཀྱི་གཞི་མཐུན་ཡོད་པ་གང་ཞིག ༑གཉིས་པ་དེའི་ཕྱིར། དང་པོ་གྲུབ་སྟེ། རྫོགས་བྱང་དེ་དེ་འདྲའི་གཞི་མཐུན་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཁྱོད་ཀྱི་དམིགས་ཡུལ་གང་ཞིག །དེ་ཀུན་རྫོབ་དང་སངས་རྒྱས་ཀྱི་གཞི་མཐུན་ཡིན་པའི་ཕྱིར། དང་པོ་གྲུབ་སྟེ། ཁྱོད་ཀྱིས་གཞན་དོན་དུ་རྫོགས་བྱང་ལ་དམིགས་པའི་ཕྱིར་ཏེ། ཁྱོད་སྤྱོད་པའི་རྟེན་གྱི་དབང་དུ་བྱས་པའི་སེམས་བསྐྱེད་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས། དེ་དེར་ཐལ། དེ་ཡོད་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (35% correctness) ⚠️ UNVERIFIED
+> བྱང་སེམས་ཚོགས་ལམ་པའི་རྒྱུད་ཀྱི་དེ་འདྲའི་སེམས་བསྐྱེད་ཆོས་ཅན། ཀུན་རྫོབ་སེམས་བསྐྱེད་ཡིན་པར་ཐལ།
+
+- **Why relevant:** This quote uses a consequence-based logical reasoning (thal 'gyur) to test whether a bodhisattva's mind generation on the path of accumulation qualifies as a conventional mind generation.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~657199 in the commentary file, unit 334/360
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> གཞན་ཡང་། བྱང་སེམས་ཚོགས་ལམ་པའི་རྒྱུད་ཀྱི་དེ་འདྲའི་སེམས་བསྐྱེད་ཆོས་ཅན། ཀུན་རྫོབ་སེམས་བསྐྱེད་ཡིན་པར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར།
+
+- **Why relevant:** This quote analyzes whether a bodhisattva on the path of accumulation's mind generation qualifies as conventional mind generation based on specific criteria.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~96706 in the commentary file, unit 50/360
+- **Verification:** UNVERIFIED

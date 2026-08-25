@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "198_གཞན་ཡང་བྱང། དུམ་མཚན་དང་པོ། 163",
+  "root_paragraph": "གཞན་ཡང་། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི།སྐྱེས་བུ་རང་བཞིན་མ་ཡིན་རྣམ་འགྱུར་མིན༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་ཕྱི་རོལ་པའི་གཞུང་ཡིན་པར་ཐལ། དེ་འདྲ་ཡོད་པ་གང་ཞིག ༑སློབ་དཔོན་སེང་གེ་བཟང་པོའི་རྒྱུད་ཀྱི། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་གྱི་གཞུང་ཚིག་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེ་ཆོས་ཅན། བསྟན་བཅོས་རྣམ་དག་ཡིན་པར་ཐལ། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི་བསྟན་བཅོས་ཡིན་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། ཕྱི་རོལ་པའི་གཞུང་ཡིན་པའི་ཕྱིར།རྟགས་ཁྱབ་ཁས།",
+  "root_paragraph_page": "163",
+  "paragraph_key": "2fea077ec8d2d5a9",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:30.151752Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "This quote from the commentary excerpt appears in the target paragraph's debate about whether lines from the Abhisamayalankara can be categorized in relation to a person's mental continuum.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~8753 in the commentary file, unit 5/379",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 4,
+      "unit_hash": "226bff901c7c",
+      "passage_hash": "22d074a22985",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "This passage is used to discuss whether specific quoted lines belong to the Abhisamayalankara or external texts, mirroring the debate in the target paragraph.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~200531 in the commentary file, unit 102/379",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 101,
+      "unit_hash": "fd7608cf3f29",
+      "passage_hash": "dfa51773b9b4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

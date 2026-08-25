@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "249_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 192",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་དེའི་དོན་བཤད་པའི་སྒོ་ནས་ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་མཚན་ཉིད་ཀྱི་སྒོ་ནས་མདོར་བསྟན་གྱི་ཚུལ་གྱིས་འཆད་པ་ལ། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས། དེ་ཡང་སེམས་བསྐྱེད་པ་ནི། ཞེས་པས་མཚོན་བྱ་དང་། གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་པས་མཚན་ཉིད་དེ་བསྟན།",
+  "root_paragraph_page": "192",
+  "paragraph_key": "8cc8c61ca9d10928",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+  "generated_at": "2026-08-20T04:14:33.138521Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། ། ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This quote is relevant as it states the root verse defining the generation of the altruistic mind for the sake of others, which is the subject of explanation in the target passage.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།], char offset ~2609 in the commentary file, unit 2/19",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 1,
+      "unit_hash": "ea22886d8ac5",
+      "passage_hash": "bb364c4258ee",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 19,
+    "units_scanned": 19,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

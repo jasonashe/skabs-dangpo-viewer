@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "246_གཉིས་པ་མཚོན། དུམ་མཚན་དང་པོ། 190",
+  "root_paragraph": "གཉིས་པ་མཚོན་བྱེད་ཀྱི་ཆོས་རྒྱས་པར་བཤད་པ་ལ། ལམ་གྱི་རང་བཞིན་སེམས་བསྐྱེད་བཤད་པ་དང་། སེམས་བསྐྱེད་དེ་དག་བྱེད་ཀྱི་གདམས་ངག་ནོད་པ་དང་། གདམས་ངག་གི་འབྲས་བུ་ངེས་འབྱེད་ཡན་ལག་བཤད་པ་དང་། གདམས་དོན་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་སྒྲུབ་པ་བཤད་པའོ། །དང་པོ་ལ་གཉིས། མཚན་ཉིད་དང་། རབ་དབྱེའོ། ། དང་པོ་ལ་གཉིས། མཚན་ཉིད་དངོས་དང་། དེ་མདོ་དང་སྦྱར་བའོ། །དང་པོ་ལ། མཚམས་སྦྱར། རྩ་བ། འགྲེལ་པ་གསུམ་ལས།",
+  "root_paragraph_page": "190",
+  "paragraph_key": "58d9b5f9a8453de9",
+  "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+  "generated_at": "2026-08-20T04:14:37.166653Z",
+  "quotes": [
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "གཉིས་པ་མཚོན་བྱེད་ཀྱི་ཆོས་རྒྱས་པར་བཤད་པ་ལ།",
+      "relevance": "This quote from the commentary introduces the detailed explanation of the defining phenomena (མཚོན་བྱེད) that illustrate the omniscient state, matching the structural breakdown in paragraph 6.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~345971 in the commentary file, under ‘སྦྱོར་བ་དང་པོ་སྐྱེས་པའི་གནས་དྲོད་སོགས་བཞི་བཤད་པ།’, unit 176/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 175,
+      "unit_hash": "c596924fb878",
+      "passage_hash": "18d133f496e0",
+      "folio": null,
+      "sa_bcad": "སྦྱོར་བ་དང་པོ་སྐྱེས་པའི་གནས་དྲོད་སོགས་བཞི་བཤད་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 281,
+    "units_scanned": 281,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

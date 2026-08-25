@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "208_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 170",
+  "root_paragraph": "གཉིས་པ་ལ། ཤེར་ཕྱིན་གྱི་སྒྲ་བཤད་པ་དང་། དངོས་བཏགས་ཀྱི་ཁྱད་པར། ཤེས་བྱེད་ཀྱི་ལུང་འགོད། དེ་ལ་རྩོད་པ་སྤོང་བའོ། །དང་པོ་ནི། དེ་ལྟར། ཞེས་པ་ནས། ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟེ། ཞེས་པའི་བར་གྱིས་འཆད། དོན་ནི་སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའི་ཤེས་རབ་ཆོས་ཅན། ཁྱོད་ལ་ཤེས་རབ་ཅེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཁྱོད་ཆོས་རབ་ཏུ་རྣམ་འབྱེད་ཀྱི་བློ་ཡིན་པའི་ཕྱིར། དེ་ཆོས་ཅན། ཁྱོད་ལ་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཆོས་རབ་ཏུ་རྣམ་འབྱེད་ཀྱི་བློ་གང་ཞིག །རང་རྒྱུ་ཐོས་བསམ་སྒོམ་གསུམ་མཐར་ཕྱིན་པའི་ཡེ་ཤེས་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "170",
+  "paragraph_key": "9bcd45fd39b556a5",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:32.284992Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དེ་ཡང་ཤེས་རབ་ཅེས་བྱ་བ་ནི་ཆོས་རབ་ཏུ་རྣམ་པར་འབྱེད་པའི་མཚན་ཉིད་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟེ།",
+      "relevance": "This quote discusses the definition and etymology of the term 'sher phyin' (prajñāpāramitā) in relation to discerning phenomena, which is directly relevant to the linguistic analysis of the term in paragraph 8.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~249506 in the commentary file, unit 128/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 46,
+      "chunk_id": 127,
+      "unit_hash": "0996435ab5ed",
+      "passage_hash": "612209671abb",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "249_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 192",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་དེའི་དོན་བཤད་པའི་སྒོ་ནས་ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་མཚན་ཉིད་ཀྱི་སྒོ་ནས་མདོར་བསྟན་གྱི་ཚུལ་གྱིས་འཆད་པ་ལ། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས། དེ་ཡང་སེམས་བསྐྱེད་པ་ནི། ཞེས་པས་མཚོན་བྱ་དང་། གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་པས་མཚན་ཉིད་དེ་བསྟན།",
+  "root_paragraph_page": "192",
+  "paragraph_key": "8cc8c61ca9d10928",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:58.675190Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This quote provides the verse defining the Mahayana generation of the awakening mind (sems bskyed) based on wanting complete awakening for the sake of others.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~269749 in the commentary file, unit 137/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 136,
+      "unit_hash": "158077d46470",
+      "passage_hash": "ceabe37e57a5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

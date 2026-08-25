@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "204_འདིའི་སྐབས་སུ། དུམ་མཚན་དང་པོ། 166",
+  "root_paragraph": "འདིའི་སྐབས་སུ་ལུས་རྣམ་གཞག་ལ། ལུས་ཀྱི་མཚན་ཉིད། དབྱེ་བ། ངེས་ཚིག་དང་གསུམ་ལས། དང་པོ་ནི། ཡན་ལག་དུ་མ་ཚོགས་པ་དེ། ལུས་ཀྱི་ངོ་བོ་ཡིན་ཏེ། ཚོགས་དང་ལུས་དང་འདུས་པ་ནི། །རྣམ་གྲངས་དག་སྟེ། ཞེས་གསུངས་པ་ལྟར་རོ༑ ༑གཉིས་པ་ནི། རིགས་ཐིགས་ཀྱི་འགྲེལ་པར།རབ་ཏུ་བྱེད་པའི་ལུས་ནི་གཉིས་ཏེ་སྒྲ་དང་དོན་ནོ། །ཞེས་གསུངས་པ་ལྟར། ཚིགས་བཅད་བཅོ་ལྔ་པོ་དེ་ནི་རྗོད་བྱེད་ཀྱི་ལུས་དང་། དངོས་པོ་བརྒྱད་དང་། དོན་བདུན་ཅུ་ནི་བརྗོད་བྱའི་ལུས་ཡིན་ནོ། །གསུམ་པ་ནི། ངོ་བོ་ཉིད་དུ་གྲུབ་པ་དང་། བསགས་པ་དང་། ཡན་ལག་ལ་ཁྱབ་པ་དང་། དེའི་རྟེན་བྱེད་པས་ལུས་ཞེས་བྱའོ། །",
+  "root_paragraph_page": "166",
+  "paragraph_key": "96d9c577c2520252",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:57.523773Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "རབ་ཏུ་བྱེད་པའི་ལུས་ནི་གཉིས་ཏེ་སྒྲ་དང་དོན་ནོ། །",
+      "relevance": "This quote defines the body of a treatise (ལུས་) as having two aspects: words (སྒྲ་) and meaning (དོན་), which directly supports the discussion of the body of the treatise in paragraph 4.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~920569 in the commentary file, under ‘ཚ’, unit 473/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 472,
+      "unit_hash": "992e6254d3aa",
+      "passage_hash": "5a0c9db03933",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

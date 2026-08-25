@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "36_ལྔ་པ་ནི། དུམ་མཚན་དང་པོ། 61",
+  "root_paragraph": "ལྔ་པ་ནི། འོ་ན་ཁྱོད་ཀྱིས་མདོ་དང་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་མངོན་སུམ་དུ་རྟོགས་ནས་བསྟན་བཅོས་བརྩམས་པ་ཡིན་ནམ་ཞེ་ན། ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར། ཞེས་ཁེངས་བསྐྱུངས་ཏེ་སྤྲོ་བ་བསྐྱེད་པའི་རྒྱུ་མཚན་འཆད་པ་ལ།རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+  "root_paragraph_page": "61",
+  "paragraph_key": "f1087316cd57ad7f",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:48.628405Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote explains the humble reasoning behind composing the commentary even when the full scope of the Mother is not directly realized, driven by the wish to benefit oneself and others.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~44603 in the commentary file, under ‘ཙ’, unit 23/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 55,
+      "chunk_id": 22,
+      "unit_hash": "e061ef2eed24",
+      "passage_hash": "b6f29fbc5bce",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

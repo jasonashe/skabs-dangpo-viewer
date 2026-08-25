@@ -1,0 +1,104 @@
+# Quote collection: ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།]
+**Target paragraph:** 114_གཞན་ཡང་ཐེག། དུམ་མཚན་དང་པོ། 104
+
+> གཞན་ཡང་། ཐེག་པ་ཆེ་ཆུང་གི་མདོ་མི་འགལ་ཏེ། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་དེ་ཐེག་པ་ཆེ་ཆུང་ཐུན་མོང་བའི་སྡེ་སྣོད་ཡིན་པའི་ཕྱིར་ཏེ། ཀུན་བཏུས་ལས།གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར། ཁ་ཅིག ༑དུས་དང་པོར་གསུངས་པའི་མདོ། འཁོར་ལོ་དང་པོའ་ིམཚན་ཉིད་དུ་འཇོག་པ་ཡིན་ཏེ༑ དྲང་ངེས་རྣམ་འབྱེད་ལས།ཤུགས་ལ་གནས་པའི་དོན་དེ་ཉིད་དུས་ཀྱི་རིམ་པའི་སྒོ་ནས་འཁོར་ལོ་གསུམ་དང་སྦྱར་བའི་དྲང་ངེས་སུ་འགྱུར་ཚུལ། ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། དེ་ནི་དང་པོར་ཝཱ་རཱ་ཎ་སཱིར་ལྔ་སྡེ་ལ་གསུངས་པའི་བདེན་བཞིའི་ཆོས་འཁོར་དང་༑ བར་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་གསུངས་པའི་ཤེར་ཕྱིན་གྱི་མདོ་དང་། ཐ་མར་ཡངས་པ་ཅན་དུ་གསུངས་པའི་ལེགས་པར་རྣམ་པར་ཕྱེ་བའི་ཆོས་འཁོར་གསུམ་དུས་ཀྱི་རིམ་པའི་སྒོ་ནས་འཇོག་པའི་དོན་ཡིན་པའི་ཕྱིར། དེ་ལྟར་མ་ཡིན་ན། དྲང་ངེས་རྣམ་འབྱེད་ལས༑དགོངས་འགྲེལ་ལས་འཁོར་ལོ་རིམ་པ་གསུམ་གསུངས་པ་ནི། འཁོར་གྱི་འདུ་ཐེབས་དང་སྟོན་པའི་སྐུ་ཚེའི་ཚིགས་ལ་སོགས་པའི་ངོས་ནས་འཇོག་པ་མ་ཡིན་གྱི། ཞེས་གསུངས་པ་མི་འཐད་པར་ཐལ། འཁོར་ལོ་གསུམ་གྱི་ཁྱད་པར་དུས་ཚིགས་ཀྱི་སྒོ་ནས་འཇོག་རིགས་པའི་ཕྱིར་ཏེ། ཁྱོད་ཀྱི་མཚན་ཉིད་འཐད་པའི་ཕྱིར། མཚན་ཉིད་དེ་ལྟར་འཇོག་པ་དང་། འདུལ་བ་ལུང་སྡེ་བཞི་འཁོར་ལོ་དང་པོའ་ིམཚན་གཞིར་འདོད་པ་ནང་འགལ་ཏེ། འདུལ་བ་རུང་མཐུན་གྱི་མདོ་དེ་དུས་དང་པོར་གསུངས་པའི་མདོ་ཡིན་པར་ཐལ༑ དེ་འཁོར་ལོ་དང་པོ་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་མི་ནུས་ཏེ། དེ་སྟོན་པ་མྱ་ངན་ལས་འདའ་ཁར་གསུངས་པའི་ཕྱིར།རྟགས་གྲུབ་སྟེ། འདུལ་བ་ལུང་སྡེ་བཞི་པོ་དེ་དེ་ཡིན་པའི་ཕྱིར། དེ་ལྟར་ཡང་། དྲང་ངེས་རྣམ་འབྱེད་ལས།སྟོན་པ་མྱ་ངན་ལས་འདའ་ཁར་འདུལ་བ་རུང་མཐུན་ཞེས་བྱ་བ་མདོར་བསྡུས་སུ་གྲགས་པ་གཅིག་གསུངས་ཀྱང་དེ་འདིར་ངེས་དོན་དུ་སྟོན་པ་མ་ཡིན་ལ། ཞེས་གསུངས་པའི་ཕྱིར། དེས་མཚོན་ནས་དུས་དང་པོར་གསུངས་པའི་ཤེར་ཕྱིན་གྱི་མདོ་ཆོས་ཅན། འཁོར་ལོ་དང་པོར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར། དེ་དེར་ཐལ། དེ་ཡོད་པའི་ཕྱིར་ཏེ། སྟོན་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཕྱི་ལོ་དཔལ་ལྡན་འབྲས་སྤུངས་ཀྱི་མཆོད་རྟེན་དུ་དུས་འཁོར་རྩ་རྒྱུད་གསུངས་པ་གང་ཞིག །དེ་དང་དུས་མཉམ་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་ཤེར་ཕྱིན་གྱི་མདོ་གསུངས་པའི་ཕྱིར༑ དང་པོ་གྲུབ་སྟེ། དུས་འཁོར་འགྲེལ་ཆེན་ལས།ས་གའི་ཉའི་སྐྱ་རེངས་འཆར་བའི་ཚེ་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཞིང་ཐེག་པ་གསུམ་བསྟན་པར་མཛད་ནས། ཟླ་བ་བཅུ་གཉིས་པ་ནག་པའི་ཉ་ལ་ཤྲཱི་དྷཱ་ན་ཀ་ཊ་ཀར་ཆོས་ཀྱི་དབྱིངས་གསུང་གི་དབང་ཕྱུག་གི་དཀྱིལ་འཁོར་གསུངས༑ ཞེས་གསུངས་པའི་ཕྱིར། གཉིས་པ་གྲུབ་སྟེ། དུས་འཁོར་རྩ་རྒྱུད་ལས།སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (35% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This quote from the Kalachakra Root Tantra is cited in the commentary excerpt and is used verbatim in paragraph 2 to support the assertion that the Prajnaparamita sutras were taught at Vulture Peak simultaneously with the secret mantra teachings at Dhanyakataka.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~848312 in the commentary file, unit 422/606
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> སྟོན་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཕྱི་ལོ་དཔལ་ལྡན་འབྲས་སྤུངས་ཀྱི་མཆོད་རྟེན་དུ་དུས་འཁོར་རྩ་རྒྱུད་གསུངས་པ་གང་ཞིག །དེ་དང་དུས་མཉམ་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་ཤེར་ཕྱིན་གྱི་མདོ་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quote supports the discussion in Paragraph 2 regarding the historical timing of the perfection of wisdom teachings at Vulture Peak relative to other events.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~1056825 in the commentary file, unit 528/606
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> དུས་འཁོར་འགྲེལ་ཆེན་ལས།ས་གའི་ཉའི་སྐྱ་རེངས་འཆར་བའི་ཚེ་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཞིང་ཐེག་པ་གསུམ་བསྟན་པར་མཛད་ནས། ཟླ་བ་བཅུ་གཉིས་པ་ནག་པའི་ཉ་ལ་ཤྲཱི་དྷཱ་ན་ཀ་ཊ་ཀར་ཆོས་ཀྱི་དབྱིངས་གསུང་གི་དབང་ཕྱུག་གི་དཀྱིལ་འཁོར་གསུངས༑ ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This passage is relevant because it cites the Great Commentary on the Kalachakra regarding the timing of the Buddha's enlightenment and turning of the wheel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~342536 in the commentary file, unit 166/606
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This quote from the Root Tantra of the Wheel of Time is cited in the commentary excerpt to show when the Perfection of Wisdom sutras were taught at Vulture Peak relative to other teachings.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~268705 in the commentary file, unit 129/606
+- **Verification:** UNVERIFIED
+
+## Quote (26% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This root verse citation is used in Paragraph 2 to substantiate the claim about the simultaneous teaching of the Perfection of Wisdom at Vulture Peak and the tantra at Sri Dhanyakataka.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~1051699 in the commentary file, unit 526/606
+- **Verification:** UNVERIFIED
+
+## Quote (25% correctness) ⚠️ UNVERIFIED
+> ས་གའི་ཉའི་སྐྱ་རེངས་འཆར་བའི་ཚེ་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཞིང་ཐེག་པ་གསུམ་བསྟན་པར་མཛད་ནས། ཟླ་བ་བཅུ་གཉིས་པ་ནག་པའི་ཉ་ལ་ཤྲཱི་དྷཱ་ན་ཀ་ཊ་ཀར་ཆོས་ཀྱི་དབྱིངས་གསུང་གི་དབང་ཕྱུག་གི་དཀྱིལ་འཁོར་གསུངས།
+
+- **Why relevant:** This passage from the Great Commentary on the Kalaachakra establishes the chronology of the Buddha's enlightenment and subsequent turning of the wheel.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~146256 in the commentary file, unit 67/606
+- **Verification:** UNVERIFIED
+
+## Quote (23% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This verse from the commentary excerpt supports the statement regarding the simultaneous or corresponding times of teaching the Perfection of Wisdom at Vulture Peak and secret mantra at Drepung.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~83777 in the commentary file, unit 36/606
+- **Verification:** UNVERIFIED
+
+## Quote (22% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This verse from the Root Tantra of the Kalachakra is quoted in the commentary and cited in target paragraph 2 to establish the simultaneous teachings at Vulture Peak and Palden Drepung.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~223571 in the commentary file, unit 106/606
+- **Verification:** UNVERIFIED
+
+## Quote (21% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This quote from the root Tantra of Kalachakra is cited to support the temporal positioning of the Perfection of Wisdom sutras at Vulture Peak simultaneously with other teachings.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~762454 in the commentary file, unit 379/606
+- **Verification:** UNVERIFIED
+
+## Quote (20% correctness) ⚠️ UNVERIFIED
+> དེ་ནི་དང་པོར་ཝཱ་རཱ་ཎ་སཱིར་ལྔ་སྡེ་ལ་གསུངས་པའི་བདེན་བཞིའི་ཆོས་འཁོར་དང་༑ བར་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་གསུངས་པའི་ཤེར་ཕྱིན་གྱི་མདོ་དང་། ཐ་མར་ཡངས་པ་ཅན་དུ་གསུངས་པའི་ལེགས་པར་རྣམ་པར་ཕྱེ་བའི་ཆོས་འཁོར་གསུམ་དུས་ཀྱི་རིམ་པའི་སྒོ་ནས་འཇོག་པའི་དོན་ཡིན་པའི་ཕྱིར།
+
+- **Why relevant:** This quote discusses the chronological arrangement and locations of the three turnings of the Dharma wheel, which relates to the debate about the timing and classification of sutras in the target passage.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~111147 in the commentary file, unit 49/606
+- **Verification:** UNVERIFIED
+
+## Quote (20% correctness) ⚠️ UNVERIFIED
+> དུས་འཁོར་རྩ་རྒྱུད་ལས།སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This scriptural citation from the Kalachakra Root Tantra is used to support assertions about where and when the perfection of wisdom and secret mantra teachings were given, paralleling the source text's discussion of scriptural sources and timing.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~107800 in the commentary file, unit 48/606
+- **Verification:** UNVERIFIED
+
+## Quote (19% correctness) ⚠️ UNVERIFIED
+> དུས་འཁོར་རྩ་རྒྱུད་ལས།སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quote from the Kalachakra Root Tantra is used to discuss where the Perfection of Wisdom and secret mantra were taught.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~346859 in the commentary file, unit 168/606
+- **Verification:** UNVERIFIED
+
+## Quote (18% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This quote from the Kalaachakra Root Tantra is cited to show that the Perfection of Wisdom sutras were taught at Vulture Peak simultaneously with the tantras elsewhere.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~143573 in the commentary file, unit 66/606
+- **Verification:** UNVERIFIED
+
+## Quote (0% correctness) ⚠️ UNVERIFIED
+> གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །
+
+- **Why relevant:** This quote from the Compendium of Manifest Knowledge (Kuntus) supports the discussion of the Collection of Provisions for Settling [What is to be Settled] as a shared scriptural collection for both the Greater and Lesser Vehicles.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།] (exact position not found -- correctness score was too low to localize reliably; treat this quote with extra caution)
+- **Verification:** UNVERIFIED

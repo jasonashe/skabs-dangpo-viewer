@@ -1,0 +1,27 @@
+# Quote collection: འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།]
+**Target paragraph:** 242_གཉིས་པ་སྦྱོར། དུམ་མཚན་དང་པོ། 188
+
+> གཉིས་པ་སྦྱོར་ཚུལ་ལ་རྩོད་པ་སྤོང་བ་ལ། ཁོ་ན་རེ། རྒྱན་དང་མདོ་སྦྱར་ནས་འཆད་མི་རིགས་ཏེ། མདོ་ཁ་ཅིག་སྒྲ་ཇི་བཞིན་ཡིན་པས་སྦྱར་རུང་། ཁ་ཅིག་སྒྲ་ཇི་བཞིན་མིན་ཡང་རྒྱུ་མཚན་སྣང་བས་སྦྱར་རུང་ཡང་། བྱང་ཆུབ་རྒྱས་བཤད་ཀྱིས་སེམས་བསྐྱེད་གཉིས་པ་བསྟན་པར་འདོད་པ་ལྟ་བུ་མདོ་དེས་དོན་དེ་སྟོན་པ་ལ་ངེས་འབྱེད་མེད་པ་དང་༑ དྲོད་ཀྱི་སྐབས་སུ་བུད་མེད་དུ་མི་སྐྱེ་བར་བརྗོད་པ་ལྟ་བུ་དང་། རྒྱན་དུ་དོན་ཡོད་པ་གླེགས་བམ་ཁ་ཅིག་ཏུ་མདོ་མི་སྣང་བའི་ཕྱིར། ཞེས་ཟེར་ན། མདོ་སྦྱར་བའི་རྒྱུ་མཚན་མེད་པ་ལྟར་སྣང་བ་རྣམས་ནི་དེ་དག་ཏུ་སྦྱར་བའི་རྒྱུ་མཚན་གཉིས་ཡོད་པས་སྦྱར་རུང་སྟེ༑ རིམ་པ་བཞིན་སྦྱར་རིགས་པ་རྣམས་སྦྱར་བ་ན་ལྷག་མ་རྣམས་དེ་དང་སྦྱོར་བའི་ཤུགས་ལ་གོ་བར་འགྱུར་བའི་ཕྱིར་དང་། དེ་བཞིན་གཤེགས་པས་རྗེ་བཙུན་ལ་དེ་ལྟར་སྦྱར་བའི་ལུང་མངའ་བའི་ཕྱིར། དེ་ཡང་ཡིན་ཏེ། རྗེ་བཙུན་རྒྱལ་ཚབ་ཏུ་དབང་བསྐུར་བས་དམ་པའི་ཆོས་མཛོད་གཞན་གྱིས་ལྟ་བའི་གནས་མ་ཡིན་པ་ལ་ཕའི་ལུང་གིས་དབང་བསྒྱུར་བ་ཡིན་པའི་ཕྱིར་དང་། དྲོད་དང་བུད་མེད་དུ་མི་སྐྱེ་བར་བསྟན་པ་ལྟ་བུའི་རྒྱན་གྱི་སྒྲས་མ་ཟིན་པ་རྣམས་ནི་ཟླས་བསྡུས་ཏེ་བསྟན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> མདོ་ཁ་ཅིག་སྒྲ་ཇི་བཞིན་ཡིན་པས་སྦྱར་རུང་། ཁ་ཅིག་སྒྲ་ཇི་བཞིན་མིན་ཡང་རྒྱུ་མཚན་སྣང་བས་སྦྱར་རུང་ཡང་།
+
+- **Why relevant:** The commentary discusses whether and how various sutras can be connected to the treatise, directly addressing the objection raised in the target paragraph regarding the appropriateness of connecting the sutras.
+- **Location:** འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།], char offset ~194525 in the commentary file, unit 100/279
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> དྲོད་དང་བུད་མེད་དུ་མི་སྐྱེ་བར་བསྟན་པ་ལྟ་བུའི་རྒྱན་གྱི་སྒྲས་མ་ཟིན་པ་རྣམས་ནི་ཟླས་བསྡུས་ཏེ་བསྟན་པའི་ཕྱིར།
+
+- **Why relevant:** This quote addresses how topics like the heat stage and not being reborn as a female that are not explicitly covered by the ornament's words are nevertheless included by pairing/inclusion.
+- **Location:** འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།], char offset ~151085 in the commentary file, unit 77/279
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> དྲོད་དང་བུད་མེད་དུ་མི་སྐྱེ་བར་བརྗོད་པ་ལྟ་བུ་དང་།
+
+- **Why relevant:** This quote is relevant because it discusses the debate regarding whether specific teachings like the heat stage (དྲོད་) and non-rebirth as a woman are explicitly mentioned or implied in the sources.
+- **Location:** འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་'s སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་། [འཇམ་དབྱངས་ཤཱནྟི་པ་བློ་གྲོས་རྒྱལ་མཚན་_སྐབས་བརྒྱད་ཀྱི་སྤྱི་དོན་མེ་ལོང་།], char offset ~153350 in the commentary file, unit 79/279
+- **Verification:** UNVERIFIED

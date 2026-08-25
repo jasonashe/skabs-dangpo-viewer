@@ -1,0 +1,27 @@
+# Quote collection: མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]
+**Target paragraph:** 28_དེས་ན་སློབ། དུམ་མཚན་དང་པོ། 57
+
+> དེས་ན་སློབ་དཔོན་གྱིས་འགྲེལ་པ་རྩོམ་པའི་ཐོག་མར་གཞུང་ལམ་འབྲས་བུ་ཤེར་ཕྱིན་གསུམ་ལ་མཆོད་བརྗོད་མཛད་པ་ཆོས་ཅན། དགོས་པ་ཡོད་དེ།རྒྱ་ཆེར་རོལ་པའི་མདོ་ལས།བསོད་ནམས་རྣམ་སྨིན་བདེ་སྟེར་སྡུག་བསྔལ་ཐམས་ཅད་སེལ། །བསོད་ནམས་ལྡན་པའི་མི་ཡི་བསམ་པ་རྣམས་ཀྱང་འགྲུབ། །བདུད་བཅོམ་ནས་ནི་བྱང་ཆུབ་མྱུར་དུ་རེག་པར་འགྱུར། །མྱ་ངན་ལས་འདས་ཞི་བ་བསིལ་བའི་དངོས་པོའང་ཐོབ། །ཅེས་གསུངས་པ་ལྟར། ཡུལ་ཁྱད་པར་ཅན་ཤེར་ཕྱིན་ལ་ཕྱག་བཙལ་བས་བསོད་ནམས་དཔག་མེད་རྒྱུད་ལ་སྐྱེ་ལ། དེའི་མཐུས་བསོད་ནམས་མིན་པ་སོགས་ཀྱི་བར་ཆད་ཞི་སྟེ་རྩོམ་པ་མཐར་ཕྱིན་པར་འགྱུར་བའི་ཕྱིར་དང་། འཇིག་རྟེན་ན་དམ་པ་རྣམས་བྱ་བ་ཆེན་པོ་ལ་འཇུག་པའི་ཐོག་མར་ཡུལ་ཁྱད་པར་ཅན་ལ་ཕྱག་མཆོད་བྱེད་ལ། འདིར་ཡང་ཡུལ་ཁྱད་པར་ཅན་ལ་མཆོད་བརྗོད་བྱས་པས་གདུལ་བྱ་རྣམས་ཀྱིས་འདི་ནི་དམ་པའོ་ཞེས་རྟོགས་པར་འགྱུར་བའི་དགོས་པ་ཡོད་པའི་ཕྱིར། རྩོམ་པར་དམ་བཅའ་མཛད་པ་ཆོས་ཅན། དགོས་པ་ཡོད་དེ། རྩོམ་པ་མཐར་ཕྱིན་པར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར། དེ་ལྟར་ཡང་ཤེས་རབ་སྡོང་བུ་ལས།དམ་པ་མང་པོ་ཁས་འཆེ་མི་བྱེད་ལ། །གལ་ཏེ་དཀའ་བས་ཁས་ནི་བླངས་གྱུར་ན། །རྡོ་ལ་རི་མོ་བྲིས་པ་ལྟ་བུར་ནི། །ཤི་ཡང་གཞན་དུ་བྱེད་པར་མི་འགྱུར་རོ༑ ༑ཞེས་གསུངས་པ་ལྟར་རོ། །
+
+*Coverage: complete.*
+
+## Quote (47% correctness) ⚠️ UNVERIFIED
+> མྱ་ངན་ལས་འདས་ཞི་བ་བསིལ་བའི་དངོས་པོའང་ཐོབ།
+
+- **Why relevant:** The commentary excerpt quotes the passage from the རྒྱ་ཆེར་རོལ་པའི་མདོ་ regarding the benefits of venerating the perfection of wisdom, which corresponds directly to the scriptural citation used in paragraph 4.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~570235 in the commentary file, unit 294/415
+- **Verification:** UNVERIFIED
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> བདུད་བཅོམ་ནས་ནི་བྱང་ཆུབ་མྱུར་དུ་རེག་པར་འགྱུར། །མྱ་ངན་ལས་འདས་ཞི་བ་བསིལ་བའི་དངོས་པོའང་ཐོབ། །
+
+- **Why relevant:** The commentary excerpt discusses how practicing the perfection of wisdom overcomes maras and obstacles, which relates to the citation of the *Lalitavistara Sutra* (རྒྱ་ཆེར་རོལ་པའི་མདོ) in Paragraph 4 about defeating maras and swiftly attaining enlightenment.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~719744 in the commentary file, unit 371/415
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> བསོད་ནམས་རྣམ་སྨིན་བདེ་སྟེར་སྡུག་བསྔལ་ཐམས་ཅད་སེལ། །བསོད་ནམས་ལྡན་པའི་མི་ཡི་བསམ་པ་རྣམས་ཀྱང་འགྲུབ། །བདུད་བཅོམ་ནས་ནི་བྱང་ཆུབ་མྱུར་དུ་རེག་པར་འགྱུར། །མྱ་ངན་ལས་འདས་ི་བ་བསིལ་བའི་དངོས་པོའང་ཐོབ། །
+
+- **Why relevant:** This quote is used to explain the benefits of making prostrations and offerings to sublime objects like the Perfection of Wisdom, leading to the accumulation of merit and removal of obstacles.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~64360 in the commentary file, unit 34/415
+- **Verification:** UNVERIFIED

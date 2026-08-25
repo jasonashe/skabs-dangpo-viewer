@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "295_འབྲས་བུ་ཐེག། དུམ་མཚན་དང་པོ། 229",
+  "root_paragraph": "འབྲས་བུ་ཐེག་ཆེན་སེམས་བསྐྱེད་ནི་དེ་ལྟར་བློ་སྦྱངས་པའི་རྗེས་སུ་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྡུག་བསྔལ་སེལ་བ་དང་། བདེ་བ་སྒྲུབ་པའི་ཐབས་དེ་ལྟར་བདག་ལ་མི་འདུག་སྟེ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཁོ་ན་ལ་ཡོད་པར་རྟོགས་པའི་སྒོ་ནས་བདག་གིས་སེམས་ཅན་ཐམས་ཅད་འཁོར་བའི་སྡུག་བསྔལ་ལས་བསྒྲལ་ཏེ་སངས་རྒྱས་ཀྱི་ས་ལ་འགོད་པའི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཐོབ་པར་བྱའོ་སྙམ་དུ་དམ་བཅའ་བར་བྱེད་པ་ཡིན་ནོ། །",
+  "root_paragraph_page": "229",
+  "paragraph_key": "5a820e50b40ad921",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:12.485944Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེ་བཞིན་དུ་ཡང་གང་གི་དོན་དུ་སེམས་བསྐྱེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དེ་ནི་གང་ཡིན་ཞེས་དྲིས་པའི་ལན་ནི། སེམས་ཅན་ཐམས་ཅད་སྐལ་བ་ཇི་ལྟ་བ་བཞིན་དུ་མྱ་ངན་ལས་འདས་པ་ལ་དགོད་པར་འདོད་པ་ཞེས་བྱ་བ་སྟེ།",
+      "relevance": "This passage explains that the ultimate purpose of generating the mind is to lead all sentient beings to nirvana, which supports the description in paragraph 7 of the aspiration to liberate all beings from samsara and establish them in buddhahood.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~114348 in the commentary file, unit 59/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 58,
+      "unit_hash": "dbcac7467af6",
+      "passage_hash": "81f20c996017",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

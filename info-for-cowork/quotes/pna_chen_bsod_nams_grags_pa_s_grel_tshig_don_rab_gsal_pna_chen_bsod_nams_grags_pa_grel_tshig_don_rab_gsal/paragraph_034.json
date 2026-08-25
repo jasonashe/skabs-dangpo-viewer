@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "35_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 60",
+  "root_paragraph": "བཞི་པ་ནི། དེས་ན་སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་འགྲེལ་པ་རྩོམ་རིགས་ཏེ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱམས་པ་མགོན་པོའ་ིཞལ་མངོན་སུམ་དུ་གཟིགས་ཏེ། འགྲེལ་པ་རྩོམ་པའི་གསུང་གི་གནང་བ་ཐོབ་པའི་ཕྱིར། རྒྱུ་མཚན་དེའི་ཕྱིར་ན་ཕྱི་རབས་ཀྱི་གཟུར་གནས་རྣམས་འགྲེལ་པ་འདི་ལ་འཆད་ཉན་གྱི་སྒོ་ནས་འཇུག་རིགས་སོ། །ཞེས་འཆད་པ་ལ།དེ་ལྟས་ཤིན་ཏུ་རྙེད་དཀའ་བ། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+  "root_paragraph_page": "60",
+  "paragraph_key": "7a26ccf680f55f3e",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:25.159161Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "དེ་ལྟས་ཤིན་ཏུ་རྙེད་དཀའ་བ། །",
+      "relevance": "This quote is referenced in paragraph 3 when explaining how the difficult-to-find teachings and lineages were attained.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~5920 in the commentary file, unit 4/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 67,
+      "chunk_id": 3,
+      "unit_hash": "410232c403b7",
+      "passage_hash": "b4654dc3b7ca",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

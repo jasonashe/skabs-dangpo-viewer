@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "237_སྐབས་བཞི་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་བཞི་པར། དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །ཞེས་སོགས་སུ་བསྟན་པ་ནི་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ། སྐབས་ལྔ་པར། སྦྱོར་ལམ་བསྟན་པ་ནི་རྩེ་སྦྱོར་གྱི་བསྟན་པ་ཡིན་པས་མི་ཟློས་པའི་ཕྱིར། འདི་དག་ནི་འཕགས་པའི་བཞེད་པ་གསེར་ཕྲེང་དུ་བཀོད་པའོ།།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "aa12c9d41b6f3b0d",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:45.561642Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ།",
+      "relevance": "This quote explains how the fourth topic avoids repetition (ཟློས་སྐྱོན་) through specific objects of meditation (དམིགས་པ་སེམས་ཅན་) and aspects (རྣམ་པ་སེམས་མཉམ་པ་), which directly relates to paragraph 5's discussion of the fourth chapter's non-repetitive nature.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~666941 in the commentary file, unit 343/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 342,
+      "unit_hash": "f429c6c9b928",
+      "passage_hash": "8a6f50afcd18",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ།",
+      "relevance": "This quote explains how the meditation/path of the fourth chapter involves focusing on sentient beings and the aspect of equality, which connects directly to the discussion of paragraph 5 regarding the non-repetitive nature of the fourth chapter's practices.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~745231 in the commentary file, unit 383/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 382,
+      "unit_hash": "8e5dbb4545b5",
+      "passage_hash": "e05083b74549",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

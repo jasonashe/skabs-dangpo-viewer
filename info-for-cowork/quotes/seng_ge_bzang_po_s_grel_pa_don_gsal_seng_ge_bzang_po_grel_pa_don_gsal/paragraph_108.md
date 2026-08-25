@@ -1,0 +1,13 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]
+**Target paragraph:** 109_གཞན་ཡང་ཆོས། དུམ་མཚན་དང་པོ། 102
+
+> གཞན་ཡང་། ཆོས་འཁོར་ལ་ལུང་གི་ཆོས་འཁོར་དང་རྟོགས་པའི་ཆོས་འཁོར་གཉིས་སུ་གྲངས་མ་ངེས་པར་ཐལ། ལམ་མ་ཞུགས་ཀྱི་གང་ཟག་གི་རྒྱུད་ཀྱི་བསླབ་པ་གསུམ་པོ་དེ་ཆོས་འཁོར་གང་ཞིག །དེ་དེ་གང་རུང་མ་ཡིན་པའི་ཕྱིར། དང་པོ་དངོས། གཉིས་པ་སླ། རྩ་བར་འདོད་མི་ནུས་ཏེ། མཛོད་ལས།སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (41% correctness) ⚠️ UNVERIFIED
+> སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །
+
+- **Why relevant:** This citation from the Abhidharmakośa is used to establish that the sacred Dharma is classified into the two categories of scripture and realization.
+- **Location:** སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~151 in the commentary file, unit 1/101
+- **Verification:** UNVERIFIED

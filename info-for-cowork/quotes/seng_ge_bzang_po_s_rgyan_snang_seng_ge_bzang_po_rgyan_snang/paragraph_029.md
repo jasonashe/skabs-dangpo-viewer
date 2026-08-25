@@ -1,0 +1,34 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]
+**Target paragraph:** 30_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 58
+
+> གཉིས་པ་ལ། ཁོ་ན་རེ།ཀུན་གྱི་རྒྱན་དུ་འགྱུར་བར་ནི། །ཞེས་མངོན་རྟོགས་རྒྱན་ཡུམ་གསུམ་གའི་རྒྱན་དུ་འགྲེལ་བའི་འགྲེལ་པ་རྩོམ་མི་རིགས་ཏེ། ཁྱོད་ལ་འགྲེལ་པ་རྩོམ་པའི་ཕྱི་ནང་གི་མཐུན་རྐྱེན་མ་ཚང་བ་ཡིན་པའི་ཕྱིར། ཟེར་ན་སྐྱོན་མེད་དེ། སྤྱིར་བསྟན་བཅོས་རྩོམ་པའི་ཕུན་སུམ་ཚོགས་པའི་རྒྱུ་དེ་ལ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནས་བཟུང་སྟེ་དམ་པ་བར་མ་ཆད་པའི་གདམས་ངག་དང་ལྡན་པ།ནང་གི་རྐྱེན་ཤེས་བྱ་རིག་པའི་གནས་ལྔ་ལ་མཁས་པ་སོགས་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་རྟོགས་པའི་ཤེས་རབ་དང་ལྡན་པ། ཡི་དམ་ལྷའི་ཞལ་གཟིགས་ཤིང་གསུང་གི་གནང་བ་ཐོབ་པ་དང་གསུམ་ཡོད་པ་ལས། སློབ་དཔོན་སེང་གེ་བཟང་པོ་དེ་གསུམ་དང་ལྡན་པའི་ཕྱིར། དེ་ཡང་དང་པོ་དེ་དང་ལྡན་ཏེ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནས་བྱམས་པ། དེ་ལ་ཐོགས་མེད་ཀྱིས་དངོས་སུ་གསན་པའི་མན་ངག་རིམ་པར་བརྒྱུད་དེ་སློབ་དཔོན་དབྱིག་གཉེན་དང་། འཕགས་པ་གྲོལ་སྡེ་དང་། བཙུན་པ་གྲོལ་སྡེའི་བར་གྱི་མན་ངག་དང་ལྡན་པའི་ཕྱིར༑ ཞེས་ཕྱིའི་རྐྱེན་དགེ་བའི་བཤེས་གཉེན་གྱི་མན་ངག་དང་ལྡན་ཚུལ་དེ་འཆད་པ་ལ༑འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །ཅེས་སོགས་ཤླཽ་ཀ་བཞི་གསུངས་ཏེ། རྣམ་བཤད་སྙིང་པོའ་ིརྒྱན་ལས།སློབ་དཔོན་བཞིའི་བཤད་པའི་ཚུལ་གྱིས་ནི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནས་བཟུང་སྟེ། དམ་པ་བར་མ་ཆད་པའི་མན་ངག་དང་ལྡན་པར་བསྟན་པ་ཡིན་ནོ། །ཞེས་གསུངས།
+
+*Coverage: complete.*
+
+## Quote (41% correctness) ⚠️ UNVERIFIED
+> འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །
+
+- **Why relevant:** This verse from the commentary is used to explain the unbroken lineage of instructions tracing back to the Buddha, as mentioned in target paragraph 5.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~370372 in the commentary file, unit 191/577
+- **Verification:** UNVERIFIED
+
+## Quote (38% correctness) ⚠️ UNVERIFIED
+> འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །
+
+- **Why relevant:** The commentary cites this verse to show how the unbroken lineage of oral instructions traces back from Maitreya through subsequent masters, establishing the outer favorable conditions for composing the treatise.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~497307 in the commentary file, unit 256/577
+- **Verification:** UNVERIFIED
+
+## Quote (27% correctness) ⚠️ UNVERIFIED
+> ཀུན་གྱི་རྒྱན་དུ་འགྱུར་བར་ནི། །ཞེས་མངོན་རྟོགས་རྒྱན་ཡུམ་གསུམ་གའི་རྒྱན་དུ་འགྲེལ་བའི་འགྲེལ་པ་རྩོམ་མི་རིགས་ཏེ།
+
+- **Why relevant:** This quote introduces the objection regarding whether the commentary can serve as an ornament for all three versions of the mother text, which is addressed in the target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~68686 in the commentary file, unit 36/577
+- **Verification:** UNVERIFIED
+
+## Quote (26% correctness) ⚠️ UNVERIFIED
+> འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །ཅེས་སོགས་ཤླཽ་ཀ་བཞི་གསུངས་ཏེ། རྣམ་བཤད་སྙིང་པོའaིརྒྱན་ལས།སློབ་དཔོན་བཞིའི་བཤད་པའི་ཚུལ་གྱིས་ནི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནས་བཟུང་སྟེ། དམ་པ་བར་མ་ཆད་པའི་མན་ངག་དང་ལྡན་པར་བསྟན་པ་ཡིན་ནོ། །ཞེས་གསུངས།
+
+- **Why relevant:** This quote illustrates how the lineage of teachers connects back to the fully enlightened Buddha through uninterrupted instructions, as cited in the target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~76625 in the commentary file, unit 40/577
+- **Verification:** UNVERIFIED

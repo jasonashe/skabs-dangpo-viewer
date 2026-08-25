@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "226_རྩེ་སྦྱོར་མཚོན། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "རྩེ་སྦྱོར་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བརྒྱད་དུ་ཡོད་དེ། རྟགས་བཅུ་གཉིས་པོ་དང་ལྡན་པའི་རྩེ་སྦྱོར། བསོད་ནམས་རྣམ་པར་འཕེལ་བའི་རྩེ་སྦྱོར། བརྟན་པའི་རྩེ་སྦྱོར། སེམས་ཀུན་ཏུ་གནས་པའི་རྩེ་སྦྱོར། མཐོང་ལམ་རྩེ་སྦྱོར། སྒོམ་ལམ་རྩེ་སྦྱོར། བར་ཆད་མེད་པའི་རྩེ་སྦྱོར། བསལ་བྱ་ལོག་སྒྲུབ་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། མཐར་གྱིས་སྦྱོར་བ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་གསུམ་དུ་ཡོད་དེ། དེ་ལ་ཕར་ཕྱིན་དྲུག་གི་མཐར་གྱིས་སྦྱོར་བ་དྲུག །རྗེས་དྲན་དྲུག་གི་དེ་དྲུག །དངོས་མེད་ངོ་བོ་ཉིད་ཀྱི་དེ་དང་བཅུ་གསུམ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "182",
+  "paragraph_key": "73e4361d0b338bfe",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:45.398397Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "རྗེས་དྲན་དྲུག་གི་དེ་དྲུག",
+      "relevance": "This passage from the target text mentions the six types of recollection (རྗེས་དྲན་དྲུག་), which corresponds to the extensive discussion of the ten recollections (རྗེས་སུ་དྲན་པ་བཅུ་) and their categorization found in the commentary excerpt.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~615627 in the commentary file, unit 316/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 315,
+      "unit_hash": "63419fa43f68",
+      "passage_hash": "62f9bb0562f2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དེ་ལ་ཕར་ཕྱིན་དྲུག་གི་མཐར་གྱིས་སྦྱོར་བ་དྲུག །རྗེས་དྲན་དྲུག་གི་དེ་དྲུག །དངོས་མེད་ངོ་བོ་ཉིད་ཀྱི་དེ་དང་བཅུ་གསུམ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote is relevant because it discusses the thirteen aspects of sequential application (mthar gyis sbyor ba) matching the target paragraph's enumeration of the topics of progressive practice.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~307096 in the commentary file, unit 157/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 156,
+      "unit_hash": "e1a9f4a3d6f6",
+      "passage_hash": "7d435d9094c3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "རྗེས་དྲན་དྲུག་",
+      "relevance": "This quote is relevant because paragraph 2 discusses the thirteen attributes of sequential practice (མཐར་གྱིས་སྦྱོར་བ), which include the six recollections (རྗེས་དྲན་དྲུག་) also treated in the commentary excerpt.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~88974 in the commentary file, unit 46/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 33,
+      "chunk_id": 45,
+      "unit_hash": "0b68b9e72e13",
+      "passage_hash": "ef9eade5a588",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

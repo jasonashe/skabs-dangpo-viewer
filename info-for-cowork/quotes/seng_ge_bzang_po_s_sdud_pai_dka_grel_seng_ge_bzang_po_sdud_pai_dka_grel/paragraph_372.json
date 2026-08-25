@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "373_ཡན་ལག་བཅུ། དུམ་མཚན་དང་པོ། 272",
+  "root_paragraph": "ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་ལས་དང་སྲེད་པ་ཆོས་ཅན། རྒྱུའི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་གྱི་རྩ་བ་ཡིན་པའི་ཕྱིར། ཀུན་འབྱུང་བའི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་ཡང་དང་ཡང་དུ་སྐྱེད་བྱེད་ཡིན་པའི་ཕྱིར། རབ་སྐྱེའི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་ཤུགས་དྲག་སྐྱེད་བྱེད་ཡིན་པའི་ཕྱིར། སྲིད་པའི་སྲེད་པ་ཆོས་ཅན། རྐྱེན་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་གྱི་ལྷན་ཅིག་བྱེད་རྐྱེན་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "272",
+  "paragraph_key": "58567220c48ee4ab",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:18.441518Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "རྒྱུའི་རྣམ་པ་ཞེས་བྱ་སྟེ།",
+      "relevance": "This quote states the causal aspect among the four aspects of the origin truth.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~607512 in the commentary file, unit 311/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 56,
+      "chunk_id": 310,
+      "unit_hash": "9a092dfd1d3b",
+      "passage_hash": "2fc011b7eccd",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "ཀུན་འབྱུང་བའི་རྣམ་པ་ཞེས་བྱ་སྟེ།",
+      "relevance": "This quote specifies the originating aspect of the origin truth.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~606610 in the commentary file, unit 311/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 310,
+      "unit_hash": "9a092dfd1d3b",
+      "passage_hash": "2fc011b7eccd",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "རྒྱུ་ཀུན་འབྱུང་རབ་སྐྱེས་རྐྱེན་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད།",
+      "relevance": "This quote defines the characteristics of the truth of origin through cause, origin, birth, and condition, which is analyzed in paragraph 23.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~618182 in the commentary file, unit 317/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 316,
+      "unit_hash": "1556f59ebbc6",
+      "passage_hash": "a3252d70348a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

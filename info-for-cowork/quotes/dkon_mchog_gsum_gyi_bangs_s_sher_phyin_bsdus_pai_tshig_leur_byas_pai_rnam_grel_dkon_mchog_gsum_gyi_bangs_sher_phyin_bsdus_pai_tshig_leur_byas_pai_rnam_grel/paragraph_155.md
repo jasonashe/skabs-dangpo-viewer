@@ -1,0 +1,34 @@
+# Quote collection: དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།]
+**Target paragraph:** 156_རོང་ཊཱིཀ་པས། དུམ་མཚན་དང་པོ། 133
+
+> རོང་ཊཱིཀ་པས། གང་ཟག་གི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་དེ། ཤེས་པར་བྱ་བའི་ཉན་ཐོས་ཀྱི་ལམ་ཡིན་ཀྱང་། ཉན་ཐོས་ཀྱི་ལམ་མ་ཡིན། ཞེས་ཟེར་བ་སོགས་ནི་མི་འཐད་དེ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་ན། ཉན་ཐོས་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ། དམ་བཅའ་འཐད་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། བྱང་སེམས་འཕགས་པའི་རྒྱུད་ལ་དེ་ཡོད་པའི་ཕྱིར་ཏེ། བྱང་སེམས་འཕགས་པས་ཉན་ཐོས་ཀྱི་ལམ་རང་རྒྱུད་ལ་བསྐྱེད་པའི་སྒོ་ནས་ཤེས་པར་བྱེད་པའི་ཕྱིར་ཏེ། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར། གཞན་ཡང་། རང་རྒྱལ་གྱི་ལམ་ཡིན་ན། རང་རྒྱལ་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ། ཉན་ཐོས་ལ་དེའི་ཕྱིར། འདོད་ན། རང་རྒྱལ་གྱི་སློབ་ལམ་ཆོས་ཅན། དེར་ཐལ། དེའི་ཕྱིར། འདོད་ན། རང་རྒྱལ་སློབ་པ་ཡོད་པར་ཐལ་ལོ། །འདོད་ན། གྲུབ་མཐའ་ལ་དངོས།
+
+*Coverage: complete.*
+
+## Quote (45% correctness) ⚠️ UNVERIFIED
+> ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །
+
+- **Why relevant:** This quote is used to support the point that bodhisattvas must generate and know all the paths of the three vehicles, including the paths of the hearers.
+- **Location:** དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།], char offset ~41436 in the commentary file, unit 22/35
+- **Verification:** UNVERIFIED
+
+## Quote (42% correctness) ⚠️ UNVERIFIED
+> ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །
+
+- **Why relevant:** This quote is cited to show that a bodhisattva must generate and know all paths, including those of the hearers.
+- **Location:** དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།], char offset ~50253 in the commentary file, unit 26/35
+- **Verification:** UNVERIFIED
+
+## Quote (38% correctness) ⚠️ UNVERIFIED
+> ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །
+
+- **Why relevant:** This quote supports the explanation that a bodhisattva must generate and know all the paths, including those of the hearers.
+- **Location:** དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།], char offset ~866 in the commentary file, unit 1/35
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་ལམ་ཐམས་ཅད་ཤེས་པར་བྱའོ། །
+
+- **Why relevant:** This quote is used to support the argument that a bodhisattva must generate and understand all paths, including those of the hearers, on their own continuum.
+- **Location:** དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།], char offset ~19833 in the commentary file, unit 11/35
+- **Verification:** UNVERIFIED

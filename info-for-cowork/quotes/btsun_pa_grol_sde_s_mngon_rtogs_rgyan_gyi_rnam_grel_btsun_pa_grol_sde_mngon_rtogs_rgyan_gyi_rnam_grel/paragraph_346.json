@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "347_གཞུང་དོན་ནི། དུམ་མཚན་དང་པོ། 259",
+  "root_paragraph": "གཞུང་དོན་ནི། བྱང་ཆེན་ཡོད་བཞིན་དུ་བྱང་ཆེན་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ༑ ༑ཞེས་སོགས་ཀྱི་མདོ་ཆོས་ཅན། སྒྲུབ་པ་རང་གི་ངོ་བོ་ལ་འདོམས་པ་ཡིན་ཏེ། ཡུལ་བདེན་པ་གཉིས་ལས་མི་འདའ་བར་ཡུལ་ཅན་ཐབས་ཤེས་ཟུང་འབྲེལ་གྱི་སྒོ་ནས་ཉམས་སུ་ལོངས་ཤིག །ཅེས་འདོམས་པའི་མདོ་ཚིག་ཡིན་པའི་ཕྱིར། གལ་ཏེ་འཛམ་བུའི་གླིང་འདིར། ཞེས་སོགས་ཀྱི་མདོ་ཆོས་ཅན། སྒྲུབ་པའི་ཐུན་མོང་མ་ཡིན་པའི་ཁྱད་པར་ལ་འདོམས་པ་ཡིན་ཏེ། རང་ཉིད་འབའ་ཞིག་གི་ཕྱིར་དུ་ཐེག་དམན་ཡིད་བྱེད་ཀྱི་བསམ་པ་དང་མ་འདྲེས་པར་སྒྲུབ་པ་ཉམས་སུ་ལོངས་ཤིག །ཅེས་འདོམས་པའི་མདོ་ཚིག་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "259",
+  "paragraph_key": "b191d37db63226b9",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:32.151983Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེ་ནང་སྟོང་པ་ཉིད་ལ་ཕྱི་སྟོང་པ་ཉིད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ། །",
+      "relevance": "This quote from the commentary explains the principle of bodhisattvas not perceiving emptinesses mutually, which is the subject of target paragraph 3.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~67013 in the commentary file, unit 34/379",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 33,
+      "unit_hash": "b45f0819fbac",
+      "passage_hash": "88d9f5a28b72",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "བྱང་ཆེན་ཡོད་བཞིན་དུ་བྱང་ཆེན་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ",
+      "relevance": "The commentary excerpt discusses how bodhisattvas do not perceive things as truly existent due to emptiness, which matches the target passage's discussion on how the great awakening is not truly apprehended despite its presence.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~368423 in the commentary file, unit 188/379",
+      "verification": "UNVERIFIED",
+      "correctness_score": 55,
+      "chunk_id": 187,
+      "unit_hash": "b547d3daea66",
+      "passage_hash": "8c4e0e4c73da",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

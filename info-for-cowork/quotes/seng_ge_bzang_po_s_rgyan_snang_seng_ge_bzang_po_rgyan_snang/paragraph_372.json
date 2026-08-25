@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "373_ཡན་ལག་བཅུ། དུམ་མཚན་དང་པོ། 272",
+  "root_paragraph": "ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་ལས་དང་སྲེད་པ་ཆོས་ཅན། རྒྱུའི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་གྱི་རྩ་བ་ཡིན་པའི་ཕྱིར། ཀུན་འབྱུང་བའི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་ཡང་དང་ཡང་དུ་སྐྱེད་བྱེད་ཡིན་པའི་ཕྱིར། རབ་སྐྱེའི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་ཤུགས་དྲག་སྐྱེད་བྱེད་ཡིན་པའི་ཕྱིར། སྲིད་པའི་སྲེད་པ་ཆོས་ཅན། རྐྱེན་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། རང་འབྲས་སྡུག་བསྔལ་གྱི་ལྷན་ཅིག་བྱེད་རྐྱེན་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "272",
+  "paragraph_key": "58567220c48ee4ab",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:22.137467Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "རྒྱུ་མེད་གཞན་ལ་མི་ལྟོས་ཕྱིར། ། རྟག་ཏུ་ཡོད་པའི་མེད་པར་འགྱུར། ། དངོས་པོ་རྣམས་ནི་རེས་འགའ་ཞིག འབྱུང་བ་ལྟོས་པ་ལས་ཡིན་ནོ། །",
+      "relevance": "This verse is discussed in the context of causes and conditions corresponding to the causal aspects of suffering and origination covered in paragraph 23.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~315287 in the commentary file, unit 162/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 161,
+      "unit_hash": "499fafbe1fe5",
+      "passage_hash": "13596f621529",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "227_སྐད་ཅིག་སྦྱོར། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "སྐད་ཅིག་སྦྱོར་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་རྣམ་པར་སྨིན་པ་མ་ཡིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། རྣམ་པར་སྨིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། མཚན་ཉིད་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་བཞི་ཡོད་པའི་ཕྱིར༑ འབྲས་བུ་ཆོས་སྐུ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་ངོ་བོ་ཉིད་སྐུ། ལོངས་སྐུ། སྤྲུལ་སྐུ། ཡེ་ཤེས་ཆོས་སྐུ་མཛད་པ་འཕྲིན་ལས་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། འདི་དག་གི་མཚན་ཉིད་དང་། དབྱེ་བ་སོགས་རྒྱས་པར་འོག་ཏུ་རང་རང་གི་སྐབས་སུ་འཆད་དོ། །",
+  "root_paragraph_page": "182",
+  "paragraph_key": "4da39cbe9c411775",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:33.947279Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "མཚན་ཉིད་ཀྱིས་ནི་རྣམ་པ་བཞི། ། ངོ་བོ་ཉིད་ལོངས་རྫོགས་བཅས་དང་། ། དེ་བཞིན་གཞན་པ་སྤྲུལ་པ་ནི། ། ཆོས་སྐུ་མཛད་པ་དང་བཅས་པ། ། རྣམ་པ་བཞིར་ནི་ཡང་དག་བརྗོད། །",
+      "relevance": "This verse details the four aspects of the resultant Dharmakaya, matching the discussion of the Buddha body and its divisions in paragraph 3.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~4403 in the commentary file, unit 3/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 2,
+      "unit_hash": "742436d687e4",
+      "passage_hash": "30c104283174",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "ངོ་བོ་ཉིད་ལོངས་རྫོགས་བཅས་དང་། ། དེ་བཞིན་གཞན་པ་སྤྲུལ་པ་ནི། ། ཆོས་སྐུ་མཛད་པ་དང་བཅས་པ། ། རྣམ་པ་བཞིར་ནི་ཡང་དག་བརྗོད། །",
+      "relevance": "This quote discusses the four aspects of the resultant Dharmakaya, corresponding to the topic mentioned in paragraph 3.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~39959 in the commentary file, unit 21/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 20,
+      "unit_hash": "7fe864760384",
+      "passage_hash": "90bc08c7d7c5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "སྐད་ཅིག་སྦྱོར་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་རྣམ་པར་སྨིན་པ་མ་ཡིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། རྣམ་པར་སྨིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། མཚན་ཉིད་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་བཞི་ཡོད་པའི་ཕྱིར༑ འབྲས་བུ་ཆོས་སྐུ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་ངོ་བོ་ཉིད་སྐུ། ལོངས་སྐུ། སྤྲུལ་སྐུ། ཡེ་ཤེས་ཆོས་སྐུ་མཛད་པ་འཕྲིན་ལས་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This target passage discusses the four types of instantaneous conjunctions and the four aspects of the resultant Dharmakaya, which directly corresponds to the subjects covered in the commentary excerpt.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~80193 in the commentary file, unit 41/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 40,
+      "unit_hash": "5ed321927feb",
+      "passage_hash": "8f8c6042f3c1",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "སྐད་ཅིག་སྦྱོར་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་རྣམ་པར་སྨིན་པ་མ་ཡིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། རྣམ་པར་སྨིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། མཚན་ཉིད་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་བཞི་ཡོད་པའི་ཕྱིར༑ འབྲས་བུ་ཆོས་སྐུ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་ངོ་བོ་ཉིད་སྐུ། ལོངས་སྐུ། སྤྲུལ་སྐུ། ཡེ་ཤེས་ཆོས་སྐུ་མཛད་པ་འཕྲིན་ལས་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This passage directly lists the four types of instantaneous absorption (skad cig sbyor ba) and the four aspects of the resultant Dharmakāya, matching the topics outlined in paragraph 3.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~30658 in the commentary file, unit 16/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 15,
+      "unit_hash": "4f1736ca5ec0",
+      "passage_hash": "66edef6ef76a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

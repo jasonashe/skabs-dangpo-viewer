@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "198_གཞན་ཡང་བྱང། དུམ་མཚན་དང་པོ། 163",
+  "root_paragraph": "གཞན་ཡང་། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི།སྐྱེས་བུ་རང་བཞིན་མ་ཡིན་རྣམ་འགྱུར་མིན༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་ཕྱི་རོལ་པའི་གཞུང་ཡིན་པར་ཐལ། དེ་འདྲ་ཡོད་པ་གང་ཞིག ༑སློབ་དཔོན་སེང་གེ་བཟང་པོའི་རྒྱུད་ཀྱི། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་གྱི་གཞུང་ཚིག་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེ་ཆོས་ཅན། བསྟན་བཅོས་རྣམ་དག་ཡིན་པར་ཐལ། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི་བསྟན་བཅོས་ཡིན་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། ཕྱི་རོལ་པའི་གཞུང་ཡིན་པའི་ཕྱིར།རྟགས་ཁྱབ་ཁས།",
+  "root_paragraph_page": "163",
+  "paragraph_key": "2fea077ec8d2d5a9",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+  "generated_at": "2026-08-20T04:14:33.084013Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །",
+      "relevance": "This same verse from the commentary is referenced in target paragraph 6 in the context of discussing text attribution and mind streams.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།], char offset ~2609 in the commentary file, unit 2/19",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 1,
+      "unit_hash": "ea22886d8ac5",
+      "passage_hash": "bb364c4258ee",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 19,
+    "units_scanned": 19,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

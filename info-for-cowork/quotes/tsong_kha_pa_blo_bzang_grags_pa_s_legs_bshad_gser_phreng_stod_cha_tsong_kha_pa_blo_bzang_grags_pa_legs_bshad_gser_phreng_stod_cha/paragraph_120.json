@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "121_གཉིས་པ་རང། དུམ་མཚན་དང་པོ། 109",
+  "root_paragraph": "གཉིས་པ་རང་ལུགས་ལ། ཆོས་འཁོར་སྤྱིའི་རྣམ་གཞག་བཤད་པ་དང་། ལུང་གི་ཆོས་འཁོར་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། ངོ་བོ། དབྱེ་བ། དྲང་ངེས་ཀྱི་དོན༑ ཆོས་ཕུང་གི་ཚད། སྐོར་ཚུལ། སྒྲ་བཤད་པའོ། །དང་པོ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག ༑མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+  "root_paragraph_page": "109",
+  "paragraph_key": "98752fcc7a0bbb44",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:50.066729Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "བྱེ་སྨྲ་རྣམས་མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། ལྔ་སྡེ་ལ་ཝ་ར་ཎཱ་སེར་ཆོས་བསྟན་པས་ཀུན་ཤེས་ཀོའུ་དི་ནྱ་ལ་མཐོང་ལམ་སྐྱེས་པ་ན་གནོད་སྦྱིན་རྣམས་ཀྱིས་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ་ཞེས་བསྒྲུབས་པ་དང་།",
+      "relevance": "This quote explains the Vaibhashika view that only the path of seeing constitutes the turning of the dharma wheel, referenced in target paragraph 1.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~84627 in the commentary file, under ‘ཙ’, unit 44/502",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 43,
+      "unit_hash": "5b546ee032d3",
+      "passage_hash": "fae0f1294614",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑",
+      "relevance": "This passage is relevant because it mentions the view held by some Vaibhasikas that the turning of the wheel of dharma occurred when the path of seeing was generated for the group of five.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~862483 in the commentary file, under ‘ཙ’, unit 442/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 441,
+      "unit_hash": "78725a96fcb0",
+      "passage_hash": "3f3d84e537f1",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑",
+      "relevance": "This passage from the commentary mentions the event where gods proclaim the turning of the wheel of dharma upon the birth of the path of seeing in the five monks, which relates to the Vaibhasika view discussed in paragraph 1.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~970582 in the commentary file, under ‘ཙ’, unit 497/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 496,
+      "unit_hash": "d8b72f0abeea",
+      "passage_hash": "d6999e9e086c",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག ༑མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ།",
+      "relevance": "This quote supports the target passage by stating the Vaibhasika view that only the path of seeing constitutes the turning of the Dharma wheel.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~495340 in the commentary file, under ‘ཙ’, unit 254/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 25,
+      "chunk_id": 253,
+      "unit_hash": "526638b5ad93",
+      "passage_hash": "7d88ab479a6e",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

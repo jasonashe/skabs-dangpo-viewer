@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "121_གཉིས་པ་རང། དུམ་མཚན་དང་པོ། 109",
+  "root_paragraph": "གཉིས་པ་རང་ལུགས་ལ། ཆོས་འཁོར་སྤྱིའི་རྣམ་གཞག་བཤད་པ་དང་། ལུང་གི་ཆོས་འཁོར་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། ངོ་བོ། དབྱེ་བ། དྲང་ངེས་ཀྱི་དོན༑ ཆོས་ཕུང་གི་ཚད། སྐོར་ཚུལ། སྒྲ་བཤད་པའོ། །དང་པོ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག ༑མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+  "root_paragraph_page": "109",
+  "paragraph_key": "98752fcc7a0bbb44",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:29.041670Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེ་ནས་འཁོར་དེ་ཉིད་ལས་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་ཀྱིས་མེ་ཏོག་མན་ད་ར་བ་དག་བླངས་ནས་བཅོམ་ལྡན་འདས་ལ་གཏོར་ཏོ། ། མངོན་པར་གཏོར་ཏོ་ཞེས་པ་མན་ཆད་ཀྱིས་བསྟན།",
+      "relevance": "This quote from the commentary discusses the gods scattering flowers, which is cited in the target passage as the scriptural basis for the Vaibhasika assertion that the turning of the wheel of the Dharma occurred at the time of the path of seeing.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~705636 in the commentary file, unit 361/379",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 360,
+      "unit_hash": "b1b87b6b8dfc",
+      "passage_hash": "9a63af7f1c5b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+      "relevance": "This paragraph discusses the Vaibhasika view that only the path of seeing constitutes the turning of the wheel of law, referencing the gods' declaration of the wheel turning in Jambudvipa.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~202086 in the commentary file, unit 103/379",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 102,
+      "unit_hash": "ac9830926c07",
+      "passage_hash": "dfa51773b9b4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

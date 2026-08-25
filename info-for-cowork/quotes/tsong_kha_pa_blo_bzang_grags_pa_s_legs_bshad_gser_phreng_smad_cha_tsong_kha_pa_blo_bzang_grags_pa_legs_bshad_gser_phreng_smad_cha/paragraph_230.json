@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "231_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 183",
+  "root_paragraph": "གསུམ་པ་ནི། སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་། གཉིས་པར། མོག་མོག་པོར་བྱེད་ལ་སོགས་དང་། །ཞེས་དང་། རྟེན་གྱི་བསེ་རུ་ལྟ་བུའི་ལམ། །ཞེས་དང་། སྐབས་བཞི་པར། སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །ཞེས་དང་། སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། །ཞེས་གསུངས་པ་རྣམས་ཟློས་པར་འགྱུར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་དཀོན་མཆོག་གསུམ་བཤད་པའི་སྐབས་ཀྱི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་ལ། གཉིས་པ་དེ། ལམ་ཤེས་སྐྱེ་བའི་རྟེན་དང་། གསུམ་པ་དེ། རང་རྒྱལ་གྱི་ལམ་གྱི་རྟེན་གྱི་གང་ཟག་དང་། བཞི་པ་དེ། ཡུམ་ཉན་པའི་སྣོད་རུང་གི་གང་ཟག་དང་། ལྔ་པ་དེ། ཕྱིར་མི་ལྡོག་པའི་རྟེན་ངོས་གཟུང་བར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "183",
+  "paragraph_key": "f076fc44d8b505bb",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:57.909002Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །",
+      "relevance": "This quote from the excerpt discusses the specific category of persons who are suitable vessels for listening to the Perfection of Wisdom (ཡུམ་ཉན་པའི་སྣོད་རུང་གི་གང་ཟག་), directly matching the discussion in target paragraph 7.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~102919 in the commentary file, under ‘ཚ’, unit 53/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 71,
+      "chunk_id": 52,
+      "unit_hash": "5880ec727c81",
+      "passage_hash": "5231fc3ca112",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་།",
+      "relevance": "The commentary excerpt discusses the twenty types of the spiritual community (དགེ་འདུན་ཉི་ཤུ་), which is directly referenced in the target passage concerning the discussion of the twenty persons in the first chapter.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~1014919 in the commentary file, under ‘ཚ’, unit 521/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 520,
+      "unit_hash": "836b2f26f00f",
+      "passage_hash": "dcc6eb34e3a2",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

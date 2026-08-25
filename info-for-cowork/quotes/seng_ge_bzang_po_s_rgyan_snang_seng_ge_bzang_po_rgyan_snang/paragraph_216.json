@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "217_གཞན་ཡང་སྡུད། དུམ་མཚན་དང་པོ། 175",
+  "root_paragraph": "གཞན་ཡང་། སྡུད་འགྲེལ་ལས།དང་པོ་སྦྱོར་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཀྱི་ལམ་སྟེ། དོན་དུ་སྦྱོར་བ་གཉིས་ཉིད་ཀྱི་གཙོ་བོ་མ་ཡིན་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ༑ ༑ཞེས་གསུངས་པ་མི་འཐད་པར་ཐལ། ཐེག་ཆེན་གྱི་ཚོགས་སྦྱོར་རྣམས་ལམ་ཤེར་ཕྱིན་མ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "175",
+  "paragraph_key": "accfdb802d0de492",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:20.815821Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "དང་པོ་སྦྱོར་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཀྱི་ལམ་སྟེ། དོན་དུ་སྦྱོར་བ་གཉིས་ཉིད་ཀྱི་གཙོ་བོ་མ་ཡིན་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ།",
+      "relevance": "The target text cites the commentary's explanation of the path characterized by preliminary application and so on.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~515282 in the commentary file, unit 265/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 264,
+      "unit_hash": "e0bd73e17beb",
+      "passage_hash": "0cd1c1b670e7",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "དང་པོ་སྦྱོར་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཀྱི་ལམ་སྟེ། དོན་དུ་སྦྱོར་བ་གཉིས་ཉིད་ཀྱི་གཙོ་བོ་མ་ཡིན་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ།",
+      "relevance": "This quote from the commentary is analyzed regarding whether the preparatory practices and paths qualify as the path of the perfection of wisdom.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~595722 in the commentary file, unit 306/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 305,
+      "unit_hash": "a5fd6459c5f1",
+      "passage_hash": "ac45c8161cb3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

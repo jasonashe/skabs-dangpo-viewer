@@ -1,0 +1,83 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]
+**Target paragraph:** 114_གཞན་ཡང་ཐེག། དུམ་མཚན་དང་པོ། 104
+
+> གཞན་ཡང་། ཐེག་པ་ཆེ་ཆུང་གི་མདོ་མི་འགལ་ཏེ། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་དེ་ཐེག་པ་ཆེ་ཆུང་ཐུན་མོང་བའི་སྡེ་སྣོད་ཡིན་པའི་ཕྱིར་ཏེ། ཀུན་བཏུས་ལས།གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར། ཁ་ཅིག ༑དུས་དང་པོར་གསུངས་པའི་མདོ། འཁོར་ལོ་དང་པོའ་ིམཚན་ཉིད་དུ་འཇོག་པ་ཡིན་ཏེ༑ དྲང་ངེས་རྣམ་འབྱེད་ལས།ཤུགས་ལ་གནས་པའི་དོན་དེ་ཉིད་དུས་ཀྱི་རིམ་པའི་སྒོ་ནས་འཁོར་ལོ་གསུམ་དང་སྦྱར་བའི་དྲང་ངེས་སུ་འགྱུར་ཚུལ། ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། དེ་ནི་དང་པོར་ཝཱ་རཱ་ཎ་སཱིར་ལྔ་སྡེ་ལ་གསུངས་པའི་བདེན་བཞིའི་ཆོས་འཁོར་དང་༑ བར་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་གསུངས་པའི་ཤེར་ཕྱིན་གྱི་མདོ་དང་། ཐ་མར་ཡངས་པ་ཅན་དུ་གསུངས་པའི་ལེགས་པར་རྣམ་པར་ཕྱེ་བའི་ཆོས་འཁོར་གསུམ་དུས་ཀྱི་རིམ་པའི་སྒོ་ནས་འཇོག་པའི་དོན་ཡིན་པའི་ཕྱིར། དེ་ལྟར་མ་ཡིན་ན། དྲང་ངེས་རྣམ་འབྱེད་ལས༑དགོངས་འགྲེལ་ལས་འཁོར་ལོ་རིམ་པ་གསུམ་གསུངས་པ་ནི། འཁོར་གྱི་འདུ་ཐེབས་དང་སྟོན་པའི་སྐུ་ཚེའི་ཚིགས་ལ་སོགས་པའི་ངོས་ནས་འཇོག་པ་མ་ཡིན་གྱི། ཞེས་གསུངས་པ་མི་འཐད་པར་ཐལ། འཁོར་ལོ་གསུམ་གྱི་ཁྱད་པར་དུས་ཚིགས་ཀྱི་སྒོ་ནས་འཇོག་རིགས་པའི་ཕྱིར་ཏེ། ཁྱོད་ཀྱི་མཚན་ཉིད་འཐད་པའི་ཕྱིར། མཚན་ཉིད་དེ་ལྟར་འཇོག་པ་དང་། འདུལ་བ་ལུང་སྡེ་བཞི་འཁོར་ལོ་དང་པོའ་ིམཚན་གཞིར་འདོད་པ་ནང་འགལ་ཏེ། འདུལ་བ་རུང་མཐུན་གྱི་མདོ་དེ་དུས་དང་པོར་གསུངས་པའི་མདོ་ཡིན་པར་ཐལ༑ དེ་འཁོར་ལོ་དང་པོ་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་མི་ནུས་ཏེ། དེ་སྟོན་པ་མྱ་ངན་ལས་འདའ་ཁར་གསུངས་པའི་ཕྱིར།རྟགས་གྲུབ་སྟེ། འདུལ་བ་ལུང་སྡེ་བཞི་པོ་དེ་དེ་ཡིན་པའི་ཕྱིར། དེ་ལྟར་ཡང་། དྲང་ངེས་རྣམ་འབྱེད་ལས།སྟོན་པ་མྱ་ངན་ལས་འདའ་ཁར་འདུལ་བ་རུང་མཐུན་ཞེས་བྱ་བ་མདོར་བསྡུས་སུ་གྲགས་པ་གཅིག་གསུངས་ཀྱང་དེ་འདིར་ངེས་དོན་དུ་སྟོན་པ་མ་ཡིན་ལ། ཞེས་གསུངས་པའི་ཕྱིར། དེས་མཚོན་ནས་དུས་དང་པོར་གསུངས་པའི་ཤེར་ཕྱིན་གྱི་མདོ་ཆོས་ཅན། འཁོར་ལོ་དང་པོར་ཐལ། མཚན་ཉིད་དེའི་ཕྱིར། དེ་དེར་ཐལ། དེ་ཡོད་པའི་ཕྱིར་ཏེ། སྟོན་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཕྱི་ལོ་དཔལ་ལྡན་འབྲས་སྤུངས་ཀྱི་མཆོད་རྟེན་དུ་དུས་འཁོར་རྩ་རྒྱུད་གསུངས་པ་གང་ཞིག །དེ་དང་དུས་མཉམ་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་ཤེར་ཕྱིན་གྱི་མདོ་གསུངས་པའི་ཕྱིར༑ དང་པོ་གྲུབ་སྟེ། དུས་འཁོར་འགྲེལ་ཆེན་ལས།ས་གའི་ཉའི་སྐྱ་རེངས་འཆར་བའི་ཚེ་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཞིང་ཐེག་པ་གསུམ་བསྟན་པར་མཛད་ནས། ཟླ་བ་བཅུ་གཉིས་པ་ནག་པའི་ཉ་ལ་ཤྲཱི་དྷཱ་ན་ཀ་ཊ་ཀར་ཆོས་ཀྱི་དབྱིངས་གསུང་གི་དབང་ཕྱུག་གི་དཀྱིལ་འཁོར་གསུངས༑ ཞེས་གསུངས་པའི་ཕྱིར། གཉིས་པ་གྲུབ་སྟེ། དུས་འཁོར་རྩ་རྒྱུད་ལས།སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (47% correctness) ⚠️ UNVERIFIED
+> ཀུན་བཏུས་ལས།གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quote explains how the category of 'established exposition' (vinishcayasamgrahani / gtan la dbab par bstan pa) functions as a shared Abhidharma pitaka for both vehicles.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~6602 in the commentary file, unit 4/577
+- **Verification:** UNVERIFIED
+
+## Quote (41% correctness) ⚠️ UNVERIFIED
+> གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །
+
+- **Why relevant:** This quote explains that the well-established or ascertained branch (gtan la dbab par bstan pa'i sde) serves as the Abhidharma pitaka for both vehicles, matching the discussion of common scriptural divisions.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~70932 in the commentary file, unit 37/577
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> ཀུན་བཏུས་ལས།གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary excerpt cites the Compendium of Abhidharma (Kuntü) to show that the section on establishing determinations is a shared Abhidharmapitaka for both vehicles, which directly supports the target passage's discussion on the Abhidharma division.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~449424 in the commentary file, unit 231/577
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> དུས་འཁོར་རྩ་རྒྱུད་ལས།སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary cites the Kalachakra Root Tantra regarding the simultaneous turning of the teachings at Vulture Peak and Palden Drepung, matching the discussion in Paragraph 14.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~334483 in the commentary file, unit 172/577
+- **Verification:** UNVERIFIED
+
+## Quote (33% correctness) ⚠️ UNVERIFIED
+> དྲང་ངེས་རྣམ་འབྱེད་ལས།ཤུགས་ལ་གནས་པའི་དོན་དེ་ཉིད་དུས་ཀྱི་རིམ་པའི་སྒོ་ནས་འཁོར་ལོ་གསུམ་དང་སྦྱར་བའི་དྲང་ངེས་སུ་འགྱུར་ཚུལ། ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ།
+
+- **Why relevant:** The commentary excerpt mentions the text དྲང་ངེས་རྣམ་འབྱེད་ and discusses the chronological and sequential ordering of the three wheels of the Dharma, matching the target paragraph's debate on the same topic.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~769420 in the commentary file, unit 395/577
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This quote supports the discussion on the timing and locations of the Buddha's teachings, specifically mentioning the simultaneous turning of teachings at Vulture Peak and Palden Drepung.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~1059802 in the commentary file, unit 545/577
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> དེ་ལྟར་ཡང་། དྲང་ངེས་རྣམ་འབྱེད་ལས།སྟོན་པ་མྱ་ངན་ལས་འདའ་ཁར་འདུལ་བ་རུང་མཐུན་ཞེས་བྱ་བ་མདོར་བསྡུས་སུ་གྲགས་པ་གཅིག་གསུངས་ཀྱང་དེ་འདིར་ངེས་དོན་དུ་སྟོན་པ་མ་ཡིན་ལ། ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary quotes the 'Drang Nge Nam Jey' regarding the teaching given near the time of passing, which supports the discussion in paragraph 14 about the timing and interpretation of scriptural sources.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~789448 in the commentary file, unit 406/577
+- **Verification:** UNVERIFIED
+
+## Quote (27% correctness) ⚠️ UNVERIFIED
+> དུས་འཁོར་འགྲེལ་ཆེན་ལས།ས་གའི་ཉའི་སྐྱ་རེངས་འཆར་བའི་ཚེ་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཞིང་ཐེག་པ་གསུམ་བསྟན་པར་མཛད་ནས། ཟླ་བ་བཅུ་གཉིས་པ་ནག་པའི་ཉ་ལ་ཤྲཱི་དྷཱ་ན་ཀ་ཊ་ཀར་ཆོས་ཀྱི་དབྱིངས་གསུང་གི་དབང་ཕྱུག་གི་དཀྱིལ་འཁོར་གསུངས༑ ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary cites the Kalachakra commentary to discuss the chronological details of the Buddha's teachings.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~248195 in the commentary file, unit 128/577
+- **Verification:** UNVERIFIED
+
+## Quote (26% correctness) ⚠️ UNVERIFIED
+> དྲང་ངེས་རྣམ་འབྱེད་ལས༑དགོངས་འགྲེལ་ལས་འཁོར་ལོ་རིམ་པ་གསུམ་གསུངས་པ་ནི། འཁོར་གྱི་འདུ་ཐེབས་དང་སྟོན་པའི་སྐུ་ཚེའི་ཚིགས་ལ་སོགས་པའི་ངོས་ནས་འཇོག་པ་མ་ཡིན་གྱི། ཞེས་གསུངས་པ་མི་འཐད་པར་ཐལ།
+
+- **Why relevant:** This quote references དྲང་ངེས་རྣམ་འབྱེད་ and its citation of the དགོངས་འགྲེལ་ regarding how the three wheels of the Dharma are to be structured, which directly parallels the discussion in target paragraph 14.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~767859 in the commentary file, unit 395/577
+- **Verification:** UNVERIFIED
+
+## Quote (22% correctness) ⚠️ UNVERIFIED
+> ཀུན་བཏུས་ལས།གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ་ནི་གཉིས་ཀའི་ཡང་ཆོས་མངོན་པའི་སྡེ་སྣོད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary cites the Abhidharmasamuccaya to show that the section on establishing definitions is a shared Abhidharma pitaka for both vehicles.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~1105637 in the commentary file, unit 569/577
+- **Verification:** UNVERIFIED
+
+## Quote (20% correctness) ⚠️ UNVERIFIED
+> སྟོན་པ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཕྱི་ལོ་དཔལ་ལྡན་འབྲས་སྤུངས་의མཆོད་རྟེན་དུ་དུས་འཁོར་རྩ་རྒྱུད་གསུངས་པ་གང་ཞིག །དེ་དང་དུས་མཉམ་དུ་བྱ་རྒོད་ཕུང་པོའ་ིརིར་ཤེར་ཕྱིན་གྱི་མདོ་གསུངས་པའི་ཕྱིར༑
+
+- **Why relevant:** This quote is relevant to Paragraph 14 because it discusses the chronological simultaneous teaching of the Kalachakra tantra and the perfection of wisdom sutras, which is part of the debate regarding the timing and categorization of the turnings of the wheel of dharma.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~1082571 in the commentary file, unit 557/577
+- **Verification:** UNVERIFIED

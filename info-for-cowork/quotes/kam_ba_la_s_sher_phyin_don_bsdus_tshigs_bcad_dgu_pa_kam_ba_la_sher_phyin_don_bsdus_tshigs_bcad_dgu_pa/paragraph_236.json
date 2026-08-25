@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "237_སྐབས་བཞི་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་བཞི་པར། དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །ཞེས་སོགས་སུ་བསྟན་པ་ནི་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ། སྐབས་ལྔ་པར། སྦྱོར་ལམ་བསྟན་པ་ནི་རྩེ་སྦྱོར་གྱི་བསྟན་པ་ཡིན་པས་མི་ཟློས་པའི་ཕྱིར། འདི་དག་ནི་འཕགས་པའི་བཞེད་པ་གསེར་ཕྲེང་དུ་བཀོད་པའོ།།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "aa12c9d41b6f3b0d",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:32.954433Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དེ་ལ་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ།",
+      "relevance": "This provides a quote relevant to discussing the non-repetitive nature of meditation and preparation regarding sentient beings in the fourth topic.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~584577 in the commentary file, unit 299/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 298,
+      "unit_hash": "1e2cb3607a97",
+      "passage_hash": "9f303b7aa199",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "216_ཁ་ཅིག་ལམ། དུམ་མཚན་དང་པོ། 175",
+  "root_paragraph": "ཁ་ཅིག །ལམ་ཤེར་ཕྱིན་གྱི་མ་མཐའི་ས་མཚམས་ཐེག་ཆེན་གྱི་མཐོང་ལམ་ནས་འཇོག་སྟེ།རྒྱན་སྣང་ལས།མཐོང་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཅན་གྱི་ལམ། ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། གོ་སྒྲུབ་ཀྱི་མ་མཐའི་ས་མཚམས་ཐེག་ཆེན་གྱི་མཐོང་ལམ་དང་ཚོགས་སྒྲུབ་ཀྱི་ས་མཚམས་ཐེག་ཆེན་གྱི་སྒོམ་ལམ་ནས་འཇོག་རིགས་པར་ཐལ༑ མཐོང་བ་དང་སྒོམ་པ་དང་ཁྱད་པར་གྱི་ལམ་གྱི་ངོ་བོ་ཉིད་སྒྲུབ་པའི་མཚན་ཉིད་གོ་ཆ་དང་ཚོགས་དང་ངེས་པར་འབྱུང་བ་རྣམས། ཞེས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས།",
+  "root_paragraph_page": "175",
+  "paragraph_key": "cf51e20abf93811b",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:53.686283Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "མཐོང་བ་དང་སྒོམ་པ་དང་ཁྱད་པར་གྱི་ལམ་གྱི་ངོ་བོ་ཉིད་སྒྲུབ་པའི་མཚན་ཉིད་གོ་ཆ་དང་ཚོགས་དང་ངེས་པར་འབྱུང་བ་རྣམས།",
+      "relevance": "This passage is relevant because it discusses the boundaries and definitions of the practices such as armor and assembly practices in relation to paths like the path of seeing.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~287272 in the commentary file, unit 147/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 61,
+      "chunk_id": 146,
+      "unit_hash": "3f34f8a71536",
+      "passage_hash": "a3bbcf4f7ca8",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "མཐོང་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཅན་གྱི་ལམ།",
+      "relevance": "This phrase from the Ornament is quoted to discuss the boundary and definition of the path of seeing as a path characterized by realization.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~756380 in the commentary file, unit 387/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 386,
+      "unit_hash": "6ec76551b9cd",
+      "passage_hash": "80210b213d99",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

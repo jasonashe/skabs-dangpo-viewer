@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "267_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 211",
+  "root_paragraph": "གཉིས་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་སེམས་རྟེན་དུ་གྱུར་པའི་བསམ་གཏན་གྱི་ཉེར་བསྡོགས། བསམ་གཏན་གྱི་དངོས་གཞི་ཅི་རིགས་པ་ཡོད་ཅིང་། དེ་ལ་འདོད་སེམས་མེད་དེ། ཐེག་ཆེན་སེམས་བསྐྱེད་ཐོབ་ན་བསམ་གཏན་གྱི་ཉེར་བསྡོགས་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར་ཏེ། དེ་ཐོབ་ན་ཞི་ལྷག་ཟུང་འབྲེལ་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར་ཏེ། རྣམ་བཤད་ལས༑སྦྱོར་བ་ཞེས་པ་ནི་ཞི་ལྷག་ཟུང་དུ་འབྲེལ་བའི་དོན་བསྟན་པའོ། །ཞེས་གསུངས་པས། རྣམ་རྫོགས་སྦྱོར་བ་ཐོབ་ན་ཞི་ལྷག་ཟུང་འབྲེལ་ཐོབ་པས་ཁྱབ་པར་བསྟན་པའི་ཕྱིར།",
+  "root_paragraph_page": "211",
+  "paragraph_key": "cfdc6d94ac6bb8f0",
+  "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+  "generated_at": "2026-08-20T04:14:37.371399Z",
+  "quotes": [
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "སྦྱོར་བ་ཞེས་པ་ནི་ཞི་ལྷག་ཟུང་དུ་འབྲེལ་བའི་དོན་བསྟན་པའོ། །",
+      "relevance": "The commentary quote is explicitly cited in target paragraph 3 to explain the meaning of 'sbyor ba' (application/preparation) in relation to the union of calm abiding and special insight (zhi lhag zung 'brel).",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~475134 in the commentary file, under ‘སྒོམ་ལམ་རྩེ་སྦྱོར་བཤད་པ།’, unit 242/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 50,
+      "chunk_id": 241,
+      "unit_hash": "fb4986bb421c",
+      "passage_hash": "88dec78cacc0",
+      "folio": null,
+      "sa_bcad": "སྒོམ་ལམ་རྩེ་སྦྱོར་བཤད་པ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "ཐེག་ཆེན་སེམས་བསྐྱེད་ཐོབ་ན་བསམ་གཏན་གྱི་ཉེར་བསྡོགས་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར་ཏེ། དེ་ཐོབ་ན་ཞི་ལྷག་ཟུང་འབྲེལ་ཐོབ་པས་ཁྱབ་པའི་ཕྱིར།",
+      "relevance": "This quote explains the entailment between attaining the Mahayana mind generation and acquiring the preparatory states of meditative concentration (bsham gtan gyi nyer bsdogs) and the union of calm abiding and special insight.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~136994 in the commentary file, under ‘བསམ་གཏན་དང་གཟུགས་མེད་བཤད་པ།’, unit 70/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 69,
+      "unit_hash": "b8d9b5111955",
+      "passage_hash": "50d272678e9e",
+      "folio": null,
+      "sa_bcad": "བསམ་གཏན་དང་གཟུགས་མེད་བཤད་པ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "སྦྱོར་བ་ཞེས་པ་ནི་ཞི་ལྷག་ཟུང་དུ་འབྲེལ་བའི་དོན་བསྟན་པའོ། །",
+      "relevance": "The commentary uses this quote from the rnam bshad to support the explanation that the union of calm abiding and special insight is attained when the connection is established.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~502289 in the commentary file, under ‘རྣམ་པར་སྨིན་པ་མིན་པའི་སྐད་ཅིག་སྦྱོར་བ་བཤད་པ།’, unit 256/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 255,
+      "unit_hash": "dd9759a8bb57",
+      "passage_hash": "44a75b48ab3d",
+      "folio": null,
+      "sa_bcad": "རྣམ་པར་སྨིན་པ་མིན་པའི་སྐད་ཅིག་སྦྱོར་བ་བཤད་པ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "སྦྱོར་བ་ཞེས་པ་ནི་ཞི་ལྷག་ཟུང་དུ་འབྲེལ་བའི་དོན་བསྟན་པའོ། །",
+      "relevance": "This quote from the commentary explains the meaning of \"application\" (sjor ba) in terms of uniting calm-abiding and insight, which relates to the discussion on whether the preparatory meditative stabilization entails the attainment of the union of calm-abiding and insight.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~5572 in the commentary file, under ‘མཆོད་པར་བརྗོད་ཅིང་རྩོམ་པར་དམ་བཅའ་བ།’, unit 3/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 2,
+      "unit_hash": "9a14604ffbad",
+      "passage_hash": "5c2fdedf641b",
+      "folio": null,
+      "sa_bcad": "མཆོད་པར་བརྗོད་ཅིང་རྩོམ་པར་དམ་བཅའ་བ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 281,
+    "units_scanned": 281,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

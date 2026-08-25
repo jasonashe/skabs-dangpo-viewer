@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "397_རོང་ཊཱིཀ་པ། དུམ་མཚན་དང་པོ། 286",
+  "root_paragraph": "རོང་ཊཱིཀ་པ་ན་རེ། ལུང་གི་ཆོས་དཀོན་མཆོག་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར། སློབ་པའི་ལམ་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར། སློབ་པའི་འགོག་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། མེད་དགག་ཡིན་པའི་ཕྱིར། སློབ་པ་འཕགས་པ་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཤེས་སྒྲིབ་ཀྱི་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར། ཞེས་ཟེར་ན།",
+  "root_paragraph_page": "286",
+  "paragraph_key": "b4db411194cd40f6",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:37.023379Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །",
+      "relevance": "The excerpt mentions that scriptural and practice elements are like a raft in the context of reaching ultimate realization, which relates to Rongtikpa's assertions about scriptural dharma not being the ultimate refuge in paragraph 5.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~419158 in the commentary file, unit 214/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 49,
+      "chunk_id": 213,
+      "unit_hash": "2e3e18f1cb79",
+      "passage_hash": "df4887df272b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "228_འདི་དག་གིས། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "འདི་དག་གིས་ཟློས་པ་སྤོང་བ་ལ་འཕགས་པའི་ལུགས་དང་། སློབ་དཔོན་གྱི་ལུགས་གཉིས་ལས། སློབ་དཔོན་གྱི་བཞེད་པ་ནི་སྐབས་བཞི་པར་འཆད་ལ། འཕགས་པ་ལྟར་ན་སྒྲུབ་པ་དང་། སྦྱོར་བ་དང་། གང་ཟག་དང་། རྟོག་པ་དང་། སྒོམ་ལམ་དང་། མཐོང་ལམ་དང་། སྦྱོར་ལམ་ལ་ཟློས་པ་སྤང་བའོ། །",
+  "root_paragraph_page": "182",
+  "paragraph_key": "ff5245b7f9d44470",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:51.613419Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "སློབ་དཔོན་གྱི་བཞེད་པ་ནི་སྐབས་བཞི་པར་འཆད་ལ། འཕགས་པ་ལྟར་ན་སྒྲུབ་པ་དང་། སྦྱོར་བ་དང་། གང་ཟག་དང་། རྟོག་པ་དང་། སྒོམ་ལམ་དང་། མཐོང་ལམ་དང་། སྦྱོར་ལམ་ལ་ཟློས་པ་སྤང་བའོ། །",
+      "relevance": "This quote lists the specific items where repetition is avoided according to the noble tradition, matching the enumeration in paragraph 4.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~32663 in the commentary file, under ‘ཙ’, unit 17/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 16,
+      "unit_hash": "3c88099fbb5a",
+      "passage_hash": "04dfb67181f3",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "འདི་དག་གིས་ཟློས་པ་སྤོང་བ་ལ་འཕགས་པའི་ལུགས་དང་། སློབ་དཔོན་གྱི་ལུགས་གཉིས་ལས།",
+      "relevance": "This quote introduces the discussion on how to avoid redundancy according to the noble and master's traditions, which corresponds to paragraph 4's topic of dispelling repetition.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~32116 in the commentary file, under ‘ཙ’, unit 17/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 26,
+      "chunk_id": 16,
+      "unit_hash": "3c88099fbb5a",
+      "passage_hash": "04dfb67181f3",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

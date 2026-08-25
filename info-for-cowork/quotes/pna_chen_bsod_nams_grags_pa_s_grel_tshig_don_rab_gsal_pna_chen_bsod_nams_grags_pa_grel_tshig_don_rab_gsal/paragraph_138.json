@@ -1,0 +1,91 @@
+{
+  "root_paragraph_heading": "139_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 122",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་འདིས་གནས་སྐབས་ཐེག་པ་གསུམ་གྱི་ལམ་ལ་འཇུག་པའི་ལམ་ཉམས་ལེན་གྱི་རིམ་པ་དང་། དང་པོ་ཉིད་ནས་ཐེག་ཆེན་དུ་རིགས་ངེས་པའི་གང་ཟག་གི་ལམ་ཉམས་ལེན་གྱི་རིམ་པ་གཉིས་བསྟན་ལ། དང་པོའ་ིདབང་དུ་བྱས་ན། རིམ་པ་དང་པོས་རྒྱུད་སྨིན་པར་བྱས་ནས། གཉིས་པས་འཁོར་བ་ལས་གྲོལ་བར་བྱས། གསུམ་པས་ཐེག་ཆེན་ལམ་དུ་བཀྲི་བར་བྱེད། གཉིས་པའི་དབང་དུ་བྱས་ན། དང་པོས་རྒྱུད་སྨིན་པར་བྱས། གཉིས་པས་ཟབ་པའི་ལམ་རིམ་དང་། གསུམ་པས་རྒྱ་ཆེ་བའི་ལམ་རིམ་བསྟན་ལ། རིམ་པ་དང་པོ་དང་གཉིས་པའི་སྐབས་ནས་བསྟན་པའི་བདག་མེད་ལ་ཁྱད་པར་ཡོད་དེ། དང་པོ་དེ་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་དང་། གཉིས་པ་དེ་ཆོས་ཀྱི་བདག་མེད་ཕྲ་མོ་ལ་བྱེད་པའི་ཕྱིར།",
+  "root_paragraph_page": "122",
+  "paragraph_key": "cd604d45c40d12f1",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:25.841559Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "དང་པོ་དེ་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་དང་། གཉིས་པ་དེ་ཆོས་ཀྱི་བདག་མེད་ཕྲ་མོ་ལ་བྱེད་པའི་ཕྱིར།",
+      "relevance": "This quote explains the two levels of selflessness (pudgala and dharma) corresponding to the progressive stages of practice.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~338926 in the commentary file, unit 174/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 173,
+      "unit_hash": "56c38e0330b9",
+      "passage_hash": "d1df5b305e4b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "རིམ་པ་དང་པོ་དང་གཉིས་པའི་སྐབས་ནས་བསྟན་པའི་བདག་མེད་ལ་ཁྱད་པར་ཡོད་དེ། དང་པོ་དེ་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་དང་། གཉིས་པ་དེ་ཆོས་ཀྱི་བདག་མེད་ཕྲ་མོ་ལ་བྱེད་པའི་ཕྱིར།",
+      "relevance": "This quote explains the difference between the selflessness taught in the first and second stages of practice, corresponding to the discussion of the two levels of selflessness in the target passage.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~331282 in the commentary file, unit 170/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 169,
+      "unit_hash": "4e838e74821f",
+      "passage_hash": "1b780583edd5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "དེ་དེ་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་དང་། གཉིས་པ་དེ་ཆོས་ཀྱི་བདག་མེད་ཕྲ་མོ་ལ་བྱེད་པའི་ཕྱིར།",
+      "relevance": "This quote relates to the distinction of subtle selflessness of persons and phenomena as discussed regarding the paths and levels in paragraph 3.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~118982 in the commentary file, unit 61/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 60,
+      "unit_hash": "92ed8d2e504f",
+      "passage_hash": "6cb3994ea97c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "རིམ་པ་དང་པོ་དང་གཉིས་པའི་སྐབས་ནས་བསྟན་པའི་བདག་མེད་ལ་ཁྱད་པར་ཡོད་དེ། དང་པོ་དེ་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་དང་། གཉིས་པ་དེ་ཆོས་ཀྱི་བདག་མེད་ཕྲ་མོ་ལ་བྱེད་པའི་ཕྱིར།",
+      "relevance": "This quote from the commentary explains the difference in selflessness between the first and second stages of the path, matching the topic of different levels of realization discussed in target paragraph 3.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~202904 in the commentary file, unit 104/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 103,
+      "unit_hash": "b501a9f26e8d",
+      "passage_hash": "ed930691870f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "གཉིས་པའི་དབང་དུ་བྱས་ན། དང་པོས་རྒྱུད་སྨིན་པར་བྱས། གཉིས་པས་ཟབ་པའི་ལམ་རིམ་དང་། གསུམ་པས་རྒྱ་ཆེེ་བའི་ལམ་རིམ་བསྟན་ལ།",
+      "relevance": "This quote explains the two systems of practice stages (including profound and vast paths) matching the structure discussed in target paragraph 3.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~288180 in the commentary file, unit 148/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 147,
+      "unit_hash": "a5c592a815d9",
+      "passage_hash": "5e81225877ee",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

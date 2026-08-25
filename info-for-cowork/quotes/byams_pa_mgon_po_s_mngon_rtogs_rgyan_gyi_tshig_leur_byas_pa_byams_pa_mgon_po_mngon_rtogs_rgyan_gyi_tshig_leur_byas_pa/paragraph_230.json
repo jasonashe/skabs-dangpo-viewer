@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "231_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 183",
+  "root_paragraph": "གསུམ་པ་ནི། སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་། གཉིས་པར། མོག་མོག་པོར་བྱེད་ལ་སོགས་དང་། །ཞེས་དང་། རྟེན་གྱི་བསེ་རུ་ལྟ་བུའི་ལམ། །ཞེས་དང་། སྐབས་བཞི་པར། སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །ཞེས་དང་། སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། །ཞེས་གསུངས་པ་རྣམས་ཟློས་པར་འགྱུར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་དཀོན་མཆོག་གསུམ་བཤད་པའི་སྐབས་ཀྱི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་ལ། གཉིས་པ་དེ། ལམ་ཤེས་སྐྱེ་བའི་རྟེན་དང་། གསུམ་པ་དེ། རང་རྒྱལ་གྱི་ལམ་གྱི་རྟེན་གྱི་གང་ཟག་དང་། བཞི་པ་དེ། ཡུམ་ཉན་པའི་སྣོད་རུང་གི་གང་ཟག་དང་། ལྔ་པ་དེ། ཕྱིར་མི་ལྡོག་པའི་རྟེན་ངོས་གཟུང་བར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "183",
+  "paragraph_key": "f076fc44d8b505bb",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:33.957388Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "འོད་ཀྱིས་མོག་མོག་པོར་མཛད་དང་། །",
+      "relevance": "This quote from the commentary matches the verse cited in paragraph 7 regarding the basis for the generation of the path of all aspects.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~49936 in the commentary file, unit 26/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 25,
+      "unit_hash": "07602c48b2e4",
+      "passage_hash": "10941b6cf8e4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "བསེ་རུ་ལྟ་བུའི་ཡེ་ཤེས་ནི། །",
+      "relevance": "This quote is relevant to paragraph 7's discussion of identifying the basis of the pratyekabuddha path.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~51124 in the commentary file, unit 26/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 25,
+      "unit_hash": "07602c48b2e4",
+      "passage_hash": "10941b6cf8e4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །",
+      "relevance": "This quote is cited in paragraph 7 in the context of addressing potential redundancies regarding the different descriptions of persons (གང་ཟག་) across various sections of the text.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~61020 in the commentary file, unit 31/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 30,
+      "unit_hash": "397f56e910c9",
+      "passage_hash": "b5ec05447003",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

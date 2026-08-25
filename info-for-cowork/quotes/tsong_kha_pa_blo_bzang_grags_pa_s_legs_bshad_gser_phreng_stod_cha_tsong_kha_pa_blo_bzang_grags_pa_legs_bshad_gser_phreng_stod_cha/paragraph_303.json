@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "304_དེ་རྣམས་ཀྱི། དུམ་མཚན་དང་པོ། 234",
+  "root_paragraph": "དེ་རྣམས་ཀྱི་ནང་ནས་དབྱེ་བ་ཞར་ལ་བརྗོད་ནས་གདམས་ངག་སྟེ། ཞེས་པའི་སྐབས་སུ། མཐའ་དཔྱད་པ་ལ། ཐེག་ཆེན་གྱི་གདམས་ངག་ཉན་པའི་རྟེན། རྒྱུ་གང་ལ་བརྟེན་ནས་ཉན་པ། ཡུལ་གང་ལ་ཉན་པ། གདམས་ངག་གི་ངོ་བོ། ས་མཚམས་དང་ལྔ་ལས།",
+  "root_paragraph_page": "234",
+  "paragraph_key": "faf315df47cafeac",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:52.771581Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "གཉིས་པ་ལ་གཉིས། སྤྱི་དང་། ཡན་ལག་གི་དོན་ནོ། ། དང་པོ་ལ་ལྔ། ནོད་པའི་རྟེན། རྒྱུ་གང་ལས་ནོད་པ། ཡུལ་གང་ལ་ནོད་པ། ནོད་བྱའི་ངོ་བོ། ས་མཚམས་",
+      "relevance": "This quote outlines the five analytical sections of the general topic regarding instructions (གདམས་ངག་), corresponding to the structural breakdown discussed in paragraph 8.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~264414 in the commentary file, under ‘ཙ’, unit 136/502",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 135,
+      "unit_hash": "2e09de6db5fb",
+      "passage_hash": "5cd527c3cb48",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "དེ་ལྟར་བྱང་ཆུབ་ཀྱི་སེམས་དང་། རྗེ་ཙོང་ཁ་པའི་གསུང་འབུམ། ༼ཙ༽མངོན་རྟོགས་ཕལ་མོ་ཆེ་ལ་སྐབས་ཀྱི་མདོ་དང་ཞར་བྱུང་གི་མདོ་རེ་རེ་ཡོད་པ་ཕྱེད་དགོས་སོ། །",
+      "relevance": "This quote is relevant as it discusses the general framework of analyzing topics and classifications as introduced in the text.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~619080 in the commentary file, under ‘ཙ’, unit 317/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 71,
+      "chunk_id": 316,
+      "unit_hash": "031c111b1f5f",
+      "passage_hash": "c5f9a9593a20",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

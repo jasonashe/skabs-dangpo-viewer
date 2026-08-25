@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "53_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 69",
+  "root_paragraph": "གཉིས་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དེ་སྟོན་པ་ལ། འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས། ཞེས་གསུངས། ཐབས་ལམ་ཤེས་དེ་སྟོན་པ་ལ། ལམ་ཤེས་ཉིད་ཀྱིས། ཞེས་གསུངས། འདིའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །ཞེས་གསུངས། གསུམ་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དང་སྐྱེ་བའི་རྟེན་གཉིས་ཀའི་དབང་དུ་བྱས་པ་ནི། ཐུབ་རྣམས། ཞེས་པས་འཆད། ཐབས་རྣམ་མཁྱེན་དེ་འཆད་པ་ལ། གང་དང་ཡང་དག་ལྡན་པས། ཞེས་གསུངས༑ དེའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུངས་པ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "69",
+  "paragraph_key": "7238dc5f0d227d33",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:42.899360Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་།",
+      "relevance": "This quote from the commentary excerpt discusses the fulfillment of the world's purpose, which corresponds directly to the discussion of the second point in paragraph 5 regarding path-knowledge (ལམ་ཤེས་).",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~49413 in the commentary file, unit 26/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 25,
+      "unit_hash": "2ab295c583cc",
+      "passage_hash": "35a6d817224f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས།",
+      "relevance": "This phrase from the excerpt relates to benefiting wandering beings, which is cited in paragraph 5 in relation to the basis of path-knowledge.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~49269 in the commentary file, unit 26/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 25,
+      "unit_hash": "2ab295c583cc",
+      "passage_hash": "35a6d817224f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

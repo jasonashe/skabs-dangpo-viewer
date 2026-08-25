@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "255_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 195",
+  "root_paragraph": "གཉིས་པ་ནི། བྱང་ཆུབ་ཐོབ་བྱའི་ཡུལ་དང་གཞན་དོན་ཆེད་དུ་བྱ་བའི་ཡུལ་ཡིན་པར་མདོ་ལས་བསྟན་པ་དང་། བྱང་ཆུབ་དང་གཞན་དོན་ལ་དམིགས་པ་མདོ་ནས་བསྟན་ཚུལ་གཉིས་ལས། དང་པོ་ནི། བྱང་ཆུབ་ཐོབ་བྱའི་ཡུལ་དང་གཞན་དོན་ཆེད་དུ་བྱ་བའི་ཡུལ་དུ་ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ག་ལས་བསྟན་པ་ཡིན་ཏེ། དེ་ཡུམ་བར་མ་ལས་དེ་ལྟར་བསྟན་པ་བཞིན་དུ་རྒྱས་བསྡུས་གཉིས་ལས་ཀྱང་དེ་བཞིན་དུ་བསྟན་པ་ཡིན་པའི་ཕྱིར། ཞེས་འཆད་པ་ལ༑ དེ་དང་དེ་ནི་མདོ་བཞིན་དུ། །བསྡུས་དང་རྒྱས་པའི་སྒོ་ནས་བརྗོད། །ཅེས་གསུངས།",
+  "root_paragraph_page": "195",
+  "paragraph_key": "6464a3f2d0cb222d",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:30.949634Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེ་དང་ཞེས་བྱ་བ་ནི་དཀར་པོའི་ཆོས་རྣམས་སོ། ། དེ་ནི་ཞེས་བྱ་བ་ནི་གཞན་དོན་ནོ། ། དེ་ལ་འདིར་མདོ་ཇི་ལྟ་བ་བཞིན་དུ་དེ་དག་གིས་མདོར་བསྡུས་ནས་བསྟན་ཏོ། །",
+      "relevance": "This quote explains how the scriptural source concisely presents the two aspects—virtuous qualities and others' welfare—matching the target discussion of how the sutra shows the objects of engagement.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~9705 in the commentary file, unit 5/379",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 4,
+      "unit_hash": "226bff901c7c",
+      "passage_hash": "22d074a22985",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

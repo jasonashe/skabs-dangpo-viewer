@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "323_དོན་དམ་ཙམ། དུམ་མཚན་དང་པོ། 246",
+  "root_paragraph": "དོན་དམ་ཙམ་ལ་སྒྲས་བརྗོད་རིགས་ཀྱི་སྒོ་ནས་དབྱེ་ན། ཡུལ་ཅན་དོན་དམ་དང་། ཡུལ་དོན་དམ་གཉིས་ལས། དང་པོ་ལ། སྒྲས་བརྗོད་རིགས་ཀྱི་སྒོ་ནས། རྣམ་གྲངས་པའི་དང་༑ རྣམ་གྲངས་པ་མ་ཡིན་པའི་ཡུལ་ཅན་དོན་དམ་གཉིས་ལས། དང་པོ་ནི། བདག་མེད་རྟོགས་པའི་རིགས་ཤེས་རྗེས་དཔག་ལྟ་བུ། གཉིས་པ་ནི། དོན་དམ་གཟིགས་པའི་འཕགས་པའི་མཉམ་གཞག་ཡེ་ཤེས་ལྟ་བུའོ། །",
+  "root_paragraph_page": "246",
+  "paragraph_key": "073a09df42fb89b9",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:26.906310Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "མཐར་ཐུག་དཔྱོད་པའི་རིགས་ཤེས་ཁོ་ནས་རྟོགས་པར་བྱ་བ་ཡིན་གྱི། གཟུགས་མཐོང་བ་ལ་སོགས་པ་ཐ་སྙད་པའི་ཚད་མས་རྟོགས་པ་བཀག་པའི་ཕྱིར།",
+      "relevance": "This quote discusses the role of ultimate reasoning versus conventional valid cognition, which is relevant to distinguishing types of valid awareness of the ultimate.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~186545 in the commentary file, unit 96/221",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 95,
+      "unit_hash": "eb6098bad0ca",
+      "passage_hash": "976fd4f625db",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "ཆོས་རྣམས་ཀྱི་རང་བཞིན་དེ་ཆོས་ཅན། ཟབ་པ་ཉིད་ཡིན་ཏེ། འཕགས་པའི་མཉམ་གཞག་གིས་རྟོགས་བྱ་ཡིན་གྱི། ཐ་སྙད་པའི་ཚད་མས་རྟོགས་པར་དཀའ་བ་ཉིད་དུ་བཤད་པ་དེའི་ཕྱིར།",
+      "relevance": "This quote explains that the ultimate nature is realized by the meditative equipoise of the noble ones, which connects directly to the definition and understanding of non-nominal ultimate subjects.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~186672 in the commentary file, unit 96/221",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 95,
+      "unit_hash": "eb6098bad0ca",
+      "passage_hash": "976fd4f625db",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

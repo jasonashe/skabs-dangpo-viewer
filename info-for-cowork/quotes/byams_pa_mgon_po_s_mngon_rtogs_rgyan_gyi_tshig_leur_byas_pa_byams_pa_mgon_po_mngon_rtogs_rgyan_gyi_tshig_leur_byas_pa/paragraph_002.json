@@ -1,0 +1,91 @@
+{
+  "root_paragraph_heading": "3_རང་ལུགས་ནི། དུམ་མཚན་དང་པོ། 40",
+  "root_paragraph": "རང་ལུགས་ནི། ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་པོ་འདི་ཉིད་འདིའི་བཤད་བྱ་རྩ་བའི་མདོ་ཡིན་ཏེ། འགྲེལ་པར།རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ། ཞེས་དང་།ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "40",
+  "paragraph_key": "7440ee4e999c767d",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:33.371782Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ།",
+      "relevance": "This quote supports the target passage's assertion that the mother sutras of three types (vast, intermediate, and concise) are the foundational source text being explained.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~82335 in the commentary file, unit 42/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 41,
+      "unit_hash": "cef9647c9d10",
+      "passage_hash": "8f8c6042f3c1",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ།",
+      "relevance": "This quote supports the view that the three mother scriptures (extensive, medium, and concise) serve as the fundamental root sutras being explained.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~42431 in the commentary file, unit 22/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 21,
+      "unit_hash": "58c192b24a54",
+      "passage_hash": "90bc08c7d7c5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །",
+      "relevance": "This quote provides textual backing for understanding the condensed meaning derived from all the mother scriptures.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~50503 in the commentary file, unit 26/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 25,
+      "unit_hash": "07602c48b2e4",
+      "passage_hash": "10941b6cf8e4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །",
+      "relevance": "This quote provides textual backing for how the essential meanings are gathered across the mother scriptures in the commentary tradition.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~41287 in the commentary file, unit 21/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 20,
+      "unit_hash": "7fe864760384",
+      "passage_hash": "90bc08c7d7c5",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ།",
+      "relevance": "This quote supports the commentary excerpt's discussion that the three mother scriptures serve as the fundamental root text.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~53216 in the commentary file, unit 27/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 24,
+      "chunk_id": 26,
+      "unit_hash": "66421f577a73",
+      "passage_hash": "10941b6cf8e4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

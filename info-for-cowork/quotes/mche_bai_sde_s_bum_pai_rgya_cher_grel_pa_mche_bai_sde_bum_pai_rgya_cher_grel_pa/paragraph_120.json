@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "121_གཉིས་པ་རང། དུམ་མཚན་དང་པོ། 109",
+  "root_paragraph": "གཉིས་པ་རང་ལུགས་ལ། ཆོས་འཁོར་སྤྱིའི་རྣམ་གཞག་བཤད་པ་དང་། ལུང་གི་ཆོས་འཁོར་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། ངོ་བོ། དབྱེ་བ། དྲང་ངེས་ཀྱི་དོན༑ ཆོས་ཕུང་གི་ཚད། སྐོར་ཚུལ། སྒྲ་བཤད་པའོ། །དང་པོ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག ༑མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+  "root_paragraph_page": "109",
+  "paragraph_key": "98752fcc7a0bbb44",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:43.879708Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑",
+      "relevance": "This quote discusses the gods recognizing the turning of the wheel of dharma in Jambudvipa, which is referenced in the Vaibhasika view of the path of seeing as the wheel of dharma.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~897086 in the commentary file, unit 461/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 460,
+      "unit_hash": "a5ec7c119cd6",
+      "passage_hash": "d2efe1239c77",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

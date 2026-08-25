@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "103_ཁ་ཅིག་ལྷག། དུམ་མཚན་དང་པོ། 99",
+  "root_paragraph": "ཁ་ཅིག །ལྷག་བཅས་མྱང་འདས་ལ་གནས་པའི་ཉན་ཐོས་དགྲ་བཅོམ་པའི་རྒྱུད་ལ་ལས་ཀྱི་ཀུན་འབྱུང་ཡོད་ཟེར་བ་མི་འཐད་དེ། དེའི་རྒྱུད་ལ་འཕེན་བྱེད་ཀྱི་ལས་ཀྱི་ཀུན་འབྱུང་ཡང་མེད། འགྲུབ་བྱེད་ཀྱི་ལས་ཀྱི་ཀུན་འབྱུང་ཡང་མེད་པའི་ཕྱིར་ན་མ་ཁྱབ། དང་པོ་གྲུབ་སྟེ། དེའི་རྒྱུད་ལ་འཕེན་བྱེད་ཀྱི་ལས་མེད་པའི་ཕྱིར། གཉིས་པ་གྲུབ་སྟེ། དེའི་རྒྱུད་ལ་འགྲུབ་བྱེད་ཀྱི་ལས་མེད་པའི་ཕྱིར་ཞེས་ཟེར།ཁ་ཅིག །ཉོན་སྒྲིབ་མ་ལུས་པར་སྤངས་པའི་དེ་བཞིན་ཉིད། མྱང་འདས་ཀྱི་ངོ་བོར་འདོད་པ་མི་རིགས་ཏེ། ཉན་ཐོས་དགྲ་བཅོམ་པའི་རྒྱུད་ཀྱི་འགོག་བདེན་དང་། སྟོང་ཉིད་མ་རྟོགས་པའི་ཉན་ཐོས་དགྲ་བཅོམ་པའི་རྒྱུད་ཀྱི་ཆོས་ཉིད་དང་། རང་བཞིན་རྣམ་དག་གི་ཆར་གྱུར་པའི་ངོ་བོ་ཉིད་སྐུ་རྣམས་ཀྱིས་མ་ངེས་པའི་ཕྱིར།",
+  "root_paragraph_page": "99",
+  "paragraph_key": "c54af5686415df7a",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:52.482824Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "ཉོན་སྒྲིབ་མ་ལུས་པར་སྤངས་པའི་དེ་བཞིན་ཉིད། མྱང་འདས་ཀྱི་ངོ་བོར་འདོད་པ་མི་རིགས་ཏེ།",
+      "relevance": "The commentary addresses the assertion and reasoning regarding whether suchness characterized by the complete abandonment of afflictive obscurations is the entity of nirvana.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~513612 in the commentary file, unit 262/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 261,
+      "unit_hash": "137fe972ee59",
+      "passage_hash": "f542e025d3e2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

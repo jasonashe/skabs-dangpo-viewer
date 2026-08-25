@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "325_འོ་ན་བདེན། དུམ་མཚན་དང་པོ། 247",
+  "root_paragraph": "འོ་ན། བདེན་གཉིས་ལས།སྐྱེ་བ་ལ་སོགས་བཀག་པ་ཡང་། །ཡང་དག་པ་དང་མཐུན་པའི་ཕྱིར། །དོན་དམ་ཡིན་པར་ཁོ་བོས་འདོད། །ཅེས་གསུངས་པ་དང་། དབུ་མ་རྒྱན་ལས།དམ་པའི་དོན་དང་མཐུན་པའི་ཕྱིར། །འདིར་ནི་དམ་པའི་དོན་ཞེས་བྱ། །ཡང་དག་དུ་མ་སྤྲོས་པ་ཡི། །ཚོགས་རྣམས་ཀུན་ལས་དེ་གྲོལ་ཡིན། །ཞེས་དང་། དབུ་མ་སྣང་བར༑དེ་ལྟར་ན་སྐྱེ་བ་མེད་པ་འདི་ཡང་དོན་དམ་པ་དང་མཐུན་པའི་ཕྱིར་དོན་དམ་པ་ཞེས་བྱ་ཡི། དངོས་སུ་ནི་མ་ཡིན་ཏེ། དངོས་སུ་ནི་ཡང་དག་པ་སྤྲོས་པ་ཐམས་ཅད་ལས་འདས་པའི་ཕྱིར། ཞེས་པའི་དོན་གང་ཞེ་ན།",
+  "root_paragraph_page": "247",
+  "paragraph_key": "3c222d4928f3e8f6",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:59.320670Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "སྐྱེ་བ་ལ་སོགས་བཀག་པ་ཡང་། ། ཡང་དག་པ་དང་མཐུན་པའི་ཕྱིར། ། དོན་དམ་ཡིན་པར་ཁོ་བོ་འདོད། །",
+      "relevance": "This quote is directly cited and discussed in paragraph 5 regarding the definition of the provisional or concordant ultimate truth (མཐུན་པའི་དོན་དམ་).",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~515731 in the commentary file, under ‘ཚ’, unit 265/528",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 264,
+      "unit_hash": "ae32f114668f",
+      "passage_hash": "764f5fb87f6a",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

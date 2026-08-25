@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "121_གཉིས་པ་རང། དུམ་མཚན་དང་པོ། 109",
+  "root_paragraph": "གཉིས་པ་རང་ལུགས་ལ། ཆོས་འཁོར་སྤྱིའི་རྣམ་གཞག་བཤད་པ་དང་། ལུང་གི་ཆོས་འཁོར་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། ངོ་བོ། དབྱེ་བ། དྲང་ངེས་ཀྱི་དོན༑ ཆོས་ཕུང་གི་ཚད། སྐོར་ཚུལ། སྒྲ་བཤད་པའོ། །དང་པོ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག ༑མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+  "root_paragraph_page": "109",
+  "paragraph_key": "98752fcc7a0bbb44",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:19.942850Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ། ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ། །",
+      "relevance": "The commentary mentions that when the path of seeing is generated for the group of five, the gods exclaim that the wheel of dharma has been turned, which is cited to support the view that the path of seeing constitutes the turning of the dharma wheel.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~886210 in the commentary file, unit 455/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 454,
+      "unit_hash": "17b6eaca0385",
+      "passage_hash": "df9eb0af3e40",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

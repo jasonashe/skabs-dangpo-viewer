@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "123_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 110",
+  "root_paragraph": "གཉིས་པ་ནི། དེ་ལ་ལུང་གི་ཆོས་འཁོར་དང་། རྟོགས་པའི་ཆོས་འཁོར་གཉིས་སུ་ཡོད། སངས་རྒྱས་ཀྱིས་བཀས་བསྡུས་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། དང་པོའ་ིམཚན་ཉིད༑ དབྱེ་ན། སངས་རྒྱས་ཀྱི་བཀས་བསྡུས་པའི་སྡེ་སྣོད་གསུམ་དང་། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ཡོད། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ནི། འགྲེལ་ཆེན་ལས།མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །ཞེས་གསུངས་ཤིང་།",
+  "root_paragraph_page": "110",
+  "paragraph_key": "c61bfeac40f83746",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:16.867110Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །",
+      "relevance": "This passage lists the twelve branches of the scriptures, which is cited in the target paragraph as the definition of the twelvefold teachings.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~442868 in the commentary file, unit 226/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 225,
+      "unit_hash": "0b8fa17a4828",
+      "passage_hash": "8fa9c91077ee",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,27 @@
+# Quote collection: ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]
+**Target paragraph:** 106_རྣམ་པ་ཐམས། དུམ་མཚན་དང་པོ། 101
+
+> རྣམ་པ་ཐམས་ཅད་སྐྱེ་བ་མེད་པར་ཐུགས་སུ་ཆུད་པ། ཞེས་སོགས་ཀྱི་སྐབས་སུ༑ འོ་ན། ཆོས་ཀྱི་འཁོར་ལོ་མ་ལུས་པ་རྣམ་པ་ཐམས་ཅད་བསྐོར་བར་མཛད་པ། ཞེས་བཤད་ན། ཆོས་ཀྱི་འཁོར་ལོ་དེ་ཇི་ལྟ་བུ་ཞེ་ན། འདི་ལ་མཐའ་ཅུང་ཟད་དཔྱད་པ་དང་། རང་ལུགས་གཞག་པ་གཉིས་ལས། དང་པོ་ལ། ཁ་ཅིག །སྟོན་པས་གསུངས་པའི་དམ་ཆོས། ཆོས་འཁོར་གྱི་མཚན་ཉིད། ཟེར་ན། འགྲེལ་པ་དོན་གསལ་ཆོས་ཅན། ཆོས་འཁོར་དུ་ཐལ༑ མཚན་ཉིད་འཐད་པའི་ཕྱིར། མ་གྲུབ་ན། སྟོན་པས་གསུངས་པའི་དམ་ཆོས་ཡིན་ན། སྟོན་པའི་གསུང་ཡིན་དགོས་པར་ཐལ། མ་གྲུབ་པ་དེའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་མཐོང་ལམ་ཆོས་ཅན། དེར་ཐལ། དེའི་ཕྱིར། ཆོས་འཁོར་ཡིན་པའི་ཕྱིར། ཁྱབ་པ་ཁས། རྩ་བར་འདོད་ན། དེ་ཆོས་ཅན། ལུང་གི་ཆོས་འཁོར་དུ་ཐལ། ཆོས་འཁོར་གང་ཞིག །ལུང་ཡིན་པའི་ཕྱིར། འདོད་ན། བཀའ་ཡིན་པར་ཐལ་ལོ། །
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> དང་པོ་བཱ་རཱ་ཎ་སཱིར་བདེན་པ་བཞིའི་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ནས། ཆོས་ཀྱི་བདག་ཏུ་འཛིན་པ་ཟློག་པའི་དོན་དུ་བདེ་བར་གཤེགས་པས་རྒྱལ་བའི་ཡུམ་མཚན་མ་མེད་པའི་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ། །
+
+- **Why relevant:** This quote from the historical introduction discusses the turning of the wheels of dharma (such as the four truths and the formless wheel), which is directly relevant to target paragraph 2's analysis of the definition and classification of the turning of the wheel of dharma.
+- **Location:** ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~973229 in the commentary file, unit 497/520
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> དེ་ལ་འདི་ནི་ལན་གསུམ་དུ་བསྐོར་བ་ཡིན་ཏེ། འདི་ལྟ་སྟེ། འདི་ནི་སྡུག་བསྔལ་འཕགས་པའི་བདེན་པའོ། ། དེ་མངོན་པར་ཤེས་པས་ཡོངས་སུ་ཤེས་པར་བྱའོ། ། ཡོངས་སུ་ཤེས་སོ་ཞེས་བྱ་བ་འདི་ནི་སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་འཕགས་པའི་བདེན་པའོ། །
+
+- **Why relevant:** The commentary discusses the three-fold turning and the twelve modes of the wheel of dharma, which relates to the analysis of the turning of the dharma wheel in the target passage.
+- **Location:** ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~494955 in the commentary file, unit 253/520
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> འཇམ་དཔལ་ལན་གསུམ་དུ་བཟླས་ཏེ། རྣམ་པ་བཅུ་གཉིས་སུ་ཆོས་ཀྱི་འཁོར་ལོ་ཇི་ལྟར་བསྐོར་བར་འགྱུར་བ་དེ་ཞེས་བྱ་བ་དེ་ལ། སྡུག་བསྔལ་དང་། སྡུག་བསྔལ་ཀུན་འབྱུང་བ་དང་། སྡུག་བསྔལ་འགོག་པ་དང་། སྡུག་བསྔལ་འགོག་པར་འགྱུར་བའི་ལམ་གྱི་མཚན་ཉིད་འཕགས་པའི་བདེན་པ་རྣམས་ཀྱི་རང་གི་ངོ་བོ་ཡོངས་སུ་ཤེས་པ་ནི་བསྐོར་བ་གཅིག་པའོ། །
+
+- **Why relevant:** This quote discusses the turning of the wheel of dharma in twelve aspects and the four noble truths, which is relevant to analyzing the definition and nature of the wheel of dharma in the target passage.
+- **Location:** ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~218760 in the commentary file, unit 112/520
+- **Verification:** verified_exact

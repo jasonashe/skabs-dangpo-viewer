@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "270_ཁ་ཅིག་རང། དུམ་མཚན་དང་པོ། 214",
+  "root_paragraph": "ཁ་ཅིག །རང་གི་གྲོགས་སུ་གྱུར་པའི་གཞན་དོན་དུ་རྫོགས་བྱང་ལ་དམིགས་པའི་འདུན་པ་དང་མཚུངས་ལྡན་དུ་བྱུང་བའི་ཐབས་ཁྱད་པར་ཅན་གྱི་རྟོགས་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་གྱི་གཙོ་བོ་ཡིད་ཀྱི་རྣམ་རིག་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་མཚན་ཉིད་ཟེར་བ་མི་འཐད་དེ། སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་སྙིང་རྗེ་ཆེན་པོ་དང་མཚུངས་ལྡན་དུ་བྱུང་བའི་གཙོ་བོ་སེམས་དེ་མཚན་ཉིད་དེ་ཡིན་ཀྱང་དེ་ཐེག་ཆེན་སེམས་བསྐྱེད་མ་ཡིན་པའི་ཕྱིར། རྟགས་སླའོ། །",
+  "root_paragraph_page": "214",
+  "paragraph_key": "7ea5bf117a25a0db",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:54.250348Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "ཁ་ཅིག །རང་གི་གྲོགས་སུ་གྱུར་པའི་གཞན་དོན་དུ་རྫོགས་བྱང་ལ་དམིགས་པའི་འདུན་པ་དང་མཚུངས་ལྡན་དུ་བྱུང་བའི་ཐབས་ཁྱད་པར་ཅན་གྱི་རྟོགས་རིགས་སུ་གནས་པའི་ཐེག་ཆེན་གྱི་གཙོ་བོ་ཡིད་ཀྱི་རྣམ་རིག་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་མཚན་ཉིད་ཟེར་བ་མི་འཐད་དེ།",
+      "relevance": "This presents and refutes an alternative definition of Mahayana mind-generation proposed by others.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~129758 in the commentary file, unit 67/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 66,
+      "unit_hash": "c89ae8e783dd",
+      "passage_hash": "553eae8c17b0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སངས་རྒྱས་འཕགས་པའི་རྒྱུད་ཀྱི་སྙིང་རྗེ་ཆེན་པོ་དང་མཚུངས་ལྡན་དུ་བྱུང་བའི་གཙོ་བོ་སེམས་དེ་མཚན་ཉིད་དེ་ཡིན་ཀྱང་དེ་ཐེག་ཆེན་སེམས་བསྐྱེད་མ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote addresses a flaw in an incorrect definition by noting that a Buddha's mind of great compassion would otherwise incorrectly fit the criteria.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~156491 in the commentary file, unit 80/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 24,
+      "chunk_id": 79,
+      "unit_hash": "bf58bfe43e42",
+      "passage_hash": "682eecb7b6be",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

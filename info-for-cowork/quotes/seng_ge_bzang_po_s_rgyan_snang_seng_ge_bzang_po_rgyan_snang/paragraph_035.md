@@ -1,0 +1,13 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]
+**Target paragraph:** 36_ལྔ་པ་ནི། དུམ་མཚན་དང་པོ། 61
+
+> ལྔ་པ་ནི། འོ་ན་ཁྱོད་ཀྱིས་མདོ་དང་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་མངོན་སུམ་དུ་རྟོགས་ནས་བསྟན་བཅོས་བརྩམས་པ་ཡིན་ནམ་ཞེ་ན། ཡུམ་དོན་མཐའ་དག་ཁོ་བོ་ཅག་གི་མངོན་སུམ་གྱི་སྤྱོད་ཡུལ་མ་ཡིན་ཡང་འགྲེལ་པ་རྩོམ་པ་ལ་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་ཡོད་དེ། རང་གཞན་ལ་ཕན་གདགས་པར་འདོད་པའི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་འགྲེལ་པ་བརྩམས་པ་ཡིན་པའི་ཕྱིར། ཞེས་ཁེངས་བསྐྱུངས་ཏེ་སྤྲོ་བ་བསྐྱེད་པའི་རྒྱུ་མཚན་འཆད་པ་ལ།རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།
+
+*Coverage: complete.*
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> རྣམ་པ་ཀུན་ཏུ་བདག་གི་ནི། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།
+
+- **Why relevant:** This quote highlights the humility and altruistic motivation of the author in writing the commentary despite not having direct realization of all aspects of the mother text, as discussed in the target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~72993 in the commentary file, unit 38/577
+- **Verification:** UNVERIFIED

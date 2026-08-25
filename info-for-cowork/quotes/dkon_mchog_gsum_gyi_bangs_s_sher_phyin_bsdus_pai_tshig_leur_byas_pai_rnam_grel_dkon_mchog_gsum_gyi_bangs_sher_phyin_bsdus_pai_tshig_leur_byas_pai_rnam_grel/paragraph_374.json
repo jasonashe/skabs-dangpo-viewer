@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "375_གང་ཟག་གི། དུམ་མཚན་དང་པོ། 273",
+  "root_paragraph": "གང་ཟག་གི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་ཆོས་ཅན། ལམ་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཐར་པར་བགྲོད་པར་བྱེད་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་ཕྱིར། རིག་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཉོན་མོངས་པའི་དངོས་གཉེན་དུ་དགོས་པའི་ཕྱིར། སྒྲུབ་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སེམས་ཀྱི་གནས་ལུགས་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་ཕྱིར། ངེས་པར་འབྱིན་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱེད་པའི་ལམ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "273",
+  "paragraph_key": "3895ac82e85bcda5",
+  "commentary": "དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:14.896675Z",
+  "quotes": [
+    {
+      "commentary": "དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "རིག་པའི་རྣམ་པ་",
+      "relevance": "The commentary discusses the nature of the cognizant wisdom acting as the antidote to afflictions.",
+      "location": "དཀོན་མཆོག་གསུམ་གྱི་འབངས་'s ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ། [དཀོན་མཆོག་གསུམ་གྱི་འབངས་_ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།], char offset ~55810 in the commentary file, unit 29/35",
+      "verification": "UNVERIFIED",
+      "correctness_score": 54,
+      "chunk_id": 28,
+      "unit_hash": "b2776f4d71ac",
+      "passage_hash": "50d6907150c0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 35,
+    "units_scanned": 35,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

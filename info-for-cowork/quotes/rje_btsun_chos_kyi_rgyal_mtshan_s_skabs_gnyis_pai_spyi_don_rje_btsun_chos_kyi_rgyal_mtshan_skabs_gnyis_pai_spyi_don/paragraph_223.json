@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "224_གཞི་ཤེས་མཚོན། དུམ་མཚན་དང་པོ། 181",
+  "root_paragraph": "གཞི་ཤེས་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་དགུ་ཡོད་དེ། ཤེས་པས་སྲིད་ལ་མི་གནས་པའི་ལམ་ཤེས། སྙིང་རྗེས་ཞི་ལ་མི་གནས་པའི་ལམ་ཤེས། འབྲས་ཡུམ་ལ་རིང་བའི་གཞི་ཤེས༑ དེ་ལ་ཉེ་བའི་གཞི་ཤེས། མི་མཐུན་ཕྱོགས་ཀྱི་གཞི་ཤེས། གཉེན་པོའ་ིཕྱོགས་ཀྱི་གཞི་ཤེས། གཞི་ཤེས་ཀྱི་སྦྱོར་བ། གཞི་ཤེས་སྦྱོར་བའི་མཉམ་ཉིད། ཉན་ཐོས་ཀྱི་རྟོགས་རིགས་སུ་གནས་པའི་མཐོང་ལམ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "181",
+  "paragraph_key": "1cf4469da1cdb238",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:57.085436Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "འདིར་བསྟན་གྱི་གཞི་ཤེས་ཆོས་ཅན། ཁྱོད་ལ་གཉིས་སུ་དབྱེར་རུང་སྟེ། ཁྱོད་ལ་གཉེན་པོ་ཕྱོགས་ཀྱི་གཞི་ཤེས་དང་མི་མཐུན་ཕྱོགས་ཀྱི་གཞི་ཤེས་གཉིས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote explains the two divisions of the basis-knowers (གཞི་ཤེས་) into antidote-side and non-antidote-side, matching the topics discussed in paragraph 24.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~298327 in the commentary file, unit 152/204",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 151,
+      "unit_hash": "12406d11616c",
+      "passage_hash": "30994bb78a1e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "མི་མཐུན་ཕྱོགས་ཀྱི་གཞི་ཤེས་དང་། གཉེན་པོ་ཕྱོགས་ཀྱི་གཞི་ཤེས་གཉིས་སུ་ཡོད།",
+      "relevance": "This quote supports the target passage's discussion of the basis knowledge (གཞི་ཤེས) and its two types: the contrary side and the antidote side.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~287861 in the commentary file, unit 147/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 53,
+      "chunk_id": 146,
+      "unit_hash": "fc1f30d76051",
+      "passage_hash": "3f226fb07eb0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

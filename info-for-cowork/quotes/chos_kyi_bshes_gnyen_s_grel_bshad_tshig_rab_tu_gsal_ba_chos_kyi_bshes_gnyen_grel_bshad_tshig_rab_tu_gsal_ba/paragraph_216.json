@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "217_གཞན་ཡང་སྡུད། དུམ་མཚན་དང་པོ། 175",
+  "root_paragraph": "གཞན་ཡང་། སྡུད་འགྲེལ་ལས།དང་པོ་སྦྱོར་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཀྱི་ལམ་སྟེ། དོན་དུ་སྦྱོར་བ་གཉིས་ཉིད་ཀྱི་གཙོ་བོ་མ་ཡིན་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ༑ ༑ཞེས་གསུངས་པ་མི་འཐད་པར་ཐལ། ཐེག་ཆེན་གྱི་ཚོགས་སྦྱོར་རྣམས་ལམ་ཤེར་ཕྱིན་མ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "175",
+  "paragraph_key": "accfdb802d0de492",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:11.243076Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དང་པོ་སྦྱོར་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཀྱི་ལམ་སྟེ། དོན་དུ་སྦྱོར་བ་གཉིས་ཉིད་ཀྱི་གཙོ་བོ་མ་ཡིན་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ༑",
+      "relevance": "This quote from the commentary is explicitly cited and discussed in target paragraph 1 regarding the definition and nature of the path of practice (sbyor ba).",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~382562 in the commentary file, unit 196/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 195,
+      "unit_hash": "65adf11fc85f",
+      "passage_hash": "eeb48273e190",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "7_རྣམ་གྲངས་བཅུ། དུམ་མཚན་དང་པོ། 43",
+  "root_paragraph": "རྣམ་གྲངས་བཅུ་གཅིག་ནི་དང་པོར་ཤཱ་རིའི་བུ་ལ་བཀའ་སྩལ་ནས་བཤད་པའི་རྣམ་གྲངས་གཅིག་གོ །དེ་ནས་རབ་འབྱོར་གྱིས་རྒྱས་པར་བཤད་པ་ནི་གཉིས་པའོ། །དེ་ནས་བརྒྱ་བྱིན་དང་། དེ་ནས་རབ་འབྱོར་དང་། བྱམས་པ་དང་། རབ་འབྱོར་དང་། བརྒྱ་བྱིན་དང་། རབ་འབྱོར་དང་། བྱམས་པ་དང་། རབ་འབྱོར་དང་། དེ་ནས་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་ནས་ཡོངས་སུ་གཏད་པའོ། །",
+  "root_paragraph_page": "43",
+  "paragraph_key": "0274dc6388a2c990",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:42.115159Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "རྣམ་གྲངས་བཅུ་གཅིག་ནི་དང་པོ་ཤཱ་རིའི་བུ་ལ་བཀའ་སྩལ་ཏེ་བཤད་པ་གཅིག་དང་། རབ་འབྱོར་ལ་བཀའ་སྩལ་ཏེ་བཤད་པ་ལྔ་དང་། བརྒྱ་བྱིན་ལ་བཀའ་སྩལ་ཏེ་བཤད་པ་གཉིས་དང་། བྱམས་པ་ལ་བཀའ་སྩལ་ཏེ་བཤད་པ་གཉིས་དང་།",
+      "relevance": "The commentary lists the eleven subdivisions or discourses according to the interlocutors, directly supporting the target text's reference to the structure of the exposition.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~68205 in the commentary file, unit 35/527",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 34,
+      "unit_hash": "e684f7535107",
+      "passage_hash": "a654ce23eef4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "རྣམ་གྲངས་བཅུ་གཅིག་ནི་དང་པོར་ཤཱ་རིའི་བུ་ལ་བཀའ་སྩལ་ནས་བཤད་པའི་རྣམ་གྲངས་གཅིག་གོ །དེ་ནས་རབ་འབྱོར་གྱིས་རྒྱས་པར་བཤད་པ་ནི་གཉིས་པའོ། །དེ་ནས་བརྒྱ་བྱིན་དང་། དེ་ནས་རབ་འབྱོར་དང་། བྱམས་པ་དང་། རབ་འབྱོར་དང་། བརྒྱ་བྱིན་དང་། རབ་འབྱོར་དང་། བྱམས་པ་དང་། རབ་འབྱོར་དང་། དེ་ནས་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་ནས་ཡོངས་སུ་གཏད་པའོ། །",
+      "relevance": "This quote details the eleven modes or enumeration sections (རྣམ་གྲངས་བཅུ་གཅིག་) corresponding to the figures addressed throughout the scriptural commentary.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~222668 in the commentary file, unit 114/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 20,
+      "chunk_id": 113,
+      "unit_hash": "547f5dfcfbe4",
+      "passage_hash": "0a2dc5e75a5d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "339_དྲུག་པ་ནི། དུམ་མཚན་དང་པོ། 255",
+  "root_paragraph": "དྲུག་པ་ནི། བདེན་གཉིས་ཀྱི་གནས་ཚུལ་ཤེས་པས་ཕན་ཡོན་ཁྱད་པར་ཅན་དང་ལྡན་ཏེ། རྒྱལ་བའི་བཀའི་དོན་ལ་མི་རྨོངས་ཤིང་། ཚོགས་གཉིས་རླབས་ཆེན་བསགས་ནས་རྒྱལ་བའི་ཡོན་ཏན་རྒྱ་མཚོའི་ཕ་རོལ་མཆོག་ཏུ་འགྲོ་བ་ཡིན་པའི་ཕྱིར་ཏེ། བདེན་གཉིས་ལས།བདེན་གཉིས་རྣམ་དབྱེ་ཤེས་པ་དག །ཐུབ་པའི་བཀའ་ལ་མི་རྨོངས་ཏེ༑ ༑དེ་དག་མ་ལུས་ཚོགས་བསགས་ནས། །འཇིག་རྟེན་ཕ་རོལ་དག་ཏུ་འགྲོ། །ཞེས་དང་། འཇུག་པར།ཀུན་རྫོབ་དེ་ཉིད་གཤོག་ཡངས་དཀར་པོ་རྒྱས་གྱུར་པ། །ངང་པའི་རྒྱལ་པོ་དེ་ནི་སྐྱེ་བོ་ངང་པ་ཡི། །མདུན་དུ་བདར་ནས་དགེ་བའི་རླུང་གི་ཤུགས་སྟོབས་ཀྱིས༑ ༑རྒྱལ་བའི་ཡོན་ཏན་རྒྱ་མཚོའི་ཕ་རོལ་མཆོག་ཏུ་འགྲོ། །ཞེས་གསུངས་པའི་ཕྱིར་དང་༑ བྱང་ཆུབ་སེམས་འགྲེལ་ལས།ཆོས་རྣམས་སྟོང་པ་ཉིད་ཤེས་ནས། །ལས་དང་འབྲས་བུ་རྟོགས་པ་གང་། །རྨད་བྱུང་བས་ཀྱང་འདི་རྨད་བྱུང་། །ངོ་མཚར་བས་ཀྱང་འདི་ངོ་མཚར༑ ༑ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "255",
+  "paragraph_key": "34b01f0423c0696a",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:27.006717Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "བདེན་གཉིས་རྣམ་དབྱེ་ཤེས་པ་དག །ཐུབ་པའི་བཀའ་ལ་མི་རྨོངས་ཏེ། །དེ་དག་མ་ལུས་ཚོགས་བསགས་ནས། །འཇིག་རྟེན་ཕ་རོལ་དག་ཏུ་འགྲོ། །",
+      "relevance": "This verse is explicitly quoted in paragraph 3 to explain the benefits of knowing the two truths, namely not being confused regarding the Buddha's word and gathering the accumulations to reach the far shore of the ocean of the victor's qualities.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~402867 in the commentary file, unit 206/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 25,
+      "chunk_id": 205,
+      "unit_hash": "21b03cb2250a",
+      "passage_hash": "c13afcc98913",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

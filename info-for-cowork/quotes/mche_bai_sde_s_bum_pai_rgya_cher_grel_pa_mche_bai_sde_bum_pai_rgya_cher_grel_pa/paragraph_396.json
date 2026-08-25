@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "397_རོང་ཊཱིཀ་པ། དུམ་མཚན་དང་པོ། 286",
+  "root_paragraph": "རོང་ཊཱིཀ་པ་ན་རེ། ལུང་གི་ཆོས་དཀོན་མཆོག་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར། སློབ་པའི་ལམ་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར། སློབ་པའི་འགོག་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། མེད་དགག་ཡིན་པའི་ཕྱིར། སློབ་པ་འཕགས་པ་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཤེས་སྒྲིབ་ཀྱི་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར། ཞེས་ཟེར་ན།",
+  "root_paragraph_page": "286",
+  "paragraph_key": "b4db411194cd40f6",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:47.679069Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །",
+      "relevance": "This quote provides the basis for stating that scriptural and practice-related aspects are abandoned like a raft when path realization is completed.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~265300 in the commentary file, unit 136/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 46,
+      "chunk_id": 135,
+      "unit_hash": "8df59014b612",
+      "passage_hash": "15a5044ce252",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote is directly used in Paragraph 5's syllogism regarding the scriptural teachings not being ultimate refuge because they are to be abandoned like a raft.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~666102 in the commentary file, unit 342/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 341,
+      "unit_hash": "d26f449236d5",
+      "passage_hash": "8a6f50afcd18",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

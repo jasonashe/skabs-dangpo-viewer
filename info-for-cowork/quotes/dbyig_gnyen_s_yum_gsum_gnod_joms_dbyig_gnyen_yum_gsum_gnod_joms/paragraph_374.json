@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "375_གང་ཟག་གི། དུམ་མཚན་དང་པོ། 273",
+  "root_paragraph": "གང་ཟག་གི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་ཆོས་ཅན། ལམ་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཐར་པར་བགྲོད་པར་བྱེད་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་ཕྱིར། རིག་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཉོན་མོངས་པའི་དངོས་གཉེན་དུ་དགོས་པའི་ཕྱིར། སྒྲུབ་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སེམས་ཀྱི་གནས་ལུགས་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་ཕྱིར། ངེས་པར་འབྱིན་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱེད་པའི་ལམ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "273",
+  "paragraph_key": "3895ac82e85bcda5",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:20.292974Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "དེ་ལ་ཐམས་ཅད་ཤེས་པ་ཉིད་ཅེས་བྱ་བ་ནི་འདུས་བྱས་ཐམས་ཅད་མི་རྟག་པའོ། ། ཟག་པ་དང་བཅས་པ་ཐམས་ཅད་སྡུག་བསྔལ་བའོ། ། ཆོས་ཐམས་ཅད་བདག་མེད་པའོ་ཞེས་ཐམས་ཅད་ཤེས་པ་ཉིད་རྣམ་པ་གསུམ་གྱིས་ཞུགས་ནས་ཆོས་དང་རྗེས་སུ་རྟོག་པའི་ཤེས་པའི་དབང་གིས་ཆོས་ཐམས་ཅད་ཀྱི་མཐར་གཏུགས་པའི་ཤེས་པ་ནི་ཐམས་ཅད་ཤེས་པ་ཞེས་བྱ་སྟེ།",
+      "relevance": "This passage discusses the knowledge of the path and the nature of realizing selflessness, which is relevant to explaining the aspects of the path mentioned in paragraph 7.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~780312 in the commentary file, unit 399/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 398,
+      "unit_hash": "ce3649ad6360",
+      "passage_hash": "c5e4dbd3f602",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "ལམ་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ།",
+      "relevance": "This quote introduces the aspect of the path (ལམ་གྱི་རྣམ་པ) corresponding to the realization of selflessness discussed in the target passage.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~189245 in the commentary file, unit 97/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 56,
+      "chunk_id": 96,
+      "unit_hash": "597ca54e345b",
+      "passage_hash": "d8497f76224c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "ངེས་པར་འབྱིན་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱེད་པའི་ལམ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "Both the commentary and the target text address the aspect of the path that thoroughly eradicates suffering.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~51910 in the commentary file, unit 27/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 26,
+      "unit_hash": "bdf4aa7a89ab",
+      "passage_hash": "260c3f20319f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "གང་ཟག་གི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་ཆོས་ཅན། ལམ་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཐར་པར་བགྲོད་པར་བྱེད་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་ཕྱིར། རིག་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཉོན་མོངས་པའི་དངོས་གཉེན་དུ་དགོས་པའི་ཕྱིར། སྒྲུབ་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སེམས་ཀྱི་གནས་ལུགས་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་ཕྱིར། ངེས་པར་འབྱིན་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱེད་པའི་ལམ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This target paragraph concerns the four aspects of the path truth (ལམ་གྱི་རྣམ་པ་བཞི་), corresponding to the commentary's discussions on paths, practices, and ultimate realization.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~834822 in the commentary file, unit 427/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 426,
+      "unit_hash": "b4b8a949a73e",
+      "passage_hash": "ea702b7c1c8e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

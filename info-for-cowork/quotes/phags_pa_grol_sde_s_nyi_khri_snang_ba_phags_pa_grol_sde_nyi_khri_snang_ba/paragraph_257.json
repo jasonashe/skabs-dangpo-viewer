@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "258_གསུམ་པ་དྲིས། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "གསུམ་པ་དྲིས་ལན་དེས་གྲུབ་པའི་དོན་བཤད་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་ལ་དམིགས་པ་ཡིན་ཏེ། དེ་གོང་དུ་མདོ་བཞི་ལས་སྒྲུབ་པ་དེའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "7abc7ca2db8d7cf2",
+  "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+  "generated_at": "2026-08-21T06:57:24.723023Z",
+  "quotes": [
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་འདིར་སེམས་བསྐྱེད་པའི་མཚན་ཉིད་དམིགས་པ་དང་བཅས་པ་དང་ཆེད་དུ་བྱ་བ་དང་བཅས་པ་བརྗོད་ནས།",
+      "relevance": "This summarizes that the definition, object of focus, and purpose of mind generation have been explained.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~44243 in the commentary file, unit 23/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 77,
+      "chunk_id": 22,
+      "unit_hash": "48459310aeda",
+      "passage_hash": "83e8606dcada",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]",
+      "quote_tibetan": "དེ་ལྟར་ན་སེམས་བསྐྱེད་པ་ནི་གཞན་གྱི་དོན་གྱི་ཕྱིར་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་བདག་ཉིད་ཡིན་པར་ཤེས་པར་བྱའོ། །ཞེས་གསུངས།",
+      "relevance": "Paragraph 8 utilizes this conclusion to state that mind generation is characterized by the desire for complete enlightenment for the sake of others.",
+      "location": "འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~632762 in the commentary file, unit 324/328",
+      "verification": "UNVERIFIED",
+      "correctness_score": 47,
+      "chunk_id": 323,
+      "unit_hash": "7279d433c7dd",
+      "passage_hash": "815b03c3c470",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 328,
+    "units_scanned": 328,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

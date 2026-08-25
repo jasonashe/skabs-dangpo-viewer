@@ -1,0 +1,20 @@
+# Quote collection: མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]
+**Target paragraph:** 231_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 183
+
+> གསུམ་པ་ནི། སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་། གཉིས་པར། མོག་མོག་པོར་བྱེད་ལ་སོགས་དང་། །ཞེས་དང་། རྟེན་གྱི་བསེ་རུ་ལྟ་བུའི་ལམ། །ཞེས་དང་། སྐབས་བཞི་པར། སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །ཞེས་དང་། སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། །ཞེས་གསུངས་པ་རྣམས་ཟློས་པར་འགྱུར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་དཀོན་མཆོག་གསུམ་བཤད་པའི་སྐབས་ཀྱི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་ལ། གཉིས་པ་དེ། ལམ་ཤེས་སྐྱེ་བའི་རྟེན་དང་། གསུམ་པ་དེ། རང་རྒྱལ་གྱི་ལམ་གྱི་རྟེན་གྱི་གང་ཟག་དང་། བཞི་པ་དེ། ཡུམ་ཉན་པའི་སྣོད་རུང་གི་གང་ཟག་དང་། ལྔ་པ་དེ། ཕྱིར་མི་ལྡོག་པའི་རྟེན་ངོས་གཟུང་བར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> སྐབས་འདིར། དགེ་འདུན་དཀོན་མཆོག་ལ་འདོམས་པའི་སྐབས་སུ་མདོ་ལས་མིང་གི་ཐ་སྙད་དངོས་སུ་མ་སྨོས་པའི་བྱང་སེམས་མང་པོ་ཞེས་གསུངས་པ་ལ། རྗེ་བཙུན་གྱིས་དེ་དག་ཐམས་ཅད་བདེ་བླག་ཏུ་རྟོགས་པར་བྱ་བའི་ཕྱིར་ཞུགས་འབྲས་ཀྱི་ཐ་སྙད་ཀྱིས་ཉི་ཤུར་བསྡུས་ཏེ་
+
+- **Why relevant:** This passage discusses the twenty types of individuals (sangha) in the first chapter's context of the Jewels, directly relating to the discussion of the twenty individuals in paragraph 7.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~42918 in the commentary file, under ‘རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།’, unit 22/281
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ལམ་ཤེས་གསུངས་པའི་ཚེ་དེ་བཞིན་གཤེགས་པའི་རང་བཞིན་གྱི་འོད་དག་གིས་ལྷ་ལ་སོགས་པ་རྣམ་པར་སྨིན་པ་འོད་མོག་མོག་པོར་མཛད་པ་ནི་ཆོས་ཅན།
+
+- **Why relevant:** This quote discusses the basis for the arising of the knowledge of the paths (lam shes) where the light of the Tathagata makes the ripening of the gods dim, which is relevant to the discussion of the supports for the arising of lam shes mentioned in paragraph 7.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~166858 in the commentary file, under ‘ལམ་ཤེས་བཤད་པ།’, unit 85/281
+- **Verification:** verified_exact

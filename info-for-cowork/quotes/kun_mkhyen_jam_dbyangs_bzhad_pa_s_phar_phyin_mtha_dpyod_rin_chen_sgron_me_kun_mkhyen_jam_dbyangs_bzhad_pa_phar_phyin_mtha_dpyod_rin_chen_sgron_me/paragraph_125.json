@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "126_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 111",
+  "root_paragraph": "གསུམ་པ་ནི། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+  "root_paragraph_page": "111",
+  "paragraph_key": "31f738554046b0e8",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:56.694432Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+      "relevance": "This quote defines the definitive meaning (nges don) in terms of teachings focused primarily on emptiness that can be accepted literally.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~542870 in the commentary file, unit 276/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 275,
+      "unit_hash": "fae5d8f5ec18",
+      "passage_hash": "afe1f290cbe9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+      "relevance": "This quote defines the interpretable meaning (drang don) as scriptures whose primary subject is conventional truth or which cannot be taken literally.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~547796 in the commentary file, unit 278/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 277,
+      "unit_hash": "20ebd11c91a1",
+      "passage_hash": "afe1f290cbe9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

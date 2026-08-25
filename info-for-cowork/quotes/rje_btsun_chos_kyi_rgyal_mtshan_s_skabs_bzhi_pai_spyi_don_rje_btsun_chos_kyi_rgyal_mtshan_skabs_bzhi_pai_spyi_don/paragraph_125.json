@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "126_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 111",
+  "root_paragraph": "གསུམ་པ་ནི། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+  "root_paragraph_page": "111",
+  "paragraph_key": "31f738554046b0e8",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:04.506767Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+      "relevance": "This quote defines the characteristics of definitive meaning sutras, which is discussed in the target paragraph.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།], char offset ~201147 in the commentary file, unit 103/255",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 102,
+      "unit_hash": "7c8ad4b396da",
+      "passage_hash": "09bcd00954f1",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 255,
+    "units_scanned": 255,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

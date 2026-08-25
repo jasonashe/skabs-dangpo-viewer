@@ -1,0 +1,27 @@
+# Quote collection: པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།]
+**Target paragraph:** 27_རོང་ཊཱིཀ་པས། དུམ་མཚན་དང་པོ། 56
+
+> རོང་ཊཱིཀ་པས་འགྲེལ་པ་འདི་མདོ་རྒྱན་སྦྱར་བའི་འགྲེལ་པ་ཡིན་ཏེ། ཀུན་གྱི་རྒྱན་དུ་འགྱུར་བར་ནི། །ཞེས་དང་། རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་། ཞེས་སོགས་དང་། འཕགས་བཞིའི་མངོན་རྟོགས་བསྡུས་ཚུལ་གྱི་སྐབས་སུ་ཡུམ་གསུམ་གའི་ལུང་ཤེས་བྱེད་དུ་དྲངས་པའི་ཕྱིར། ཞེས་ཟེར་བ་མི་འཐད་དེ། དེ་ལྟར་ན་འགྲེལ་པ་འདི་དབུས་མཐའ་དང་རྒྱན་སྦྱར་བའི་འགྲེལ་པ་སོགས་སུ་འགྱུར་ཏེ། སྐབས་ལྔ་པའི་འགྲེལ་པར༑ཆོས་ཀྱི་དབྱིངས་ལས་མ་གཏོགས་པར། །འདི་ལྟར་ཆོས་ཡོད་མ་ཡིན་ཏེ། །ཞེས་དབུས་མཐའི་ལུང་ཤེས་བྱེད་དུ་དྲངས་ཤིང་། སྐབས་བཞི་པའི་འགྲེལ་པར།འཇིག་རྟེན་སྣ་ཚོགས་ལས་ལས་སྐྱེས། །ཞེས་སོགས་མཛོད་ཀྱི་ལུང་ཤེས་བྱེད་དུ་དྲངས་པ་སོགས་དུ་མ་ཡོད་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> འཇིག་རྟེན་སྣ་ཚོགས་ལས་ལས་སྐྱེས། །
+
+- **Why relevant:** The commentary quotes a line from the Abhidharmakosa (མཛོད་) in its fourth chapter to show that Abhidharma sources are also cited, supporting the argument against Rongtikpa's narrow classification of the commentary's scriptural sources.
+- **Location:** པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།], char offset ~72793 in the commentary file, unit 38/174
+- **Verification:** UNVERIFIED
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> ཀུན་གྱི་རྒྱན་དུ་འགྱུར་བར་ནི། །
+
+- **Why relevant:** The text discusses this line in the context of Rongtikpa's assertion regarding whether the commentary connects the sutras and the ornament.
+- **Location:** པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།], char offset ~146496 in the commentary file, unit 75/174
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> ཆོས་ཀྱི་དབྱིངས་ལས་མ་གཏོགས་པར། །འདི་ལྟར་ཆོས་ཡོད་མ་ཡིན་ཏེ། །
+
+- **Why relevant:** The commentary quotes a line from the Madhyantavibhaga (དབུས་མཐའ་) in its fifth chapter to demonstrate that commentaries sometimes cite treatises other than the Prajnaparamita sutras, directly relating to the debate about whether commentaries mix different foundational texts.
+- **Location:** པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་'s རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། [པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།], char offset ~69711 in the commentary file, unit 36/174
+- **Verification:** UNVERIFIED

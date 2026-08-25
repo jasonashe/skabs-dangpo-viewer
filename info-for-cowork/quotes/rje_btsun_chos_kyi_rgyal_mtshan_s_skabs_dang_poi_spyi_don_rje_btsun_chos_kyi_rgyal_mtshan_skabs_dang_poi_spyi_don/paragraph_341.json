@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "342_གཞན་ཡང་བདེན། དུམ་མཚན་དང་པོ། 257",
+  "root_paragraph": "གཞན་ཡང་། བདེན་སྟོང་ལ་བྱ་བྱེད་ལས་གསུམ་མི་རུང་བས་ཁྱབ་པར་ཐལ། ཆོས་ཐམས་ཅད་བདེན་སྟོང་མ་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། རྩ་བ་ཤེས་རབ་ལས༑གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །ཞེས་གསུངས་པ་འདི་རང་གཞུང་དུ་ཐལ་ལོ། །འདོད་ན།གལ་ཏེ་འདི་ཀུན་མི་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད༑ ༑འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །ཞེས་གསུངས་པ་འདི་ཕྱོགས་སྔ་མའི་གཞུང་དུ་ཐལ་ལོ། །",
+  "root_paragraph_page": "257",
+  "paragraph_key": "a0cbaf06d01b8970",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:03.149502Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།]",
+      "quote_tibetan": "རྩ་བ་ཤེས་རབ་ལས།གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse from the Mulamadhyamakakarika is cited to examine the philosophical consequences concerning emptiness and the four noble truths.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།], char offset ~138858 in the commentary file, unit 71/228",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 70,
+      "unit_hash": "84b4a94aae21",
+      "passage_hash": "215c42206c8a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།]",
+      "quote_tibetan": "གལ་ཏེ་འདི་དག་ཀུན་སྟོང་ན། །འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད། །འཕགས་པའི་བདེན་པ་བཞི་པོ་རྣམས། །ཁྱོད་ལ་མེད་པར་ཐལ་བར་འགྱུར། །",
+      "relevance": "This verse is cited as an opponent's verse regarding the logical consequences if all phenomena were empty.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་དང་པོའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།], char offset ~386864 in the commentary file, under ‘འཇུག་པའི་རྒྱ་ཆེར་འགྲེལ་ལས་མ་རྙེད།’, unit 197/228",
+      "verification": "UNVERIFIED",
+      "correctness_score": 23,
+      "chunk_id": 196,
+      "unit_hash": "d7bef362b952",
+      "passage_hash": "ecab0bec159e",
+      "folio": null,
+      "sa_bcad": "འཇུག་པའི་རྒྱ་ཆེར་འགྲེལ་ལས་མ་རྙེད།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 228,
+    "units_scanned": 228,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

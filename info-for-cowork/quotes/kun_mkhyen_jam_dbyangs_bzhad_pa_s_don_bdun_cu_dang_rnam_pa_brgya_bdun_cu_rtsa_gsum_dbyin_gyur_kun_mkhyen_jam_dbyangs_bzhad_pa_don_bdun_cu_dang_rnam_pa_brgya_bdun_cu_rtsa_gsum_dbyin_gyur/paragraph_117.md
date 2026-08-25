@@ -1,0 +1,27 @@
+# Quote collection: ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།]
+**Target paragraph:** 118_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 108
+
+> ཁོ་ན་རེ། དྲང་དོན་དངོས་ཀྱི་བསྟན་བྱའི་གཙོ་བོར་བྱེད་པའི་ངེས་དོན་གྱི་མདོ་ཡོད་པར་ཐལ། ངེས་དོན་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་དྲང་དོན་གྱི་མདོ་ཡོད་པའི་ཕྱིར་ན་མ་ཁྱབ། དེ་བཞིན་དུ་ཀུན་རྫོབ་བདེན་པ་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་མདོ་ཡིན་ན། དྲང་དོན་གྱི་མདོ་ཡིན་པས་མ་ཁྱབ་སྟེ། བརྒྱད་སྟོང་པས་དེ་ལྟར་བསྟན་པའི་ཕྱིར་ཏེ། དེས་མངོན་པར་རྟོགས་པ་བརྒྱད་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར་ཏེ། དེས་དེ་ཤུགས་ལ་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར་ཏེ། དེས་སྦས་དོན་མངོན་རྟོགས་ཀྱི་རིམ་པ་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (40% correctness) ⚠️ UNVERIFIED
+> སྟོན་པས་བྱ་རྒོད་ཕུང་པོ་རུ། །ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཚུལ་བསྟན། །མཆོད་རྟེན་དཔལ་ལྡན་འབྲས་སྤུངས་སུ། །དེ་བཞིན་གསང་སྔགས་ཚུལ་གསུངས་པ། །
+
+- **Why relevant:** This verse from the excerpt discusses the teachings of the Perfection of Wisdom at Vulture Peak and the Secret Mantra at Dhānyakaṭaka (Śrīdhānakaṭaka), which is relevant to the discussion on the timing and location of the Perfection of Wisdom sūtras.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~98059 in the commentary file, unit 43/606
+- **Verification:** UNVERIFIED
+
+## Quote (27% correctness) ⚠️ UNVERIFIED
+> དེས་མངོན་པར་རྟོགས་པ་བརྒྱད་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར་ཏེ།
+
+- **Why relevant:** The excerpt discusses how the Astasahasrika (Eight Thousand Praise/Perception text) teaches the eight clear realizations as its primary explicit topic.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~287407 in the commentary file, unit 138/606
+- **Verification:** UNVERIFIED
+
+## Quote (13% correctness) ⚠️ UNVERIFIED
+> བརྒྱད་སྟོང་པས་དེ་ལྟར་བསྟན་པའི་ཕྱིར་ཏེ། དེས་མངོན་པར་རྟོགས་པ་བརྒྱད་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར་ཏེ། དེས་དེ་ཤུགས་ལ་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར་ཏེ། དེས་སྦས་དོན་མངོན་རྟོགས་ཀྱི་རིམ་པ་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་བསྟན་པའི་ཕྱིར།
+
+- **Why relevant:** This quote is relevant because it discusses how the Eight Thousand Stanza Perfection of Wisdom Sūtra teaches the eight clear realizations implicitly as its primary subject matter.
+- **Location:** ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།], char offset ~252603 in the commentary file, unit 121/606
+- **Verification:** UNVERIFIED

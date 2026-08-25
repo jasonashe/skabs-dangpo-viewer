@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "233_ལྔ་པ་ལ། དུམ་མཚན་དང་པོ། 184",
+  "root_paragraph": "ལྔ་པ་ལ། སྐབས་རྣམས་སུ་སྒོམ་ལམ་ཡང་ཡང་བསྟན་པས་ཟློས་སྐྱོན་ཡོད་དོ་ཞེ་ན། ལམ་ཤེས་སུ་བཤད་པའི་སྒོམ་ལམ་ནི། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་༑ ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན། སྐབས་བཞི་པར། སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །ཞེས་པ་ནི་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན། སྐབས་ལྔ་པར། སྒོམ་ལམ་བཤད་པ་ནི་སྒོམ་སྤང་རྟོག་པའི་གཉེན་པོའི་ཆ་ནས་བསྟན། གདམས་ངག་གི་སྐབས་སུ། སྒོམ་ཞེས་བྱ་ལ། ཞེས་གསུངས་པ་ནི། གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་བསྟན། གཉེན་པོའ་ིཚོགས་སྒྲུབ་ཏུ་སྒོམ་པའི་ལམ་ཞེས་གསུངས་པ་ནི། གཉེན་པོའ་ིཚོགས་ཀྱི་དབྱེ་བ་ཤེས་པའི་ཕྱིར་དུ་བསྟན་པ་ཡིན།",
+  "root_paragraph_page": "184",
+  "paragraph_key": "312ef47f14726f90",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:20.954670Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །",
+      "relevance": "The commentary explicitly quotes this verse to explain how the meditation path is taught in terms of the sign of non-retrogression, which directly connects to the discussion in target paragraph 8 regarding the different ways the meditation path is explained across chapters.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~841959 in the commentary file, unit 433/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 432,
+      "unit_hash": "94376c362bd4",
+      "passage_hash": "876617c3c927",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན།",
+      "relevance": "This quote explains that the meditation path is taught from the perspective of not abiding in the two extremes, specifically by not directly realizing the ultimate reality.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~894951 in the commentary file, unit 460/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 54,
+      "chunk_id": 459,
+      "unit_hash": "a0d8ddd111f3",
+      "passage_hash": "b13751c93a58",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

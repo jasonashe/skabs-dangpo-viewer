@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "302_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 233",
+  "root_paragraph": "གཉིས་པ་ལ། གདམས་ངག་སྤྱིར་བསྟན་པ་དང་། རྟོགས་དཀའ་བ་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། བསྟན་བཤད། མཇུག་བསྡུ་བའོ། །དང་པོ་ནི། གདམས་ངག་ནི། །བཅུ་ཡི་བདག་ཉིད་ཤེས་པར་བྱ། །ཞེས་པས་བསྟན།",
+  "root_paragraph_page": "233",
+  "paragraph_key": "a32e3debb62f27c7",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.569546Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "གདམས་ངག་ནི། །བཅུ་ཡི་བདག་ཉིད་ཤེས་པར་བྱ། །",
+      "relevance": "This quote is cited in the commentary to show the general presentation of the ten instructions.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~81795 in the commentary file, unit 42/577",
+      "verification": "verified_fuzzy",
+      "correctness_score": 97,
+      "chunk_id": 41,
+      "unit_hash": "fe1a881e27a6",
+      "passage_hash": "e6e898858680",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

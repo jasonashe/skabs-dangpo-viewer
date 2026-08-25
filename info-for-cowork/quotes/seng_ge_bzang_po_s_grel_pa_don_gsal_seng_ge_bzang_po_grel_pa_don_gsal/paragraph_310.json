@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "311_ལྔ་པ་ནི། དུམ་མཚན་དང་པོ། 237",
+  "root_paragraph": "ལྔ་པ་ནི། ཐེག་ཆེན་སེམས་བསྐྱེད་ཐོབ་པའི་དབང་དུ་བྱས་ན། ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ནས་སངས་རྒྱས་ཀྱི་སའི་བར་དུ་ཡོད་དེ། ཤེར་འབྱུང་གི་བསྡུས་དོན་ལས༑ལས་དང་པོ་པའི་ས་ནས་བཟུང་སྟེ་དེ་སངས་རྒྱས་ཀྱི་སའི་བར་དུ་གདམས་ངག་གི་བྱང་ཆུབ་ཀྱིས་སེམས་སྒྲུབ་པ་རྣམ་པར་དག་པ་ཡིན་ནོ། །ཞེས་གསུངས་པའི་ཕྱིར། རྒྱུན་མཐའི་བར་ཆད་མེད་ལམ་པ་དེ་གདམས་ངག་དངོས་སུ་ཉན་པ་པོ་མ་ཡིན་ཏེ། དེས་ཆོས་ཉིད་ལ་རྩེ་གཅིག་ཏུ་མཉམ་པར་བཞག་བཞིན་པའི་ངང་ནས་རྣམ་མཁྱེན་མངོན་པར་འདུ་བྱེད་པའི་ཕྱིར་ཏེ། ཚིག་གསལ་ལས།བར་ཆད་མེད་པའི་ལམ་ལ་ནི་དེ་དོན་དུ་གཉེར་བ་མི་བྱེད་དེ༑ རང་བྱུང་གི་ཡེ་ཤེས་སྐྱེད་པར་ནུས་པའི་ཕྱིར། ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "237",
+  "paragraph_key": "1051ef8231cc11ef",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:14.140151Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "ལས་དང་པོ་པའི་ས་ནས་བཟུང་སྟེ་དེ་སངས་རྒྱས་ཀྱི་སའི་བར་དུ་གདམས་ངག་གི་བྱང་ཆུབ་ཀྱི་སེམས་སྒྲུབ་པ་རྣམས་པར་དག་པ་ཡིན་ནོ། །",
+      "relevance": "This citation supports the point established in Paragraph 11 regarding the boundaries (sa mtshams) of where the instructions apply, spanning from the initial stage up to Buddhahood.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~17085 in the commentary file, under ‘སེམས་བསྐྱེད།’, unit 9/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 58,
+      "chunk_id": 8,
+      "unit_hash": "8da1945fada4",
+      "passage_hash": "6446320707de",
+      "folio": null,
+      "sa_bcad": "སེམས་བསྐྱེད།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "160_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 135",
+  "root_paragraph": "ཁོ་ན་རེ། གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན། ཐེག་དམན་གྱི་ལམ་ཡིན་པར་ཐལ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་གང་ཟག་དང་ཐེག་དམན་གྱི་གང་ཟག་མི་འགལ་བར་ཐལ། དེ་གཉིས་ཀྱི་ལམ་མི་འགལ་བའི་ཕྱིར་ན་མ་ཁྱབ། དེས་མཚོན་ནས། དགེ་བསྙེན་གྱི་སྡོམ་པ་ཡིན་ན། དགེ་བསྙེན་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ་བ་སོགས་རིགས་འགྲེ་བྱ་ཚུལ་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "135",
+  "paragraph_key": "380e145b739394ad",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:56.813950Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ཆེན་པོ་པ་ཡན་ཆད་དང་། ཐེག་དམན་གྱི་ཕྱིར་མི་འོང་ལུས་མངོན་བྱེད་དང་། དགྲ་བཅོམ་གཉིས་ཀའི་ཆ་ལས་རྣམ་གྲོལ་གྱིས་སོ། །",
+      "relevance": "This quote is relevant as it discusses the path levels and practitioners of the Great Vehicle (Mahayana) and Lesser Vehicle (Hinayana) in relation to spiritual progress.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~68334 in the commentary file, under ‘ཚ’, unit 36/528",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 35,
+      "unit_hash": "6f46c0a95834",
+      "passage_hash": "c37659ba680d",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

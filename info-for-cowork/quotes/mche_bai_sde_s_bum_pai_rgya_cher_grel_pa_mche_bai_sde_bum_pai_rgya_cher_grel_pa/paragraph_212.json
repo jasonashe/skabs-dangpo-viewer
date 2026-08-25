@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "213_གཞུང་དོན་ནི། དུམ་མཚན་དང་པོ། 173",
+  "root_paragraph": "གཞུང་དོན་ནི། བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་ཆོས་ཅན། ཤེར་ཕྱིན་གྱི་མདོའ་ིདོན་ཡང་དག་པར་བཤད་པ་ཡིན་ཏེ། ཁྱོད་ཀྱིས་ཤེར་ཕྱིན་གྱི་མདོ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ལ་རྗོད་བྱེད་སྐབས་བརྒྱད་དང་བརྗོད་བྱ་ལ་དངོས་པོ་བརྒྱད་དུ་ཕྱེ་བའི་སྒོ་ནས་ཕྱིན་ཅི་མ་ལོག་པར་བཤད་པའི་ཕྱིར། ཁོ་ན་རེ། རྗེ་བཙུན་བྱམས་པས་ཤེར་ཕྱིན་གྱི་མདོའ་ིདོན་ཡང་དག་པར་རྟོགས་པར་ཐལ། སྦྱོར་བ་འཐད་པའི་ཕྱིར། འདོད་ན། དེ་ཡང་དག་པར་གྲུབ་པར་ཐལ། འདོད་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། དུས་གསུམ་ཅིག་ཅར་དུ་གྲུབ་པར་ཐལ། སངས་རྒྱས་འཕགས་པས་དུས་གསུམ་ཅིག་ཅར་དུ་རྟོགས་པའི་ཕྱིར། ཁྱབ་པ་སོང་།",
+  "root_paragraph_page": "173",
+  "paragraph_key": "476b391668739683",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:45.231566Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དུས་གསུམ་མཉམ་པ་ཉིད་དུ་སྟོང་པ་ཉིད་ཀྱི་ཕྱིར་ཞེས་བྱ་བ་ནས།",
+      "relevance": "This passage directly discusses the equality and emptiness of the three times, supporting the analysis of time in relation to the omniscient state.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~178765 in the commentary file, unit 92/527",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 91,
+      "unit_hash": "e8e2101912c9",
+      "passage_hash": "eaa8a362cf79",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "དེར་ནི་འདི་ལྟར་དུས་གསུམ་མཉམ་པ་ཉིད་དེ།",
+      "relevance": "This quote explains that the three times are of an equal nature (mnyam pa nyིad du), which is relevant to the discussion of the three times in the target paragraph.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~179192 in the commentary file, unit 92/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 62,
+      "chunk_id": 91,
+      "unit_hash": "e8e2101912c9",
+      "passage_hash": "eaa8a362cf79",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

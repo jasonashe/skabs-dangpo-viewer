@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "228_འདི་དག་གིས། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "འདི་དག་གིས་ཟློས་པ་སྤོང་བ་ལ་འཕགས་པའི་ལུགས་དང་། སློབ་དཔོན་གྱི་ལུགས་གཉིས་ལས། སློབ་དཔོན་གྱི་བཞེད་པ་ནི་སྐབས་བཞི་པར་འཆད་ལ། འཕགས་པ་ལྟར་ན་སྒྲུབ་པ་དང་། སྦྱོར་བ་དང་། གང་ཟག་དང་། རྟོག་པ་དང་། སྒོམ་ལམ་དང་། མཐོང་ལམ་དང་། སྦྱོར་ལམ་ལ་ཟློས་པ་སྤང་བའོ། །",
+  "root_paragraph_page": "182",
+  "paragraph_key": "ff5245b7f9d44470",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:02.277526Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "འོན་ཏེ་ཁྱད་པར་འདི་ཙམ་ལ་ཉེ་བར་ལེན་པ་ནི་ཅིའི་དོན་དུ་ཡིན་སྙམ་ན། མང་བ་ལ་འདིར་རྗེས་སུ་འགྲོ་བ་མ་བྱས་ཏེ། འདི་ལྟ་སྟེ་དགྲ་ནི་ཉོན་མོངས་པ་རྣམས་སོ། ། དེ་རྣམས་བཅོམ་པས་དེའི་ཕྱིར་དགྲ་བཅོམ་པའོ་ཞེས་འདི་ཉིད་ཀྱིས་འདོད་པའི་ཟག་པ་ལ་སོགས་པ་རྣམས་ལ་སྤང་བྱར་གསུངས་པ། དེ་བས་ན་ཟག་པ་ཟད་པ་ཞེས་བྱ་བ་འདིས་ཅི་ཞིག་བྱ། དེ་བཞིན་དུ་ཁྱད་པར་གཞན་རྣམས་ལ་ཡང་ཅི་རིགས་པར་ཟློས་པའི་སྐྱོན་ཡོད་དོ་ཞེ་ན།",
+      "relevance": "This quote discusses the potential fault of redundancy (ཟློས་པའི་སྐྱོན་) among various terms and characteristics, which is the main topic of avoiding repetition discussed in target paragraph 4.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~17953 in the commentary file, unit 10/524",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 9,
+      "unit_hash": "99480436018e",
+      "passage_hash": "b5571d00d240",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

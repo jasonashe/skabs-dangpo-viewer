@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "237_སྐབས་བཞི་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་བཞི་པར། དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །ཞེས་སོགས་སུ་བསྟན་པ་ནི་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ། སྐབས་ལྔ་པར། སྦྱོར་ལམ་བསྟན་པ་ནི་རྩེ་སྦྱོར་གྱི་བསྟན་པ་ཡིན་པས་མི་ཟློས་པའི་ཕྱིར། འདི་དག་ནི་འཕགས་པའི་བཞེད་པ་གསེར་ཕྲེང་དུ་བཀོད་པའོ།།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "aa12c9d41b6f3b0d",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:13.962623Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །",
+      "relevance": "This quote from the commentary explains the specific focus on sentient beings in the context of the warmth stage (དྲོ་བ) of the provisions for definite emergence.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~111986 in the commentary file, under ‘ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན།’, unit 58/101",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 57,
+      "unit_hash": "60dac9fba47b",
+      "passage_hash": "fbdc2bfa6288",
+      "folio": null,
+      "sa_bcad": "ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

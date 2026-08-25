@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "363_ཁ་ཅིག་ཟག། དུམ་མཚན་དང་པོ། 267",
+  "root_paragraph": "ཁ་ཅིག །ཟག་བཅས་འབྲས་དུས་ཀྱི་ཆར་གྱུར་པ། སྡུག་བདེན་གྱི་མཚན་ཉིད། ཟག་བཅས་རྒྱུ་དུས་ཀྱི་ཆར་གྱུར་པ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད། ཟེར་ན་མི་འཐད་དེ༑ ཀུན་འབྱུང་བདེན་པ་དེ་སྡུག་བསྔལ་བདེན་པ་ཡིན་པའི་ཕྱིར། དེས་ན་སྡུག་ཀུན་གང་རུང་ལ་སྤང་བྱས་མ་ཁྱབ་སྟེ། ཉན་ཐོས་སྦྱོར་ལམ་པ་དང་། ཁམས་གོང་གི་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ཟག་བཅས་དགེ་བའི་ལས་རྣམས་སྡུག་བདེན་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "267",
+  "paragraph_key": "112168fd6cbeb595",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:36.260637Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "སྡུག་བསྔལ་བ་དང་། ཀུན་འབྱུང་བ་དང་། འགོག་པ་དང་ལམ་མ་ཡིན་ཞེས་བྱ་བ་ལ། འདི་སྐད་ཅེས་བྱ་སྟེ། འདི་ནི་ཉན་ཐོས་ཀྱི་ཐེག་པ་ལ་ཞུགས་པའི་སྤྱོད་ཡུལ་ཏེ། བདེན་པ་བཞི་ཞེས་བྱའོ། །",
+      "relevance": "This quote discusses the four truths, which is the topic of analyzing what constitutes the truths of suffering and origin.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~965455 in the commentary file, unit 493/520",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 492,
+      "unit_hash": "b1fd36eb632c",
+      "passage_hash": "e3e136bbc4aa",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

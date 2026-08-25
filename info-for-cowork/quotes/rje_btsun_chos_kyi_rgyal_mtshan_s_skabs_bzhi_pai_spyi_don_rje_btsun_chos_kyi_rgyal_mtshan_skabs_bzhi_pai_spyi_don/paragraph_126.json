@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "127_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 112",
+  "root_paragraph": "བཞི་པ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག །ཤླཽ་ཀ་སྟོང་ཕྲག་དྲུག་དྲུག་ལ་ཆོས་ཕུང་རེ་རེའི་ཚད་དུ་འཇོག་སྟེ། ཤཱ་རིའི་བུས་མཛད་པའི་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་པའི་བསྟན་བཅོས་དེ་ཆོས་ཕུང་གཅིག་གི་ཚད་ཡིན་པས་དེ་ལ་དེ་ལྟར་ཡོད་པའི་ཕྱིར། ཞེས་ཟེར། ཁ་ཅིག །ཕུང་ཁམས་སྐྱེ་མཆེད་ལས་བརྩམས་པའི་གཏམ་རྒྱུད་ཆ་ཚང་བ་རེ་སྟོན་པའི་གསུང་རབ་ལ་ཆོས་ཕུང་རེ་རེའི་ཚད་དུ་འཇོག་གོ །ཞེས་ཟེར་ཏེ། མཛོད་ལས།ཁ་ཅིག་བསྟན་བཅོས་ཚད་ཅེས་ཟེར། །ཕུང་པོ་ལ་སོགས་གཏམ་རེ་ཡིན། །ཞེས་གསུངས།",
+  "root_paragraph_page": "112",
+  "paragraph_key": "1603fd89167cfff9",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:04.514676Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "མཛོད་ལས།ཁ་ཅིག་བསྟན་བཅོས་ཚད་ཅེས་ཟེར། །ཕུང་པོ་ལ་སོགས་གཏམ་རེ་ཡིན། །ཞེས་གསུངས།",
+      "relevance": "This quote from the Abhidharmakosa is cited in the target paragraph to present the view of some proponents regarding the definition of a chofung (dharmaskandha).",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།], char offset ~424618 in the commentary file, unit 216/255",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 215,
+      "unit_hash": "7d8bb115860c",
+      "passage_hash": "875a47390ec7",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "མཛོད་ལས།ཁ་ཅིག་བསྟན་བཅོས་ཚད་ཅེས་ཟེར། །ཕུང་པོ་ལ་སོགས་གཏམ་རེ་ཡིན། །ཞེས་གསུངས།",
+      "relevance": "This quote supports paragraph 2's discussion of the Vaibhasika view on the measure of a religious text (ཆོས་ཕུང་).",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།], char offset ~484271 in the commentary file, under ‘ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ་བྱེ་བྲག་ཏུ་བཤད་པ།’, unit 246/255",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 245,
+      "unit_hash": "78d0d4829d29",
+      "passage_hash": "f90368e070ed",
+      "folio": null,
+      "sa_bcad": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ་བྱེ་བྲག་ཏུ་བཤད་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 255,
+    "units_scanned": 255,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "234_དྲུག་པ་ལ། དུམ་མཚན་དང་པོ། 184",
+  "root_paragraph": "དྲུག་པ་ལ། སྐབས་རྣམས་སུ་མཐོང་ལམ་ཡང་ཡང་བསྟན་པ་ལ་ཟློས་སྐྱོན་ཡོད་དོ་ཞེ་ན། སྐྱོན་མེད་དེ། གདམས་ངག་གི་སྐབས་སུ་མཐོང་ལམ་དང་། ཞེས་གསུངས་པ་ནི། གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་བསྟན། ཚོགས་སྒྲུབ་ཀྱི་སྐབས་སུ༑ མཐོང་ལམ་དང་། ཞེས་བཤད་པ་ནི་གཉེན་པོའ་ིཚོགས་ཀྱི་དབྱེ་བ་ཤེས་པའི་ཕྱིར་དུ་བསྟན། སྐབས་གཉིས་པར་ནི་མཐའ་གཉིས་ལ་མི་བརྟེན་པའི་མཐོང་ལམ་བསྟན༑ སྐབས་གསུམ་པར་ཐེག་དམན་གྱི་ས་ལས་འདའ་བར་བྱ་བའི་མཐོང་ལམ་བསྟན༑ སྐབས་བཞི་པར། མཐོང་བའི་ལམ་ལ་བཟོད་པ་དང་། །ཞེས་གསུངས་པ་ནི། ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན། སྐད་ཅིག་མ་ནི་བཅུ་དྲུག་གིས། །ཞེས་པས་ནི། ཉན་རང་ལས་ཁྱད་པར་དུ་འཕགས་པར་བསྟན། སྐབས་ལྔ་པར་མཐོང་ལམ་བསྟན་པ་ནི་མཐོང་སྤང་རྟོག་པའི་གཉེན་པོའ་ིཆ་ནས་བསྟན་པ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "184",
+  "paragraph_key": "f301854661ceb62d",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:33.964671Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "སྐད་ཅིག་མ་ནི་བཅུ་དྲུག་གིས། །",
+      "relevance": "The commentary mentions the sixteen instances/moments to distinguish the path from that of listeners and realizers, matching the reference in target paragraph 2.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~20083 in the commentary file, unit 11/44",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 10,
+      "unit_hash": "bb821b404c18",
+      "passage_hash": "dc07b2625e6c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "མཐོང་བའི་ལམ་ལ་བཟོད་པ་དང་། །ཞེས་གསུངས་པ་ནི། ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན།",
+      "relevance": "The excerpt cites the verse about patience on the path of seeing as an indicator of non-retrogression, corresponding directly to the target paragraph's analysis of chapter four.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~22805 in the commentary file, unit 12/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 51,
+      "chunk_id": 11,
+      "unit_hash": "ea269da5f6e1",
+      "passage_hash": "dc07b2625e6c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

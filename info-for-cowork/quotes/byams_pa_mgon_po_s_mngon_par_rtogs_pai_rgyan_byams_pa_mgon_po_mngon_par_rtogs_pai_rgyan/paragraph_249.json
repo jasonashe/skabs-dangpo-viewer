@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "250_གསུམ་པ་ལ། དུམ་མཚན་དང་པོ། 193",
+  "root_paragraph": "གསུམ་པ་ལ། མཚན་ཉིད་དངོས་དང་། རྩོད་པ་སྤོང་བའོ། །དང་པོ་ལ། ངོ་བོ། དབྱེ་བ། སེམས་བསྐྱེད་ཚུལ་གསུམ་ལས། དང་པོ་ནི། གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་པའི་དོན་འཆད་པ་ལ།གཞན་གྱི་དོན་དུ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདོད་པའི་མཚན་ཉིད། ཅེས་གསུངས། གཉིས་པ་དེ་སྟོན་པ་ལ༑སྨོན་པ་དང་འཇུག་པའི་ངོ་བོ་ཉིད་རྣམ་པ་གཉིས་སོ། །ཞེས་གསུངས། གསུམ་པ་ནི༑ སེམས་བསྐྱེད་པ་ནི་ཞེས་པའི་དོན་འཆད་པ་ལ། སངས་རྒྱས་སུ་གྲུབ་ནས་གཞན་གྱི་དོན་གྱི་ཕྱིར་སྐལ་བ་ཇི་ལྟ་བ་བཞིན་དུ་འབད་པར་བྱའོ། །ཞེས་སེམས་བསྐྱེད་པ། ཞེས་གསུངས།",
+  "root_paragraph_page": "193",
+  "paragraph_key": "f23cf2e7cd8d5cf9",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+  "generated_at": "2026-08-20T04:14:33.141528Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།]",
+      "quote_tibetan": "གཞན་དོན་ཕྱིར། ། ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །",
+      "relevance": "This verse is cited in the target passage to explain the definition of wishing for complete enlightenment for the benefit of others.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་པར་རྟོགས་པའི་རྒྱན། [བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།], char offset ~2626 in the commentary file, unit 2/19",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 1,
+      "unit_hash": "ea22886d8ac5",
+      "passage_hash": "bb364c4258ee",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 19,
+    "units_scanned": 19,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "200_གཞན་ཡང་འགྲེལ། དུམ་མཚན་དང་པོ། 164",
+  "root_paragraph": "གཞན་ཡང་། འགྲེལ་ཆེན་གྱི་ལུང་དེས་བཀའ་བསྟན་བཅོས་ཤེས་པར་བསྟན་པ་མ་ཡིན་ཏེ། འགྲེལ་ཆེན་ལས།ཚིག་དང་ངག་གི་ཚོགས་ཀྱིས་བསྡུས་པའི་གཞུང་དང་། ཞེས་གཞུང་ཤེར་ཕྱིན་ཚིག་དང་ངག་གིས་བསྡུས་པར་བཤད་པའི་ཕྱིར། གཞན་ཡང་། ངག་མ་སྨྲས་པར་བསྟན་བཅོས་རྩོམ་པ་མེད་པར་ཐལ། བསྟན་བཅོས་ཡིན་ན་རྗོད་བྱེད་ཀྱི་སྒྲ་རང་མཚན་པ་ཡིན་དགོས་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། བསེ་རུ་ལྟ་བུའི་རང་རྒྱལ་གྱིས་སྒྲ་མེད་ལུས་ཀྱི་རྣམ་འགྱུར་གྱི་སྒོ་ནས་ཆོས་སྟོན་པ་མེད་པར་ཐལ། འདོད་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "164",
+  "paragraph_key": "c5e1f964c08c8168",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:13.886333Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "སྒྲ་མེད་པར་ཆོས་སྟོན་པ་ཞེས་བྱ་སྟེ། ཆོས་སྟོན་པའི་སྒྲའི་དོན་ནི་འདི་ལྟར་བརྗོད་པར་བྱ་བའི་ཆོས་ཉན་པ་པོའི་རྣམ་པར་ཤེས་པ་ལ་ཤིན་ཏུ་བསྐྲུན་ཅིང་བསྐྱེད་པ་ཞེས་བྱ་བ་འདི་ཡིན་ནོ། །",
+      "relevance": "This quote explains how solitary realizers (Pratyekabuddhas) teach the Dharma without words by generating the understanding in the listener's mind, which is directly relevant to the discussion of wordless teaching in paragraph 25.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~59328 in the commentary file, under ‘རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས།’, unit 31/101",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 30,
+      "unit_hash": "0b1fc6bcf5d9",
+      "passage_hash": "907802462d60",
+      "folio": null,
+      "sa_bcad": "རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

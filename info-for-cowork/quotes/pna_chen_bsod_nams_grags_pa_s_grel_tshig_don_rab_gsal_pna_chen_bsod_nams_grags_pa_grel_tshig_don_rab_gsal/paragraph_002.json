@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "3_རང་ལུགས་ནི། དུམ་མཚན་དང་པོ། 40",
+  "root_paragraph": "རང་ལུགས་ནི། ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་པོ་འདི་ཉིད་འདིའི་བཤད་བྱ་རྩ་བའི་མདོ་ཡིན་ཏེ། འགྲེལ་པར།རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ། ཞེས་དང་།ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "40",
+  "paragraph_key": "7440ee4e999c767d",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:24.869074Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ།",
+      "relevance": "This quote from the commentary supports the own-system (rang lugs) view in Paragraph 3 that the three mother scriptures (རྒྱས་འབྲིང་བསྡུས་གསུམ་) serve as the root sutra.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~24461 in the commentary file, unit 13/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 77,
+      "chunk_id": 12,
+      "unit_hash": "d4ceabf3679c",
+      "passage_hash": "bc3a700c37c0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "རང་ལུགས་ནི། ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་པོ་འདི་ཉིད་འདིའི་བཤད་བྱ་རྩ་བའི་མདོ་ཡིན་ཏེ།",
+      "relevance": "This quote introduces the author's own position regarding the foundational mother scriptures (yum) that serve as the root text to be explained.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~10570 in the commentary file, unit 6/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 45,
+      "chunk_id": 5,
+      "unit_hash": "8ef4894ee5c6",
+      "passage_hash": "667df40002e1",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

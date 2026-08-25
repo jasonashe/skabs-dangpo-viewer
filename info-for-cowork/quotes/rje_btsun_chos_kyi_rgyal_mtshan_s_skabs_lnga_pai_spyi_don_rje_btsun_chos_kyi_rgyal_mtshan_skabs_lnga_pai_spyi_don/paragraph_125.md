@@ -1,0 +1,27 @@
+# Quote collection: རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]
+**Target paragraph:** 126_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 111
+
+> གསུམ་པ་ནི། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།
+
+*Coverage: complete.*
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད།
+
+- **Why relevant:** This quote from the commentary excerpt discusses the definition of definitive meaning (ངེས་དོན་) in sūtras, which is the main topic of target paragraph 1.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~382335 in the commentary file, unit 195/360
+- **Verification:** UNVERIFIED
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད།
+
+- **Why relevant:** This quote defines the characteristics of definitive scriptures (ངེས་དོན་གྱི་མདོ) based on their focus on emptiness and literal acceptability, matching Paragraph 1.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~702490 in the commentary file, unit 357/360
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།
+
+- **Why relevant:** This quote defines the characteristics of interpretive scriptures (དྲང་དོན་གྱི་མདོ) focusing on conventional truth and non-literal acceptability, matching Paragraph 1.
+- **Location:** རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~700615 in the commentary file, unit 356/360
+- **Verification:** UNVERIFIED

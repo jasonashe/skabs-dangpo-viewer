@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "46_གཞན་ཡང་རྗེ། དུམ་མཚན་དང་པོ། 66",
+  "root_paragraph": "གཞན་ཡང་། རྗེ་བཙུན་བྱམས་པ་དེ་མ་འོངས་པ་ན་འཛམ་བུའི་གླིང་དུ་བྱོན་པའི་ཚེ་སྲིད་པ་ཐ་མ་པའི་བྱང་སེམས་ཡིན་པར་ཐལ། དེ་ད་ལྟ་སྐྱེ་བ་གཅིག་ཐོགས་ཀྱི་བྱང་སེམས་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེའི་ཚེ་དེ་རྟེན་དེ་ལ་འཚང་རྒྱ་བར་ཐལ་ལོ། །",
+  "root_paragraph_page": "66",
+  "paragraph_key": "1cc8412aa8776cac",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:01.100083Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "གང་ཟག་བླ་ན་མེད་པ་ཞེས་བྱ་བ་ནི་སྲིད་པ་ཐ་མ་པའི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ཀྱང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་དང་ལྷན་ཅིག་ཏུ་ཤིན་ཏུ་ཐབས་ཅིག་པའི་ཕྱིར་རོ། །",
+      "relevance": "This quote discusses the concept of final-existence bodhisattvas (སྲིད་པ་ཐ་མ་པའི་བྱང་ཆུབ་སེམས་དཔའ་), which is relevant to the target passage's discussion of whether Maitreya is a final-existence bodhisattva.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~803709 in the commentary file, unit 413/524",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 412,
+      "unit_hash": "5fe01c0a0b71",
+      "passage_hash": "c23e573bbed9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "160_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 135",
+  "root_paragraph": "ཁོ་ན་རེ། གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན། ཐེག་དམན་གྱི་ལམ་ཡིན་པར་ཐལ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་གང་ཟག་དང་ཐེག་དམན་གྱི་གང་ཟག་མི་འགལ་བར་ཐལ། དེ་གཉིས་ཀྱི་ལམ་མི་འགལ་བའི་ཕྱིར་ན་མ་ཁྱབ། དེས་མཚོན་ནས། དགེ་བསྙེན་གྱི་སྡོམ་པ་ཡིན་ན། དགེ་བསྙེན་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ་བ་སོགས་རིགས་འགྲེ་བྱ་ཚུལ་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "135",
+  "paragraph_key": "380e145b739394ad",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:44.484854Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "The commentary excerpt discusses various paths including that of the hearers, providing background terminology for the debate on paths and their possessors.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~793978 in the commentary file, unit 408/527",
+      "verification": "UNVERIFIED",
+      "correctness_score": 51,
+      "chunk_id": 407,
+      "unit_hash": "2f422340841a",
+      "passage_hash": "7aebc777dc92",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "53_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 69",
+  "root_paragraph": "གཉིས་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དེ་སྟོན་པ་ལ། འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས། ཞེས་གསུངས། ཐབས་ལམ་ཤེས་དེ་སྟོན་པ་ལ། ལམ་ཤེས་ཉིད་ཀྱིས། ཞེས་གསུངས། འདིའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །ཞེས་གསུངས། གསུམ་པ་ལ། མངོན་རྟོགས་རིགས་སོ་སོར་འབྱེད་པའི་རྣམ་གཞག་གི་རྟེན་དང་སྐྱེ་བའི་རྟེན་གཉིས་ཀའི་དབང་དུ་བྱས་པ་ནི། ཐུབ་རྣམས། ཞེས་པས་འཆད། ཐབས་རྣམ་མཁྱེན་དེ་འཆད་པ་ལ། གང་དང་ཡང་དག་ལྡན་པས། ཞེས་གསུངས༑ དེའི་འབྲས་བུ་དེ་སྟོན་པ་ལ། རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུངས་པ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "69",
+  "paragraph_key": "7238dc5f0d227d33",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:13.565235Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "འགྲོ་ལ་ཕན་པར་བྱེད་རྣམས་ལམ་ཤེས་ཉིད་ཀྱིས་འཇིག་རྟེན་དོན་སྒྲུབ་མཛད་པ་གང་། །",
+      "relevance": "This quote is cited in paragraph 3 to explain the path-knowledge aspect of the praise.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~1838 in the commentary file, unit 1/101",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 0,
+      "unit_hash": "5565f4bdd881",
+      "passage_hash": "f660f5a95778",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "གང་དང་ཡང་དག་ལྡན་པས་ཐུབ་རྣམས་རྣམ་པ་ཀུན་ལྡན་སྣ་ཚོགས་འདི་གསུངས་པ། །",
+      "relevance": "This quote is analyzed in paragraph 3 in relation to the omniscient aspect (namkhyen).",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~1910 in the commentary file, unit 1/101",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 0,
+      "unit_hash": "5565f4bdd881",
+      "passage_hash": "f660f5a95778",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

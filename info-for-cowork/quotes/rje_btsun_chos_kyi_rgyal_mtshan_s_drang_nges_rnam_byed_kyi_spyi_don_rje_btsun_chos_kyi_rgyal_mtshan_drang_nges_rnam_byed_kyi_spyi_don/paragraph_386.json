@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "387_ཁ་ཅིག་ཀུན། དུམ་མཚན་དང་པོ། 280",
+  "root_paragraph": "ཁ་ཅིག །ཀུན་རྫོབ་པའི་དགེ་འདུན་དཀོན་མཆོག་དང་། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་འགལ་ཟེར་ན་མི་འཐད་དེ། བྱང་འཕགས་ཡིན་ན། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དེ་ཡིན་ན་དོན་དམ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དོན་དམ་སེམས་བསྐྱེད་ཐོབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་དེ་ལྟར་དགོས་པའི་ཕྱིར་ཏེ། འཇུག་པ་ལས།དེ་ནས་བཟུང་སྟེ་དེ་ནི་ཐོབ་པར་གྱུར་པ་ཡི། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "280",
+  "paragraph_key": "39744c643b2438d0",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:09.658278Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "དེ་ནས་བཟུང་སྟེ་དེ་ནི་ཐོབ་པར་གྱུར་པ་ཡི། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ། །",
+      "relevance": "This verse from the Madhyamakavatara is cited to support the assertion that an arya bodhisattva is indeed an ultimate Sangha Jewel.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།], char offset ~439542 in the commentary file, unit 224/286",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 223,
+      "unit_hash": "c276c3bd5df3",
+      "passage_hash": "ff8f5f22715b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 286,
+    "units_scanned": 286,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

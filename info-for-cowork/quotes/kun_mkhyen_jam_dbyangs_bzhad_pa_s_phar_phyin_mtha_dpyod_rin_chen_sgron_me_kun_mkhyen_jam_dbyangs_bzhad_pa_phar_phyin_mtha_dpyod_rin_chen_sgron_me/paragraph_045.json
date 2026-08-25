@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "46_གཞན་ཡང་རྗེ། དུམ་མཚན་དང་པོ། 66",
+  "root_paragraph": "གཞན་ཡང་། རྗེ་བཙུན་བྱམས་པ་དེ་མ་འོངས་པ་ན་འཛམ་བུའི་གླིང་དུ་བྱོན་པའི་ཚེ་སྲིད་པ་ཐ་མ་པའི་བྱང་སེམས་ཡིན་པར་ཐལ། དེ་ད་ལྟ་སྐྱེ་བ་གཅིག་ཐོགས་ཀྱི་བྱང་སེམས་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེའི་ཚེ་དེ་རྟེན་དེ་ལ་འཚང་རྒྱ་བར་ཐལ་ལོ། །",
+  "root_paragraph_page": "66",
+  "paragraph_key": "1cc8412aa8776cac",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:55.203781Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "དེ་ད་ལྟ་སྐྱེ་བ་གཅིག་ཐོགས་ཀྱི་བྱང་སེམས་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote provides the premise regarding Maitreya being a single-life-bound bodhisattva that is questioned in the context of paragraph 6.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~473507 in the commentary file, unit 241/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 240,
+      "unit_hash": "942bd78e6784",
+      "passage_hash": "c3847f346e67",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "374_གཉེན་པོའ་ིསྟོབས། དུམ་མཚན་དང་པོ། 273",
+  "root_paragraph": "གཉེན་པོའ་ིསྟོབས་ཀྱིས་སྡུག་བསྔལ་གཏན་ཟད་པའི་བྲལ་བ་ཆོས་ཅན། འགོག་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་སྤངས་པའི་བྲལ་བ་ཡིན་པའི་ཕྱིར། ཞི་བའི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཉོན་མོངས་སྤངས་པའི་བྲལ་བ་ཡིན་པའི་ཕྱིར། གྱ་ནོམ་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ༑ ཕན་བདེའི་ངོ་བོར་གྱུར་པའི་ཐར་པ་ཡིན་པའི་ཕྱིར། ངེས་པར་འབྱུང་བའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སླར་མི་ལྡོག་པའི་ཐར་པ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "273",
+  "paragraph_key": "c14b75fc9d16eaf9",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:22.145289Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འགོག་པ་ཞི་བ་གྱ་ནོམ་ངེས་འབྱུང་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། འགོག་བདེན་གྱི་མཚན་ཉིད།",
+      "relevance": "This connects to the four aspects of the cessation truth (cessation, pacification, sublime, definitively निकलने/emerging) discussed in paragraph 24.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~488113 in the commentary file, unit 251/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 250,
+      "unit_hash": "e9f06f98ebe4",
+      "passage_hash": "252c8a24a0d2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

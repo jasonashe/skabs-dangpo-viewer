@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "334_གཞན་ཡང་དེ། དུམ་མཚན་དང་པོ། 252",
+  "root_paragraph": "གཞན་ཡང་། དེ་རྟོགས་ནས་སྟོང་ཉིད་མ་རྟོགས་པའི་གང་ཟག་ཆོས་ཅན། གཟུགས་སྣང་བ་ལྟར་བདེན་མེད་དུ་རྟོགས་པར་ཐལ། གཟུགས་སྣང་བ་ལྟར་མེད་པར་རྟོགས་པའི་ཕྱིར། འདོད་ན། དེ་བདེན་པར་སྣང་བ་ལྟར་མ་གྲུབ་པར་རྟོགས་པར་ཐལ། འདོད་པའི་ཕྱིར་ན་མ་ཁྱབ། ཁ་ཅིག །ཀུན་རྫོབ་བདེན་པ་ཡིན་ན། སྣང་བ་ལྟར་མ་གྲུབ་པས་མ་ཁྱབ་སྟེ། ཤེས་པ་དེ་སྣང་བ་ལྟར་གྲུབ་པའི་ཕྱིར་ཏེ། དེ་རང་ཉམས་སུ་མྱོང་བའི་རང་རིག་ལ་སྣང་བ་ལྟར་གྲུབ་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "252",
+  "paragraph_key": "86363d785eafc057",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:59.449588Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "ཤེས་པ་དེ་སྣང་བ་ལྟར་གྲུབ་པའི་ཕྱིར་ཏེ། དེ་རང་ཉམས་སུ་མྱོང་བའི་རང་རིག་ལ་སྣང་བ་ལྟར་གྲུབ་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+      "relevance": "This quote is relevant to paragraph 6 as it discusses whether consciousness is established as it appears to self-awareness (rang rig).",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~106195 in the commentary file, under ‘ཚ’, unit 55/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 54,
+      "unit_hash": "abe3c7255c29",
+      "passage_hash": "5231fc3ca112",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "ཤེས་པ་དེ་སྣང་བ་ལྟར་གྲུབ་པའི་ཕྱིར་ཏེ། དེ་རང་ཉམས་སུ་མྱོང་བའི་རང་རིག་ལ་སྣང་བ་ལྟར་གྲུབ་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+      "relevance": "This quote discusses whether consciousness and its appearance are established as they appear to self-awareness, which relates to the analysis of conventional phenomena and appearances in the target passage.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~292230 in the commentary file, under ‘ཚ’, unit 150/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 27,
+      "chunk_id": 149,
+      "unit_hash": "f5ccd37100a7",
+      "passage_hash": "8d2bab253e26",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

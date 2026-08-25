@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "345_གཞན་ཡང་ལས། དུམ་མཚན་དང་པོ། 258",
+  "root_paragraph": "གཞན་ཡང་། ལས་འབྲས་ཀྱི་རྣམ་གཞག་མི་འཐད་པར་ཐལ། དེ་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར། ཁྱབ་སྟེ། ཡོད་པ་དེ་ཡོད་པ་མ་ཡིན་པ་དང་དངོས་འགལ་ཡིན་པའི་ཕྱིར། གཞན་ཡང་། རྒྱང་འཕེན་གྱི་ལྟ་བ་དེ་ལྟ་བ་རྣམ་དག་ཏུ་ཐལ། སྐྱེ་བ་སྔ་ཕྱི་ཡོད་པ་མ་ཡིན་པར་ལྟ་བ་དེ་ལྟ་བ་རྣམ་དག་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "258",
+  "paragraph_key": "dd64b74bc8127a07",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:14:00.065621Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "གཞན་ཡང་། ལས་འབྲས་ཀྱི་རྣམ་གཞག་མི་འཐད་པར་ཐལ། དེ་ཡོད་པ་མ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "The commentary excerpt does not contain any relevant text discussing the law of karma (ལས་འབྲས་) or Madhyamika refutations of it corresponding to Paragraph 1, and since I must strictly use only verbatim quotes from the text, returning an empty list for this paragraph is correct.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~326107 in the commentary file, unit 166/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 45,
+      "chunk_id": 165,
+      "unit_hash": "02874667cd51",
+      "passage_hash": "2f379bd86261",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

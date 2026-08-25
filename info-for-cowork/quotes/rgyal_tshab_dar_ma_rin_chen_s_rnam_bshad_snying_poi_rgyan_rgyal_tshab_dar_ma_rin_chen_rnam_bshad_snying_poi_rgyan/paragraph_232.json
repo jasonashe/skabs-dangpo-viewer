@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "233_ལྔ་པ་ལ། དུམ་མཚན་དང་པོ། 184",
+  "root_paragraph": "ལྔ་པ་ལ། སྐབས་རྣམས་སུ་སྒོམ་ལམ་ཡང་ཡང་བསྟན་པས་ཟློས་སྐྱོན་ཡོད་དོ་ཞེ་ན། ལམ་ཤེས་སུ་བཤད་པའི་སྒོམ་ལམ་ནི། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་༑ ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན། སྐབས་བཞི་པར། སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །ཞེས་པ་ནི་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན། སྐབས་ལྔ་པར། སྒོམ་ལམ་བཤད་པ་ནི་སྒོམ་སྤང་རྟོག་པའི་གཉེན་པོའི་ཆ་ནས་བསྟན། གདམས་ངག་གི་སྐབས་སུ། སྒོམ་ཞེས་བྱ་ལ། ཞེས་གསུངས་པ་ནི། གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་བསྟན། གཉེན་པོའ་ིཚོགས་སྒྲུབ་ཏུ་སྒོམ་པའི་ལམ་ཞེས་གསུངས་པ་ནི། གཉེན་པོའ་ིཚོགས་ཀྱི་དབྱེ་བ་ཤེས་པའི་ཕྱིར་དུ་བསྟན་པ་ཡིན།",
+  "root_paragraph_page": "184",
+  "paragraph_key": "312ef47f14726f90",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:53.869957Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "ལམ་ཤེས་སུ་བཤད་པའི་སྒོམ་ལམ་ནི། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་༑ ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན།",
+      "relevance": "This quote explains how the path of meditation is taught in relation to the middle way and avoiding extremes, which is the specific topic addressed in paragraph 8 regarding the elimination of redundancy in teachings on the meditation path.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~582711 in the commentary file, unit 298/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 297,
+      "unit_hash": "ebb4a9f7ee9a",
+      "passage_hash": "f746ba167749",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །",
+      "relevance": "The commentary excerpt mentions this line to explain the meditation path (སྒོམ་ལམ་) in terms of the signs of irreversibility, which directly supports the discussion in paragraph 8.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~608360 in the commentary file, unit 311/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 310,
+      "unit_hash": "9d6ce2ab9c20",
+      "passage_hash": "e9100366a65d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

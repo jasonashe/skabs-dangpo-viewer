@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "307_དང་པོ་ནི། དུམ་མཚན་དང་པོ། 235",
+  "root_paragraph": "དང་པོ་ནི། གསེར་ཕྲེང་ལས།མཚན་ཉིད་ནི་གང་ལ་མཉམ་པར་བཞག་ན་རྒྱལ་བ་རྣམས་ལས་གསུང་རབ་ཀྱི་ཚིག་དོན་བགྲང་ལས་འདས་པ་འཛིན་པར་ནུས་པའི་དྲན་པ་དང་ཏིང་ངེ་འཛིན་མཚུངས་ལྡན་དང་བཅས་པའི། །ཞེས་གསུངས་པ་དང་། རྣམ་བཤད་ལས༑ལམ་འོག་མ་རྣམས་ཀྱིས་སངས་རྒྱས་དངོས་སུ་མཐོང་བ་དང་། དེ་ལ་ཆོས་ཐོས་པའི་སྒྲིབ་བྱེད་རགས་པ་ཕལ་ཆེར་སྦྱངས་ནས་མཆོག་གི་སྤྲུལ་སྐུ་ལས་གདམས་ངག་དངོས་སུ་ཉན་པའི་ནུས་པ་ཁྱད་པར་ཅན་སྐྱེས་པའི་ཞི་ལྷག་ཟུང་འབྲེལ་གྱི་ཏིང་ངེ་འཛིན་ནི༑ ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་གྱི་མཚན་ཉིད། དེའི་རྒྱུར་བསྐལ་པ་དུ་མར་ཚོགས་བསགས་པ་དང་ལྡན་པ་དང་། ཚུལ་ཁྲིམས་རྣམ་པར་དག་པ་དང་། ཐེག་པ་ཆེན་པོའ་ིརིགས་དང་ལྡན་པ་དང་། ཐོས་པ་མང་བ་དང་། རིགས་ཀྱི་ཉེས་དམིགས་བཞི་ཕལ་ཆེར་དང་བྲལ་བ་དགོས། ཞེས་གསུངས་པ་ལྟར་རོ། །",
+  "root_paragraph_page": "235",
+  "paragraph_key": "322ad7a73410efaf",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+  "generated_at": "2026-08-20T04:14:41.227028Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "མཚན་ཉིད་ནི་གང་ལ་མཉམ་པར་བཞག་ན་རྒྱལ་བ་རྣམས་ལས་གསུང་རབ་ཀྱི་ཚིག་དོན་བགྲང་ལས་འདས་པ་འཛིན་པར་ནུས་པའི་དྲན་པ་དང་ཏིང་ངེ་འཛིན་མཚུངས་ལྡན་དང་བཅས་པའི། །",
+      "relevance": "This quote from the commentary excerpt discusses the definition of the meditative stabilization (ting nge 'dzin) that enables the retention of innumerable teachings, which is directly relevant to defining the 'chos rgyun gyi ting nge 'dzin' in target paragraph 3.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~322296 in the commentary file, unit 167/415",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 166,
+      "unit_hash": "94c3bbb50499",
+      "passage_hash": "ee6a2f1ebd98",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 415,
+    "units_scanned": 415,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

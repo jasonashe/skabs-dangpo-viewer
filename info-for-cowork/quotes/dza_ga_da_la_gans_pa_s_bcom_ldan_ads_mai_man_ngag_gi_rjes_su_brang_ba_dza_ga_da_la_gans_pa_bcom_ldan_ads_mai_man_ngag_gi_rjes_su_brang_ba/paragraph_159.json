@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "160_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 135",
+  "root_paragraph": "ཁོ་ན་རེ། གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན། ཐེག་དམན་གྱི་ལམ་ཡིན་པར་ཐལ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་གང་ཟག་དང་ཐེག་དམན་གྱི་གང་ཟག་མི་འགལ་བར་ཐལ། དེ་གཉིས་ཀྱི་ལམ་མི་འགལ་བའི་ཕྱིར་ན་མ་ཁྱབ། དེས་མཚོན་ནས། དགེ་བསྙེན་གྱི་སྡོམ་པ་ཡིན་ན། དགེ་བསྙེན་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ་བ་སོགས་རིགས་འགྲེ་བྱ་ཚུལ་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "135",
+  "paragraph_key": "380e145b739394ad",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:01.830826Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote relates to the discussion of whether a specific path or realization can be classified as a hearer's path.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~549316 in the commentary file, unit 282/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 51,
+      "chunk_id": 281,
+      "unit_hash": "f75599a67735",
+      "passage_hash": "9bccfbbe0514",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན།",
+      "relevance": "The commentary discusses the relationship between cognizing selflessness and the paths of hearers and bodhisattvas.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~762255 in the commentary file, unit 391/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 50,
+      "chunk_id": 390,
+      "unit_hash": "5a14614e8648",
+      "passage_hash": "2a53fa49ec10",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

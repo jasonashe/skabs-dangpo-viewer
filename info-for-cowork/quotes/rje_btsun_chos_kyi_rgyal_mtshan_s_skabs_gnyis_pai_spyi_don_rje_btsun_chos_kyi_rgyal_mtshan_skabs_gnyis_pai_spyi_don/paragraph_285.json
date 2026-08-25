@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "286_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 223",
+  "root_paragraph": "གསུམ་པ་ནི། ས་མཚམས་ས་དང་པོ་ནས་འཇོག་སྟེ། མདོ་སྡེའི་རྒྱན་ལས།དེ་ཡི་རབ་དགའ་ཁྱད་པར་འཕགས། །ཞེས་དང་། རྣམ་བཤད་ལས།དེ་ཡང་མཐོང་ལམ་ཐོབ་པ་ཡན་ཆད་ན་ཡོད་ཀྱི་སོ་སོ་སྐྱེ་བོ་ལ་མེད་དེ། ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "223",
+  "paragraph_key": "0291a2eb2bf6816d",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:57.496998Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "རྣམ་བཤད་ལས།དེ་ཡང་མཐོང་ལམ་ཐོབ་པ་ཡན་ཆད་ན་ཡོད་ཀྱི་སོ་སོ་སྐྱེ་བོ་ལ་མེད་དེ།",
+      "relevance": "This quote is used to establish the boundary of ultimate bodhicitta as beginning from the path of seeing and not present in ordinary beings, as discussed in paragraph 11.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~98617 in the commentary file, unit 51/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 50,
+      "unit_hash": "42c67a8928ca",
+      "passage_hash": "35f5d7f8a437",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

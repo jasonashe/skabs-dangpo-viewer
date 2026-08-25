@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "237_སྐབས་བཞི་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་བཞི་པར། དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །ཞེས་སོགས་སུ་བསྟན་པ་ནི་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ། སྐབས་ལྔ་པར། སྦྱོར་ལམ་བསྟན་པ་ནི་རྩེ་སྦྱོར་གྱི་བསྟན་པ་ཡིན་པས་མི་ཟློས་པའི་ཕྱིར། འདི་དག་ནི་འཕགས་པའི་བཞེད་པ་གསེར་ཕྲེང་དུ་བཀོད་པའོ།།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "aa12c9d41b6f3b0d",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:53.913520Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སྐབས་བཞི་པར། དྲོ་བ་རྣམས་ཀྱི་དམིགས་པ་འདིར། །ཞེས་སོགས་སུ་བསྟན་པ་ནི་དམིགས་པ་སེམས་ཅན་དང་། རྣམ་པ་སེམས་མཉམ་པ་ལ་སོགས་པའི་སྒོ་ནས་དམིགས་པས་མི་ཟློས་ལ།",
+      "relevance": "This passage explains the specific meditative objects and aspects of the heat stage (drova) in the fourth chapter, showing how it relates to the topic of non-duplication.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~598621 in the commentary file, unit 306/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 305,
+      "unit_hash": "d9bbc985ba08",
+      "passage_hash": "58045dd61ae0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

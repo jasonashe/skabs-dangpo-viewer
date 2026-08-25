@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "276_བཞི་པ་ལ། དུམ་མཚན་དང་པོ། 216",
+  "root_paragraph": "བཞི་པ་ལ། ཕྲ་རགས་ཀྱི་སྒོ་ནས་རགས་པ་བརྡ་ལས་བྱུང་བ་དང་། ཕྲ་བ་ཆོས་ཉིད་ཀྱི་སྟོབས་ཀྱིས་ཐོབ་པའི་སེམས་བསྐྱེད་གཉིས་ལས། དང་པོ་ནི། མདོ་སྡེའི་རྒྱན་ལས༑གྲོགས་སྟོབས་རྒྱུ་སྟོབས་རྩ་བའི་སྟོབས། །ཐོས་སྟོབས་དགེ་བ་གོམས་པ་ལས༑ ༑མི་བརྟན་པ་དང་བརྟན་འབྱུང་བ། །གཞན་གྱི་བསྟན་པའི་སེམས་བསྐྱེད་བཤད༑ ༑ཅེས་གསུངས་པ་ལྟར། གྲོགས་དགེ་བའི་བཤེས་གཉེན་གྱི་སྟོབས་ལས་བྱུང་བ་མི་བརྟན་པ་དང་། རྒྱུ་རིགས་ཀྱི་སྟོབས་ལས་བྱུང་བ་བརྟན་པ་དང་། སྔོན་དགེ་བ་གོམས་པའི་སྟོབས་བརྟན་པ་དང་། མང་དུ་ཐོས་པའི་སྟོབས་བརྟན་པ་དང་། ཚེ་འདིར་དགེ་བ་གོམས་པའི་སྟོབས་ལས་བྱུང་བའི་སེམས་བསྐྱེད་རྣམས་སུ་ཡོད་དོ། །གཉིས་པ་ནི། དོན་དམ་སེམས་བསྐྱེད་ལྟ་བུའོ། །",
+  "root_paragraph_page": "216",
+  "paragraph_key": "eadaec10be5282c5",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:58.562776Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "གྲོགས་སྟོབས་རྒྱུ་སྟོབས་རྩ་བའི་སྟོབས། །ཐོས་སྟོབས་དགེ་བ་གོམས་པ་ལས༑ །མི་བརྟན་པ་དང་བརྟན་འབྱུང་བ། །གཞན་གྱི་བསྟན་པའི་སེམས་བསྐྱེད་བཤད༑",
+      "relevance": "This quote from the Abhisamayalankara (via Madhyantavibhaga/Sutralankara context) is cited in the commentary to explain the first of the two types of bodhicitta classified by grossness/subtlety, namely those arising from various conditions or strengths.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~907734 in the commentary file, under ‘ཚ’, unit 466/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 465,
+      "unit_hash": "8a0d1e82305c",
+      "passage_hash": "def17eb3f222",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མདོ་སྡེའི་རྒྱན་ལས༑གྲོགས་སྟོབས་རྒྱུ་སྟོབས་རྩ་བའི་སྟོབས། །ཐོས་སྟོབས་དགེ་བ་གོམས་པ་ལས༑ ༑མི་བརྟན་པ་དང་བརྟན་འབྱུང་བ། །གཞན་གྱི་བསྟན་པའི་སེམས་བསྐྱེད་བཤད༑",
+      "relevance": "This verse from the Mahayanasutralankara explains the gross and subtle aspects of generating the mind in terms of various strengths, which directly supports the target paragraph's categorization of the generation of the mind based on subtle and coarse powers.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~858384 in the commentary file, under ‘ཚ’, unit 441/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 440,
+      "unit_hash": "1ab00ad10b79",
+      "passage_hash": "fdecd231cc82",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མདོ་སྡེའི་རྒྱན་ལས༑གྲོགས་སྟོབས་རྒྱུ་སྟོབས་རྩ་བའི་སྟོབས། །ཐོས་སྟོབས་དགེ་བ་གོམས་པ་ལས༑ ༑མི་བརྟན་པ་དང་བརྟན་འབྱུང་བ། །གཞན་གྱི་བསྟན་པའི་སེམས་བསྐྱེད་བཤད༑ ༑ཅེས་གསུངས་པ་ལྟར།",
+      "relevance": "This quote provides the scriptural basis for the coarse and subtle types of bodhicitta by way of power (such as companion power and cause power) as discussed in paragraph 4.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~281864 in the commentary file, under ‘ཚ’, unit 145/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 24,
+      "chunk_id": 144,
+      "unit_hash": "2f5194d6d563",
+      "passage_hash": "604bcacd8036",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

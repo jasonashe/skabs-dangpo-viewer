@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "41_གཞན་ཡང་དེའི། དུམ་མཚན་དང་པོ། 63",
+  "root_paragraph": "གཞན་ཡང་། དེའི་རྒྱུད་ལ་རང་དོན་དོན་གཉེར་གྱི་བློ་ཡོད་པར་ཐལ། དེ་ས་བཅུ་པ་པ་གང་ཞིག །ས་བཅུ་པ་བའི་རྒྱུད་ལ་དེ་ཡོད་པའི་ཕྱིར། དང་པོ་དོན་གྱིས་སོང་། གཉིས་པ་གྲུབ་སྟེ། དེའི་རྒྱུད་ལ་རང་དོན་ཆོས་སྐུ་དོན་གཉེར་གྱི་བློ་ཡོད་པའི་ཕྱིར། ཁྱབ་སྟེ༑ རང་དོན་ཆོས་སྐུ་དེ་རང་དོན་གྱི་སྐུ་ཡིན་པའི་ཕྱིར། མ་གྲུབ་ན། སངས་རྒྱས་ཀྱི་སྐུ་ལ་རང་དོན་གྱི་སྐུ་དང་། གཞན་དོན་གྱི་སྐུ་གཉིས་སུ་ཕྱེ་བ་ལ་དགོས་པ་མེད་པར་ཐལ། མ་གྲུབ་པ་དེའི་ཕྱིར། ཞེས་པའི་དོན་ནོ། །",
+  "root_paragraph_page": "63",
+  "paragraph_key": "a917ed5c351f73a1",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:08.628750Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "གཞན་ཡང་། དེའི་རྒྱུད་ལ་རང་དོན་དོན་གཉེར་གྱི་བློ་ཡོད་པར་ཐལ། དེ་ས་བཅུ་པ་པ་གང་ཞིག",
+      "relevance": "This quote is relevant because it discusses whether a bodhisattva on the tenth bhumi has self-interested thoughts, connecting to the text's analysis of altruism versus self-interest.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~107749 in the commentary file, unit 56/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 23,
+      "chunk_id": 55,
+      "unit_hash": "d6c38f1c6c84",
+      "passage_hash": "81f20c996017",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

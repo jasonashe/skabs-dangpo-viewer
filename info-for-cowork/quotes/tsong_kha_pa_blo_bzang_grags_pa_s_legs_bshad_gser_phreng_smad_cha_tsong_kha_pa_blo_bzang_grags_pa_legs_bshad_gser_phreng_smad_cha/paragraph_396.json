@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "397_རོང་ཊཱིཀ་པ། དུམ་མཚན་དང་པོ། 286",
+  "root_paragraph": "རོང་ཊཱིཀ་པ་ན་རེ། ལུང་གི་ཆོས་དཀོན་མཆོག་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར། སློབ་པའི་ལམ་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར། སློབ་པའི་འགོག་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། མེད་དགག་ཡིན་པའི་ཕྱིར། སློབ་པ་འཕགས་པ་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཤེས་སྒྲིབ་ཀྱི་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར། ཞེས་ཟེར་ན།",
+  "root_paragraph_page": "286",
+  "paragraph_key": "b4db411194cd40f6",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:15:00.517848Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote supports Rong Ṭikpa's assertion in paragraph 5 that the scriptural dharma is to be abandoned like a raft upon reaching ultimate realization.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~858157 in the commentary file, under ‘ཚ’, unit 441/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 440,
+      "unit_hash": "1ab00ad10b79",
+      "passage_hash": "fdecd231cc82",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

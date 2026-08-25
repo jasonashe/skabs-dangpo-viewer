@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "233_ལྔ་པ་ལ། དུམ་མཚན་དང་པོ། 184",
+  "root_paragraph": "ལྔ་པ་ལ། སྐབས་རྣམས་སུ་སྒོམ་ལམ་ཡང་ཡང་བསྟན་པས་ཟློས་སྐྱོན་ཡོད་དོ་ཞེ་ན། ལམ་ཤེས་སུ་བཤད་པའི་སྒོམ་ལམ་ནི། ལམ་ཐམས་ཅད་བསྐྱེད་པར་བྱ་ཞིང་༑ ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱ་ཞེས་འབྱུང་བས་མཐའ་གཉིས་ལ་མི་གནས་པའི་ཆ་ནས་བསྟན། སྐབས་བཞི་པར། སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །ཞེས་པ་ནི་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན། སྐབས་ལྔ་པར། སྒོམ་ལམ་བཤད་པ་ནི་སྒོམ་སྤང་རྟོག་པའི་གཉེན་པོའི་ཆ་ནས་བསྟན། གདམས་ངག་གི་སྐབས་སུ། སྒོམ་ཞེས་བྱ་ལ། ཞེས་གསུངས་པ་ནི། གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་བསྟན། གཉེན་པོའ་ིཚོགས་སྒྲུབ་ཏུ་སྒོམ་པའི་ལམ་ཞེས་གསུངས་པ་ནི། གཉེན་པོའ་ིཚོགས་ཀྱི་དབྱེ་བ་ཤེས་པའི་ཕྱིར་དུ་བསྟན་པ་ཡིན།",
+  "root_paragraph_page": "184",
+  "paragraph_key": "312ef47f14726f90",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:17.037413Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །",
+      "relevance": "This quote from the commentary explains that the meditation path is taught as being profound in the context of the signs of irreversibility.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~364835 in the commentary file, unit 187/440",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 186,
+      "unit_hash": "d7dc6eb93279",
+      "passage_hash": "d329cce9156c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །",
+      "relevance": "The commentary explicitly mentions this line to explain the path of meditation in terms of the signs of non-retrogression, which matches the discussion in paragraph 8 regarding the fourth chapter.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~150072 in the commentary file, unit 78/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 49,
+      "chunk_id": 77,
+      "unit_hash": "a3584786ebaf",
+      "passage_hash": "6dd409768ad1",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སྒོམ་པའི་ལམ་ནི་ཟབ་པ་སྟེ། །ཞེས་པ་ནི་ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་སྒོ་ནས་བསྟན།",
+      "relevance": "This quote from the commentary explains the specific significance of the meditation path (sgom lam) in the fourth chapter regarding the signs of non-retrogression, corresponding to paragraph 8.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~194678 in the commentary file, unit 100/440",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 99,
+      "unit_hash": "48eaf63e8192",
+      "passage_hash": "59c6548eca44",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

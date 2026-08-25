@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "200_གཞན་ཡང་འགྲེལ། དུམ་མཚན་དང་པོ། 164",
+  "root_paragraph": "གཞན་ཡང་། འགྲེལ་ཆེན་གྱི་ལུང་དེས་བཀའ་བསྟན་བཅོས་ཤེས་པར་བསྟན་པ་མ་ཡིན་ཏེ། འགྲེལ་ཆེན་ལས།ཚིག་དང་ངག་གི་ཚོགས་ཀྱིས་བསྡུས་པའི་གཞུང་དང་། ཞེས་གཞུང་ཤེར་ཕྱིན་ཚིག་དང་ངག་གིས་བསྡུས་པར་བཤད་པའི་ཕྱིར། གཞན་ཡང་། ངག་མ་སྨྲས་པར་བསྟན་བཅོས་རྩོམ་པ་མེད་པར་ཐལ། བསྟན་བཅོས་ཡིན་ན་རྗོད་བྱེད་ཀྱི་སྒྲ་རང་མཚན་པ་ཡིན་དགོས་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། བསེ་རུ་ལྟ་བུའི་རང་རྒྱལ་གྱིས་སྒྲ་མེད་ལུས་ཀྱི་རྣམ་འགྱུར་གྱི་སྒོ་ནས་ཆོས་སྟོན་པ་མེད་པར་ཐལ། འདོད་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "164",
+  "paragraph_key": "c5e1f964c08c8168",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:26.209900Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "སྒྲ་མེད་ལུས་ཀྱི་རྫུ་འཕྲུལ་གྱི་སྒོ་ནས་ཆོས་སྟོན་ནུས་པའི་ཕྱིར།",
+      "relevance": "This quote is relevant because it discusses the pratyekabuddha teaching without words (using bodily manifestations), which directly connects to the argument in paragraph 8 regarding whether treatises or teachings require speech.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~142507 in the commentary file, unit 73/221",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 72,
+      "unit_hash": "1d6e6d464b1b",
+      "passage_hash": "4f9a202da8e0",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

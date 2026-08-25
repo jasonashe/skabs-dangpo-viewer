@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "321_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 246",
+  "root_paragraph": "གཉིས་པ་ནི། ཤེས་བྱ་ལ་བདེན་པ་གཉིས་སུ་གྲངས་ངེས་ཏེ། ཡབ་སྲས་མཇལ་བའི་མདོ་ལས།འདི་ལྟར། དེ་བཞིན་གཤེགས་པས་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་གཉིས་ཐུགས་སུ་ཆུད་དེ་ཤེས་པར་བྱ་བ་ཡང་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་དེ་གཉིས་སུ་ཟད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "246",
+  "paragraph_key": "558c5a6885d43459",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:19.629101Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "བཅོམ་ལྡན་འདས་ཅི་ལགས་འཇིག་རྟེན་གྱི་ཀུན་རྫོབ་ཀྱང་གཞན་ཞིག་ལ་དོན་དམ་པ་ཡང་གཞན་ཞིག་ལགས་སམ་ཞེས་བྱ་བ་ནི་བཞི་བཅུ་བཞི་པའོ། །",
+      "relevance": "This quote discusses the distinction between conventional reality (ཀུན་རྫོབ་) and ultimate reality (དོན་དམ་པ་), which is the central topic of Paragraph 1.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~706928 in the commentary file, unit 361/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 360,
+      "unit_hash": "b7eebf5b042d",
+      "passage_hash": "1080d689c780",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "འདི་ནི་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་དང་། ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་དོ་ཞེས་བྱ་བ་ནི་རྣམ་པར་མི་རྟོག་པ་ལ་སོགས་པ་དེ་དག་ཉིད་སྟོང་པ་ཉིད་རྣམ་པ་གཉིས་སུ་བརྗོད་དོ་ཞེས་བསྟན་པའོ། །",
+      "relevance": "This quote discusses the two aspects of emptiness, which relates to the text's classification of truths and emptiness.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~831266 in the commentary file, unit 425/459",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 424,
+      "unit_hash": "9c7a18cff075",
+      "passage_hash": "3b326da29820",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

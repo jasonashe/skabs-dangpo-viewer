@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "31_འདི་ལ་ཐོགས། དུམ་མཚན་དང་པོ། 59",
+  "root_paragraph": "འདི་ལ་ཐོགས་མེད་ཀྱིས་རྣམ་བཤད་མཛད་ཚུལ་དང་། དབྱིག་གཉེན་གྱིས་བཀྲོལ་ཚུལ་དང་། འཕགས་པས་ཕྱེ་ཚུལ། བཙུན་པས་རྣམ་བཤད་བྱས་ཚུལ་དང་བཞི་ལས༑ དང་པོ་ནི། འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །ཅེས་སོགས་ཀྱིས་འཆད། གཉིས་པ་ནི།འགྲོ་དོན་རྩ་ལག་དབྱིག་གི་གཉེན། །ཞེས་སོགས་ཀྱིས་འཆད། གསུམ་པ་ནི།འཕགས་པའི་ཁོངས་སུ་གཏོགས་པ་ཡི། །ཞེས་སོགས་ཀྱིས་འཆད། བཞི་པ་ནི༑དེ་ཡི་འོག་ཏུ་རྣམ་གྲོལ་སྡེ། །ཞེས་སོགས་ཀྱིས་འཆད།",
+  "root_paragraph_page": "59",
+  "paragraph_key": "179d52d390fb8939",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:19.100789Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "དེ་ཡི་འོག་ཏུ་རྣམ་གྲོལ་སྡེ། །ཞེས་སོགས་ཀྱིས་འཆད།",
+      "relevance": "This quote explains the subsequent commentary by Vinitamati / Vimuktisena, matching the fourth point in target paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~377602 in the commentary file, unit 194/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 193,
+      "unit_hash": "c123d103bc9a",
+      "passage_hash": "b6ade6787892",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འཕགས་པའི་ཁོངས་སུ་གཏོགས་པ་ཡི། །ཞེས་སོགས་ཀྱིས་འཆད།",
+      "relevance": "This quote explains how the Arya [Rolde/Grolsde] unfolded the teachings, corresponding to target paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~370968 in the commentary file, unit 191/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 190,
+      "unit_hash": "69f07029ee3a",
+      "passage_hash": "b6ade6787892",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འགྲོ་དོན་རྩ་ལག་དབྱིག་གི་གཉེན། །ཞེས་སོགས་ཀྱིས་འཆད།",
+      "relevance": "This quote explains Vasubandhu's method of commentary in the lineage discussion of target paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~377772 in the commentary file, unit 194/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 193,
+      "unit_hash": "c123d103bc9a",
+      "passage_hash": "b6ade6787892",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། །ཅེས་སོགས་ཀྱིས་འཆད།",
+      "relevance": "This quote highlights the first of the four ways the masters composed treatises or commentaries, directly matching target paragraph 6.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~370859 in the commentary file, unit 191/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 27,
+      "chunk_id": 190,
+      "unit_hash": "69f07029ee3a",
+      "passage_hash": "b6ade6787892",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

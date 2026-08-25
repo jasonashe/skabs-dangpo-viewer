@@ -1,0 +1,20 @@
+# Quote collection: མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]
+**Target paragraph:** 236_སྐབས་གཉིས་པར། དུམ་མཚན་དང་པོ། 185
+
+> སྐབས་གཉིས་པར་ངེས་འབྱེད་བཞི་ཚན་གཉིས་བསྟན་པ་ནི། ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་གཟུགས་སོགས་ལ་དམིགས་ནས་རྣམ་པ་སྟོང་ཉིད་དབྱེར་མེད་པ་ལ་སོགས་པའི་རྣམ་པར་བསྟན། རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་ཆོས་ཐམས་ཅད་བཏགས་པ་ཙམ་ལ་དམིགས་ནས་རྣམ་པ་བཏགས་པ་དང་མི་འགལ་བར་ཆོས་ཉིད་སྟོན་པའི་རྣམ་པ་ཅན་ལ་སོགས་པར་བསྟན་པ་ཡིན་པས། དེ་གསུམ་ལ་སྔ་མ་སྔ་མ་ལས་ཕྱི་མ་ཕྱི་མ་དམིགས་རྣམ་མི་འདྲ་བའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> དམིགས་པའི་ཚུལ་གྱིས་གཟུགས་ཞེས་བྱ་བར་གནས་པར་མི་བྱའོ་ཞེས་བྱ་བ་ནས། དམིགས་པའི་ཚུལ་གྱིས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཅེས་བྱ་བར་གནས་པར་མི་བྱའོ་ཞེས་བྱ་བའི་བར་དུ་ནི་གཟུགས་ལ་སོགས་པའི་ཆོས་རྣམས་ཀྱི་མཚན་ཉིད་ལ་དམིགས་པའི་ཚུལ་གྱིས་མི་གནས་པ་ཉིད་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནས་པ་ཡིན་ནོ་ཞེས་བསྟན་པ་སྟེ།
+
+- **Why relevant:** This quote discusses how the Prajnaparamita is practiced by not abiding in a dualistic manner with respect to forms and other dharmas, which relates to the topic of how the fourfold ascertainments involve objects of observation such as forms and the nature of reality.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~851502 in the commentary file, unit 437/527
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ཀྱེ་མ་གནས་བརྟན་རབ་འབྱོར་འདི་དེ་ལྟར་བཏགས་པ་དང་ཡང་མི་འགལ། ཆོས་ཉིད་ཀྱང་སྟོན་པ་དེ་ནི་ཤེས་རབ་ཟབ་པོ་ཞེས་བྱ་བ་ནི་གོང་དུ་རབ་འབྱོར་གྱིས་ཆོས་ཐམས་ཅད་མ་བྱུང་མ་སྐྱེས་པར་བསྟན་ནས།
+
+- **Why relevant:** This quote explains how the prajña-pāramitā teachings present phenomena as mere designations without contradicting the ultimate nature of reality (chos nyid), which corresponds to the topic discussed in paragraph 4.
+- **Location:** མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~899991 in the commentary file, unit 462/527
+- **Verification:** verified_exact

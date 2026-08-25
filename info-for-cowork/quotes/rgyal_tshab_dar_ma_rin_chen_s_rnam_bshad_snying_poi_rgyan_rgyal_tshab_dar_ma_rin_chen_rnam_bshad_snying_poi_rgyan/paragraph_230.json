@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "231_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 183",
+  "root_paragraph": "གསུམ་པ་ནི། སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་། གཉིས་པར། མོག་མོག་པོར་བྱེད་ལ་སོགས་དང་། །ཞེས་དང་། རྟེན་གྱི་བསེ་རུ་ལྟ་བུའི་ལམ། །ཞེས་དང་། སྐབས་བཞི་པར། སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །ཞེས་དང་། སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། །ཞེས་གསུངས་པ་རྣམས་ཟློས་པར་འགྱུར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་དཀོན་མཆོག་གསུམ་བཤད་པའི་སྐབས་ཀྱི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་ལ། གཉིས་པ་དེ། ལམ་ཤེས་སྐྱེ་བའི་རྟེན་དང་། གསུམ་པ་དེ། རང་རྒྱལ་གྱི་ལམ་གྱི་རྟེན་གྱི་གང་ཟག་དང་། བཞི་པ་དེ། ཡུམ་ཉན་པའི་སྣོད་རུང་གི་གང་ཟག་དང་། ལྔ་པ་དེ། ཕྱིར་མི་ལྡོག་པའི་རྟེན་ངོས་གཟུང་བར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "183",
+  "paragraph_key": "f076fc44d8b505bb",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:53.853126Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། །",
+      "relevance": "The commentary excerpt discusses the different classifications of irreversible practitioners (ཕྱིར་མི་ལྡོག་པ་) and quotes the exact verse line corresponding to paragraph 6.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~613864 in the commentary file, unit 314/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 65,
+      "chunk_id": 313,
+      "unit_hash": "50c442fb682b",
+      "passage_hash": "e9100366a65d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་།",
+      "relevance": "This quote discusses the explanation of the twenty kinds of individuals in the first chapter, which is the direct topic of paragraph 6.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~178944 in the commentary file, unit 92/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 91,
+      "unit_hash": "26d8242f93b3",
+      "passage_hash": "2c7a4d914cd3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

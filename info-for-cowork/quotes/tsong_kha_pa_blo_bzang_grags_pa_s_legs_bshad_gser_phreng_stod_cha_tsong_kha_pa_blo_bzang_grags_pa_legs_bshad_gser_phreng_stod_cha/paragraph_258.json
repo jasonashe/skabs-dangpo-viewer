@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "259_བཞི་པ་མདོ། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "བཞི་པ་མདོ་གཞན་མ་བཀོད་པའི་རྒྱུ་མཚན་ནི། སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་གཉིས་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་དུ་སྟོན་པའི་ཡུམ་གྱི་མདོ་ལས་གཞན་བློ་གྲོས་མི་བཟད་པའི་མདོ་དང་། སྡོང་པོ་བཀོད་པའི་མདོ་སོགས་ཐེག་ཆེན་སེམས་བསྐྱེད་སྟོན་པའི་མདོ་རྣམས་ཁུངས་སུ་མི་འདྲེན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཚིག་མང་དུ་དོགས་ནས་དེ་ལྟར་མ་དྲངས་པ་ཡིན་པའི་ཕྱིར༑ ཞེས་འཆད་པ་ལ།གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "6887db17fb787803",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:52.065607Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "མདོ་གཞན་གྱིས་མཚན་ཉིད་བསྟན་ཀྱང་ཡུམ་མདོ་ཉིད་དྲངས་པ་ནི་འདིའི་རྩ་བའི་མདོ་ཡིན་པས་སོ། །",
+      "relevance": "This explains why only the mother sutra is cited rather than other sutras like the Blo gros mi zad pa'i mdo, directly addressing the query raised in paragraph 3.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~247100 in the commentary file, under ‘ཙ’, unit 127/502",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 126,
+      "unit_hash": "9eadfcc84d46",
+      "passage_hash": "b587b4a2e381",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑",
+      "relevance": "This quote provides the reason why other scriptural sources like the Vimalakirti or Avatamsaka sutras were not explicitly cited as authorities here: to avoid excessive length.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~218218 in the commentary file, under ‘ཙ’, unit 112/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 33,
+      "chunk_id": 111,
+      "unit_hash": "e80545533f95",
+      "passage_hash": "2c8323c87938",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑",
+      "relevance": "This quote addresses the reason why certain alternative scriptural sources were not cited as authorities, matching the target passage's explanation regarding the avoidance of excessive length.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~241402 in the commentary file, under ‘ཙ’, unit 124/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 123,
+      "unit_hash": "b02064a98909",
+      "passage_hash": "e0e7862b240a",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

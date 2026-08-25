@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "385_གཞན་ཡང་མཐར། དུམ་མཚན་དང་པོ། 279",
+  "root_paragraph": "གཞན་ཡང་། མཐར་ཐུག་གི་སྐྱབས་གསུམ་མེད་པར་ཐལ། མཐར་ཐུག་གི་དཀོན་མཆོག་གསུམ་མེད་པའི་ཕྱིར། འདོད་ན། སྐྱབས་གསུམ་པོ་དེ་གནས་སྐབས་ཀྱི་སྐྱབས་སུ་ཐལ་ལོ། །འདོད་ན། སྐྱབས་གསུམ་རྒྱུད་ལྡན་གྱི་སློབ་པ་ཡོད་པར་ཐལ་ལོ། ། ཁོ་ན་རེ༑ དགེ་འདུན་དཀོན་མཆོག་མཐར་ཐུག་གི་སྐྱབས་སུ་ཐལ། སྐྱབས་གསུམ་པོ་དེ་དེ་ཡིན་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "279",
+  "paragraph_key": "768c563f2805a084",
+  "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+  "generated_at": "2026-08-20T04:14:38.647220Z",
+  "quotes": [
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "འདུས་བྱས་ཡིན་ན་རྫུན་པ་བསླུ་བའི་ཆོས་ཅན་ཡིན་པས་མཐར་ཐུག་གི་སྐྱབས་སུ་མི་རིགས་པའི་ཕྱིར། ཞེས་སྨྲ་བ་ལ་ནི། གཟུགས་སྐུ་གཉིས་ཀྱང་མཐར་ཐུག་གི་སྐྱབས་མིན་པར་ཐལ་ལོ། །",
+      "relevance": "This quote discusses the objection that conditioned phenomena cannot serve as ultimate refuge, which is directly relevant to paragraph 1's discussion on whether the three refuges or the jewels can be considered ultimate.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~39370 in the commentary file, under ‘རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།’, unit 21/281",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 20,
+      "unit_hash": "5a470bc39ad7",
+      "passage_hash": "aae3f9150b72",
+      "folio": null,
+      "sa_bcad": "རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "འཕགས་པ་སློབ་པ་དེ་དག་ཀྱང་མཐར་ཐུག་གི་སྐྱབས་མིན་ཏེ། རང་ཉིད་ད་དུང་སྒྲིབ་པའི་འཇིག་པ་དང་བཅས་པའི་ཕྱིར། དེས་ན་སངས་རྒྱས་ཉག་གཅིག་མཐར་ཐུག་གི་སྐྱབས་སུ་འཐད་དོ། །",
+      "relevance": "This passage considers whether noble learners can be ultimate refuges and concludes that only a fully awakened Buddha is an ultimate refuge, directly mirroring the debate in paragraph 1 regarding the status of the supreme jewels as refuges.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~40403 in the commentary file, under ‘རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།’, unit 21/281",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 20,
+      "unit_hash": "5a470bc39ad7",
+      "passage_hash": "aae3f9150b72",
+      "folio": null,
+      "sa_bcad": "རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 281,
+    "units_scanned": 281,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

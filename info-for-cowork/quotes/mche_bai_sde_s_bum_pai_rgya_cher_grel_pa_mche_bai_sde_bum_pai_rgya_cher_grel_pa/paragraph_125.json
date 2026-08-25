@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "126_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 111",
+  "root_paragraph": "གསུམ་པ་ནི། སྟོང་ཉིད་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ། ངེས་དོན་གྱི་མདོའ་ིམཚན་ཉིད། ཀུན་རྫོབ་བདེན་པ་དངོས་ཀྱི་བརྗོད་བྱའི་གཙོ་བོར་བྱེད་པའི་མདོ་དང་། སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བའི་མདོ་གང་རུང་དུ་དམིགས་པ། དྲང་དོན་གྱི་མདོའ་ིམཚན་ཉིད།",
+  "root_paragraph_page": "111",
+  "paragraph_key": "31f738554046b0e8",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+  "generated_at": "2026-08-20T04:14:43.942927Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]",
+      "quote_tibetan": "སྒྲ་ཇི་བཞིན་པ་ཤེས་པས་བསྒོམ་པར་བྱའོ་ཞེས་བྱ་བ་ནི་སྒྲ་གང་དང་གང་ཡིན་པ་ལ་སྒྲ་ཇི་བཞིན་ཞེས་བྱ་སྟེ། དེ་ཤེས་པ་ནི་སྒྲ་ཇི་བཞིན་ཤེས་པའོ། །",
+      "relevance": "This quote is relevant because it discusses the concept of 'as-it-is sound' or literal meaning (སྒྲ་ཇི་བཞིན་པ) which corresponds to the discussion of literal scriptural interpretation in the target paragraph.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ། [མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།], char offset ~102681 in the commentary file, unit 53/527",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 52,
+      "unit_hash": "bda4362a92b4",
+      "passage_hash": "69b9dcf74b6c",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 527,
+    "units_scanned": 527,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

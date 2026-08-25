@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "304_དེ་རྣམས་ཀྱི། དུམ་མཚན་དང་པོ། 234",
+  "root_paragraph": "དེ་རྣམས་ཀྱི་ནང་ནས་དབྱེ་བ་ཞར་ལ་བརྗོད་ནས་གདམས་ངག་སྟེ། ཞེས་པའི་སྐབས་སུ། མཐའ་དཔྱད་པ་ལ། ཐེག་ཆེན་གྱི་གདམས་ངག་ཉན་པའི་རྟེན། རྒྱུ་གང་ལ་བརྟེན་ནས་ཉན་པ། ཡུལ་གང་ལ་ཉན་པ། གདམས་ངག་གི་ངོ་བོ། ས་མཚམས་དང་ལྔ་ལས།",
+  "root_paragraph_page": "234",
+  "paragraph_key": "faf315df47cafeac",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:31.580614Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "སངས་རྒྱས་རྣམས་ལ་བཀུར་སྟི་བྱས། །\n\nདེ་ལ་དགེ་བའི་རྩ་བ་བསྐྲུན། ། དགེ་བའི་བཤེས་ཀྱིས་མགོན་བཅས་པ། ། འདི་ཉན་པ་ཡི་སྣོད་ཡིན་ནོ། །",
+      "relevance": "This passage is relevant to paragraph 8 because it discusses the basis or vessel for listening to the Mahayana instructions (ཐེག་ཆེན་གྱི་གདམས་ངག་ཉན་པའི་རྟེན།).",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~294832 in the commentary file, unit 150/379",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 149,
+      "unit_hash": "0feb4a2ebd98",
+      "passage_hash": "7954a089c812",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེའི་རྒྱུ་མཚན་ཡོད་དེ། ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་འདོད་པའི་ཡུལ་དུ་འཕངས་པའི་རྣམ་མཁྱེན་ཐོབ་པ་ལ་གདམས་ངག་ཐོབ་པ་སོགས་ཀྱིས་ཉམས་སུ་ལེན་དགོས་སོ། །ཞེས་ཤེས་པར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This passage from the commentary explains the context and reasoning for the discussion of the supports and nature of Mahayana instructions, directly connecting to the analytical breakdown in paragraph 8.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~296300 in the commentary file, unit 151/379",
+      "verification": "UNVERIFIED",
+      "correctness_score": 20,
+      "chunk_id": 150,
+      "unit_hash": "15eadd54b1fd",
+      "passage_hash": "90b11bfbb737",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,76 @@
+# Quote collection: ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]
+**Target paragraph:** 75_ཁ་ཅིག་དམ། དུམ་མཚན་དང་པོ། 82
+
+> ཁ་ཅིག །དམ་བཅའ་འཐད་པར་ཐལ། ཡོད་པ་ཡང་ཡིན། གཅིག་དང་དུ་མ་གང་རུང་མ་ཡིན་པའི་གཞི་མཐུན་འགོག་བྱེད་ཀྱི་ཚད་མ་དེས། བདེན་པར་ཡོད་པ་ཡང་ཡིན་བདེན་པའི་གཅིག་དང་བདེན་པའི་དུ་མ་གང་རུང་མིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ་ཡོད་པར་འཛིན་པའི་སྒྲོ་འདོགས་བཅད་པའི་ཕྱིར། གཟུགས་ཀྱི་སྟེང་དུ་ཡོད་པ་ཡང་ཡིན། གཅིག་དང་དུ་མ་གང་རུང་མིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་འགོག་བྱེད་ཀྱི་ཚད་མས། གཟུགས་བརྙན་གྱི་སྟེང་དུ་བདེན་པར་ཡོད་པ་ཡང་ཡིན། བདེན་པར་གྲུབ་པའི་གཅིག་དང་བདེན་པར་གྲུབ་པའི་དུ་མ་གང་རུང་མིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ་ཡོད་པར་འཛིན་པའི་སྒྲོ་འདོགས་གཅོད་པའི་ཕྱིར་ཏེ། རྣམ་བཤད་ལས།གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། དེའི་དོན་འོག་ཏུ་འཆད་དོ། །
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> དཔེར་ན་རྟག་པ་དང་མི་རྟག་པ་ལྟ་བུ།
+
+- **Why relevant:** This quote discusses mutually exclusive alternatives like permanence and impermanence, which is relevant to the discussion of mutually exclusive categories like one and many in the target paragraph.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~930828 in the commentary file, under ‘ཚ’, unit 478/528
+- **Verification:** verified_exact
+
+## Quote (35% correctness) ⚠️ UNVERIFIED
+> གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote is cited in the target paragraph as part of the assertion regarding whether valid cognitions eliminate the combination of being existent while not being either truly one or truly many.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~130790 in the commentary file, under ‘ཚ’, unit 68/528
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote is cited in the target paragraph as the basis for the opponent's view regarding the elimination of overgeneralization (sgro 'dogs) concerning whether the illusion and other phenomena are single or multiple.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~626180 in the commentary file, under ‘ཚ’, unit 321/528
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote is relevant because it discusses whether the mutual exclusion of one and many proven on an example like a reflection applies to other bases, matching the dialectical topic of Paragraph 3.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~666483 in the commentary file, under ‘ཚ’, unit 342/528
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote is cited in the target paragraph as part of an opponent's argument concerning whether the absence of both true oneness and true multiplicity applies as a non-contradictory combination on certain bases like reflections.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~591871 in the commentary file, under ‘ཚ’, unit 304/528
+- **Verification:** UNVERIFIED
+
+## Quote (26% correctness) ⚠️ UNVERIFIED
+> རྣམ་བཤད་ལས།གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage directly discusses the reasoning about whether a phenomenon like a reflection can be established as truly existent either as one or as many, which is the exact topic of paragraph 3 regarding valid cognizers ruling out the third alternative.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~518841 in the commentary file, under ‘ཚ’, unit 266/528
+- **Verification:** UNVERIFIED
+
+## Quote (25% correctness) ⚠️ UNVERIFIED
+> རྣམ་བཤད་ལས།གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage directly discusses the logical framework and refutation concerning whether entities are one or many, specifically mentioning the example of a reflection (གཟུགས་བརྙན་) as discussed in the target text.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~565017 in the commentary file, under ‘ཚ’, unit 290/528
+- **Verification:** UNVERIFIED
+
+## Quote (22% correctness) ⚠️ UNVERIFIED
+> གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote is relevant because it discusses the reasoning regarding the exclusion of third possibilities concerning truly existent oneness and multiplicity on a basis like a reflection, which matches the debate in target paragraph 3.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~198086 in the commentary file, under ‘ཚ’, unit 102/528
+- **Verification:** UNVERIFIED
+
+## Quote (17% correctness) ⚠️ UNVERIFIED
+> གཞི་གཟུགས་བརྙན་གྱི་སྟེང་དུ་གཅིག་དང་དུ་མ་ཕན་ཚུན་སྤངས་འགལ་དུ་ངེས་པའི་ཚད་མ་དེས་གཅིག་དང་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པས་ན་གཞི་གཞན་གྱི་སྟེང་དུ་བདེན་གྲུབ་ཀྱི་གཅིག་དང་བདེན་གྲུབ་ཀྱི་དུ་མའི་ཕུང་གསུམ་མི་སྲིད་པར་རྟོགས་པར་ངེས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote is cited in the target paragraph as the reasoning for how a refutation of the third possibility (neither one nor many) functions on a reflection and other bases.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~607235 in the commentary file, under ‘ཚ’, unit 312/528
+- **Verification:** UNVERIFIED
+
+## Quote (17% correctness) ⚠️ UNVERIFIED
+> གཟུགས་ཀྱི་སྟེང་དུ་ཡོད་པ་ཡང་ཡིན། གཅིག་དང་དུ་མ་གང་རུང་མིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་འགོག་བྱེད་ཀྱི་ཚད་མས། གཟུགས་བརྙན་གྱི་སྟེང་དུ་བདེན་པར་ཡོད་པ་ཡང་ཡིན། བདེན་པར་གྲུབ་པའི་གཅིག་དང་བདེན་པར་གྲུབ་པའི་དུ་མ་གང་རུང་མིན་པ་ཡང་ཡིན་པའི་གཞི་མཐུན་པ་ཡོད་པར་འཛིན་པའི་སྒྲོ་འདོགས་གཅོད་པའི་ཕྱིར།
+
+- **Why relevant:** This quote is not found in the commentary excerpt, resulting in an empty list or zero matches for this specific target.
+- **Location:** ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~576342 in the commentary file, under ‘ཚ’, unit 296/528
+- **Verification:** UNVERIFIED

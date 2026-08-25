@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "255_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 195",
+  "root_paragraph": "གཉིས་པ་ནི། བྱང་ཆུབ་ཐོབ་བྱའི་ཡུལ་དང་གཞན་དོན་ཆེད་དུ་བྱ་བའི་ཡུལ་ཡིན་པར་མདོ་ལས་བསྟན་པ་དང་། བྱང་ཆུབ་དང་གཞན་དོན་ལ་དམིགས་པ་མདོ་ནས་བསྟན་ཚུལ་གཉིས་ལས། དང་པོ་ནི། བྱང་ཆུབ་ཐོབ་བྱའི་ཡུལ་དང་གཞན་དོན་ཆེད་དུ་བྱ་བའི་ཡུལ་དུ་ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ག་ལས་བསྟན་པ་ཡིན་ཏེ། དེ་ཡུམ་བར་མ་ལས་དེ་ལྟར་བསྟན་པ་བཞིན་དུ་རྒྱས་བསྡུས་གཉིས་ལས་ཀྱང་དེ་བཞིན་དུ་བསྟན་པ་ཡིན་པའི་ཕྱིར། ཞེས་འཆད་པ་ལ༑ དེ་དང་དེ་ནི་མདོ་བཞིན་དུ། །བསྡུས་དང་རྒྱས་པའི་སྒོ་ནས་བརྗོད། །ཅེས་གསུངས།",
+  "root_paragraph_page": "195",
+  "paragraph_key": "6464a3f2d0cb222d",
+  "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:14:06.903542Z",
+  "quotes": [
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "དེ་དང་དེ་ནི་མདོ་བཞིན་དུ། ། བསྡུས་དང་རྒྱས་པའི་སྒོ་ནས་བརྗོད། །",
+      "relevance": "This quote from the commentary is cited directly in paragraph 7 to explain how the Mother scriptures describe the object of attainment and the welfare of others in both concise and extensive ways.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~14211 in the commentary file, unit 7/137",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 6,
+      "unit_hash": "1f0b6905ab34",
+      "passage_hash": "532e2708ac54",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 137,
+    "units_scanned": 137,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

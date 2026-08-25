@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "229_དང་པོ་ནི། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "དང་པོ་ནི། གདམས་ངག་གི་སྐབས་སུ་སྒྲུབ་དང་། ཞེས་དང་། སྒྲུབ་པ་བཞི་རྣམས་ཟློས་པར་འགྱུར་ཏེ། སྒྲུབ་པ་ཁྱད་པར་མེད་པ་ཡང་ཡང་བསྟན་པའི་ཕྱིར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་ཡིན་ལ། གཉིས་པ་དེ་སྒྲུབ་པ་རང་གི་ངོ་བོ་དང་། དབྱེ་བ་བསྟན་པ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "182",
+  "paragraph_key": "e2c140071aae9f85",
+  "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+  "generated_at": "2026-08-20T04:14:26.285375Z",
+  "quotes": [
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "གཉིས་པ་ནི། གཉེན་པོའི་ཚོགས་ཀྱི་སྒྲུབ་པ་ནི་ཆོས་ཅན། རྣམ་པ་བརྒྱད་ཅེས་བྱ་སྟེ། མཐོང་བ་དང་། གོམས་པའི་ལམ་དག་ལ་ཤེས་སྒྲིབ་གཟུང་བ་དང་། འཛིན་པའི་རྣམ་པར་རྟོག་པ་རྣམས་ཉེ་བར་ཞི་བར་བྱ་བའི་ཕྱིར་བརྒྱད་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This passage discusses the four practices or accomplishments (སྒྲུབ་པ་) and their divisions, which is relevant to addressing potential redundancy regarding the four accomplishments.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~129424 in the commentary file, unit 66/221",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 65,
+      "unit_hash": "8ce7f4740441",
+      "passage_hash": "6b2ecdc3ae52",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།]",
+      "quote_tibetan": "སྒྲུབ་པ་བཞི་རྣམས་ཟློས་པར་འགྱུར་ཏེ། སྒྲུབ་པ་ཁྱད་པར་མེད་པ་ཡང་ཡང་བསྟན་པའི་ཕྱིར་རོ་ཞེ་ན།",
+      "relevance": "This quote is relevant because it addresses the potential issue of repetition concerning the four practices (སྒྲུབ་པ་བཞི་), which is the exact topic discussed in target paragraph 5.",
+      "location": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་'s འགྲེལ་ཚིག་དོན་རབ་གསལ། [པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།], char offset ~103920 in the commentary file, unit 54/221",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 53,
+      "unit_hash": "8628ada51bd0",
+      "passage_hash": "9b33b46034d8",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 221,
+    "units_scanned": 221,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

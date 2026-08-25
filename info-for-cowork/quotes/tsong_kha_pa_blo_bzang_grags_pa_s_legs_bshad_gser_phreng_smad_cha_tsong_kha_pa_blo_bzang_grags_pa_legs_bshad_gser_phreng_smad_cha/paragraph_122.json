@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "123_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 110",
+  "root_paragraph": "གཉིས་པ་ནི། དེ་ལ་ལུང་གི་ཆོས་འཁོར་དང་། རྟོགས་པའི་ཆོས་འཁོར་གཉིས་སུ་ཡོད། སངས་རྒྱས་ཀྱིས་བཀས་བསྡུས་པའི་རྣམ་དཀར་གྱི་ཡོན་ཏན། དང་པོའ་ིམཚན་ཉིད༑ དབྱེ་ན། སངས་རྒྱས་ཀྱི་བཀས་བསྡུས་པའི་སྡེ་སྣོད་གསུམ་དང་། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ཡོད། གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ནི། འགྲེལ་ཆེན་ལས།མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །ཞེས་གསུངས་ཤིང་།",
+  "root_paragraph_page": "110",
+  "paragraph_key": "c61bfeac40f83746",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:56.292172Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །",
+      "relevance": "The commentary explicitly lists the twelve branches of the scriptures, matching the classification discussed in the target paragraph.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~780446 in the commentary file, under ‘ཚ’, unit 401/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 400,
+      "unit_hash": "ab663e2312c4",
+      "passage_hash": "e7141cf5ba88",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །",
+      "relevance": "This quote provides the enumeration of the twelve branches of the scriptures (གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་), which is the direct subject of classification discussed in target paragraph 3.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~813752 in the commentary file, under ‘ཚ’, unit 418/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 417,
+      "unit_hash": "77e11f98dea8",
+      "passage_hash": "a5060b23093c",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །",
+      "relevance": "This quote lists the twelve branches of the scriptures, which is the direct topic being discussed in paragraph 3 regarding the divisions of the scriptural wheel of dharma.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~587756 in the commentary file, under ‘ཚ’, unit 302/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 301,
+      "unit_hash": "0bcebb0f745f",
+      "passage_hash": "6310e6fd6a6a",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་དང་། །ཚིགས་བཅད་ཆེད་བརྗོད་རྟོགས་པ་བརྗོད། །དེ་ལྟར་བྱུང་དང་གླེང་གཞི་དང་། །ཤིན་ཏུ་རྒྱས་པ་སྐྱེས་རབས་བཅས། །གཏན་ལ་ཕབ་རྨད་བྱུང་ཆོས་ཏེ། །དེ་ལྟར་ཡན་ལག་བཅུ་གཉིས་གསུངས། །",
+      "relevance": "This quote lists the twelve branches of the scriptures, matching the discussion of the twelve limbs of the teachings in the target passage.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~888307 in the commentary file, under ‘ཚ’, unit 456/528",
+      "verification": "UNVERIFIED",
+      "correctness_score": 23,
+      "chunk_id": 455,
+      "unit_hash": "9aa0c4dd95fa",
+      "passage_hash": "87689374f5a0",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

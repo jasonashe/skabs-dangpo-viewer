@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "363_ཁ་ཅིག་ཟག། དུམ་མཚན་དང་པོ། 267",
+  "root_paragraph": "ཁ་ཅིག །ཟག་བཅས་འབྲས་དུས་ཀྱི་ཆར་གྱུར་པ། སྡུག་བདེན་གྱི་མཚན་ཉིད། ཟག་བཅས་རྒྱུ་དུས་ཀྱི་ཆར་གྱུར་པ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད། ཟེར་ན་མི་འཐད་དེ༑ ཀུན་འབྱུང་བདེན་པ་དེ་སྡུག་བསྔལ་བདེན་པ་ཡིན་པའི་ཕྱིར། དེས་ན་སྡུག་ཀུན་གང་རུང་ལ་སྤང་བྱས་མ་ཁྱབ་སྟེ། ཉན་ཐོས་སྦྱོར་ལམ་པ་དང་། ཁམས་གོང་གི་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ཟག་བཅས་དགེ་བའི་ལས་རྣམས་སྡུག་བདེན་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "267",
+  "paragraph_key": "112168fd6cbeb595",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:53.662570Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "སྡུག་བདེན་ཡིན་པའི་ཕྱིར།",
+      "relevance": "The target passage discusses whether certain types of tainted mental states fall under the truth of suffering.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~74989 in the commentary file, under ‘ཙ’, unit 39/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 58,
+      "chunk_id": 38,
+      "unit_hash": "b653af08a17e",
+      "passage_hash": "752dfcb6c2a4",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "དེས་ན་སྡུག་ཀུན་གང་རུང་ལ་སྤང་བྱས་མ་ཁྱབ་སྟེ།",
+      "relevance": "This quote is relevant because it discusses whether the truths of suffering and origination (ཀུན་བདེན་ and སྡུག་བདེན་) encompass what is to be abandoned, which is the core topic debated in target paragraph 3.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~856066 in the commentary file, under ‘ཙ’, unit 439/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 438,
+      "unit_hash": "6eeac94568e6",
+      "passage_hash": "fd8597cf4ae5",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "ཟག་བཅས་འབྲས་དུས་ཀྱི་ཆར་གྱུར་པ། སྡུག་བདེན་གྱི་མཚན་ཉིད། ཟག་བཅས་རྒྱུ་དུས་ཀྱི་ཆར་གྱུར་པ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད།",
+      "relevance": "The target passage references this specific definition of the definitions of duḥkha and samudaya truths in terms of result-phase and cause-phase tainted phenomena and refutes it.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~279789 in the commentary file, under ‘ཙ’, unit 144/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 143,
+      "unit_hash": "3b1db85d8cc9",
+      "passage_hash": "e5f26294403d",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

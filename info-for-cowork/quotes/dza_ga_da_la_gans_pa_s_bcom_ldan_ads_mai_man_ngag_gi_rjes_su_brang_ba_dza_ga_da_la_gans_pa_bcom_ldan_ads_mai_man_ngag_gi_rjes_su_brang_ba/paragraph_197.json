@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "198_གཞན་ཡང་བྱང། དུམ་མཚན་དང་པོ། 163",
+  "root_paragraph": "གཞན་ཡང་། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི།སྐྱེས་བུ་རང་བཞིན་མ་ཡིན་རྣམ་འགྱུར་མིན༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་ཕྱི་རོལ་པའི་གཞུང་ཡིན་པར་ཐལ། དེ་འདྲ་ཡོད་པ་གང་ཞིག ༑སློབ་དཔོན་སེང་གེ་བཟང་པོའི་རྒྱུད་ཀྱི། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར༑ ༑ཞེས་པའི་གཞུང་ཚིག་དེ་བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་གྱི་གཞུང་ཚིག་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། དེ་ཆོས་ཅན། བསྟན་བཅོས་རྣམ་དག་ཡིན་པར་ཐལ། བྱང་འཕགས་ཀྱི་རྒྱུད་ཀྱི་བསྟན་བཅོས་ཡིན་པའི་ཕྱིར། འདོད་མི་ནུས་ཏེ། ཕྱི་རོལ་པའི་གཞུང་ཡིན་པའི་ཕྱིར།རྟགས་ཁྱབ་ཁས།",
+  "root_paragraph_page": "163",
+  "paragraph_key": "2fea077ec8d2d5a9",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:02.079756Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "སྐྱེས་བུ་རང་བཞིན་མ་ཡིན་རྣམ་འགྱུར་མིན༑ ༑",
+      "relevance": "This quote is directly referenced and discussed in the target paragraph regarding non-Buddhist texts and their status.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~141662 in the commentary file, unit 74/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 73,
+      "unit_hash": "5ecda1ddde11",
+      "passage_hash": "819b2b301512",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

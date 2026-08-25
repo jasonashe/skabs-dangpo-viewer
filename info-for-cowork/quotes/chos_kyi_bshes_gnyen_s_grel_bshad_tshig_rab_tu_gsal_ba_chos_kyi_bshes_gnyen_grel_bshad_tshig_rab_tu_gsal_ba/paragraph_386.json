@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "387_ཁ་ཅིག་ཀུན། དུམ་མཚན་དང་པོ། 280",
+  "root_paragraph": "ཁ་ཅིག །ཀུན་རྫོབ་པའི་དགེ་འདུན་དཀོན་མཆོག་དང་། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་འགལ་ཟེར་ན་མི་འཐད་དེ། བྱང་འཕགས་ཡིན་ན། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དེ་ཡིན་ན་དོན་དམ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དོན་དམ་སེམས་བསྐྱེད་ཐོབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་དེ་ལྟར་དགོས་པའི་ཕྱིར་ཏེ། འཇུག་པ་ལས།དེ་ནས་བཟུང་སྟེ་དེ་ནི་ཐོབ་པར་གྱུར་པ་ཡི། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "280",
+  "paragraph_key": "39744c643b2438d0",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:13.773017Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེ་ནས་བཟུང་སྟེ་དེ་ནི་ཐོབ་པར་གྱུར་པ་ཡི། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ། །",
+      "relevance": "This quote is used in the target passage to explain that a bodhisattva who has attained the ultimate mind of enlightenment is designated by the name bodhisattva from that point onward.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~110488 in the commentary file, unit 57/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 56,
+      "unit_hash": "55a8f1d02ba6",
+      "passage_hash": "81f20c996017",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,34 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]
+**Target paragraph:** 366_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 268
+
+> གཉིས་པ་ནི། དེ་གང་ཞིག །རྒྱུ་ཀུན་འབྱུང་རབ་སྐྱེ་རྐྱེན་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད། དབྱེ་ན། ལས་ཀྱི་ཀུན་འབྱུང་བདེན་པ་དང་། ཉོན་མོངས་པའི་ཀུན་འབྱུང་བདེན་པ་གཉིས་ཡོད་དེ། ཀུན་བཏུས་ལས༑ཀུན་འབྱུང་བའི་བདེན་པ་གང་ཞེ་ན། ཉོན་མོངས་པ་དང་དེའི་དབང་གིས་བྱུང་བའི་ལས་སོ། །ཞེས་གསུངས་པའི་ཕྱིར། དང་པོ་ལ་དབྱེ་ན། འཁོར་བས་བསྡུས་པའི་བསོད་ནམས་ཀྱི་ལས། བསོད་ནམས་མ་ཡིན་པའི་ལས། མི་གཡོ་བའི་ལས་དང་གསུམ་ཡོད། དང་པོ་ལ། མིར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་དང་། འདོད་ལྷར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་དང་གཉིས་ལས། དང་པོ་ལ་གླིང་བཞིའི་མིར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ཡོད། གཉིས་པ་ལ། འདོད་ལྷ་རིགས་དྲུག་ཏུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་དྲུག་ཡོད། གཉིས་པ་ལ། ངན་སོང་གསུམ་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། གསུམ་པ་ལ༑ གཟུགས་ཁམས་དང་། གཟུགས་མེད་ཁམས་སུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གཉིས་ལས༑ དང་པོ་ལ། བསམ་གཏན་དང་པོ། གཉིས་པ། གསུམ་པ། བཞི་པར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ལས། དང་པོ་ལ། ཚངས་རིས། ཚངས་པ་མདུན་ན་འདོན། ཚངས་ཆེན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། གཉིས་པ་ལ། འོད་ཆུང་། ཚད་མེད་འོད༑ འོད་གསལ་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། གསུམ་པ་ལ། དགེ་ཆུང་༑ ཚད་མེད་དགེ ། དགེ་རྒྱས་སུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། བཞི་པ་ལ༑ སྤྲིན་མེད། བསོད་ནམས་སྐྱེས། འབྲས་བུ་ཆེ་བ། མི་ཆེ་བ། མི་གདུང་བ། གྱ་ནོམ་སྣང་བ། ཤིན་ཏུ་མཐོང་བ། འོག་མིན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བརྒྱད་དུ་ཡོད། གཉིས་པ་ལ་ནམ་མཁའ་མཐའ་ཡས་སྐྱེ་མཆེད། རྣམ་ཤེས་མཐའ་ཡས། ཅི་ཡང་མེད། སྲིད་རྩེར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ཡོད།
+
+*Coverage: complete.*
+
+## Quote (42% correctness) ⚠️ UNVERIFIED
+> ཀུན་འབྱུང་བའི་བདེན་པ་གང་ཞེ་ན། ཉོན་མོངས་པ་དང་དེའི་དབང་གིས་བྱུང་བའི་ལས་སོ། །
+
+- **Why relevant:** This quote from the Abhidharmasamuccaya defines the truth of origin as afflictions and the karma produced by them.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~794470 in the commentary file, unit 408/577
+- **Verification:** UNVERIFIED
+
+## Quote (40% correctness) ⚠️ UNVERIFIED
+> འཁོར་བས་བསྡུས་པའི་བསོད་ནམས་ཀྱི་ལས། བསོད་ནམས་མ་ཡིན་པའི་ལས། མི་གཡོ་བའི་ལས་དང་གསུམ་ཡོད།
+
+- **Why relevant:** This quote relates to the classification of actions (las) that cause cyclic existence into three types: meritorious, non-meritorious, and不动 (immovable).
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~1067910 in the commentary file, unit 549/577
+- **Verification:** UNVERIFIED
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> ཚངས་རིས། ཚངས་པ་མདུན་ན་འདོན། ཚངས་ཆེན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད།
+
+- **Why relevant:** This quote lists the specific types of karma that project rebirth into the realms of Brahma, which corresponds to the commentary's discussion of beings born in the realm of Brahma.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~241248 in the commentary file, unit 124/577
+- **Verification:** UNVERIFIED
+
+## Quote (37% correctness) ⚠️ UNVERIFIED
+> དབྱེ་ན། ལས་ཀྱི་ཀུན་འབྱུང་བདེན་པ་དང་། ཉོན་མོངས་པའི་ཀུན་འབྱུང་བདེན་པ་གཉིས་ཡོད་དེ།
+
+- **Why relevant:** This quote explains the two divisions of the truth of origin (karma and afflictions), which corresponds directly to the topic of the target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~381646 in the commentary file, unit 196/577
+- **Verification:** UNVERIFIED

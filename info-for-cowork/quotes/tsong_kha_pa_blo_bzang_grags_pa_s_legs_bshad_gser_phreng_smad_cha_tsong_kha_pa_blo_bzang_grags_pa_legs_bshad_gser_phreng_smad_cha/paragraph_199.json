@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "200_གཞན་ཡང་འགྲེལ། དུམ་མཚན་དང་པོ། 164",
+  "root_paragraph": "གཞན་ཡང་། འགྲེལ་ཆེན་གྱི་ལུང་དེས་བཀའ་བསྟན་བཅོས་ཤེས་པར་བསྟན་པ་མ་ཡིན་ཏེ། འགྲེལ་ཆེན་ལས།ཚིག་དང་ངག་གི་ཚོགས་ཀྱིས་བསྡུས་པའི་གཞུང་དང་། ཞེས་གཞུང་ཤེར་ཕྱིན་ཚིག་དང་ངག་གིས་བསྡུས་པར་བཤད་པའི་ཕྱིར། གཞན་ཡང་། ངག་མ་སྨྲས་པར་བསྟན་བཅོས་རྩོམ་པ་མེད་པར་ཐལ། བསྟན་བཅོས་ཡིན་ན་རྗོད་བྱེད་ཀྱི་སྒྲ་རང་མཚན་པ་ཡིན་དགོས་པའི་ཕྱིར། རྟགས་ཁས། འདོད་ན། བསེ་རུ་ལྟ་བུའི་རང་རྒྱལ་གྱིས་སྒྲ་མེད་ལུས་ཀྱི་རྣམ་འགྱུར་གྱི་སྒོ་ནས་ཆོས་སྟོན་པ་མེད་པར་ཐལ། འདོད་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "164",
+  "paragraph_key": "c5e1f964c08c8168",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:57.466269Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།]",
+      "quote_tibetan": "དེ་ཡང་སྔོན་མ་ལྔ་བསྟེན་པའི་དྲང་སྲོང་ལྔ་བརྒྱ་དབེན་པ་ཞིག་ན་གནས་པའི་སར་རང་རྒྱལ་གྱི་དྲུང་དུ་བསྡད་པའི་སྤྲེའུ་ཞིག་དེར་ཕྱིན་ནས་རང་རྒྱལ་གྱི་ལུས་ཀྱི་སྤྱོད་ལམ་དེ་སྤྲེའུ་དེས་དེ་རྣམས་ལ་བསྟན་པས་དེ་རྣམས་ཀྱིས་ཀྱང་དེ་ལྟར་བྱས་པས་རང་རྒྱལ་ལྔ་བརྒྱར་གྱུར་ཅེས་འབྱུང་བས་ན་བསེ་རུ་ལྟ་བུ་གཅིག་པུར་གནས་ལ་འཕགས་པ་དཀའ་ཐུབ་དྲག་པེས་གདུངས་པ་མ་ཡིན་པས་སོ་སྐྱེའི་ལམ་ཙམ་སྔོན་དུ་བཏང་བའི་རང་རྒྱལ་ཡིན་ནོ། །",
+      "relevance": "This quote from the commentary discusses solitary pratyekabuddhas teaching through physical bodily gestures rather than speech, which is directly relevant to target paragraph 8's discussion of whether pratyekabuddhas teach without speech.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།], char offset ~753221 in the commentary file, under ‘ཚ’, unit 387/528",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 386,
+      "unit_hash": "e294f7ebaedd",
+      "passage_hash": "b69d196b5b25",
+      "folio": null,
+      "sa_bcad": "ཚ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 528,
+    "units_scanned": 528,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "216_ཁ་ཅིག་ལམ། དུམ་མཚན་དང་པོ། 175",
+  "root_paragraph": "ཁ་ཅིག །ལམ་ཤེར་ཕྱིན་གྱི་མ་མཐའི་ས་མཚམས་ཐེག་ཆེན་གྱི་མཐོང་ལམ་ནས་འཇོག་སྟེ།རྒྱན་སྣང་ལས།མཐོང་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཅན་གྱི་ལམ། ཞེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། གོ་སྒྲུབ་ཀྱི་མ་མཐའི་ས་མཚམས་ཐེག་ཆེན་གྱི་མཐོང་ལམ་དང་ཚོགས་སྒྲུབ་ཀྱི་ས་མཚམས་ཐེག་ཆེན་གྱི་སྒོམ་ལམ་ནས་འཇོག་རིགས་པར་ཐལ༑ མཐོང་བ་དང་སྒོམ་པ་དང་ཁྱད་པར་གྱི་ལམ་གྱི་ངོ་བོ་ཉིད་སྒྲུབ་པའི་མཚན་ཉིད་གོ་ཆ་དང་ཚོགས་དང་ངེས་པར་འབྱུང་བ་རྣམས། ཞེས་གསུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས།",
+  "root_paragraph_page": "175",
+  "paragraph_key": "cf51e20abf93811b",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:57.034663Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "རྒྱན་སྣང་ལས།མཐོང་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཅན་གྱི་ལམ། ཞེས་གསུངས་པའི་ཕྱིར།",
+      "relevance": "This passage is relevant to Paragraph 16 because it quotes the 'Gyiannang' to discuss the lower boundary of the path of the perfection of wisdom (lam sher phyin) in relation to the paths of seeing.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~386853 in the commentary file, unit 197/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 39,
+      "chunk_id": 196,
+      "unit_hash": "ca12d33ddfc7",
+      "passage_hash": "34952dd3b78b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "མཐོང་བ་ལ་སོགས་པའི་མཚན་ཉིད་ཅན་གྱི་ལམ།",
+      "relevance": "This quote from the Aloka commentary is used to examine the lower boundary of the path of the perfection of wisdom.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~374923 in the commentary file, unit 191/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 190,
+      "unit_hash": "16aa736c8e29",
+      "passage_hash": "3ed0f431ebf9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

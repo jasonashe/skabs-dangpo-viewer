@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "47_ཁ་ཅིག་སྐབས། དུམ་མཚན་དང་པོ། 66",
+  "root_paragraph": "ཁ་ཅིག །སྐབས་འདིའི་ཐུན་མོང་བ་ཉན་ཐོས་སྡེ་གཉིས་དང་། ཐུན་མོང་མ་ཡིན་པ་དབུ་སེམས་གཉིས་ལ་བྱེད་དེ། གསེར་ཕྲེང་ལས།ཚུལ་འདི་ལྟར་ན་བཅུ་གཉིས་པོ་ཐམས་ཅད་ཀྱང་སངས་རྒྱས་ཀྱི་མཛད་པ་སྟེ་ཐུན་མོང་མ་ཡིན་པའི་ལུགས་སོ། །ཐེག་པ་ཐུན་མོང་བ་ལྟར་ན་ཀུན་བཏུས་སོགས་སུ་བཤད་པ་ལྟར་དང་པོ་དགུ་བྱང་སེམས་དང་། ཕྱི་མ་གསུམ་སངས་རྒྱས་ཀྱི་མཛད་པ་སྟེ། ཞེས་གསུངས་པ་དང་། རྣམ་བཤད་ཀྱི་ལུང་འདི་གཉིས་དོན་གཅིག་པའི་ཕྱིར། ཞེས་ཟེར་བ་མི་འཐད་དེ། མཆོད་བརྗོད་ཀྱི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་ཉན་ཐོས་སྡེ་གཉིས་མེད་པའི་ཕྱིར།",
+  "root_paragraph_page": "66",
+  "paragraph_key": "adff2d920f5b41fc",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:08.715390Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "འདི་ནི་སྔར་ས་བཅུ་པ་ལ་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལ་སངས་རྒྱས་ཞེས་བྱ་བར་བརྗོད་ཀྱི་ཞེས་བྱ་བ་ལ་སོགས་པའི་ཚུལ་གྱིས་ན། ས་བཅུ་པའི་བྱང་ཆུབ་སེམས་དཔའ་དབང་བསྐུར་བའི་ས་ལ་གནས་པ་དང་། སྐྱེ་བ་གཅིག་གིས་ཐོགས་པའི་རྣམ་པར་འཕྲུལ་པ་སངས་རྒྱས་སུ་སྣང་བའི་དབང་དུ་བྱས་པའི་མཛད་པ་ཡིན་པར་ཤེས་པར་བྱའོ། །",
+      "relevance": "This passage is relevant because it discusses how a bodhisattva on the tenth ground manifests in a way that appears as a Buddha, relating to the topic of distinguishing between the activities of bodhisattvas and Buddhas.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~227291 in the commentary file, unit 117/421",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 116,
+      "unit_hash": "4f079c34e30d",
+      "passage_hash": "8ae96c5bf529",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

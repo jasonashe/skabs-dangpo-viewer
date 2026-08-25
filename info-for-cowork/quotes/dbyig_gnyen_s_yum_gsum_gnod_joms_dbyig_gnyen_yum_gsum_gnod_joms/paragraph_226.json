@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "227_སྐད་ཅིག་སྦྱོར། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "སྐད་ཅིག་སྦྱོར་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་རྣམ་པར་སྨིན་པ་མ་ཡིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། རྣམ་པར་སྨིན་པའི་སྐད་ཅིག་སྦྱོར་དང་། མཚན་ཉིད་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་། གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར་དང་བཞི་ཡོད་པའི་ཕྱིར༑ འབྲས་བུ་ཆོས་སྐུ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་ངོ་བོ་ཉིད་སྐུ། ལོངས་སྐུ། སྤྲུལ་སྐུ། ཡེ་ཤེས་ཆོས་སྐུ་མཛད་པ་འཕྲིན་ལས་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། འདི་དག་གི་མཚན་ཉིད་དང་། དབྱེ་བ་སོགས་རྒྱས་པར་འོག་ཏུ་རང་རང་གི་སྐབས་སུ་འཆད་དོ། །",
+  "root_paragraph_page": "182",
+  "paragraph_key": "4da39cbe9c411775",
+  "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+  "generated_at": "2026-08-20T04:14:18.377161Z",
+  "quotes": [
+    {
+      "commentary": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]",
+      "quote_tibetan": "འབྲས་བུ་ཆོས་སྐུ་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཞི་ཡོད་དེ། དེ་ལ་ངོ་བོ་ཉིད་སྐུ། ལོངས་སྐུ། སྤྲུལ་སྐུ། ཡེ་ཤེས་ཆོས་སྐུ་མཛད་པ་འཕྲིན་ལས་དང་བཅས་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote is relevant because it discusses the attributes and divisions of the resultant Dharmakaya, corresponding to the topics mentioned in Paragraph 3.",
+      "location": "དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~77732 in the commentary file, unit 40/459",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 39,
+      "unit_hash": "f3e787ad28c3",
+      "passage_hash": "5676447fb085",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 459,
+    "units_scanned": 459,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "367_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 269",
+  "root_paragraph": "གཉིས་པ་ལ་རྩ་ཉོན་དྲུག་དང་། ཉེ་ཉོན་ཉི་ཤུ་ཡོད། དང་པོ་ནི། འདོད་ཆགས། ཁོང་ཁྲོ༑ ང་རྒྱལ། ཉོན་མོངས་ཅན་གྱི་མ་རིག་པ། ཉོན་མོངས་ཅན་གྱི་ལྟ་བ། ཉོན་མོངས་ཅན་གྱི་ཐེ་ཚོམ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། གཉིས་པ་གྲུབ་སྟེ། ཁྲོ་བ། འཁོན་དུ་འཛིན་པ། འཆབ་པ། འཚིག་པ། ཕྲག་དོག །སེར་སྣ། གཡོ། སྒྱུ། རྒྱགས་པ། བརྣབ་སེམས། ཁྲེལ་མེད་པ། ངོ་ཚ་མེད་པ། རྨུགས་པ། རྒོད་པ། མ་དད་པ། ལེ་ལོ། བག་མེད། བརྗེད་ངས། ཤེས་བཞིན་མ་ཡིན་པ། རྣམ་པར་གཡེང་བ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "269",
+  "paragraph_key": "39c8f3aaea9c47e0",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:03.095694Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "རྨུགས་པ་ནི་སེམས་ལས་སུ་རུང་བ་མ་ཡིན་པའོ། ། རྨུགས་པའི་མཚན་ཉིད་གང་ཞིག་སེམས་ལས་སུ་མི་རུང་བ་ཉིད་རང་གི་དམིགས་པ་ལ་རྟོགས་པའི་ཕྱིར་རོ། ། གཉིད་ནི་སེམས་རང་དབང་མེད་པར་ནང་དུ་འཇུག་པས་ཟད་པ་མིག་ལ་སོགས་པ་དབང་པོའི་སྒོ་ནས་མི་འཇུག་པའོ། །",
+      "relevance": "This quote defines torpor (rmugs pa) and sleep (gnyid) as mental factors, which are relevant to the discussion of the secondary afflictions (nye nyon) enumerated in paragraph 7.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~409308 in the commentary file, unit 210/524",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 209,
+      "unit_hash": "bcd35bd7d7f1",
+      "passage_hash": "f2c61f6e3f29",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "འཁོན་དུ་འཛིན་པ་ནི་ཞེ་སྡང་བསྐྱེད་པའོ། །",
+      "relevance": "This quote explains the meaning of holding a grudge (འཁོན་དུ་འཛིན་པ་), which is listed as one of the secondary afflictions under the origin of suffering.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~814102 in the commentary file, unit 418/524",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 417,
+      "unit_hash": "7fffd96f89c9",
+      "passage_hash": "735287084ba3",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "ཁྲོ་བ། འཁོན་དུ་འཛིན་པ། འཆབ་པ། འཚིག་པ། ཕྲག་དོག །སེར་སྣ། གཡོ། སྒྱུ། རྒྱགས་པ། བརྣབ་སེམས། ཁྲེལ་མེད་པ། ངོ་ཚ་མེད་པ། རྨུགས་པ། རྒོད་པ། མ་དད་པ། ལེ་ལོ། བག་མེད། བརྗེད་ངས། ཤེས་བཞིན་མ་ཡིན་པ། རྣམ་པར་གཡེང་བ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "The commentary lists these secondary afflictions (upaklesha) while explaining the text, which is relevant to paragraph 7's discussion of the twenty secondary afflictions.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~247323 in the commentary file, unit 128/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 127,
+      "unit_hash": "d6a6bfccb56d",
+      "passage_hash": "1910cc98c5b2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "ཁྲོ་བ། འཁོན་དུ་འཛིན་པ། འཆབ་པ། འཚིག་པ། ཕྲག་དོག །སེར་སྣ། གཡོ། སྒྱུ། རྒྱགས་པ། བརྣབ་སེམས། ཁྲེལ་མེད་པ། ངོ་ཚ་མེད་པ། རྨུགས་པ། རྒོད་པ། མ་དད་པ། ལེ་ལོ། བག་མེད། བརྗེད་ངས། ཤེས་བཞིན་མ་ཡིན་པ། རྣམ་པར་གཡེང་བ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote lists secondary upakleshas (ཉེ་ཉོན་) that correspond directly to the enumerated secondary afflictions in the target passage.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~695875 in the commentary file, unit 357/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 356,
+      "unit_hash": "4a977f4e96d2",
+      "passage_hash": "04333b23f51a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

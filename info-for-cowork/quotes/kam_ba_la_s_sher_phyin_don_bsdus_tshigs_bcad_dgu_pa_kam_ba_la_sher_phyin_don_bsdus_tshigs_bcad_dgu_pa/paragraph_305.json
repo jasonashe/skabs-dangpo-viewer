@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "306_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 235",
+  "root_paragraph": "གཉིས་པ་ནི། ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ཆེན་པོ་ཐོབ་ནས་ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་ལ་བརྟེན་ནས་མཆོག་གི་སྤྲུལ་སྐུ་ལས་གདམས་ངག་དངོས་སུ་ཉན་པ་ཡིན་ཏེ། མདོ་སྡེའི་རྒྱན་ལས།དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ ༑ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །ཞེས་གསུངས་པའི་ཕྱིར། འོ་ན། ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་གང་ཞེ་ན། འདི་ལ་ངོ་བོ། སྒྲ་བཤད༑ ས་མཚམས་དང་གསུམ་ལས།",
+  "root_paragraph_page": "235",
+  "paragraph_key": "dd2c4c96add79a1d",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:34.837714Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ ༑ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །",
+      "relevance": "The commentary cites or discusses aspects related to receiving vast instructions from the buddhas to attain tranquility and expansive wisdom.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~270277 in the commentary file, unit 138/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 137,
+      "unit_hash": "16538c1ab8f4",
+      "passage_hash": "15fdac8455c2",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ ༑ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །",
+      "relevance": "This verse from the commentary excerpt discusses receiving vast instructions from the buddhas to attain serenity and expansive wisdom, which supports the topic of hearing instructions from the supreme emanated body in connection with the stream of Dharma.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~853212 in the commentary file, unit 436/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 435,
+      "unit_hash": "eb58466f6b9f",
+      "passage_hash": "d7b51b662863",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "38_དེས་ན་གཞུང། དུམ་མཚན་དང་པོ། 62",
+  "root_paragraph": "དེས་ན་གཞུང་འདིའི་དོན་ལ། ཕྱོགས་སྔ་མ་དགོད་པ་དང་། དེ་དགག་པ་དང་། སྙིང་པོ་བསྡུས་ཏེ་བསྟན་པ་དང་གསུམ་ལས། དང་པོ་ལ། གསེར་ཕྲེང་སོགས་སུ་མཆོད་བརྗོད་ཀྱི་གཞུང་རང་དོན་གྱི་དགོས་པ་ལ་སྦྱར་ནས་བཤད་པ་ལ། རོང་ཊཱིཀ་པ་ན་རེ། མཆོད་བརྗོད་ཀྱི་ངག་རང་དོན་གྱི་དགོས་པ་ལ་སྦྱོར་བ་མི་འཐད་དེ། རྗེ་བཙུན་བྱམས་པ་ལ་རང་དོན་དོན་གཉེར་གྱི་བློ་མེད་པའི་ཕྱིར་དང་། གཞན་བསྟན་བཅོས་ལ་འཇུག་པའི་ཆེད་ཁོ་ནར་སྣང་བས་སོ། །ཞེས་ཟེར།",
+  "root_paragraph_page": "62",
+  "paragraph_key": "6239d5404c1c7b19",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:55.910267Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "རོང་ཊཱིཀ་པ་ན་རེ། མཆོད་བརྗོད་ཀྱི་ངག་རང་དོན་གྱི་དགོས་པ་ལ་སྦྱོར་བ་མི་འཐད་དེ། རྗེ་བཙུན་བྱམས་པ་ལ་རང་དོན་དོན་གཉེར་གྱི་བློ་མེད་པའི་ཕྱིར་དང་། གཞན་བསྟན་བཅོས་ལ་འཇུག་པའི་ཆེད་ཁོ་ནར་སྣང་བས་སོ། །",
+      "relevance": "This quote from the excerpt explicitly states Rongtikpa's argument regarding whether the praise/homage can be connected to the author's own purpose, which matches the debate addressed in paragraph 13.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་གཉིས་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་གཉིས་པའི་སྤྱི་དོན།], char offset ~309206 in the commentary file, unit 158/204",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 157,
+      "unit_hash": "7f8ad88d95bd",
+      "passage_hash": "ee5372ca8e46",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 204,
+    "units_scanned": 204,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "121_གཉིས་པ་རང། དུམ་མཚན་དང་པོ། 109",
+  "root_paragraph": "གཉིས་པ་རང་ལུགས་ལ། ཆོས་འཁོར་སྤྱིའི་རྣམ་གཞག་བཤད་པ་དང་། ལུང་གི་ཆོས་འཁོར་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། ངོ་བོ། དབྱེ་བ། དྲང་ངེས་ཀྱི་དོན༑ ཆོས་ཕུང་གི་ཚད། སྐོར་ཚུལ། སྒྲ་བཤད་པའོ། །དང་པོ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག ༑མཐོང་ལམ་ཁོ་ན་ཆོས་འཁོར་དུ་འདོད་དེ། ལྔ་སྡེའི་རྒྱུད་ལ་མཐོང་ལམ་སྐྱེས་པའི་ཚེ༑ ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+  "root_paragraph_page": "109",
+  "paragraph_key": "98752fcc7a0bbb44",
+  "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+  "generated_at": "2026-08-20T04:14:39.821434Z",
+  "quotes": [
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+      "relevance": "This quote from the commentary discusses the gods proclaiming the turning of the wheel of dharma in Jambudvipa, which is referenced in the target passage as a scriptural proof regarding the Vaibhasika view of the path of seeing as the wheel of dharma.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~184714 in the commentary file, unit 96/415",
+      "verification": "UNVERIFIED",
+      "correctness_score": 57,
+      "chunk_id": 95,
+      "unit_hash": "36df63d8366a",
+      "passage_hash": "f8332105931f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ",
+      "relevance": "This quote from the excerpt discusses the deities exclaiming about the turning of the Dharma wheel in Jambudvipa, which is the exact passage cited by the Vaibhasikas in paragraph 1 to support the view that the path of seeing constitutes the turning of the Dharma wheel.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~380055 in the commentary file, unit 196/415",
+      "verification": "UNVERIFIED",
+      "correctness_score": 44,
+      "chunk_id": 195,
+      "unit_hash": "470af6796b8b",
+      "passage_hash": "d38490c9198e",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།]",
+      "quote_tibetan": "ལྷ་རྣམས་ཀྱིས་ཨ་ལ་ལ་དེང་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ༑ ༑ཞེས་བཤད་པའི་ཕྱིར།",
+      "relevance": "This passage is not relevant to the commentary excerpt as it discusses Vaibhasika views on the path of seeing rather than the Prajnaparamita teachings.",
+      "location": "མཆེ་བའི་སྡེ་'s འབུམ་ཊཱིཀ། [མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།], char offset ~452749 in the commentary file, unit 234/415",
+      "verification": "UNVERIFIED",
+      "correctness_score": 42,
+      "chunk_id": 233,
+      "unit_hash": "391e2efb46c4",
+      "passage_hash": "df9fc9543b25",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 415,
+    "units_scanned": 415,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

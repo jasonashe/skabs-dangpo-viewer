@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "127_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 112",
+  "root_paragraph": "བཞི་པ་ནི། བྱེ་བྲག་སྨྲ་བ་ཁ་ཅིག །ཤླཽ་ཀ་སྟོང་ཕྲག་དྲུག་དྲུག་ལ་ཆོས་ཕུང་རེ་རེའི་ཚད་དུ་འཇོག་སྟེ། ཤཱ་རིའི་བུས་མཛད་པའི་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་པའི་བསྟན་བཅོས་དེ་ཆོས་ཕུང་གཅིག་གི་ཚད་ཡིན་པས་དེ་ལ་དེ་ལྟར་ཡོད་པའི་ཕྱིར། ཞེས་ཟེར། ཁ་ཅིག །ཕུང་ཁམས་སྐྱེ་མཆེད་ལས་བརྩམས་པའི་གཏམ་རྒྱུད་ཆ་ཚང་བ་རེ་སྟོན་པའི་གསུང་རབ་ལ་ཆོས་ཕུང་རེ་རེའི་ཚད་དུ་འཇོག་གོ །ཞེས་ཟེར་ཏེ། མཛོད་ལས།ཁ་ཅིག་བསྟན་བཅོས་ཚད་ཅེས་ཟེར། །ཕུང་པོ་ལ་སོགས་གཏམ་རེ་ཡིན། །ཞེས་གསུངས།",
+  "root_paragraph_page": "112",
+  "paragraph_key": "1603fd89167cfff9",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:59.161118Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "མཛོད་ལས།ཁ་ཅིག་བསྟན་བཅོས་ཚད་ཅེས་ཟེར། །ཕུང་པོ་ལ་སོགས་གཏམ་རེ་ཡིན། །ཞེས་གསུངས།",
+      "relevance": "This quote from the Abhidharmakosa supports the view presented in paragraph 2 regarding the definition of a teaching section (chos phung) as certain conversational topics.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~358702 in the commentary file, unit 183/208",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 182,
+      "unit_hash": "de6b705ae423",
+      "passage_hash": "7e19cb429277",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "མཛོད་ལས།ཁ་ཅིག་བསྟན་བཅོས་ཚད་ཅེས་ཟེར། །ཕུང་པོ་ལ་སོགས་གཏམ་རེ་ཡིན། །ཞེས་གསུངས།",
+      "relevance": "This quote from the Abhidharmakosa supports the view being discussed regarding the definition of a dharma section (chos phung) as a measure of scripture.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~366115 in the commentary file, unit 186/208",
+      "verification": "UNVERIFIED",
+      "correctness_score": 20,
+      "chunk_id": 185,
+      "unit_hash": "41e2d605b97c",
+      "passage_hash": "dde55820fcca",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 208,
+    "units_scanned": 208,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

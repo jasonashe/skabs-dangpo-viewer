@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "66_གསུམ་པ་གུས། དུམ་མཚན་དང་པོ། 77",
+  "root_paragraph": "གསུམ་པ་གུས་པའི་དགོས་པ་ནི། དེ་ལྟར་གུས་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་དགོས་པ་ཡོད་དེ། དེ་ལ་བརྟེན་ནས་ཐོས་བསམ་སྒོམ་གསུམ་གྱི་ཤེས་རབ་རྣམས་རིམ་གྱིས་སྐྱེ་བར་འགྱུར་བའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ནས་ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པའི་ཤེས་པ་སྐྱེ་བའི་རིམ་གྱིས། ཞེས་གསུངས། གཉིས་པ་མཐར་ཐུག་གི་དགོས་པ་ནི། དེ་ལྟར་མཆོད་བརྗོད་ཀྱི་ཚིགས་བཅད་ཐོས་པས་དང་བ། དེ་ལས་དོན་གཉེར་གྱི་འདུན་པ། དེ་ལས་ཐོས་བསམ་གྱིས་ཞུགས་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་བརྟེན་ནས་མཐར་ལེགས་པའི་མཆོག་རྣམ་མཁྱེན་འཐོབ་པར་འགྱུར་གྱི། ཞེས་འཆད་པ་ལ༑ལེགས་པའི་མཆོག་འཐོབ་པར་འགྱུར་རོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "77",
+  "paragraph_key": "021b3815a3eefa48",
+  "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+  "generated_at": "2026-08-20T04:14:28.368389Z",
+  "quotes": [
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེ་ནས་ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པས་ཤེས་པ་སྐྱེ་བའི་རིམས་ཀྱིས།",
+      "relevance": "This quote supports the idea that the wisdoms of listening, reflection, and meditation arise in stages sequentially.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~732566 in the commentary file, unit 374/379",
+      "verification": "UNVERIFIED",
+      "correctness_score": 59,
+      "chunk_id": 373,
+      "unit_hash": "3ebf9bdcaea0",
+      "passage_hash": "048dc01ac432",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]",
+      "quote_tibetan": "དེ་ནས་ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པའི་ཤེས་པ་སྐྱེ་བའི་རིམ་གྱིས།",
+      "relevance": "This quote explains the sequential emergence of wisdom arising from hearing and other stages.",
+      "location": "བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~295443 in the commentary file, unit 151/379",
+      "verification": "UNVERIFIED",
+      "correctness_score": 47,
+      "chunk_id": 150,
+      "unit_hash": "15eadd54b1fd",
+      "passage_hash": "90b11bfbb737",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 379,
+    "units_scanned": 379,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

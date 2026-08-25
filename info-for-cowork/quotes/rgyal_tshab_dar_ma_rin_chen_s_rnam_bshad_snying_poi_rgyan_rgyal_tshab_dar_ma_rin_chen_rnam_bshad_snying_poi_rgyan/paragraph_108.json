@@ -1,0 +1,91 @@
+{
+  "root_paragraph_heading": "109_གཞན་ཡང་ཆོས། དུམ་མཚན་དང་པོ། 102",
+  "root_paragraph": "གཞན་ཡང་། ཆོས་འཁོར་ལ་ལུང་གི་ཆོས་འཁོར་དང་རྟོགས་པའི་ཆོས་འཁོར་གཉིས་སུ་གྲངས་མ་ངེས་པར་ཐལ། ལམ་མ་ཞུགས་ཀྱི་གང་ཟག་གི་རྒྱུད་ཀྱི་བསླབ་པ་གསུམ་པོ་དེ་ཆོས་འཁོར་གང་ཞིག །དེ་དེ་གང་རུང་མ་ཡིན་པའི་ཕྱིར། དང་པོ་དངོས། གཉིས་པ་སླ། རྩ་བར་འདོད་མི་ནུས་ཏེ། མཛོད་ལས།སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "102",
+  "paragraph_key": "673ad96e9daaa3e6",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:52.553286Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །",
+      "relevance": "This verse from the Abhidharmakośa is quoted to establish the two divisions of the teachings: scripture and realization.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~140923 in the commentary file, unit 72/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 71,
+      "unit_hash": "74f52e93c343",
+      "passage_hash": "ffba520f1038",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "མཛོད་ལས།སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+      "relevance": "This verse from the Abhidharmakośa is cited to prove that the Dharma is classified into scriptural transmission and realization.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~608882 in the commentary file, unit 311/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 310,
+      "unit_hash": "9d6ce2ab9c20",
+      "passage_hash": "e9100366a65d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "མཛོད་ལས།སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ། ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+      "relevance": "This quote from the Abhidharmakosa supports the division of the Dharma wheel into scriptural and realized aspects, directly addressing whether there are only two types.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~380461 in the commentary file, unit 194/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 193,
+      "unit_hash": "2d6fdbed804e",
+      "passage_hash": "f5ef3b88b57a",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །",
+      "relevance": "This verse from the Abhidharmakośa is cited to support the classification of the Dharma/teachings into scriptural transmission and realization.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~767935 in the commentary file, unit 392/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 32,
+      "chunk_id": 391,
+      "unit_hash": "40f6f334aa28",
+      "passage_hash": "48af7d0cb06d",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "སྟོན་པས་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །",
+      "relevance": "This verse from the Abhidharmakośa is cited to show that the teachings are classified under the two aspects of scripture (lung) and realization (rtogs pa).",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~10463 in the commentary file, unit 6/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 5,
+      "unit_hash": "42e5915dd0e5",
+      "passage_hash": "2a1f61d1477b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

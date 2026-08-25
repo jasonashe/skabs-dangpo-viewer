@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "66_གསུམ་པ་གུས། དུམ་མཚན་དང་པོ། 77",
+  "root_paragraph": "གསུམ་པ་གུས་པའི་དགོས་པ་ནི། དེ་ལྟར་གུས་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་དགོས་པ་ཡོད་དེ། དེ་ལ་བརྟེན་ནས་ཐོས་བསམ་སྒོམ་གསུམ་གྱི་ཤེས་རབ་རྣམས་རིམ་གྱིས་སྐྱེ་བར་འགྱུར་བའི་ཕྱིར། ཞེས་འཆད་པ་ལ།དེ་ནས་ཐོས་པ་ལས་བྱུང་བ་ལ་སོགས་པའི་ཤེས་པ་སྐྱེ་བའི་རིམ་གྱིས། ཞེས་གསུངས། གཉིས་པ་མཐར་ཐུག་གི་དགོས་པ་ནི། དེ་ལྟར་མཆོད་བརྗོད་ཀྱི་ཚིགས་བཅད་ཐོས་པས་དང་བ། དེ་ལས་དོན་གཉེར་གྱི་འདུན་པ། དེ་ལས་ཐོས་བསམ་གྱིས་ཞུགས་པ་ལ་དགོས་པ་ཅི་ཡོད་ཅེ་ན། དེ་ལ་བརྟེན་ནས་མཐར་ལེགས་པའི་མཆོག་རྣམ་མཁྱེན་འཐོབ་པར་འགྱུར་གྱི། ཞེས་འཆད་པ་ལ༑ལེགས་པའི་མཆོག་འཐོབ་པར་འགྱུར་རོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "77",
+  "paragraph_key": "021b3815a3eefa48",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:56:58.761164Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།]",
+      "quote_tibetan": "ལེགས་པའི་མཆོག་འཐོབ་པར་འགྱུར་རོ། །",
+      "relevance": "Paragraph 16 quotes this to show the ultimate result of following the path of listening, contemplation, and meditation—attaining supreme goodness.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྦྱོར་ལམ་གྱི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྦྱོར་ལམ་གྱི་སྤྱི་དོན།], char offset ~40380 in the commentary file, unit 21/208",
+      "verification": "UNVERIFIED",
+      "correctness_score": 45,
+      "chunk_id": 20,
+      "unit_hash": "39e5aebde986",
+      "passage_hash": "4ae984c88c11",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 208,
+    "units_scanned": 208,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

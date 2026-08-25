@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "160_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 135",
+  "root_paragraph": "ཁོ་ན་རེ། གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན། ཐེག་དམན་གྱི་ལམ་ཡིན་པར་ཐལ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར། འདོད་ན། ཐེག་ཆེན་གྱི་གང་ཟག་དང་ཐེག་དམན་གྱི་གང་ཟག་མི་འགལ་བར་ཐལ། དེ་གཉིས་ཀྱི་ལམ་མི་འགལ་བའི་ཕྱིར་ན་མ་ཁྱབ། དེས་མཚོན་ནས། དགེ་བསྙེན་གྱི་སྡོམ་པ་ཡིན་ན། དགེ་བསྙེན་རང་རྒྱུད་ཀྱིས་བསྡུས་པས་ཁྱབ་པར་ཐལ་བ་སོགས་རིགས་འགྲེ་བྱ་ཚུལ་ཤེས་པར་བྱའོ། །",
+  "root_paragraph_page": "135",
+  "paragraph_key": "380e145b739394ad",
+  "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:14:06.447307Z",
+  "quotes": [
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "ཁོ་ན་རེ། གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣམ་མཁྱེན་ཆོས་ཅན། ཐེག་དམན་གྱི་ལམ་ཡིན་པར་ཐལ། ཉན་ཐོས་ཀྱི་ལམ་ཡིན་པའི་ཕྱིར།",
+      "relevance": "This quote presents an objection regarding whether the omniscient consciousness realizing personal selflessness could be considered a lower vehicle's path because it involves the Hearer's path, directly corresponding to the topic discussed in paragraph 8.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~240571 in the commentary file, under ‘པུ་’, unit 123/137",
+      "verification": "UNVERIFIED",
+      "correctness_score": 48,
+      "chunk_id": 122,
+      "unit_hash": "abad3bc4e6a2",
+      "passage_hash": "716363e81d56",
+      "folio": null,
+      "sa_bcad": "པུ་",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 137,
+    "units_scanned": 137,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

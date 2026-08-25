@@ -1,0 +1,34 @@
+# Quote collection: ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]
+**Target paragraph:** 366_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 268
+
+> གཉིས་པ་ནི། དེ་གང་ཞིག །རྒྱུ་ཀུན་འབྱུང་རབ་སྐྱེ་རྐྱེན་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད། དབྱེ་ན། ལས་ཀྱི་ཀུན་འབྱུང་བདེན་པ་དང་། ཉོན་མོངས་པའི་ཀུན་འབྱུང་བདེན་པ་གཉིས་ཡོད་དེ། ཀུན་བཏུས་ལས༑ཀུན་འབྱུང་བའི་བདེན་པ་གང་ཞེ་ན། ཉོན་མོངས་པ་དང་དེའི་དབང་གིས་བྱུང་བའི་ལས་སོ། །ཞེས་གསུངས་པའི་ཕྱིར། དང་པོ་ལ་དབྱེ་ན། འཁོར་བས་བསྡུས་པའི་བསོད་ནམས་ཀྱི་ལས། བསོད་ནམས་མ་ཡིན་པའི་ལས། མི་གཡོ་བའི་ལས་དང་གསུམ་ཡོད། དང་པོ་ལ། མིར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་དང་། འདོད་ལྷར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་དང་གཉིས་ལས། དང་པོ་ལ་གླིང་བཞིའི་མིར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ཡོད། གཉིས་པ་ལ། འདོད་ལྷ་རིགས་དྲུག་ཏུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་དྲུག་ཡོད། གཉིས་པ་ལ། ངན་སོང་གསུམ་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། གསུམ་པ་ལ༑ གཟུགས་ཁམས་དང་། གཟུགས་མེད་ཁམས་སུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གཉིས་ལས༑ དང་པོ་ལ། བསམ་གཏན་དང་པོ། གཉིས་པ། གསུམ་པ། བཞི་པར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ལས། དང་པོ་ལ། ཚངས་རིས། ཚངས་པ་མདུན་ན་འདོན། ཚངས་ཆེན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། གཉིས་པ་ལ། འོད་ཆུང་། ཚད་མེད་འོད༑ འོད་གསལ་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། གསུམ་པ་ལ། དགེ་ཆུང་༑ ཚད་མེད་དགེ ། དགེ་རྒྱས་སུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད། བཞི་པ་ལ༑ སྤྲིན་མེད། བསོད་ནམས་སྐྱེས། འབྲས་བུ་ཆེ་བ། མི་ཆེ་བ། མི་གདུང་བ། གྱ་ནོམ་སྣང་བ། ཤིན་ཏུ་མཐོང་བ། འོག་མིན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བརྒྱད་དུ་ཡོད། གཉིས་པ་ལ་ནམ་མཁའ་མཐའ་ཡས་སྐྱེ་མཆེད། རྣམ་ཤེས་མཐའ་ཡས། ཅི་ཡང་མེད། སྲིད་རྩེར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ཡོད།
+
+*Coverage: complete.*
+
+## Quote (42% correctness) ⚠️ UNVERIFIED
+> ཀུན་འབྱུང་བའི་བདེན་པ་གང་ཞེ་ན། ཉོན་མོངས་པ་དང་དེའི་དབང་གིས་བྱུང་བའི་ལས་སོ། །
+
+- **Why relevant:** This quote defines the truth of origin in terms of afflictions and the actions arising from them, directly relevant to the classifications of the truth of origin discussed in the target paragraph.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~726927 in the commentary file, unit 372/421
+- **Verification:** UNVERIFIED
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> ཀུན་བཏུས་ལས༑ཀུན་འབྱུང་བའི་བདེན་པ་གང་ཞེ་ན། ཉོན་མོངས་པ་དང་དེའི་དབང་གིས་བྱུང་བའི་ལས་སོ། །ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This quotation from the Abhidharmasamuccaya defines the truth of origin as mental afflictions and the actions arising from them, directly supporting the classification of the truth of origin.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~353730 in the commentary file, unit 182/421
+- **Verification:** UNVERIFIED
+
+## Quote (31% correctness) ⚠️ UNVERIFIED
+> སྤྲིན་མེད། བསོད་ནམས་སྐྱེས། འབྲས་བུ་ཆེ་བ། མི་ཆེ་བ། མི་གདུང་བ། གྱ་ནོམ་སྣང་བ། ཤིན་ཏུ་མཐོང་བ། འོག་མིན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བརྒྱད་དུ་ཡོད།
+
+- **Why relevant:** This quote lists the specific karma types for generating rebirth in the form realms, which is relevant to the detailed classification of karma in paragraph 6.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~583521 in the commentary file, unit 300/421
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> བསམ་གཏན་དང་པོ། གཉིས་པ། གསུམ་པ། བཞི་པར་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་བཞི་ལས། དང་པོ་ལ། ཚངས་རིས། ཚངས་པ་མདུན་ན་འདོན། ཚངས་ཆེན་དུ་སྐྱེ་བ་འཕེན་བྱེད་ཀྱི་ལས་གསུམ་དུ་ཡོད།
+
+- **Why relevant:** This passage lists the karma projecting rebirth into the four dhyanas and specifically the first dhyana, matching the classification of projecting karma detailed in paragraph 6.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~547568 in the commentary file, unit 281/421
+- **Verification:** UNVERIFIED

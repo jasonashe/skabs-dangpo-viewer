@@ -1,0 +1,20 @@
+# Quote collection: ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]
+**Target paragraph:** 297_གཉིས་པ་སེམས། དུམ་མཚན་དང་པོ། 230
+
+> གཉིས་པ་སེམས་བསྐྱེད་པའི་ཚད་ནི། བྱང་ཆུབ་ཀྱི་སེམས་མན་ངག་བཞིན་དུ་སྦྱངས་པ་ལ་བརྟེན་ནས་ཡིད་ལེགས་པར་འཁུལ་ཐུབ་པའི་མྱོང་བ་ཁྱད་པར་ཅན་སྐྱེས་པ་ནི༑ ཐེག་ཆེན་སེམས་བསྐྱེད་སྐྱེས་པའི་ཚད་ཡིན་ཏེ། དེ་ནི་བུ་རམ་གྱི་ཤུན་པའི་ནང་གི་རོ་མངར་བ་དང་འདྲ་ལ། མྱོང་བ་ཁྱད་པར་ཅན་མ་སྐྱེས་གོང་གི་གཞན་དོན་དུ་རྫོགས་བྱང་ཐོབ་པར་འདོད་པའི་བསམ་པ་ནི། བུ་རམ་ཤིང་གི་ཤུན་པའི་རོ་མངར་བ་ཙམ་དང་འདྲ་སྟེ། ལྷག་བསམ་བསྐུལ་བའི་མདོ་ལས།བུ་རམ་ཤིང་ཤུན་སྙིང་པོ་ཅི་ཡང་མེད། །དགའ་བར་བྱ་བའི་རོ་ནི་ནང་ན་འདུག ། ཤུན་པ་ཟོས་པའི་མིས་ནི་བུ་རམ་རོ། །ཞིམ་པོ་རྙེད་པར་ནུས་པ་མ་ཡིན་ནོ༑ ༑ཇི་ལྟར་ཤུན་པ་དེ་བཞིན་སྨྲ་བ་སྟེ། །རོ་ལྟ་བུ་ནི་དེ་ལ་དོན་སེམས་ཡིན། །དེ་ལྟ་བས་ན་སྨྲ་ལ་དགའ་སྤོངས་ལ། །རྟག་ཏུ་བག་ཡོད་བྱས་ལ་དོན་སེམས་ཤིག །ཅེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> སོ་སོའི་སྐྱེ་བོ་ཉིད་ན་འང་སྟོང་ཉིད་ཐོས། ། ནང་གི་དགའ་བ་ཡང་དང་ཡང་དུ་འབྱུང་། ། དགའ་ལས་བྱུང་བའི་མཆི་མས་མིག་ནི་བརླན། ། ལུས་ཀྱི་སྤུ་རྣམས་ལྡང་བའང་འབྱུང་བར་འགྱུར། །
+
+- **Why relevant:** This quote is relevant because it discusses the experiential realization and inner joy that arises from understanding emptiness, which supports the commentary's discussion on the profound experiential aspect of the mind of enlightenment.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~97807 in the commentary file, unit 51/421
+- **Verification:** verified_exact
+
+## Quote (83% correctness) ⚠️ UNVERIFIED
+> ཉི་མ་ལ་སོགས་པ་ལས་སྐྱེས་པ་དང་ཞེས་པ་ནི་ཇི་ལྟར་མངོན་པར་འབྱུང་བའི་མདོ་ལས་ཉི་མ་ལས་སྐྱེས་པ་དང་བུ་རམ་ཤིང་པའི་སྔོན་བྱུང་བ་អཕགས་པ་མཽད་གལ་གྱི་བུས་ཤཱཀྱ་རྣམས་ལ་བཤད་པ་ལྟ་བུ་སྟེ།
+
+- **Why relevant:** This passage from the commentary provides a direct scriptural reference to sugar cane lineages and sweetness analogies, which is contextually related to the discussion of the sugar cane simile in paragraph 1.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~161084 in the commentary file, unit 83/421
+- **Verification:** UNVERIFIED

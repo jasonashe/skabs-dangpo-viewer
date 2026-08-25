@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "229_དང་པོ་ནི། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "དང་པོ་ནི། གདམས་ངག་གི་སྐབས་སུ་སྒྲུབ་དང་། ཞེས་དང་། སྒྲུབ་པ་བཞི་རྣམས་ཟློས་པར་འགྱུར་ཏེ། སྒྲུབ་པ་ཁྱད་པར་མེད་པ་ཡང་ཡང་བསྟན་པའི་ཕྱིར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་གདམས་ངག་གི་བརྗོད་བྱའི་ཆ་ནས་ཡིན་ལ། གཉིས་པ་དེ་སྒྲུབ་པ་རང་གི་ངོ་བོ་དང་། དབྱེ་བ་བསྟན་པ་ཡིན་པའི་ཕྱིར།",
+  "root_paragraph_page": "182",
+  "paragraph_key": "e2c140071aae9f85",
+  "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+  "generated_at": "2026-08-21T06:57:16.995923Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "ཆེད་དུ་བྱ་བའི་རྗེས་ལ་ད་ནི་རྫོགས་པའི་ཆེད་དུ་སྒྲུབ་པ་བརྗོད་པར་བྱ་སྟེ།",
+      "relevance": "This commentary passage introduces the discussion of practice (སྒྲུབ་པ) and its aspects, which corresponds to the topic of avoiding or explaining the apparent repetition of the four practices discussed in paragraph 4 of the target text.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~48370 in the commentary file, unit 26/440",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 25,
+      "unit_hash": "59efbe39815a",
+      "passage_hash": "4a9417ee2188",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།]",
+      "quote_tibetan": "སྒྲུབ་པ་བཞི་པོ་དེ་དག་ཀྱང་ཁྱད་པར་གྱི་རང་བཞིན་རྣམ་པ་ཐམས་ཅད་སྦྱོར་བ་ནི་མི་ནུས་པས་སྤྱིར་བསྟན་གྱི། འདིར་ཁྱད་པར་ནི་མ་ཡིན་ཏེ།",
+      "relevance": "The commentary mentions the four practices (སྒྲུབ་པ་བཞི) and addresses whether they are differentiated or general, relating to the discussion of whether the four practices are repetitious.",
+      "location": "སེང་གེ་བཟང་པོ་'s སྡུད་པའི་དཀའ་འགྲེལ། [སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།], char offset ~49498 in the commentary file, unit 26/440",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 25,
+      "unit_hash": "59efbe39815a",
+      "passage_hash": "4a9417ee2188",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 440,
+    "units_scanned": 440,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

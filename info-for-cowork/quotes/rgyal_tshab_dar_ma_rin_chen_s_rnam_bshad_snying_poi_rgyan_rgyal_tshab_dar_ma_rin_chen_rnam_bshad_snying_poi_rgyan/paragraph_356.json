@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "357_བཞི་པ་ལ། དུམ་མཚན་དང་པོ། 265",
+  "root_paragraph": "བཞི་པ་ལ། མདོར་བསྟན་པ་དང་། རྒྱས་པར་བཤད་པ་གཉིས་ལས། དང་པོ་ནི། འཕགས་པའི་བདེན་པ་དེ་ལ་བཞི་ཡོད་དེ། ཀུན་བཏུས་ལས།བདེན་པ་རྣམ་པར་ངེས་པ་གང་ཞེ་ན། འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་སྟེ། སྡུག་བསྔལ་བ་དང་། ཀུན་འབྱུང་བ་དང་༑ འགོག་པ་དང་། ལམ་མོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "265",
+  "paragraph_key": "bd116c95fb3ed46a",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:55.152695Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "བདེན་པ་རྣམ་པར་ངེས་པ་གང་ཞེ་ན། འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་སྟེ། སྡུག་བསྔལ་བ་དང་། ཀུན་འབྱུང་བ་དང་༑ འགོག་པ་དང་། ལམ་མོ། །",
+      "relevance": "This citation from the Abhidharmasamuccaya establishes the concise enumeration of the four noble truths.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~93720 in the commentary file, unit 48/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 40,
+      "chunk_id": 47,
+      "unit_hash": "b64136f7b0f9",
+      "passage_hash": "61932a27c517",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

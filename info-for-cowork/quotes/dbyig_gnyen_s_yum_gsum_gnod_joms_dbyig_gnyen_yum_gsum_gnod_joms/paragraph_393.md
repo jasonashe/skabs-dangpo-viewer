@@ -1,0 +1,202 @@
+# Quote collection: དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།]
+**Target paragraph:** 394_གསུམ་པ་ལ། དུམ་མཚན་དང་པོ། 284
+
+> གསུམ་པ་ལ།ཀུན་རྫོབ་པའི་སྐྱབས་དང་། དོན་དམ་པའི་སྐྱབས་གཉིས་ལས། དང་པོ་ནི། རྒྱུད་བླ་མ་ལས།སྤང་ཕྱིར་བསླུ་བའི་ཆོས་ཅན་ཕྱིར། །མེད་ཕྱིར་འཇིགས་དང་བཅས་པའི་ཕྱིར། །ཆོས་རྣམ་གཉིས་དང་འཕགས་པའི་ཚོགས། །གཏན་གྱི་སྐྱབས་མཆོག་མ་ཡིན་ནོ། །ཞེས་གསུངས་པའི་ཕྱིར། དོན་ནི། གདུལ་བྱའི་རྒྱུད་ཀྱིས་བསྡུས་པའི་གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ལུང་དོན་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཚེ་གཟིངས་ལྟར་དུ་སྤང་བར་བྱ་བ་ཡིན་པའི་ཕྱིར་ཏེ། མདོ་སྡེའི་རྒྱན་ལས།དོན་ཤེས་པས་ནི་ཆོས་རྣམས་ཀུན། །གཟིངས་དང་འདྲ་བ་ཉིད་དུ་རིགས༑ ༑ཞེས་དང་། རྒྱུད་བླ་མའི་འགྲེལ་པར།ཆོས་ནི་རྣམ་པ་གཉིས་ཏེ། བསྟན་པའི་ཆོས་དང་། རྟོགས་པའི་ཆོས་སོ། །དེ་ལ་བསྟན་པའི་ཆོས་ནི་མདོ་སྡེ་ལ་སོགས་པ་བསྟན་པ་བརྗོད་པ་སྟེ་མིང་དང་ཚིག་དང་ཡི་གེའི་ཚོགས་ཀྱིས་བསྡུས་པའོ། །དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །ཞེས་བཤད། ཞེས་གསུངས། སློབ་པའི་རྒྱུད་ཀྱི་ལམ་བདེན་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། རང་གི་གཟིགས་ངོར་རང་ཉིད་དྲི་མ་མཐའ་དག་དང་བྲལ་བ་ལྟར་སྣང་ཡང་དྲི་མ་མཐའ་དག་དང་མ་བྲལ་བའི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར། དེ་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། དྲི་མ་དང་བཅས་པའི་གནས་སྐབས་ལས་དྲི་མ་དང་བྲལ་བའི་གནས་སྐབས་གཞན་དུ་འགྱུར་དགོས་པའི་མི་རྟག་པ་ཡིན་པའི་ཕྱིར། དེ་ལྟར་ཡང་དེ་ཉིད་ལས།རྟོགས་པའི་ཆོས་ནི་རྒྱུ་དང་འབྲས་བུའི་དབྱེ་བས་རྣམ་པ་གཉིས་ཏེ། འདི་ལྟ་སྟེ། ལམ་གྱི་བདེན་པ་དང་འགོག་པའི་བདེན་པ་སྟེ། གང་གིས་དང་གང་རྟོགས་པ་ཞེས་བྱ་བས་སོ། །དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་ཞེས་བྱ་བས་སོ། །དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །ཞེས་གསུངས། ལྷག་མེད་མྱང་འདས་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཉོན་མོངས་པ་དང་སྡུག་བསྔལ་མེད་པ་ཙམ་གྱིས་རབ་ཏུ་ཕྱེ་བ་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ཉིད་ལས།ལམ་དུ་མ་གཏོགས་པའི་འགོག་པ་གང་ཡིན་པ་དེ་ཡང་ཉན་ཐོས་ཀྱི་ཚུལ་གྱི་མར་མེ་རྒྱུན་ཆད་པ་བཞིན་དུ་ཉོན་མོངས་པ་དང་སྡུག་བསྔལ་མེད་པ་ཙམ་གྱིས་རབ་ཏུ་ཕྱེ་བ་ནི་སྐྱབས་སམ་སྐྱབས་མ་ཡིན་པར་འགྱུར་བ་ལས་འོས་པ་མ་ཡིན་ནོ། །ཞེས་གསུངས་པའི་ཕྱིར། ས་བཅུ་པ་བ་དང་ཉན་རང་དགྲ་བཅོམ་པ་རྣམས་ཆོས་ཅན། མཐར་ཐུག་གི་སྐྱབས་མ་ཡིན་ཏེ། ཤེས་སྒྲིབ་ཀྱི་འཇིགས་པ་དང་བཅས་པའི་ཕྱིར་ཏེ། དེ་ཉིད་ལས།དགེ་འདུན་ཞེས་བྱ་བ་ནི་ཐེག་པ་གསུམ་དང་ལྡན་པའི་ཚིག་བླ་དྭགས་སོ། །དེ་ཡང་རྟག་ཏུ་འཇིགས་པ་དང་བཅས་པ་དེ་ལ་སྐྱབས་སུ་སོང་བ་ངེས་པར་འབྱུང་བ་འཚོལ་བ་སློབ་པ་དང་བཅས་པ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་ཞུགས་པ་མ་ཡིན་ནོ། །ཇི་ལྟར་འཇིགས་པ་དང་བཅས་ཤེ་ན། གང་གི་ཕྱིར་དགྲ་བཅོམ་པ་ཡང་སྲིད་ཟད་པ་རྣམས་ཀྱང་བག་ཆགས་མ་སྤངས་པའི་ཕྱིར་རྟག་ཏུ་རྒྱུན་མི་ཆད་པར་འདུ་ཤེས་ཐམས་ཅད་ལ་མི་ཟད་པར་འཇིགས་པའི་འདུ་ཤེས་ཉེ་བར་གནས་པར་འགྱུར་ཏེ། དཔེར་ན། རལ་གྲི་གདེངས་པའི་གཤེད་མས་སྐྱེས་བུ་ལ་བྱ་བ་བཞིན། དེས་ན་དེ་དག་ཀྱང་གཏན་དུ་མེད་པའི་ངེས་པར་འབྱུང་བ་མ་ཡིན་ནོ། །སྐྱབས་ནི་སྐྱབས་འཚོལ་བར་རིགས་པ་མ་ཡིན་ནོ༑ ༑ཞེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> ཉན་ཐོས་དང་རང་སངས་རྒྱས་རྣམས་ཀྱི་ཕུང་པོའི་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ་ནི་ཡང་དག་པའི་མཐའི་དེ་བཞིན་ཉིད་ཅེས་བྱ་སྟེ།
+
+- **Why relevant:** This quote discusses the nirvana of hearers and solitary realizers, which relates to the analysis of lower attainments and ultimate refuge in the target passage.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~189747 in the commentary file, unit 97/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> མ་བྱུང་བ་ལས་འབྱུང་བ་དང་བྱུང་ནས་ཀྱང་མེད་པར་འགྱུར་བའི་ཕྱིར། མི་རྟག་པར་ཡིད་ལ་བྱེད་དོ། །
+
+- **Why relevant:** This quote explains the reasoning that impermanent conditioned phenomena are deceptive and not ultimate refuges.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~534629 in the commentary file, unit 273/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> སྡུག་བསྔལ་གྱིས་ཉམ་ཐག་པ་རྣམས་སྡུག་བསྔལ་ལས་ཡོངས་སུ་ཐར་བར་བྱས་ལ། ཕུང་པོ་མེད་པའི་མྱ་ངན་ལས་འདས་པར་དགོད་པའི་བསམ་པ་ནི་སྐྱབས་སོ། །
+
+- **Why relevant:** This quote explains the meaning of "refuge" (སྐྱབས་) in terms of rescuing beings from suffering and establishing them in nirvana.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~661091 in the commentary file, unit 338/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ཐམས་ཅད་ཀྱང་དགྲ་བཅོམ་པ། ཟག་པ་ཟད་པ་ཞེས་བྱ་བ་ལ་སོགས་པ་ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པ་འོག་མ་རྣམས་སྨོས་སོ། །
+
+- **Why relevant:** This discusses the qualities of the arhats and noble assembly in the context of describing the sangha.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~7728 in the commentary file, unit 4/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> གང་སངས་རྒྱས་རྣམས་ལ་བག་ཆགས་ཀྱི་གནས་ཡོད་པ་ནི་གནས་མ་ཡིན་པའོ། ། གང་མ་ལུས་པར་སྤངས་པ་ནི་གནས་སོ། །
+
+- **Why relevant:** This passage discusses how buddhas have completely abandoned latent tendencies (bag chags), which relates to the discussion of arhats and their residual tendencies in the target passage.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~416280 in the commentary file, unit 213/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> གང་དེ་བཞིན་གཤེགས་པ་གང་དུ་ཡང་བག་ཚ་བ་དང་། བསྙེངས་པར་འགྱུར་བ་ནི་གནས་མ་ཡིན་པའོ། ། གང་ཐམས་ཅད་དུ་བག་ཚ་བ་དང་། བསྙེངས་པ་མི་མངའ་བ་ནི་གནས་སོ། །
+
+- **Why relevant:** This quote relates to the discussion of fearlessness and freedom from fear in advanced practitioners versus buddhas.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~416973 in the commentary file, unit 213/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> རྣམ་པར་སྨིན་པ་ལས་བྱུང་བའི་མངོན་པར་ཤེས་པ་ཡང་ག་ལ་མཆིས་ཞེས་བྱ་བ་ནི་ས་བརྒྱད་པ་ཡན་ཆད་ལ་རྣམ་པར་སྨིན་པའི་མངོན་པར་ཤེས་པ་དང་། རྣམ་པར་སྨིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྣམས་ཉེ་བར་གནས་སོ། །
+
+- **Why relevant:** This quote discusses the level from the eighth bhumi and above where resultant higher knowledges and perfections are present, which relates to the discussions on advanced stages of practitioners.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~805203 in the commentary file, unit 412/459
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ལམ་ནི་དངོས་པོ་མ་མཆིས་པའོ། ། རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ནི་དངོས་པོ་མ་མཆིས་པའོ་ཞེས་བྱ་བ་ལ་སོགས་པས། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་ཡིན་པའི་ཕྱིར་ཐོས་པ་ཞེས་བྱ་བ་གང་ཡང་མེད་དོ་ཞེས་བསྟན་ཏོ། །
+
+- **Why relevant:** The commentary discusses the status of the path and the nature of conditioned versus unconditioned phenomena in relation to attainment.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~853145 in the commentary file, unit 436/459
+- **Verification:** verified_exact
+
+## Quote (82% correctness) ⚠️ UNVERIFIED
+> འདི་ལྟར་སྔར་དྲི་མ་དང་བཅས་པར་གྱུར་པ་ལས་ཕྱིས་དྲི་མ་མེད་པར་འགྱurཏེ་དེའི་ཕྱིར་མི་རྟག་པའོ། །
+
+- **Why relevant:** This quote explains the impermanence of things that transition from being defiled to undefiled, which supports the reasoning regarding impermanent conditioned states.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~511920 in the commentary file, unit 261/459
+- **Verification:** UNVERIFIED
+
+## Quote (82% correctness) ⚠️ UNVERIFIED
+> དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས། རབ་འབྱོར་དེ་ནི་མ་ཡིན་ཏེ། ལམ་བསྒོམས་པས་འབྲས་བུ་འབྱུང་བར་མི་འགྱུར། འབྲས་བུ་ཐོབ་པར་མི་འགྱུར་ཏེ་ཞེས་བྱ་བ་ནི། ལམ་དང་འབྲས་བུ་གཉིས་ຄายང་ཀུན་བརྟགས་པ་ཡིན་པས་བསལ་བ་བཀའ་སྩལ་ཏོ། །
+
+- **Why relevant:** This passage discusses how the path and its result are conceptually constructed (kun brtags pa), supporting the discussion in paragraph 2 regarding the provisional and non-ultimate nature of the path of learning.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~832564 in the commentary file, unit 426/459
+- **Verification:** UNVERIFIED
+
+## Quote (46% correctness) ⚠️ UNVERIFIED
+> དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །
+
+- **Why relevant:** The commentary explicitly discusses how the teachings and scriptural Dharma are to be abandoned like a raft once the path of realization is completed, which supports the target passage's point about temporary refuge.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~210448 in the commentary file, unit 108/459
+- **Verification:** UNVERIFIED
+
+## Quote (46% correctness) ⚠️ UNVERIFIED
+> དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །
+
+- **Why relevant:** This quote supports the idea that the path and teachings (scriptural and realization dharmas) are ultimately to be abandoned like a raft when reaching the final stage of realization.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~520381 in the commentary file, unit 266/459
+- **Verification:** UNVERIFIED
+
+## Quote (44% correctness) ⚠️ UNVERIFIED
+> དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །
+
+- **Why relevant:** This quote explains that the path of realization is like a raft because it is to be abandoned at the final stage of realization, which supports the target passage's point about the provisional nature of the path as a raft.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~667618 in the commentary file, unit 341/459
+- **Verification:** UNVERIFIED
+
+## Quote (44% correctness) ⚠️ UNVERIFIED
+> དོན་ཤེས་པས་ནི་ཆོས་རྣམས་ཀན། །གཟིངས་དང་འདྲ་བ་ཉིད་དུ་རིགས༑ ༑
+
+- **Why relevant:** This verse supports the idea that the teachings and path are to be abandoned like a raft upon reaching ultimate realization, meaning they are not ultimate refuges.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~48447 in the commentary file, unit 25/459
+- **Verification:** UNVERIFIED
+
+## Quote (43% correctness) ⚠️ UNVERIFIED
+> དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །
+
+- **Why relevant:** The commentary discusses how the teachings and practices related to the path act like a raft and are eventually transcended at the ultimate stage, which supports the cited passage about the teachings being abandoned like a raft.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~492674 in the commentary file, unit 252/459
+- **Verification:** UNVERIFIED
+
+## Quote (40% correctness) ⚠️ UNVERIFIED
+> དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །
+
+- **Why relevant:** This quote supports the idea that the scriptural teachings and path, being like a raft to be discarded upon reaching the ultimate realization, are not ultimate refuges.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~5291 in the commentary file, unit 3/459
+- **Verification:** UNVERIFIED
+
+## Quote (36% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། ། གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** Wait, the target passage cites this passage from Ratnagotravibhaga/commentary on conditioned paths being deceptive and impermanent, but the excerpt does not contain this exact text. Let me check carefully: the excerpt actually contains related discussions of impermanence and unreliability, but the exact target quote is not in the excerpt. Therefore, I should not include quotes that are not verbatim in the excerpt.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~535595 in the commentary file, unit 273/459
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> དེ་ཡང་ལམ་མངོན་པར་རྟོགས་པ་མཐར་ཐུག་པའི་ཕྱིར་གཟིངས་ལྟ་བུའོ། །
+
+- **Why relevant:** This quote supports the target passage's discussion that the teachings (scriptural dharma) are to be abandoned like a raft when realization is completed.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~186818 in the commentary file, unit 96/459
+- **Verification:** UNVERIFIED
+
+## Quote (33% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote explains why the path as a conditioned phenomenon is deceptive and therefore not the ultimate refuge, matching the reasoning in the target passage.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~188820 in the commentary file, unit 97/459
+- **Verification:** UNVERIFIED
+
+## Quote (31% correctness) ⚠️ UNVERIFIED
+> དེ་ནི་སངས་རྒྱས་ཉག་གཅིག་མཐར་ཐུག་པའི་སྐྱབས་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ནི་བདེན་གཉིས་ཀྱི་ཡོན་ཏན་མཐར་ཕྱིན་པའི་ཆོས་ཀྱི་རྟེན་ཅན་ཡིན་པའི་ཕྱིར་ཏེ། རྒྱུད་བླ་མ་ལས།དམ་པའི་དོན་དུ་འགྲོ་བ་ཡི། །སྐྱབས་ནི་སངས་རྒྱས་ཉག་གཅིག་ཡིན། །ཐུབ་པ་ཆོས་ཀྱི་སྐུ་ཅན་ཕྱིར༑ ༑ཞེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** This is a placeholder explanation for the quote.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~98790 in the commentary file, unit 51/459
+- **Verification:** UNVERIFIED
+
+## Quote (30% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage from the target text discusses the deceptive nature of conditioned phenomena and the path, and although the exact source quote is not in the commentary excerpt, the excerpt discusses related topics of impermanence and deceptive characteristics such as 'སླུ་བའི་ཆོས་ཅན་' implicitly through discussing illusion-like phenomena, though wait—let me check the exact match. Actually, looking closely at the instructions, the prompt target text quotes the Ratnagotravibhāga (རྒྱུད་བླ་མ་), and the commentary excerpt discusses Prajñāpāramitā. There are no verbatim overlapping quotes regarding the refuge topic in paragraphs 2-5. Therefore, returning an empty list.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~198809 in the commentary file, unit 102/459
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage from the commentary explains that conditioned phenomena (such as the path) are deceptive and impermanent, which supports the target passage's reasoning that the path of learning is not the ultimate refuge because it is a deceptive, conditioned phenomenon.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~173998 in the commentary file, unit 89/459
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage discusses the conditioned nature of the path and how it is impermanent and deceptive, which relates to Paragraph 2's discussion of the path as not being an ultimate refuge.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~155670 in the commentary file, unit 80/459
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage discusses how the path as a conditioned phenomenon possesses deceptive characteristics and is thus not an ultimate refuge, which is relevant to paragraph 2's discussion of the provisional nature of the path of learning.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~370565 in the commentary file, unit 189/459
+- **Verification:** UNVERIFIED
+
+## Quote (26% correctness) ⚠️ UNVERIFIED
+> གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** The commentary excerpt discusses how conditioned phenomena are deceptive and impermanent, which relates to the target passage's discussion of why certain paths and teachings are not ultimate refuges.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~874887 in the commentary file, unit 447/459
+- **Verification:** UNVERIFIED
+
+## Quote (25% correctness) ⚠️ UNVERIFIED
+> སྤང་ཕྱིར་བསླུ་བའི་ཆོས་ཅན་ཕྱིར། །མེད་ཕྱིར་འཇིགས་དང་བཅས་པའི་ཕྱིར། །ཆོས་རྣམ་གཉིས་དང་འཕགས་པའི་ཚོགས། །གཏན་གྱི་སྐྱབས་མཆོག་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This verse is quoted to show that certain aspects of the teachings, path, and noble assembly are not the ultimate refuge because they are deceptive or accompanied by fear.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~41372 in the commentary file, unit 22/459
+- **Verification:** UNVERIFIED
+
+## Quote (25% correctness) ⚠️ UNVERIFIED
+> གང་གི་ཕྱིར་དགྲ་བཅོམ་པ་ཡང་སྲིད་ཟད་པ་རྣམས་ཀྱང་བག་ཆགས་མ་སྤངས་པའི་ཕྱིར་རྟག་ཏུ་རྒྱུན་མི་ཆད་པར་འདུ་ཤེས་ཐམས་ཅད་ལ་མི་ཟད་པར་འཇིགས་པའི་འདུ་ཤེས་ཉེ་བར་གནས་པར་འགྱུར་ཏེ།
+
+- **Why relevant:** This passage explains why arhats and high-level practitioners still have fears and cannot serve as the ultimate refuge.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~41935 in the commentary file, unit 22/459
+- **Verification:** UNVERIFIED
+
+## Quote (20% correctness) ⚠️ UNVERIFIED
+> དེ་ལ་ལམ་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་ལ། འདུས་བྱས་ཀྱི་མཚན་ཉིད་དུ་གཏོགས་པ་གང་ཡིན་པ་དེ་ནི་རྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །གང་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་དེ་ནི་མི་བདེན་པ། གང་མི་བདེན་པ་དེ་ནི་མི་རྟག་པ། གང་མི་རྟག་པ་དེ་ནི་སྐྱབས་མ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote explains why the path as a conditioned phenomenon is deceptive, impermanent, and therefore not an ultimate refuge.
+- **Location:** དབྱིག་གཉེན་'s ཡུམ་གསུམ་གནོད་འཇོམས། [དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།], char offset ~2302 in the commentary file, unit 2/459
+- **Verification:** UNVERIFIED

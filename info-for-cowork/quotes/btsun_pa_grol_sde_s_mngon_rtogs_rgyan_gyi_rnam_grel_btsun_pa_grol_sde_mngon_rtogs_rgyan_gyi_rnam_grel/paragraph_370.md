@@ -1,0 +1,34 @@
+# Quote collection: བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།]
+**Target paragraph:** 371_དྲུག་པ་ལ། དུམ་མཚན་དང་པོ། 272
+
+> དྲུག་པ་ལ། ལོག་ཞུགས་བཅུ་དྲུག་ངོས་གཟུང་བ་དང་། དེ་དང་འགལ་བའི་རྣམ་པ་བཅུ་དྲུག་ངོས་གཟུང་བའོ། །དང་པོ་ལ། སྡུག་བདེན་ལ་ལོག་ཞུགས་བཞི་ཡོད་དེ། ཉེར་ལེན་གྱི་ཕུང་པོ་གཙང་བདེ་རྟག་བདག་ཏུ་འཛིན་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། ཀུན་འབྱུང་བདེན་པ་ལ་ལོག་ཞུགས་བཞི་ཡོད་དེ། སྡུག་བསྔལ་རྒྱུ་མེད་དུ་འཛིན་པ། རྒྱུ་གཅིག་ཁོ་ནས་བྱས་པར་འཛིན་པ། དབང་ཕྱུག་ལ་སོགས་པ་གཞན་གྱི་བློའ་ིགཡོ་བ་སྔོན་དུ་བཏང་ནས། བྱས་པར་འཛིན་པ་དང་། རང་བཞིན་རྟག་ལ་གནས་སྐབས་གཞན་དུ་འགྱུར་བར་འཛིན་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། འགོག་བདེན་ལ་ལོག་ཞུགས་བཞི་ཡོད་དེ། ཐར་པ་ཡེ་མེད་དུ་འཛིན་པ། ཟག་བཅས་ཀྱི་ཁྱད་པར་འགའ་ཞིག་ཙམ་ཐར་པར་འཛིན་པ། སྡུག་བསྔལ་གྱི་ཁྱད་པར་འགའ་ཞིག་ཙམ་གྱ་ནོམ་པའི་ཐར་པར་འཛིན་པ། སྡུག་བསྔལ་ཟད་པ་ཡོད་ཀྱང་སླར་ལྡོག་པར་འཛིན་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། ལམ་བདེན་ལ་ལོག་ཞུགས་བཞི་ཡོད་དེ། ཐར་ལམ་ཡེ་མེད་དུ་འཛིན་པ། བདག་མེད་རྟོགས་པའི་ཡེ་ཤེས་ཐར་ལམ་དུ་མི་རིགས་པར་འཛིན་པ། བསམ་གཏན་གྱི་ཁྱད་པར་འགའ་ཞིག་ཐར་ལམ་དུ་འཛིན་པ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱས་པའི་ཐར་ལམ་མེད་པར་འཛིན་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར་ཏེ། རྣམ་འགྲེལ་ལས༑བདེན་པ་བཞི་ལ་བརྟེན་པ་དང་། །བདེ་དང་ང་དང་ངའི་ཞེས་སོགས། །ཡང་དག་མ་ཡིན་རྣམ་བཅུ་དྲུག །སྒྲོ་བཏགས་ནས་ནི་ཡོངས་སུ་སྲེད། །ཅེས་གསུངས་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> དེ་ལྟར་འདི་དག་ནི་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་རྟེན་དུ་བྱས་ནས་རབ་ཏུ་སྨྲ་བ་རྣམས་ཀྱི་མ་ངེས་པ་དང་བཅས་པའི་སྐབས་རྒྱས་པར་འཕྲོས་པའི་ལོག་པར་བསྒྲུབ་པའི་གནས་རྣམ་པ་བཅུ་དྲུག་ཏུ་གྱུར་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This passage from the commentary directly discusses the sixteen types of erroneous practices (ལོག་པར་བསྒྲུབ་པའི་གནས་རྣམ་པ་བཅུ་དྲུག་) associated with the four truths, which corresponds to the topic of the sixteen misconceptions (ལོག་ཞུགས་བཅུ་དྲུག་) detailed in paragraph 3.
+- **Location:** བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~486257 in the commentary file, unit 248/379
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> གང་གི་ཕྱིར་རབ་འབྱོར་འདོད་པའི་ཁམས་དེ་རྣམ་པར་རྟག་པ་ཞེས་བྱ་བ་ནི་ཡང་དག་པ་མ་ཡིན་པར་ཡོངས་སུ་བརྟག་པའི་མ་རིག་པས་རྣམ་པར་གཞག་ཅིང་དེ་ནི་རྐྱེན་གྱི་འདུ་བྱེད་ཀྱིས་རྣམ་པར་བསྒྲུབས་པ་སྲེད་པ་དང་། ལེན་པ་དང་། སྲིད་པ་ཡོངས་སུ་འགྱུར་བའི་ཆོས་ཅན་ཡིན་ནོ། །
+
+- **Why relevant:** This passage is relevant to discussing the misconceptions and wrongful views concerning the aggregates and the arising of suffering (the truth of assembly) in the context of the sixteen false modes.
+- **Location:** བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~169122 in the commentary file, unit 86/379
+- **Verification:** verified_exact
+
+## Quote (83% correctness) ⚠️ UNVERIFIED
+> སྡུག་པདང་མི་སྡུག་པ་དང་བྲལ་བས་རྟག་ཆད་ཀྱི་མཐའ་སྤངས་པ་ཡང་མདོའི་ཚིག གཟུགས་སྡུག་ཅེས་བྱ་བ་དང་མི་སྡུག་ཅེས་བྱ་བར་ཆོས་སྟོན་པར་མི་འགྱུར་རོ་ཞེས་པ་མན་ཆད་ཀྱིས་བསྟན།
+
+- **Why relevant:** This quote discusses the misconceptions regarding the extremes related to the aspects of the truths, which is relevant to the classification of the sixteen wrong modes (ལོག་ཞུགས་བཅུ་དྲུག་) associated with the four truths in paragraph 3.
+- **Location:** བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~622171 in the commentary file, unit 318/379
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> བདེན་པ་བཞི་ལ་བརྟེན་པ་དང་། །བདེ་དང་ང་དང་ངའི་ཞེས་སོགས། །ཡང་དག་མ་ཡིན་རྣམ་བཅུ་དྲུག །སྒྲོ་བཏགས་ནས་ནི་ཡོངས་སུ་སྲེད། །
+
+- **Why relevant:** This verse from the commentary excerpt is identical to the verse quoted in target paragraph 3 discussing the sixteen modes of incorrect engagement (false assumptions) regarding the four truths.
+- **Location:** བཙུན་པ་གྲོལ་སྡེ་'s མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། [བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།], char offset ~36985 in the commentary file, unit 19/379
+- **Verification:** UNVERIFIED

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "111_གཞན་ཡང་འགོག། དུམ་མཚན་དང་པོ། 103",
+  "root_paragraph": "གཞན་ཡང་། འགོག་བདེན་ཆོས་ཅན། འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོའ་ིའཁོར་ལོ་རིན་པོ་ཆེ་དང་བྱེད་ལས་ཆོས་མཚུངས་པར་ཐལ། ཆོས་འཁོར་ཡིན་པའི་ཕྱིར། འདོད་ན། དེ་རང་གི་མི་མཐུན་ཕྱོགས་འཇོམས་བྱེད་དུ་ཐལ་ལོ། །ཁོ་ན་རེ། རྣམ་མཁྱེན་ཆོས་ཅན། རང་གི་མི་མཐུན་ཕྱོགས་འཇོམས་བྱེད་ཡིན་པར་ཐལ། འཁོར་ལོ་རིན་པོ་ཆེ་དང་བྱེད་ལས་ཆོས་མཚུངས་པའི་ཕྱིར། ཁྱབ་པ་ཁས། འདོད་ན། དེའི་མི་མཐུན་ཕྱོགས་ཡོད་པར་ཐལ་ལོ། །འདོད་ན། དེའི་སྤང་བྱ་ཡོད་པར་ཐལ་ལོ། །ཟེར་ན་མ་ཁྱབ། ཁོ་ན་རེ། འགོག་བདེན་ཆོས་ཅན། རྟོགས་པའི་ཆོས་འཁོར་ཡིན་པར་ཐལ། རྟོགས་པའི་ཆོས་དཀོན་མཆོག་ཡིན་པའི་ཕྱིར་ན་མ་ཁྱབ།",
+  "root_paragraph_page": "103",
+  "paragraph_key": "9c80d28b50ba75d2",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:10.807632Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "ཁོ་ན་རེ། འགོག་བདེན་ཆོས་ཅན། རང་གི་མི་མཐུན་ཕྱོགས་འཇོམས་བྱེད་ཡིན་པར་ཐལ། འཁོར་ལོ་རིན་པོ་ཆེ་དང་བྱེད་ལས་ཆོས་མཚུངས་པའི་ཕྱིར།",
+      "relevance": "This quote from the commentary discusses whether the cessation truth acts as a vanquisher of its opposing forces, mirroring the analysis in paragraph 11.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་ལྔ་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་ལྔ་པའི་སྤྱི་དོན།], char offset ~149242 in the commentary file, unit 76/360",
+      "verification": "UNVERIFIED",
+      "correctness_score": 36,
+      "chunk_id": 75,
+      "unit_hash": "d5062a30bc20",
+      "passage_hash": "52b11fce7347",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 360,
+    "units_scanned": 360,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

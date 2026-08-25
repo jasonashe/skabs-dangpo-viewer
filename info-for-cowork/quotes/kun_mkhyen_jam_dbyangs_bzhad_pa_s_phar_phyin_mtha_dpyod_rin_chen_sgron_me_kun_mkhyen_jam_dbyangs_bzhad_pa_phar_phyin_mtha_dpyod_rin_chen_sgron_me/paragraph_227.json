@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "228_འདི་དག་གིས། དུམ་མཚན་དང་པོ། 182",
+  "root_paragraph": "འདི་དག་གིས་ཟློས་པ་སྤོང་བ་ལ་འཕགས་པའི་ལུགས་དང་། སློབ་དཔོན་གྱི་ལུགས་གཉིས་ལས། སློབ་དཔོན་གྱི་བཞེད་པ་ནི་སྐབས་བཞི་པར་འཆད་ལ། འཕགས་པ་ལྟར་ན་སྒྲུབ་པ་དང་། སྦྱོར་བ་དང་། གང་ཟག་དང་། རྟོག་པ་དང་། སྒོམ་ལམ་དང་། མཐོང་ལམ་དང་། སྦྱོར་ལམ་ལ་ཟློས་པ་སྤང་བའོ། །",
+  "root_paragraph_page": "182",
+  "paragraph_key": "ff5245b7f9d44470",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:58.361997Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "འདི་དག་གིས་ཟློས་པ་སྤོང་བ་ལ་འཕགས་པའི་ལུགས་དང་། སློབ་དཔོན་གྱི་ལུགས་གཉིས་ལས།",
+      "relevance": "This quote introduces the discussion on avoiding repetition according to the two traditions (the noble/Arya tradition and the master's tradition), which matches the topic of paragraph 4.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~202838 in the commentary file, unit 103/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 43,
+      "chunk_id": 102,
+      "unit_hash": "b17b953959df",
+      "passage_hash": "d828fc4e0463",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

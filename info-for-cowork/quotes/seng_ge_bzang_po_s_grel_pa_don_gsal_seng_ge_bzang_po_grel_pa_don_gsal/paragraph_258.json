@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "259_བཞི་པ་མདོ། དུམ་མཚན་དང་པོ། 197",
+  "root_paragraph": "བཞི་པ་མདོ་གཞན་མ་བཀོད་པའི་རྒྱུ་མཚན་ནི། སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་གཞན་དོན་དང་བྱང་ཆུབ་གཉིས་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་དུ་སྟོན་པའི་ཡུམ་གྱི་མདོ་ལས་གཞན་བློ་གྲོས་མི་བཟད་པའི་མདོ་དང་། སྡོང་པོ་བཀོད་པའི་མདོ་སོགས་ཐེག་ཆེན་སེམས་བསྐྱེད་སྟོན་པའི་མདོ་རྣམས་ཁུངས་སུ་མི་འདྲེན་པའི་རྒྱུ་མཚན་ཡོད་དེ། ཚིག་མང་དུ་དོགས་ནས་དེ་ལྟར་མ་དྲངས་པ་ཡིན་པའི་ཕྱིར༑ ཞེས་འཆད་པ་ལ།གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑ཞེས་གསུངས།",
+  "root_paragraph_page": "197",
+  "paragraph_key": "6887db17fb787803",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:14.015197Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མངས་སུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ། །",
+      "relevance": "The commentary explains why other texts and sutras were not exhaustively cited: out of fear of verbosity.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~14186 in the commentary file, under ‘སེམས་བསྐྱེད།’, unit 8/101",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 7,
+      "unit_hash": "f39d78b1095b",
+      "passage_hash": "6446320707de",
+      "folio": null,
+      "sa_bcad": "སེམས་བསྐྱེད།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ ༑",
+      "relevance": "This explains why other possible scriptural sources like the Avatamsaka Sutra were not explicitly cited as authorities here—due to fear of excessive length.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~8085 in the commentary file, under ‘དགོས་འབྲེལ་ངག’, unit 5/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 4,
+      "unit_hash": "9d53629cc124",
+      "passage_hash": "f660f5a95778",
+      "folio": null,
+      "sa_bcad": "དགོས་འབྲེལ་ངག",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "གཙུག་ལག་གི་གཞུང་སྐབས་ཀྱི་དོན་སྟོན་པ་ལྷུར་ལེན་པ་ནི་ཐམས་ཅད་ལས་ཀྱང་གསུངས་མོད་ཀྱི་ཚིག་མང་དུ་དོགས་ནས་ཁུངས་ཉིད་དུ་མ་བྲིས་སོ༑ །",
+      "relevance": "This quote explains the reason why other sutras like the Lankavatara or Gandavyuha were not explicitly cited as sources here: to avoid excessive length.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~31881 in the commentary file, under ‘ངེས་འབྱེད་ཡན་ལག’, unit 17/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 16,
+      "unit_hash": "9ddde0d2ff27",
+      "passage_hash": "db819e94b6a8",
+      "folio": null,
+      "sa_bcad": "ངེས་འབྱེད་ཡན་ལག",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

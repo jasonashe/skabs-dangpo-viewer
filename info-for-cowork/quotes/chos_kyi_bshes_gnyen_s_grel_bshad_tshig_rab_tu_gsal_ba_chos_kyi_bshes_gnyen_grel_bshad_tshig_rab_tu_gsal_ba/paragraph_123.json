@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "124_དེ་ཡང་བསྡུ། དུམ་མཚན་དང་པོ། 110",
+  "root_paragraph": "དེ་ཡང་བསྡུ་ན། སྡེ་སྣོད་གསུམ་དུ་འདུ་སྟེ། དང་པོ་ལྔ་པོ་དེ་ཐེག་དམན་གྱི་མདོ་སྡེའི་སྡེ་སྣོད་དུ་འདུ། རྟོགས་བརྗོད། དེ་ལྟར་བྱུང་བ། གླེང་གཞི། སྐྱེས་རབས་བཞི་ནི་འདུལ་བའི་སྡེ་སྣོད་དང་། རྨད་དུ་བྱུང་བ། ཤིན་ཏུ་རྒྱས་པ་གཉིས་ནི་ཐེག་ཆེན་གྱི་མདོ་སྡེའི་སྡེ་སྣོད་དང་༑ གཏན་ལ་ཕབ་པ་ནི་གཉིས་ཀའི་མངོན་པའི་སྡེ་སྣོད་དུ་འདུ་བའི་ཕྱིར། མདོ་སྡེ་ཁ་ཅིག་ཏུ༑ གསུང་རབ་ཡན་ལག་དགུ་ཞེས་འབྱུང་བ་ནི་གཙོ་བོ་གླེང་གཞིའི་སྡེ་དང་། འཁོར་རྟོགས་བརྗོད་དང་། དེ་ལྟར་བྱུང་བ། སྐྱེས་རབས་ཀྱི་སྡེ་དང་བཅས་པ་གཙོ་བོ་བཞི་གཅིག་ཏུ་འདྲེན་པ་ཡིན་ཏེ། དེ་ལྟར་ལང་གཤེགས་ཀྱི་འགྲེལ་པར་བཤད་པའི་ཕྱིར།",
+  "root_paragraph_page": "110",
+  "paragraph_key": "a23aac4f8c04eb2c",
+  "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+  "generated_at": "2026-08-20T04:14:09.876372Z",
+  "quotes": [
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེ་ལྟར་ལང་གཤེགས་ཀྱི་འགྲེལ་པར་བཤད་པའི་ཕྱིར།",
+      "relevance": "This quote refers to the commentary on the Lankavatara Sutra (ལང་གཤེགས་ཀྱི་འགྲེལ་པ), which is relevant to the discussion on the twelve branches of scripture and their grouping in paragraph 4.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~122288 in the commentary file, unit 63/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 62,
+      "unit_hash": "61ff134c4c39",
+      "passage_hash": "8a3bfecfba12",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]",
+      "quote_tibetan": "དེ་ལྟར་ལང་གཤེགས་ཀྱི་འགྲེལ་པར་བཤད་པའི་ཕྱིར།",
+      "relevance": "This quote supports the discussion on how the teachings are categorized and interpreted according to the commentary on the Lankavatara Sutra.",
+      "location": "ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~142628 in the commentary file, unit 74/421",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 73,
+      "unit_hash": "fc49b149a4f2",
+      "passage_hash": "d9c17bc9016f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 421,
+    "units_scanned": 421,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

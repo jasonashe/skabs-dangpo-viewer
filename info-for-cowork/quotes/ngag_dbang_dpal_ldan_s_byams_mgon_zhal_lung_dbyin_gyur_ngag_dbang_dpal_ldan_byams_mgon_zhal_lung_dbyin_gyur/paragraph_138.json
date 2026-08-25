@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "139_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 122",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་འདིས་གནས་སྐབས་ཐེག་པ་གསུམ་གྱི་ལམ་ལ་འཇུག་པའི་ལམ་ཉམས་ལེན་གྱི་རིམ་པ་དང་། དང་པོ་ཉིད་ནས་ཐེག་ཆེན་དུ་རིགས་ངེས་པའི་གང་ཟག་གི་ལམ་ཉམས་ལེན་གྱི་རིམ་པ་གཉིས་བསྟན་ལ། དང་པོའ་ིདབང་དུ་བྱས་ན། རིམ་པ་དང་པོས་རྒྱུད་སྨིན་པར་བྱས་ནས། གཉིས་པས་འཁོར་བ་ལས་གྲོལ་བར་བྱས། གསུམ་པས་ཐེག་ཆེན་ལམ་དུ་བཀྲི་བར་བྱེད། གཉིས་པའི་དབང་དུ་བྱས་ན། དང་པོས་རྒྱུད་སྨིན་པར་བྱས། གཉིས་པས་ཟབ་པའི་ལམ་རིམ་དང་། གསུམ་པས་རྒྱ་ཆེ་བའི་ལམ་རིམ་བསྟན་ལ། རིམ་པ་དང་པོ་དང་གཉིས་པའི་སྐབས་ནས་བསྟན་པའི་བདག་མེད་ལ་ཁྱད་པར་ཡོད་དེ། དང་པོ་དེ་གང་ཟག་གི་བདག་མེད་ཕྲ་མོ་དང་། གཉིས་པ་དེ་ཆོས་ཀྱི་བདག་མེད་ཕྲ་མོ་ལ་བྱེད་པའི་ཕྱིར།",
+  "root_paragraph_page": "122",
+  "paragraph_key": "cd604d45c40d12f1",
+  "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:14:06.344214Z",
+  "quotes": [
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "མདོ་འདིས་གནས་སྐབས་ཐེག་པ་གསུམ་གྱི་ལམ་ལ་འཇུག་པའི་ལམ་ཉམས་ལེན་གྱི་རིམ་པ་དང་། དང་པོ་ཉིད་ནས་ཐེག་ཆེན་དུ་རིགས་ངེས་པའི་གང་ཟག་གི་ལམ་ཉམས་ལེན་གྱི་རིམ་པ་གཉིས་བསྟན་ལ།",
+      "relevance": "This passage directly discusses the two types of practice paths for entering the three vehicles versus the definitively inclined Mahayana practitioner, matching target paragraph 3.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~36724 in the commentary file, unit 19/137",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 18,
+      "unit_hash": "5363bd8d6af9",
+      "passage_hash": "6790c3cc1013",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 137,
+    "units_scanned": 137,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

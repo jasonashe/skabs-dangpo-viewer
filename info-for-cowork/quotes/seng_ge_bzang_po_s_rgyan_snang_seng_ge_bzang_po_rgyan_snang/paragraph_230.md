@@ -1,0 +1,27 @@
+# Quote collection: སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]
+**Target paragraph:** 231_གསུམ་པ་ནི། དུམ་མཚན་དང་པོ། 183
+
+> གསུམ་པ་ནི། སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་། གཉིས་པར། མོག་མོག་པོར་བྱེད་ལ་སོགས་དང་། །ཞེས་དང་། རྟེན་གྱི་བསེ་རུ་ལྟ་བུའི་ལམ། །ཞེས་དང་། སྐབས་བཞི་པར། སངས་རྒྱས་རྣམས་ལ་ལྷག་པར་བྱས། །ཞེས་དང་། སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། །ཞེས་གསུངས་པ་རྣམས་ཟློས་པར་འགྱུར་རོ་ཞེ་ན། སྐྱོན་མེད་དེ། དང་པོ་དེ་དཀོན་མཆོག་གསུམ་བཤད་པའི་སྐབས་ཀྱི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་ལ། གཉིས་པ་དེ། ལམ་ཤེས་སྐྱེ་བའི་རྟེན་དང་། གསུམ་པ་དེ། རང་རྒྱལ་གྱི་ལམ་གྱི་རྟེན་གྱི་གང་ཟག་དང་། བཞི་པ་དེ། ཡུམ་ཉན་པའི་སྣོད་རུང་གི་གང་ཟག་དང་། ལྔ་པ་དེ། ཕྱིར་མི་ལྡོག་པའི་རྟེན་ངོས་གཟུང་བར་བྱ་བའི་ཆེད་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> དེ་འདིར་ཕྱིར་མི་ལྡོག་པའི་ཚོགས། ། ཞེས་གསུངས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** The commentary cites the verse mentioning the assembly of those who do not turn back, which corresponds to the discussion of the irreversibles' assembly mentioned in the target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~808400 in the commentary file, unit 416/577
+- **Verification:** verified_exact
+
+## Quote (47% correctness) ⚠️ UNVERIFIED
+> མོག་མོག་པོར་བྱེད་ལ་སོགས་དང་།
+
+- **Why relevant:** The commentary excerpt directly explains the passage concerning the darkening of the gods' light (མོག་མོག་པོར་མཛད་པ་), which corresponds to the topic of the spiritual basis mentioned in this target paragraph.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~234379 in the commentary file, unit 121/577
+- **Verification:** UNVERIFIED
+
+## Quote (43% correctness) ⚠️ UNVERIFIED
+> སྐབས་དང་པོར་གང་ཟག་ཉི་ཤུ་བཤད་པ་དང་།
+
+- **Why relevant:** This quote from the commentary corresponds to the discussion about the twenty individuals explained in the first chapter.
+- **Location:** སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~820850 in the commentary file, unit 422/577
+- **Verification:** UNVERIFIED

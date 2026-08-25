@@ -1,0 +1,34 @@
+# Quote collection: ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]
+**Target paragraph:** 364_ཁ་ཅིག་ལས། དུམ་མཚན་དང་པོ། 267
+
+> ཁ་ཅིག །ལས་དང་ཉོན་མོངས་པ་གང་རུང་ལ་བརྟེན་ནས་བྱུང་བའི་ཟག་བཅས་ཀྱི་ཕུང་པོར་དམིགས་པ། སྡུག་བདེན་གྱི་མཚན་ཉིད། སྡུག་བསྔལ་བདེན་པ་འབྲས་བུ་དང་པོ་གསུམ་གང་རུང་གི་སྒོ་ནས་འབྱིན་པར་བྱེད་པའི་ཟག་བཅས་ཀྱི་ཤེས་པར་དམིགས་པ། ཀུན་འབྱུང་བདེན་པའི་མཚན་ཉིད་དུ་འཇོག་པ་མི་འཐད་དེ། དམན་ལམ་སྔོན་དུ་མ་སོང་བའི་ས་གསུམ་པ་བའི་རྒྱུད་ཀྱི་ཉོན་མོངས་དེ་དང་པོ་ཡིན་ཞིང་། དེ་སྡུག་བསྔལ་བདེན་པ་མ་ཡིན་པའི་ཕྱིར། དེ་མཚན་ཉིད་དེ་ཡིན་ཞིང་། དེ་ཀུན་འབྱུང་བདེན་པ་ཡང་མ་ཡིན་པའི་ཕྱིར༑ དང་པོ་གྲུབ་སྟེ། དེའི་རྒྱུད་ལ་སྡུག་བདེན་མེད་པའི་ཕྱིར་ཏེ། རྒྱུད་བླ་མ་ལས༑འཕགས་པས་འཆི་དང་རྒ་བ་དང་། །ན་བའི་སྡུག་བསྔལ་རྩད་ནས་སྤངས། །ལས་དང་ཉོན་མོངས་དབང་གིས་སྐྱེ། །དེ་ལ་དེ་མེད་ཕྱིར་དེ་མེད། །ཅེས་གསུངས་པའི་ཕྱིར། སྡུག་བདེན་ཡིན་ན། འཁོར་བ་ཡིན་པས་མ་ཁྱབ་སྟེ། ལྷག་བཅས་མྱང་འདས་པའི་རྒྱུད་ཀྱི་གཟུགས་ཕུང་དེ་སྡུག་བདེན་ཡིན་པའི་ཕྱིར། ཀུན་འབྱུང་བདེན་པ་ལ་སེམས་བྱུང་གིས་མ་ཁྱབ་སྟེ། དེ་དང་གཙོ་བོ་སེམས་ཀྱི་གཞི་མཐུན་ཡོད་པའི་ཕྱིར། ལས་ཀྱི་ཀུན་འབྱུང་བདེན་པ་དང་ཉོན་མོངས་པའི་ཀུན་འབྱུང་བདེན་པ་གང་རུང་ལ་སེམས་བྱུང་གིས་ཁྱབ་བོ། །
+
+*Coverage: complete.*
+
+## Quote (43% correctness) ⚠️ UNVERIFIED
+> འཕགས་པས་འཆི་དང་རྒ་བ་དང་། །ན་བའི་སྡུག་བསྔལ་རྩད་ནས་སྤངས། །ལས་དང་ཉོན་མོངས་དབང་གིས་སྐྱེ། །དེ་ལ་དེ་མེད་ཕྱིར་དེ་མེད། །
+
+- **Why relevant:** This verse from the Ratnagotravibhāga is quoted in the commentary and explains why certain advanced beings do not possess the suffering of birth, aging, and sickness due to having abandoned them.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~199188 in the commentary file, unit 102/421
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> རྒྱུད་བླ་མ་ལས།འཕགས་པས་འཆི་དང་རྒ་བ་དང་། །ན་བའི་སྡུག་བསྔལ་རྩད་ནས་སྤངས། །ལས་དང་ཉོན་མོངས་དབང་གིས་སྐྱེ། །དེ་ལ་དེ་མེད་ཕྱིར་དེ་མེད། །ཅེས་གསུངས་པའི་ཕྱིར།
+
+- **Why relevant:** The commentary excerpt quotes the Uttaratantra (རྒྱུད་བླ་མ་) to support the position regarding the absence of suffering (dukkha) in certain spiritual states, just as target paragraph 4 does.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~343214 in the commentary file, unit 176/421
+- **Verification:** UNVERIFIED
+
+## Quote (29% correctness) ⚠️ UNVERIFIED
+> འཕགས་པས་འཆི་དང་རྒ་བ་དང་། །ན་བའི་སྡུག་བསྔལ་རྩད་ནས་སྤངས། །ལས་དང་ཉོན་མོངས་དབང་གིས་སྐྱེ། །དེ་ལ་དེ་མེད་ཕྱིར་དེ་མེད། །
+
+- **Why relevant:** This verse from the Ratnagotravibhāga is quoted in the commentary and cited in the target passage to show that a certain level or entity lacks suffering and the associated afflictions.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~304502 in the commentary file, unit 156/421
+- **Verification:** UNVERIFIED
+
+## Quote (22% correctness) ⚠️ UNVERIFIED
+> འཕགས་པས་འཆི་དང་རྒ་བ་དང་། །ན་བའི་སྡུག་བསྔལ་རྩད་ནས་སྤངས། །ལས་དང་ཉོན་མོངས་དབང་གིས་སྐྱེ། །དེ་ལ་དེ་མེད་ཕྱིར་དེ་མེད། །
+
+- **Why relevant:** This verse from the Ratnagotravibhāga is quoted in the commentary to explain that noble ones have abandoned the suffering of death, aging, and illness from the root, meaning those sufferings and their causes are absent for them.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~299175 in the commentary file, unit 154/421
+- **Verification:** UNVERIFIED

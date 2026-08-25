@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "387_ཁ་ཅིག་ཀུན། དུམ་མཚན་དང་པོ། 280",
+  "root_paragraph": "ཁ་ཅིག །ཀུན་རྫོབ་པའི་དགེ་འདུན་དཀོན་མཆོག་དང་། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་འགལ་ཟེར་ན་མི་འཐད་དེ། བྱང་འཕགས་ཡིན་ན། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དེ་ཡིན་ན་དོན་དམ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་དགོས་པའི་ཕྱིར་ཏེ། དོན་དམ་སེམས་བསྐྱེད་ཐོབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་དེ་ལྟར་དགོས་པའི་ཕྱིར་ཏེ། འཇུག་པ་ལས།དེ་ནས་བཟུང་སྟེ་དེ་ནི་ཐོབ་པར་གྱུར་པ་ཡི། །བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའི་སྒྲ་ཉིད་ཀྱིས་བསྙད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "280",
+  "paragraph_key": "39744c643b2438d0",
+  "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+  "generated_at": "2026-08-20T04:14:38.665443Z",
+  "quotes": [
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "ཁ་ཅིག་ཀུན་རྫོབ་པའི་དགེ་འདུན་དཀོན་མཆོག་དང་། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་འགལ་ཟེར་ན་མི་འཐད་དེ། བྱང་འཕགས་ཡིན་ན། དོན་དམ་པའི་དགེ་འདུན་དཀོན་མཆོག་ཡིན་དགོས་པའི་ཕྱིར།",
+      "relevance": "This target passage discusses the relationship between conventional and ultimate sangha, which relates to the commentary's broader analytical style regarding ultimate realizations and conventional classifications.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~501717 in the commentary file, under ‘རྣམ་པར་སྨིན་པ་མིན་པའི་སྐད་ཅིག་སྦྱོར་བ་བཤད་པ།’, unit 256/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 255,
+      "unit_hash": "dd9759a8bb57",
+      "passage_hash": "44a75b48ab3d",
+      "folio": null,
+      "sa_bcad": "རྣམ་པར་སྨིན་པ་མིན་པའི་སྐད་ཅིག་སྦྱོར་བ་བཤད་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 281,
+    "units_scanned": 281,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "16_བཞི་པ་འགྲེལ། དུམ་མཚན་དང་པོ། 49",
+  "root_paragraph": "བཞི་པ་འགྲེལ་པ་གང་གི་རྗེས་སུ་འབྲང་བ་ནི། འོ་ན་མངོན་རྟོགས་རྒྱན་ལ་འགྲེལ་པ་དེ་ཙམ་ཡོད་ན། རང་ཉིད་འགྲེལ་པ་གང་གི་རྗེས་སུ་འབྲངས་ནས་མངོན་རྟོགས་རྒྱན་འཆད་པ་ཡིན་ཞེ་ན། རྒྱལ་བའི་སྲས་པོ་སེང་གེ་བཟང་པོས་མཛད་པའི་འགྲེལ་པ་དོན་གསལ་གྱི་རྗེས་སུ་འབྲངས་ནས་འཆད་པ་ཡིན་ཏེ། འགྲེལ་པ་འདི་ཚིག་ཉུང་ཞིང་དོན་འདྲིལ་ལ་དོན་གསལ་བས་ན་འགྲེལ་པ་གཞན་ལས་ཁྱད་དུ་འཕགས་པའི་ཕྱིར།",
+  "root_paragraph_page": "49",
+  "paragraph_key": "ac225de115fdd47c",
+  "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+  "generated_at": "2026-08-20T04:14:34.616993Z",
+  "quotes": [
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "སློབ་དཔོན་སེང་གེ་བཟང་པོས་མཛད་པའི་འགྲེལ་པ་དོན་གསལ་པ་འདི་ཉིད་མཛད་དོ། །",
+      "relevance": "This quote references Haribhadra's authorship of the Alokadepika (Donsel), which is the commentary chosen by Jetsun Khedrup Je as the basis for his exposition as described in paragraph 8.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~3778 in the commentary file, under ‘སྐབས་དང་པོའི་འགྲེལ་པ།’, unit 2/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 62,
+      "chunk_id": 1,
+      "unit_hash": "6c8a82b7aca9",
+      "passage_hash": "5c2fdedf641b",
+      "folio": null,
+      "sa_bcad": "སྐབས་དང་པོའི་འགྲེལ་པ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "རྒྱལ་བའི་སྲས་པོ་སེང་གེ་བཟང་པོས་མཛད་པའི་འགྲེལ་པ་དོན་གསལ་གྱི་རྗེས་སུ་འབྲངས་ནས་འཆད་པ་ཡིན་ཏེ།",
+      "relevance": "This quote directly supports paragraph 8 by stating that the author follows Haribhadra's commentary 'Don gsal' (Abhisamayālamkārālokā) to explain the Abhisamayālaṃkāra.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~523913 in the commentary file, under ‘ཆོས་སྐུ་བཤད་པ།’, unit 267/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 266,
+      "unit_hash": "f49896634cc5",
+      "passage_hash": "75dbbf837993",
+      "folio": null,
+      "sa_bcad": "ཆོས་སྐུ་བཤད་པ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "རྒྱལ་བའི་སྲས་པོ་སེང་གེ་བཟང་པོས་མཛད་པའི་འགྲེལ་པ་དོན་གསལ་གྱི་རྗེས་སུ་འབྲངས་ནས་འཆད་པ་ཡིན་ཏེ། འགྲེལ་པ་འདི་ཚིག་ཉུང་ཞིང་དོན་འདྲིལ་ལ་དོན་གསལ་བས་ན་འགྲེལ་པ་གཞན་ལས་ཁྱད་དུ་འཕགས་པའི་ཕྱིར།",
+      "relevance": "This quote identifies Haribhadra's 'Sphutartha' (Don Gsal) as the core commentary whose tradition is being followed in expounding the text.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~291523 in the commentary file, under ‘ལམ་ཤེས་པ་ཉིད་ཀྱི་རྣམ་པ་དྲུག་བཤད་པ།’, unit 149/281",
+      "verification": "UNVERIFIED",
+      "correctness_score": 25,
+      "chunk_id": 148,
+      "unit_hash": "beee73248727",
+      "passage_hash": "89ed6dbf019b",
+      "folio": null,
+      "sa_bcad": "ལམ་ཤེས་པ་ཉིད་ཀྱི་རྣམ་པ་དྲུག་བཤད་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 281,
+    "units_scanned": 281,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

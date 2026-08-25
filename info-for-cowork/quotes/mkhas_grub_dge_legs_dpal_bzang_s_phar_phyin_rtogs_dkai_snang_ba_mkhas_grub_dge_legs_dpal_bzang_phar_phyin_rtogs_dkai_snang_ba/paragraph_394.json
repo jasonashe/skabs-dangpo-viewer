@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "395_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 285",
+  "root_paragraph": "གཉིས་པ་ནི། འོ་ན། དོན་དམ་པའི་སྐྱབས་དེ་གང་ཞེ་ན། དེ་ཡོད་དེ། སངས་རྒྱས་ཉག་གཅིག་མཐར་ཐུག་པའི་སྐྱབས་ཡིན་པའི་ཕྱིར་ཏེ། དེ་ནི་བདེན་གཉིས་ཀྱི་ཡོན་ཏན་མཐར་ཕྱིན་པའི་ཆོས་ཀྱི་རྟེན་ཅན་ཡིན་པའི་ཕྱིར་ཏེ། རྒྱུད་བླ་མ་ལས།དམ་པའི་དོན་དུ་འགྲོ་བ་ཡི། །སྐྱབས་ནི་སངས་རྒྱས་ཉག་གཅིག་ཡིན། །ཐུབ་པ་ཆོས་ཀྱི་སྐུ་ཅན་ཕྱིར༑ ༑ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "285",
+  "paragraph_key": "88122e6d6b336763",
+  "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+  "generated_at": "2026-08-20T04:14:38.741163Z",
+  "quotes": [
+    {
+      "commentary": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]",
+      "quote_tibetan": "དེས་ན་སངས་རྒྱས་ཉག་གཅིག་མཐར་ཐུག་གི་སྐྱབས་སུ་འཐད་དོ།",
+      "relevance": "This quote supports the conclusion that only the Buddha alone is the ultimate refuge.",
+      "location": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~40499 in the commentary file, under ‘རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།’, unit 21/281",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 20,
+      "unit_hash": "5a470bc39ad7",
+      "passage_hash": "aae3f9150b72",
+      "folio": null,
+      "sa_bcad": "རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 281,
+    "units_scanned": 281,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

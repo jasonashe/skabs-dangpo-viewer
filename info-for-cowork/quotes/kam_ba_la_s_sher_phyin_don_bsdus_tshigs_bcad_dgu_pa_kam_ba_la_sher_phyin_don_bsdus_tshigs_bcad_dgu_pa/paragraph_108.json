@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "109_གཞན་ཡང་ཆོས། དུམ་མཚན་དང་པོ། 102",
+  "root_paragraph": "གཞན་ཡང་། ཆོས་འཁོར་ལ་ལུང་གི་ཆོས་འཁོར་དང་རྟོགས་པའི་ཆོས་འཁོར་གཉིས་སུ་གྲངས་མ་ངེས་པར་ཐལ། ལམ་མ་ཞུགས་ཀྱི་གང་ཟག་གི་རྒྱུད་ཀྱི་བསླབ་པ་གསུམ་པོ་དེ་ཆོས་འཁོར་གང་ཞིག །དེ་དེ་གང་རུང་མ་ཡིན་པའི་ཕྱིར། དང་པོ་དངོས། གཉིས་པ་སླ། རྩ་བར་འདོད་མི་ནུས་ཏེ། མཛོད་ལས།སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ༑ ༑ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "102",
+  "paragraph_key": "673ad96e9daaa3e6",
+  "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+  "generated_at": "2026-08-20T04:13:29.979428Z",
+  "quotes": [
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "ཆོས་ཀྱི་སྐུ་ཡང་རྣམ་པ་གཉིས་ཏེ། བསྟན་པའི་ཆོས་ཀྱི་སྐུ་དང་། རྟོགས་པའི་ཆོས་ཀྱི་སྐུའོ། །",
+      "relevance": "This quote is relevant because it discusses the two aspects of the Dharma body, which relates to the classification of the teachings and realization of the Dharma wheel discussed in the target paragraph.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~564473 in the commentary file, unit 289/520",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 288,
+      "unit_hash": "949311c8b126",
+      "passage_hash": "1b10a1ab4635",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "དེ་ནི་བཅོམ་ལྡན་འདས་མགོན་པོ་བྱམས་པས་ཀྱང་བསྟན་ཏེ། སངས་རྒྱས་རྣམས་ལ་བྱ་བ་བྱས་པ་དང་། ། དེ་དག་རྣམས་ལ་དགེ་བའི་རྩ་བ་བསྐྲུན། ། དགེ་བའི་བཤེས་གཉེན་དག་གི་མགོན་བཅས་ནི། ། འདི་དག་ཉན་པའི་སྣོད་དུ་འགྱུར་བ་ཡིན། ། སངས་རྒྱས་རྣམས་ལ་བསྙེན་བཀུར་ཀུན་ཏུ་འདྲི། ། སྦྱིན་དང་ཚུལ་ཁྲིམས་ལ་སོགས་སྤྱོད་པ་ནི། ། ཀུན་ཏུ་འཛིན་དང་འཆང་བ་ལ་སོགས་པའི། ། སྣོད་ཉིད་དམ་པ་དེ་དག་ཡིན་པར་དགོངས། །",
+      "relevance": "This quote supports the discussion around the two-fold categorization of the teachings (scripture and realization) and the qualities of the vessels of the teachings.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~23992 in the commentary file, unit 13/520",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 12,
+      "unit_hash": "907181004f99",
+      "passage_hash": "42ea26193410",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།]",
+      "quote_tibetan": "སྟོན་པའི་དམ་ཆོས་རྣམ་གཉིས་ཏེ། །ལུང་དང་རྟོགས་པའི་བདག་ཉིད་དོ། །",
+      "relevance": "This quote from the Abhidharmakosa is cited in the target paragraph as scriptural support regarding the twofold division of the Buddha's teachings into scriptural transmission and realization.",
+      "location": "ཀམ་བ་ལ་'s ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ། [ཀམ་བ་ལ་_ཤེར་ཕྱིན་དོན་བསྡུས་ཚིགས་བཅད་དགུ་པ།], char offset ~860330 in the commentary file, unit 439/520",
+      "verification": "UNVERIFIED",
+      "correctness_score": 41,
+      "chunk_id": 438,
+      "unit_hash": "b93973774f20",
+      "passage_hash": "d7b51b662863",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 520,
+    "units_scanned": 520,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

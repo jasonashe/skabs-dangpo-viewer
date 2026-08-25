@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "223_འོ་ན་དངོས། དུམ་མཚན་དང་པོ། 181",
+  "root_paragraph": "འོ་ན། དངོས་པོ་བརྒྱད་པོ་དེ་མཚོན་བྱེད་ཀྱི་ཆོས་བདུན་ཅུ་པོ་དེ་གང་ཞེ་ན། རྣམ་མཁྱེན་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་ཡོད་དེ། སེམས་བསྐྱེད། གདམས་ངག །ཐེག་ཆེན་གྱི་སྦྱོར་ལམ། སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས། སྒྲུབ་པའི་དམིགས་པ། སྒྲུབ་པའི་ཆེད་དུ་བྱ་བ། གོ་སྒྲུབ། འཇུག་སྒྲུབ། ཚོགས་སྒྲུབ། ངེས་འབྱུང་སྒྲུབ་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར། ལམ་ཤེས་མཚོན་བྱེད་ཀྱི་ཆོས་ལ་བཅུ་གཅིག་ཡོད་དེ། ལམ་ཤེས་ཀྱི་ཡན་ལག །ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས། རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས། ཐེག་ཆེན་གྱི་མཐོང་ལམ། ཐེག་ཆེན་གྱི་སྒོམ་ལམ་གྱི་བྱེད་པ། མོས་པ་སྒོམ་ལམ། མོས་པའི་ཕན་ཡོན། བསྔོ་བ་སྒོམ་ལམ། རྗེས་སུ་ཡི་རང་སྒོམ་ལམ། སྒྲུབ་པ་སྒོམ་ལམ། རྣམ་དག་སྒོམ་ལམ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+  "root_paragraph_page": "181",
+  "paragraph_key": "02fa566ffe5b4bc6",
+  "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+  "generated_at": "2026-08-21T06:56:53.758524Z",
+  "quotes": [
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "མོས་པ་སྒོམ་ལམ།",
+      "relevance": "This quote from the commentary excerpt identifies one of the topics within the Mahayana path of meditation (sgom lam), specifically the aspect of aspiration (mos pa), which corresponds to the discussion of the divisions of the path of meditation in the target passage.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~418026 in the commentary file, unit 214/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 54,
+      "chunk_id": 213,
+      "unit_hash": "f886ccf596bf",
+      "passage_hash": "625ea78c5d3f",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།]",
+      "quote_tibetan": "མོས་པ་སྒོམ་ལམ། མོས་པའི་ཕན་ཡོན། བསྔོ་བ་སྒོམ་ལམ། རྗེས་སུ་ཡི་རང་སྒོམ་ལམ། སྒྲུབ་པ་སྒོམ་ལམ། རྣམ་དག་སྒོམ་ལམ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།",
+      "relevance": "This quote lists the components of the path of meditation (sgom lam) related to the second topic (lam shes), connecting directly to the topics of aspiration, dedication, and rejoicing discussed in the commentary excerpt.",
+      "location": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་'s རྣམ་བཤད་སྙིང་པོའི་རྒྱན། [རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།], char offset ~429262 in the commentary file, unit 219/432",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 218,
+      "unit_hash": "0708a8cbe2b1",
+      "passage_hash": "88e5279a05f9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 432,
+    "units_scanned": 432,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

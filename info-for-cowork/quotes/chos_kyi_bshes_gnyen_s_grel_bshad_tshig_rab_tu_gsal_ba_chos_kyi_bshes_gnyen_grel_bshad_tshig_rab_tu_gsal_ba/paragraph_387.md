@@ -1,0 +1,55 @@
+# Quote collection: ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]
+**Target paragraph:** 388_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 280
+
+> གཉིས་པ་ནི། རྒྱུད་བླ་མ་ལས།སྟོན་པ་བསྟན་པ་སློབ་དོན་གྱིས། །ཐེག་པ་གསུམ་དང་བྱེད་གསུམ་ལ། །མོས་པ་གསུམ་གྱི་དབང་བྱས་ནས། །སྐྱབས་གསུམ་རྣམ་པར་བཞག་པ་ཡིན། །ཞེས་གསུངས། དོན་ནི། སྤྱིར་གསུང་རབ་ལས་སྐྱབས་གསུམ་གྱི་རྣམ་གཞག་གསུངས་པ་ཆོས་ཅན། དགོས་པ་ཡོད་དེ། ཐེག་ཆེན་ལམ་དུ་ཞུགས་པ་རྣམས་ཀྱི་རང་གི་ཐོབ་བྱའི་སངས་རྒྱས་འབྲས་བུའི་སྐྱབས་དང་། གཞན་རྒྱུད་ལ་གྲུབ་ཟིན་པའི་སངས་རྒྱས་རྒྱུའི་སྐྱབས་དང་། རིགས་ཅན་གཞན་གཉིས་ཀྱི་ཡང་རྒྱུའི་སྐྱབས་དང་། ལམ་ལ་མ་ཞུགས་ཀྱང་སངས་རྒྱས་དཀོན་མཆོག་ལ་མཆོད་པ་དང་བཀུར་སྟི་བྱེད་པ་ལ་སོགས་པའི་མཆོག་ཏུ་བྱ་བ་བྱེད་པར་མོས་པ་རྣམས་ཀྱི་དབང་དུ་བྱས་ནས་སངས་རྒྱས་དཀོན་མཆོག་སྐྱབས་སུ་རྣམ་པར་བཞག །རང་རྒྱལ་གྱི་རིགས་ཅན་ལམ་དུ་ཞུགས་པ་རྣམས་ཀྱི་ཐོབ་བྱའི་འབྲས་བུ་དང་། ལམ་དུ་མ་ཞུགས་ཀྱང་དམ་པའི་ཆོས་ལ་མཆོག་ཏུ་བྱ་བ་བྱེད་པར་མོས་པ་རྣམས་ཀྱི་དབང་དུ་བྱས་ནས་ཆོས་དཀོན་མཆོག་སྐྱབས་སུ་རྣམ་པར་བཞག ༑ཉན་ཐོས་ཀྱི་རིགས་ཅན་ལམ་དུ་ཞུགས་པ་རྣམས་ཀྱི་ཐོབ་བྱའི་འབྲས་བུ་དང་། ལམ་ལ་མ་ཞུགས་ཀྱང་དགེ་འདུན་དཀོན་མཆོག་ལ་མཆོག་ཏུ་བྱ་བ་བྱེད་པར་མོས་པ་རྣམས་ཀྱི་དབང་དུ་བྱས་ནས་དགེ་འདུན་དཀོན་མཆོག་སྐྱབས་སུ་རྣམ་པར་བཞག་པ་ཡིན་པའི་ཕྱིར། རྟགས་གསུམ་ག་གྲུབ་སྟེ། སངས་རྒྱས་དཀོན་མཆོག་དེ་རྐང་གཉིས་རྣམས་ཀྱི་མཆོག ༑ཆོས་དཀོན་མཆོག་དེ་འདོད་ཆགས་དང་བྲལ་བ་རྣམས་ཀྱི་མཆོག །དགེ་འདུན་དཀོན་མཆོག་དེ་ཚོགས་རྣམས་ཀྱི་མཆོག་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> འདོད་ཆགས་དང་བྲལ་བ་འཕགས་པ་ཉན་ཐོས་དང་རང་སངས་རྒྱས་རྣམས་ཀྱིས་ནི་ཞི་བའི་དབྱིངས་ནས་ལངས་ཏེའོ། ། ཅིག་ཤོས་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི་ད་ལྟ་ཉིད་ནས་སོ། །
+
+- **Why relevant:** This passage provides commentary on the categorization of the Three Jewels and the attributes of those who attain liberation, which is relevant to discussing the defining traits of the Triple Gem.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~168704 in the commentary file, unit 87/421
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> དེའི་དབང་དུ་མཛད་ནས། ཡོངས་དག་ཞིང་དང་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ། །
+
+- **Why relevant:** This passage refers to the exposition of pure realms and other aspects, connecting to the categorization of the Three Jewels based on the different objects and aspects discussed in paragraph 4.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~589252 in the commentary file, unit 302/421
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ཐེག་པ་གསུམ་ཆར་ཐོབ་པའི་རྒྱུ་ཞེས་པ་ནི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་དྲོད་ལ་སོགས་པས་ཐེག་པ་གསུམ་ཆར་གྱི་འབྲས་བུ་དེ་ཡང་ཐོབ་པའི་རྒྱུ་ཉིད་དོ། ། ཉན་ཐོས་ལ་སོགས་པའི་དྲོད་ལ་སོགས་པས་རང་རང་གི་ཐེག་པ་དེའི་འབྲས་བུ་ཐོབ་པའི་རྒྱུ་ཉིད་དོ། །
+
+- **Why relevant:** This quote discusses how the paths and realizations associated with the three vehicles serve as the causes for attaining their respective fruits, which is directly relevant to the target passage's analysis of the three vehicles and their relation to the three jewels and paths.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~624881 in the commentary file, unit 321/421
+- **Verification:** verified_exact
+
+## Quote (42% correctness) ⚠️ UNVERIFIED
+> སྟོན་པ་བསྟན་པ་སློབ་དོན་གྱིས། །ཐེག་པ་གསུམ་དང་བྱེད་གསུམ་ལ། །མོས་པ་གསུམ་གྱི་དབང་བྱས་ནས། །སྐྱབས་གསུམ་རྣམ་པར་བཞག་པ་ཡིན། །
+
+- **Why relevant:** This quote from the Ratnagotravibhaga discusses how the three refuges are established in relation to the three vehicles and three types of aspirations, which corresponds directly to the discussion of the establishment and categorization of the three jewels as refuges in the target passage.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~652219 in the commentary file, unit 334/421
+- **Verification:** UNVERIFIED
+
+## Quote (35% correctness) ⚠️ UNVERIFIED
+> སྟོན་པ་བསྟན་པ་སློབ་དོན་གྱིས། །ཐེག་པ་གསུམ་དང་བྱེད་གསུམ་ལ། །མོས་པ་གསུམ་གྱི་དབང་བྱས་ནས། །སྐྱབས་གསུམ་རྣམ་པར་བཞག་པ་ཡིན། །
+
+- **Why relevant:** This quotation explicitly states the reasons and basis for establishing the three refuges according to the three vehicles and three types of devotion, which directly supports the discussion on the arrangement of the three jewels as refuges in paragraph 4.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~283948 in the commentary file, unit 146/421
+- **Verification:** UNVERIFIED
+
+## Quote (34% correctness) ⚠️ UNVERIFIED
+> སྟོན་པ་བསྟན་པ་སློབ་དོན་གྱིས། །ཐེག་པ་གསུམ་དང་བྱེད་གསུམ་ལ། །མོས་པ་གསུམ་གྱི་དབང་བྱས་ནས། །སྐྱབས་གསུམ་རྣམ་པར་བཞག་པ་ཡིན། །
+
+- **Why relevant:** This quote from the Ratnagotravibhāga provides the scriptural basis explaining how the three refuges are established based on the three types of aspirations for the three vehicles and three agents.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~177982 in the commentary file, unit 92/421
+- **Verification:** UNVERIFIED
+
+## Quote (22% correctness) ⚠️ UNVERIFIED
+> སྟོན་པ་བསྟན་པ་སློབ་དོན་གྱིས། །ཐེག་པ་གསུམ་དང་བྱེད་གསུམ་ལ། །མོས་པ་གསུམ་གྱི་དབང་བྱས་ནས། །སྐྱབས་གསུམ་རྣམ་པར་བཞག་པ་ཡིན། །
+
+- **Why relevant:** This verse from the Ratnagotravibhāga is quoted in the commentary and serves as the primary scriptural basis discussed in paragraph 4 regarding how the three refuges are established in relation to the three vehicles and three modes of aspiration.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~795109 in the commentary file, unit 407/421
+- **Verification:** UNVERIFIED

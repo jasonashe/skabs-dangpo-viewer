@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "236_སྐབས་གཉིས་པར། དུམ་མཚན་དང་པོ། 185",
+  "root_paragraph": "སྐབས་གཉིས་པར་ངེས་འབྱེད་བཞི་ཚན་གཉིས་བསྟན་པ་ནི། ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་གཟུགས་སོགས་ལ་དམིགས་ནས་རྣམ་པ་སྟོང་ཉིད་དབྱེར་མེད་པ་ལ་སོགས་པའི་རྣམ་པར་བསྟན། རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ཀྱི་སྐབས་སུ་དམིགས་པ་ཆོས་ཐམས་ཅད་བཏགས་པ་ཙམ་ལ་དམིགས་ནས་རྣམ་པ་བཏགས་པ་དང་མི་འགལ་བར་ཆོས་ཉིད་སྟོན་པའི་རྣམ་པ་ཅན་ལ་སོགས་པར་བསྟན་པ་ཡིན་པས། དེ་གསུམ་ལ་སྔ་མ་སྔ་མ་ལས་ཕྱི་མ་ཕྱི་མ་དམིགས་རྣམ་མི་འདྲ་བའི་ཕྱིར།",
+  "root_paragraph_page": "185",
+  "paragraph_key": "10bcc5c472d84493",
+  "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+  "generated_at": "2026-08-20T04:15:02.311945Z",
+  "quotes": [
+    {
+      "commentary": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།]",
+      "quote_tibetan": "དེ་གསུམ་ལ་སྔ་མ་སྔ་མ་ལས་ཕྱི་མ་ཕྱི་མ་དམིགས་རྣམ་མི་འདྲ་བའི་ཕྱིར།",
+      "relevance": "The commentary excerpt discusses distinct objects and modes of realization (such as form, emptiness, and the absence of coming and going) for different paths, aligning with the target passage's discussion of differing objects and aspects (dMigs rnam) across the stages.",
+      "location": "ཛ་ག་ད་ལ་གནས་པ་'s བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ། [ཛ་ག་ད་ལ་གནས་པ་_བཅོམ་ལྡན་འདས་མའི་མན་ངག་གི་རྗེས་སུ་འབྲང་བ།], char offset ~636166 in the commentary file, unit 327/524",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 326,
+      "unit_hash": "0caf0e620dc3",
+      "passage_hash": "cda8cdad44bd",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 524,
+    "units_scanned": 524,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

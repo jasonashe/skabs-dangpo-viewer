@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "324_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 247",
+  "root_paragraph": "གཉིས་པ་ལ། རྣམ་གྲངས་པའི་དང་། རྣམ་གྲངས་པ་མ་ཡིན་པའི་ཡུལ་དོན་དམ་གཉིས་ལས། དང་པོ་ནི། མྱུ་གུ་དང་བདེན་མེད་ཀྱི་ཚོགས་དོན་ལྟ་བུ། གཉིས་པ་ནི། མྱུ་གུ་བདེན་པས་སྟོང་པའི་སྟོང་ཉིད་ལྟ་བུ། དེ་ལྟར་ཡང་། སྟོང་ཐུན་ལས།བདེན་མེད་ལྟ་བུའི་མེད་དགག་དོན་དམ་དངོས་དང་། བདེན་མེད་དང་མྱུ་གུ་ཚོགས་པའི་མ་ཡིན་དགག་ལྟ་བུ་ནི་མཐུན་པའི་དོན་དམ་དུ་འཇོག་པས་ཡུལ་དང་ཡུལ་ཅན་གཉིས་ཀ་ལ་འབྱེད་ཚུལ་ཤེས་དགོས་སོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "247",
+  "paragraph_key": "6a1915a2a2952658",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:59.741536Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "བདེན་གཉིས་ལས། དགག་བྱ་ཡོད་པ་མ་ཡིན་པས། ། ཡང་དག་ཏུ་ན་བཀག་མེད་གསལ། །",
+      "relevance": "This quote is relevant as it discusses the relationship between negated objects and ultimate truth/conventional status in the two truths.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~565506 in the commentary file, unit 287/386",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 286,
+      "unit_hash": "e13cd0490fd5",
+      "passage_hash": "7737eae32a70",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

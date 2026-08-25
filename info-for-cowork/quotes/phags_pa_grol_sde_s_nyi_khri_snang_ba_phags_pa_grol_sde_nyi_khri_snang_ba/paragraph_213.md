@@ -1,0 +1,83 @@
+# Quote collection: འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།]
+**Target paragraph:** 214_ཁོ་ན་རེ། དུམ་མཚན་དང་པོ། 174
+
+> ཁོ་ན་རེ། དུས་གསུམ་ཅིག་ཅར་དུ་སངས་རྒྱས་འཕགས་པས་རྟོགས་པར་ཐལ། སངས་རྒྱས་འཕགས་པས་དུས་གསུམ་ཅིག་ཅར་དུ་རྟོགས་པའི་ཕྱིར་ན་མ་ཁྱབ། ཁ་ཅིག ༑སྤྲོས་བྲལ་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་གང་ཞིག །མི་གནས་པའི་མྱང་འདས་སུ་ཕྱིན་ཟིན་དང་ཕྱིན་བྱེད་གང་རུང་། ཤེར་ཕྱིན་གྱི་མཚན་ཉིད་ཟེར་ན། སློབ་ལམ་ན་ཤེར་ཕྱིན་ཡོད་པར་ཐལ། མཚན་ཉིད་འཐད་པའི་ཕྱིར། འདོད་ན། ལམ་ཤེར་ཕྱིན་ཤེར་ཕྱིན་དུ་ཐལ་ལོ། །འདོད་ན། ཤེར་ཕྱིན་ཆོས་ཅན། མི་གནས་པའི་མྱང་འདས་སུ་ཕྱིན་ཟིན་པར་ཐལ༑ དེ་དང་དེར་ཕྱིན་བྱེད་གང་རུང་གང་ཞིག །གཉིས་པ་མ་ཡིན་པའི་ཕྱིར། དང་པོ་དངོས༑ གཉིས་པ་གྲུབ་སྟེ། རྣམ་མཁྱེན་ཁྱོད་ཡིན་པའི་ཕྱིར། རྩ་བར་འདོད་མི་ནུས་ཏེ། ལམ་ཤེར་ཕྱིན་ཁྱོད་ཡིན་པའི་ཕྱིར། རྟགས་ཁས། ཁོ་ན་རེ། སློབ་ལམ་ན་ཤེར་ཕྱིན་ཡོད་པར་ཐལ། སློབ་ལམ་ན་བསླབ་པ་གསུམ་ཡོད་པའི་ཕྱིར། ཁྱབ་སྟེ། མདོ་སྡེའི་རྒྱན་ལས༑བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །ཅེས་གསུངས་པའི་ཕྱིར་ན་མ་ཁྱབ་སྟེ། ཉན་ཐོས་དགྲ་བཅོམ་པའི་རྒྱུད་ལ་ཤེར་ཕྱིན་ཡོད་པར་ཐལ༑ དེའི་རྒྱུད་ལ་བསླབ་པ་གསུམ་ཡོད་པའི་ཕྱིར། ཁྱབ་པ་ཁས།
+
+*Coverage: complete.*
+
+## Quote (48% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** This passage is quoted in paragraph 14 in the context of discussing whether the three trainings entail the perfection of wisdom.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~442361 in the commentary file, unit 226/328
+- **Verification:** UNVERIFIED
+
+## Quote (47% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** This passage is relevant because it quotes the exact verse from the Abhisamayalankara regarding the three trainings and the six perfections, which is discussed in the target paragraph.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~633495 in the commentary file, unit 324/328
+- **Verification:** UNVERIFIED
+
+## Quote (44% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** The commentary excerpt quotes this same verse from the Abhisamayalankara regarding the three trainings and the six perfections.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~49974 in the commentary file, unit 26/328
+- **Verification:** UNVERIFIED
+
+## Quote (42% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** This quote is cited in the target passage to connect the three trainings with the six perfections of the victors.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~609957 in the commentary file, unit 312/328
+- **Verification:** UNVERIFIED
+
+## Quote (41% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** The commentary excerpt quotes this verse from the Madhyantavibhaga regarding the three trainings and the six perfections, which is discussed in target paragraph 14.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~592645 in the commentary file, unit 303/328
+- **Verification:** UNVERIFIED
+
+## Quote (39% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** This passage is quoted in the target text to discuss the relationship between the three trainings and the six perfections.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~558066 in the commentary file, unit 286/328
+- **Verification:** UNVERIFIED
+
+## Quote (38% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** The target passage references this exact verse from the Abhisamayalankara regarding the six perfections corresponding to the three trainings.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~571503 in the commentary file, unit 292/328
+- **Verification:** UNVERIFIED
+
+## Quote (35% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །ཅེས་གསུངས་པའི་ཕྱིར་
+
+- **Why relevant:** This quote supports the discussion on the three trainings and their relationship to the six perfections.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~422177 in the commentary file, unit 216/328
+- **Verification:** UNVERIFIED
+
+## Quote (35% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** The commentary quotes this line from the Mahayanasutralankara to connect the three trainings with the six perfections of the victors.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~28210 in the commentary file, unit 15/328
+- **Verification:** UNVERIFIED
+
+## Quote (33% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** This passage is quoted to show the scriptural basis for connecting the three trainings to the six perfections.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~397341 in the commentary file, unit 203/328
+- **Verification:** UNVERIFIED
+
+## Quote (32% correctness) ⚠️ UNVERIFIED
+> བསླབ་གསུམ་དབང་དུ་མཛད་ནས་ནི། །རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་པ་དྲུག །
+
+- **Why relevant:** This quote is used in the target paragraph to discuss the relationship between the three trainings and the six perfections.
+- **Location:** འཕགས་པ་གྲོལ་སྡེ་'s ཉི་ཁྲི་སྣང་བ། [འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།], char offset ~499533 in the commentary file, unit 256/328
+- **Verification:** UNVERIFIED

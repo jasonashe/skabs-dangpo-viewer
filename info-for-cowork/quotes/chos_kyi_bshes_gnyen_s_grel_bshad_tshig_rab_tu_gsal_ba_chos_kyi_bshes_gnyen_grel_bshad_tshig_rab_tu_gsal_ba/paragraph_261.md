@@ -1,0 +1,27 @@
+# Quote collection: ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།]
+**Target paragraph:** 262_འོ་ན་གླང། དུམ་མཚན་དང་པོ། 207
+
+> འོ་ན། གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བར་འདོད་པས། ཞེས་པའི་དོན་གང་ཞེ་ན༑ དེའི་དོན་ཡོད་དེ། སྟེང་ན་འདུག་པ་ལ་བཀྱེད་དེ་མི་ལྟ། འོག་ན་འདུག་པ་ལ་བཏུད་དེ་མི་ལྟ། གཡས་གཡོན་ན་འདུག་པ་ལ་མིག་བཟུར་ཏེ་མི་ལྟ། རྒྱབ་ཏུ་འདུག་པ་ལ་མཇིང་པ་བསྒྱུར་ཏེ་མི་ལྟ། ཐག་རིང་པོ་ན་འདུག་པ་ལ་བསྒྲིམས་ཏེ་མི་ལྟ། ཐག་ཉེ་བ་ན་འདུག་པ་ལ་བསྒྲིམས་པ་མེད་པར་ཡང་མི་ལྟ་བར་ཇི་ལྟར་འདུག་པའི་སྤྱོད་ལམ་དང་། ཇི་ལྟར་ལྟ་བའི་མིག་གིས་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་དུ་སེམས་ཅན་དང་ཆོས་ཐམས་ཅད་ལ་ལྟ་བ་ནི་གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བའི་དོན་ཡིན་པའི་ཕྱིར་ཏེ།དེ་ལྟར་ཡུམ་གསུམ་གནོད་འཇོམས་ལས་གསུངས་པའི་ཕྱིར། གཉིས་པ་དོན་བསྡུ་བ་ལ། དེ་ལྟར་ན་དེ་ཡང་ས་གསེར་ཟླ་བ་མེ་ཞེས་བྱ་བ་ལ་སོགས་པས་སེམས་བསྐྱེད་པ་ཉི་ཤུ་རྩ་གཉིས་བཤད་པ་ཡིན་ནོ། །ཞེས་གསུངས།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> གླང་པོ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote introduces the discussion of the elephant-like (གླང་པོ་) imagery corresponding to the cloud-like mind generation and its specific manner of looking.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~459040 in the commentary file, unit 236/421
+- **Verification:** verified_exact
+
+## Quote (40% correctness) ⚠️ UNVERIFIED
+> དེ་ལྟར་ན་དེ་ཡང་ས་གསེར་ཟླ་བ་མེ་ཞེས་བྱ་བ་ལ་སོགས་པས་སེམས་བསྐྱེད་པ་ཉི་ཤུ་རྩ་གཉིས་བཤད་པ་ཡིན་ནོ། །
+
+- **Why relevant:** This quote summarizes the explanation of the twenty-two types of mind generation starting with earth, gold, moon, and fire, directly matching paragraph 6's summary.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~39626 in the commentary file, unit 21/421
+- **Verification:** UNVERIFIED
+
+## Quote (38% correctness) ⚠️ UNVERIFIED
+> འོ་ན། གླང་པོ་ཆེའི་ལྟ་སྟངས་ཀྱིས་ལྟ་བར་འདོད་པས། ཞེས་པའི་དོན་གང་ཞེ་ན༑
+
+- **Why relevant:** This quote discusses the detailed meaning of looking with an elephant's gaze in relation to the classification of mind generations.
+- **Location:** ཆོས་ཀྱི་བཤེས་གཉེན་'s འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། [ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།], char offset ~439412 in the commentary file, unit 226/421
+- **Verification:** UNVERIFIED

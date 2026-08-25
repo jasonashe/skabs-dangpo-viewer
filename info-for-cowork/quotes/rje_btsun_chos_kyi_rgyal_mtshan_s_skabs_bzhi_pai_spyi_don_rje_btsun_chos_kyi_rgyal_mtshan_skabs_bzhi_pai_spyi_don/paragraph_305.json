@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "306_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 235",
+  "root_paragraph": "གཉིས་པ་ནི། ཐེག་ཆེན་གྱི་ཚོགས་ལམ་ཆེན་པོ་ཐོབ་ནས་ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་ལ་བརྟེན་ནས་མཆོག་གི་སྤྲུལ་སྐུ་ལས་གདམས་ངག་དངོས་སུ་ཉན་པ་ཡིན་ཏེ། མདོ་སྡེའི་རྒྱན་ལས།དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ ༑ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །ཞེས་གསུངས་པའི་ཕྱིར། འོ་ན། ཆོས་རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་གང་ཞེ་ན། འདི་ལ་ངོ་བོ། སྒྲ་བཤད༑ ས་མཚམས་དང་གསུམ་ལས།",
+  "root_paragraph_page": "235",
+  "paragraph_key": "dd2c4c96add79a1d",
+  "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+  "generated_at": "2026-08-21T06:57:05.709987Z",
+  "quotes": [
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ །ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །",
+      "relevance": "This citation explains how extensive instructions are received based on the continuum of the Dharma.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།], char offset ~423385 in the commentary file, unit 216/255",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 215,
+      "unit_hash": "7d8bb115860c",
+      "passage_hash": "875a47390ec7",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།]",
+      "quote_tibetan": "དེ་ཚེ་ཆོས་ཀྱི་རྒྱུན་ལས་ནི། །སངས་རྒྱས་རྣམས་ལས་ཞི་གནས་དང་༑ །ཡེ་ཤེས་ཡངས་པ་ཐོབ་བྱའི་ཕྱིར། །གདམས་ངག་རྒྱ་ཆེན་ནོད་པར་འགྱུར། །",
+      "relevance": "This verse from the *Madhyantavibhaga* supports the explanation of receiving vast instructions from Buddhas based on the dhāraṇī concentration.",
+      "location": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་'s སྐབས་བཞི་པའི་སྤྱི་དོན། [རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་བཞི་པའི་སྤྱི་དོན།], char offset ~433111 in the commentary file, unit 221/255",
+      "verification": "UNVERIFIED",
+      "correctness_score": 8,
+      "chunk_id": 220,
+      "unit_hash": "90f4d7b33bad",
+      "passage_hash": "209d2ec9eaef",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 255,
+    "units_scanned": 255,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

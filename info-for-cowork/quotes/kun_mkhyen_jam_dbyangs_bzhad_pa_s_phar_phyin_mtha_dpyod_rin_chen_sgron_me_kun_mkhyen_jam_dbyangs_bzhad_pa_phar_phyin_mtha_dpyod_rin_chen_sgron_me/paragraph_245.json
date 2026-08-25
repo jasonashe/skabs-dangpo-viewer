@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "246_གཉིས་པ་མཚོན། དུམ་མཚན་དང་པོ། 190",
+  "root_paragraph": "གཉིས་པ་མཚོན་བྱེད་ཀྱི་ཆོས་རྒྱས་པར་བཤད་པ་ལ། ལམ་གྱི་རང་བཞིན་སེམས་བསྐྱེད་བཤད་པ་དང་། སེམས་བསྐྱེད་དེ་དག་བྱེད་ཀྱི་གདམས་ངག་ནོད་པ་དང་། གདམས་ངག་གི་འབྲས་བུ་ངེས་འབྱེད་ཡན་ལག་བཤད་པ་དང་། གདམས་དོན་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་སྒྲུབ་པ་བཤད་པའོ། །དང་པོ་ལ་གཉིས། མཚན་ཉིད་དང་། རབ་དབྱེའོ། ། དང་པོ་ལ་གཉིས། མཚན་ཉིད་དངོས་དང་། དེ་མདོ་དང་སྦྱར་བའོ། །དང་པོ་ལ། མཚམས་སྦྱར། རྩ་བ། འགྲེལ་པ་གསུམ་ལས།",
+  "root_paragraph_page": "190",
+  "paragraph_key": "58d9b5f9a8453de9",
+  "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+  "generated_at": "2026-08-20T04:13:58.636110Z",
+  "quotes": [
+    {
+      "commentary": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།]",
+      "quote_tibetan": "གཉིས་པ་མཚོན་བྱེད་ཀྱི་ཆོས་རྒྱས་པར་བཤད་པ་ལ། ལམ་གྱི་རང་བཞིན་སེམས་བསྐྱེད་བཤད་པ་དང་། སེམས་བསྐྱེད་དེ་དག་བྱེད་ཀྱི་གདམས་ངག་ནོད་པ་དང་། གདམས་ངག་གི་འབྲས་བུ་ངེས་འབྱེད་ཡན་ལག་བཤད་པ་དང་། གདམས་དོན་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་སྒྲུབ་པ་བཤད་པའོ། །",
+      "relevance": "This quote outlines the four main subdivisions under the expanded explanation of the characterizing phenomena (མཚོན་བྱེད་ཀྱི་ཆོས་རྒྱས་པར་བཤད་པ), directly connecting to the structure analyzed in paragraph 6.",
+      "location": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་'s ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ། [ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།], char offset ~325017 in the commentary file, unit 165/386",
+      "verification": "UNVERIFIED",
+      "correctness_score": 35,
+      "chunk_id": 164,
+      "unit_hash": "ad4ef9c114a0",
+      "passage_hash": "53fa5abbf5aa",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 386,
+    "units_scanned": 386,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

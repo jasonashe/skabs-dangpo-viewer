@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "302_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 233",
+  "root_paragraph": "གཉིས་པ་ལ། གདམས་ངག་སྤྱིར་བསྟན་པ་དང་། རྟོགས་དཀའ་བ་བྱེ་བྲག་ཏུ་བཤད་པ་གཉིས་ལས། དང་པོ་ལ། བསྟན་བཤད། མཇུག་བསྡུ་བའོ། །དང་པོ་ནི། གདམས་ངག་ནི། །བཅུ་ཡི་བདག་ཉིད་ཤེས་པར་བྱ། །ཞེས་པས་བསྟན།",
+  "root_paragraph_page": "233",
+  "paragraph_key": "a32e3debb62f27c7",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:14.120749Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "གདམས་ངག་ནི། །བཅུ་ཡི་བདག་ཉིད་ཤེས་པར་བྱ། །",
+      "relevance": "This quote is cited to show how the commentary introduces the ten types of instructions, corresponding to the topic of Paragraph 2.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~21111 in the commentary file, under ‘གདམས་ངག’, unit 11/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 38,
+      "chunk_id": 10,
+      "unit_hash": "c70c03c16642",
+      "passage_hash": "aaefa981c7c6",
+      "folio": null,
+      "sa_bcad": "གདམས་ངག",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

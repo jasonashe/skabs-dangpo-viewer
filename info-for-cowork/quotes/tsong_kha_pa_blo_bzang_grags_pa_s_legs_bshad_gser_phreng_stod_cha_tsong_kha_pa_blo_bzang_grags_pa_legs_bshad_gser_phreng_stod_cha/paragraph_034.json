@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "35_བཞི་པ་ནི། དུམ་མཚན་དང་པོ། 60",
+  "root_paragraph": "བཞི་པ་ནི། དེས་ན་སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་འགྲེལ་པ་རྩོམ་རིགས་ཏེ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱམས་པ་མགོན་པོའ་ིཞལ་མངོན་སུམ་དུ་གཟིགས་ཏེ། འགྲེལ་པ་རྩོམ་པའི་གསུང་གི་གནང་བ་ཐོབ་པའི་ཕྱིར། རྒྱུ་མཚན་དེའི་ཕྱིར་ན་ཕྱི་རབས་ཀྱི་གཟུར་གནས་རྣམས་འགྲེལ་པ་འདི་ལ་འཆད་ཉན་གྱི་སྒོ་ནས་འཇུག་རིགས་སོ། །ཞེས་འཆད་པ་ལ།དེ་ལྟས་ཤིན་ཏུ་རྙེད་དཀའ་བ། །ཞེས་སོགས་ཤླཽ་ཀ་གཅིག་གསུངས།",
+  "root_paragraph_page": "60",
+  "paragraph_key": "7a26ccf680f55f3e",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:48.599038Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "དེས་ན་སློབ་དཔོན་སེང་གེ་བཟང་པོ་ཆོས་ཅན། ཁྱོད་ཀྱིས་འགྲེལ་པ་རྩོམ་རིགས་ཏེ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱམས་པ་མགོན་པོའ་ིཞལ་མངོན་སུམ་དུ་གཟིགས་ཏེ། འགྲེལ་པ་རྩོམ་པའི་གསུང་གི་གནང་བ་ཐོབ་པའི་ཕྱིར།",
+      "relevance": "This quote matches the target paragraph's discussion of why it is proper for the master to compose the commentary, specifically noting the blessing or vision of Maitreya.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~44382 in the commentary file, under ‘ཙ’, unit 23/502",
+      "verification": "UNVERIFIED",
+      "correctness_score": 28,
+      "chunk_id": 22,
+      "unit_hash": "e061ef2eed24",
+      "passage_hash": "b6f29fbc5bce",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

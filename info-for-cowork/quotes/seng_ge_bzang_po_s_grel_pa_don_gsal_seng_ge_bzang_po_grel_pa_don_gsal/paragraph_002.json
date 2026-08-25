@@ -1,0 +1,77 @@
+{
+  "root_paragraph_heading": "3_རང་ལུགས་ནི། དུམ་མཚན་དང་པོ། 40",
+  "root_paragraph": "རང་ལུགས་ནི། ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་པོ་འདི་ཉིད་འདིའི་བཤད་བྱ་རྩ་བའི་མདོ་ཡིན་ཏེ། འགྲེལ་པར།རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ། ཞེས་དང་།ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "40",
+  "paragraph_key": "7440ee4e999c767d",
+  "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+  "generated_at": "2026-08-21T06:57:13.460554Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །",
+      "relevance": "The commentary excerpt is quoted to support the author's own position regarding the three mother texts as the foundational sutras.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~195326 in the commentary file, under ‘རྒྱས་པ་ལ་དད་པ་ལ་བརྒྱད་དུ་དབྱེ་བ།’, unit 100/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 82,
+      "chunk_id": 99,
+      "unit_hash": "12297060b266",
+      "passage_hash": "f27c46afaab8",
+      "folio": null,
+      "sa_bcad": "རྒྱས་པ་ལ་དད་པ་ལ་བརྒྱད་དུ་དབྱེ་བ།",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ།",
+      "relevance": "This quote from the commentary is cited to establish the author's own philosophical position regarding the threefold Mother scriptures as the root text.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~8228 in the commentary file, under ‘དགོས་འབྲེལ་ངག’, unit 5/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 76,
+      "chunk_id": 4,
+      "unit_hash": "9d53629cc124",
+      "passage_hash": "f660f5a95778",
+      "folio": null,
+      "sa_bcad": "དགོས་འབྲེལ་ངག",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ།",
+      "relevance": "This quote from the commentary is cited to establish that the three mother scriptures (expanded, intermediate, and condensed) are the root sutras to be explained.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~13524 in the commentary file, under ‘ལུས་རྣམ་གཞག’, unit 7/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 61,
+      "chunk_id": 6,
+      "unit_hash": "4e7cafb5fd27",
+      "passage_hash": "6446320707de",
+      "folio": null,
+      "sa_bcad": "ལུས་རྣམ་གཞག",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།]",
+      "quote_tibetan": "ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག །གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། །མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལས། །དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། །",
+      "relevance": "This verse is quoted as scriptural support in the author's own system regarding how the teachings are gathered from all the mother sutras.",
+      "location": "སེང་གེ་བཟང་པོ་'s འགྲེལ་པ་དོན་གསལ། [སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།], char offset ~17705 in the commentary file, under ‘གདམས་ངག’, unit 10/101",
+      "verification": "UNVERIFIED",
+      "correctness_score": 29,
+      "chunk_id": 9,
+      "unit_hash": "dc4421dc18d0",
+      "passage_hash": "6446320707de",
+      "folio": null,
+      "sa_bcad": "གདམས་ངག",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 101,
+    "units_scanned": 101,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

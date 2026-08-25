@@ -1,0 +1,41 @@
+# Quote collection: མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།]
+**Target paragraph:** 375_གང་ཟག་གི། དུམ་མཚན་དང་པོ། 273
+
+> གང་ཟག་གི་བདག་མེད་མངོན་སུམ་དུ་རྟོགས་པའི་ཡེ་ཤེས་ཆོས་ཅན། ལམ་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཐར་པར་བགྲོད་པར་བྱེད་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་ཕྱིར། རིག་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཉོན་མོངས་པའི་དངོས་གཉེན་དུ་དགོས་པའི་ཕྱིར། སྒྲུབ་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སེམས་ཀྱི་གནས་ལུགས་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་ཕྱིར། ངེས་པར་འབྱིན་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱེད་པའི་ལམ་ཡིན་པའི་ཕྱིར།
+
+*Coverage: complete.*
+
+## Quote (100% correctness)
+> དོན་དམ་པར་ལམ་དང་ལམ་མིན་པ་དང་བྲལ་བའི་ཕྱིར་ངན་སོང་ཆད་པ་དང་། དོན་དམ་པར་ཉོན་མོངས་ཀྱི་གཉེན་པོ་བྱེད་པའི་ཕྱིར་རིགས་པ་དང་རིགས་པ་མིན་པ་དང་མ་འདྲེས་པའི་ཕྱིར་འབྲས་བུ་མངོན་དུ་བྱ་བའི་དོན་གྱི་ཐབས་ལ་རྣམ་པར་མི་རྟོག་པ་ཉིད་
+
+- **Why relevant:** This quote details the path aspects related to antidotes and means, corresponding to the target passage's explanation of the path truth and its role as a remedy for afflictions.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~250490 in the commentary file, under ‘བདེན་བཞི་མི་རྟག་སོགས་བཅུ་དྲུག་བཤད་པ།’, unit 128/281
+- **Verification:** verified_exact
+
+## Quote (100% correctness)
+> ལམ་གྱི་བདེན་པའི་ལམ་དང་། རིགས་པ་དང་། སྒྲུབ་པ་དང་། ངེས་པར་འབྱིན་པའི་རྣམ་པ་རྣམས་རང་གི་མིང་གིས་བསྟན་ཏེ།
+
+- **Why relevant:** This quote delineates the four specific aspects of the truth of the path, providing the exact terms analyzed in the corresponding target paragraph.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~179228 in the commentary file, under ‘ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་བཤད་པ།’, unit 92/281
+- **Verification:** verified_exact
+
+## Quote (83% correctness) ⚠️ UNVERIFIED
+> ༤བ་ལམ་ལ་འདོམས་པ་ནི། གང་ལ་ན། ལམ་ལའོ། ། ཇི་ལྟར་ན་ལམ་དང་། རིགས་སྒྲུབ་དང་། ངེས་འབྱིན་ལ་འདོམས་པ་གསུམ་གྱི། དང་པོ་ནི། བསྒོམ་བྱ་སྦྱིན་པ་ལ་སོགས་པ་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བྱང་སེམས་བདག་ཉིད་ཕན་ཚུན་བསྒོམ་བྱ་སྒོམ་བྱེད་དུ་ལྡན་པར་བདེན་པ་དང་། མི་ལྡན་པར་བདེན་པ་མིན་པ་ཉིད་དུ་རྟོགས་ལ་སྒྲུབ་བོ་ཞེས་སྟོན་པའོ། །
+
+- **Why relevant:** This text discusses the instruction on the path (marga), specifically concerning the practice of the perfections and the non-deceptive realization of the path, which relates to the characterization of the path of realization in the target paragraph.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~36944 in the commentary file, under ‘ཐེག་ཆེན་གྱི་གདམས་ངག་བཤད་པ།’, unit 19/281
+- **Verification:** UNVERIFIED
+
+## Quote (44% correctness) ⚠️ UNVERIFIED
+> དེ་གང་ཞིག །ལམ་རིག་པ་སྒྲུབ་པ་ངེས་འབྱིན་བཞིས་ཁྱད་པར་དུ་བྱས་པའི་རབ་ཏུ་ཕྱེ་བ།
+
+- **Why relevant:** This target paragraph discusses the four aspects of the path (salvation, realization, practice, and definitive deliverance), which are directly elaborated in the commentary excerpt concerning the four aspects of the path of realization.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~328965 in the commentary file, under ‘སྦྱོར་བའི་མཚན་ཉིད་བཤད་པ།’, unit 168/281
+- **Verification:** UNVERIFIED
+
+## Quote (28% correctness) ⚠️ UNVERIFIED
+> ལམ་གྱི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཐར་པར་བགྲོད་པར་བྱེད་པའི་ལམ་གྱི་རིགས་སུ་གནས་པའི་ཕྱིར། རིག་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། ཉོན་མོངས་པའི་དངོས་གཉེན་དུ་དགོས་པའི་ཕྱིར། སྒྲུབ་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སེམས་ཀྱི་གནས་ལུགས་ཕྱིན་ཅི་མ་ལོག་པར་སྒྲུབ་པའི་ཕྱིར། ངེས་པར་འབྱིན་པའི་རྣམ་པ་ཞེས་བྱ་སྟེ། སྡུག་བསྔལ་གཏན་ཟད་དུ་བྱེད་པའི་ལམ་ཡིན་པའི་ཕྱིར།
+
+- **Why relevant:** This quote defines the four aspects of the path truth (ལམ་གྱི་རྣམ་པ, རིག་པའི་རྣམ་པ, སྒྲུབ་པའི་རྣམ་པ, and ངེས་པར་འབྱིན་པའི་རྣམ་པ), corresponding directly to the subject matter of paragraph 7.
+- **Location:** མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་'s ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། [མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།], char offset ~39762 in the commentary file, under ‘རྟེན་དཀོན་མཆོག་གསུམ་ལ་གདམས་པ།’, unit 21/281
+- **Verification:** UNVERIFIED

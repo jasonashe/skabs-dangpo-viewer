@@ -1,0 +1,49 @@
+{
+  "root_paragraph_heading": "324_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 247",
+  "root_paragraph": "གཉིས་པ་ལ། རྣམ་གྲངས་པའི་དང་། རྣམ་གྲངས་པ་མ་ཡིན་པའི་ཡུལ་དོན་དམ་གཉིས་ལས། དང་པོ་ནི། མྱུ་གུ་དང་བདེན་མེད་ཀྱི་ཚོགས་དོན་ལྟ་བུ། གཉིས་པ་ནི། མྱུ་གུ་བདེན་པས་སྟོང་པའི་སྟོང་ཉིད་ལྟ་བུ། དེ་ལྟར་ཡང་། སྟོང་ཐུན་ལས།བདེན་མེད་ལྟ་བུའི་མེད་དགག་དོན་དམ་དངོས་དང་། བདེན་མེད་དང་མྱུ་གུ་ཚོགས་པའི་མ་ཡིན་དགག་ལྟ་བུ་ནི་མཐུན་པའི་དོན་དམ་དུ་འཇོག་པས་ཡུལ་དང་ཡུལ་ཅན་གཉིས་ཀ་ལ་འབྱེད་ཚུལ་ཤེས་དགོས་སོ། །ཞེས་གསུངས།",
+  "root_paragraph_page": "247",
+  "paragraph_key": "6a1915a2a2952658",
+  "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+  "generated_at": "2026-08-20T04:14:07.273804Z",
+  "quotes": [
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "མྱུ་གུ་བདེན་མེད་ཀུན་རྫོབ་དང་མྱུ་གུའི་བདེན་མེད་དོན་དམ་ཡིན་ཞེས་པ་དང་།",
+      "relevance": "This quote from the commentary discusses the distinction between conventional and ultimate aspects regarding a sprout and its lack of true existence, which is relevant to paragraph 4's discussion of conditional ultimate objects like sprouts and their emptiness.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~241035 in the commentary file, under ‘པུ་’, unit 123/137",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 122,
+      "unit_hash": "abad3bc4e6a2",
+      "passage_hash": "716363e81d56",
+      "folio": null,
+      "sa_bcad": "པུ་",
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།]",
+      "quote_tibetan": "རྣམ་གྲངས་ཁས་མི་ལེན་པ་དང་།",
+      "relevance": "This quote discusses rejecting provisional synonyms (rnam grangs) or designations regarding ultimate reality, which is relevant to the target passage's discussion of rnam grangs pa'i don dam.",
+      "location": "ངག་དབང་དཔལ་ལྡན་'s བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར། [ངག་དབང་དཔལ་ལྡན་_བྱམས་མགོན་ཞལ་ལུང་དབྱིན་འགྱུར།], char offset ~67731 in the commentary file, unit 35/137",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 34,
+      "unit_hash": "9fc6d1657e12",
+      "passage_hash": "908bfcd652f4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 137,
+    "units_scanned": 137,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

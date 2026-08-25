@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "249_གཉིས་པ་ནི། དུམ་མཚན་དང་པོ། 192",
+  "root_paragraph": "གཉིས་པ་ནི། མདོ་དེའི་དོན་བཤད་པའི་སྒོ་ནས་ཐེག་ཆེན་སེམས་བསྐྱེད་དེ་མཚན་ཉིད་ཀྱི་སྒོ་ནས་མདོར་བསྟན་གྱི་ཚུལ་གྱིས་འཆད་པ་ལ། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་གསུངས། དེ་ཡང་སེམས་བསྐྱེད་པ་ནི། ཞེས་པས་མཚོན་བྱ་དང་། གཞན་དོན་ཕྱིར། །ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། །ཅེས་པས་མཚན་ཉིད་དེ་བསྟན།",
+  "root_paragraph_page": "192",
+  "paragraph_key": "8cc8c61ca9d10928",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.093847Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "དེ་སྐད་དུ་ཡང་། སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར། ། ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད། ། དེ་དང་དེ་ནི་མདོ་བཞིན་དུ། ། བསྡུས་དང་རྒྱས་པའི་སྒོ་ནས་བརྗོད། ། ཅེས་བྱ་བ་གསུངས་པ་ཡིན་ནོ། །",
+      "relevance": "This verse directly states the definition of generating the mind (semkyed) as wanting complete awakening for the sake of others, matching the topic of the target paragraph.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~59648 in the commentary file, unit 31/577",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 30,
+      "unit_hash": "66a813797fb4",
+      "passage_hash": "61298ba8976b",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "58_ཁ་ཅིག་དེ། དུམ་མཚན་དང་པོ། 72",
+  "root_paragraph": "ཁ་ཅིག །དེ་ལ་དེ་གསུམ་དུ་གྲངས་ངེས་ཏེ། ཚོགས་སྦྱོར་རྣམས་གཞི་ཤེས་དང་། ལམ་ཤེས་གང་རུང་དུ་འཇོག་པའི་ཕྱིར། ཞེས་ཟེར་བ་མི་འཐད་དེ། ཉི་སྣང་ལས༑འཕགས་པའི་གང་ཟག་ཐམས་ཅད་ཀྱི་དབང་དུ་མཛད་ནས་ཐམས་ཅད་མཁྱེན་པ་ཉིད་གསུམ་གྱི་ཐུན་མོང་མ་ཡིན་པའི་ཡོན་ཏན་ཉེ་བར་འགོད་པ་སྔོན་དུ་འགྲོ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །ཞེས་མཁྱེན་གསུམ་གང་རུང་ལ་འཕགས་རྒྱུད་ཀྱི་མཁྱེན་པས་ཁྱབ་པར་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "72",
+  "paragraph_key": "97fcf86f37d43a1b",
+  "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+  "generated_at": "2026-08-20T04:14:33.523519Z",
+  "quotes": [
+    {
+      "commentary": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།]",
+      "quote_tibetan": "འཕགས་པའི་གང་ཟག་ཐམས་ཅད་ཀྱི་དབང་དུ་མཛད་ནས་ཐམས་ཅད་མཁྱེན་པ་ཉིད་གསུམ་གྱི་ཐུན་མོང་མ་ཡིན་པའི་ཡོན་ཏན་ཉེ་བར་འགོད་པ་སྔོན་དུ་འགྲོ་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "relevance": "This quote from Nyisnang supports the claim that the three kinds of omniscience encompass the realization of all arya individuals.",
+      "location": "བྱམས་པ་མགོན་པོ་'s མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ། [བྱམས་པ་མགོན་པོ་_མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།], char offset ~55619 in the commentary file, unit 28/44",
+      "verification": "UNVERIFIED",
+      "correctness_score": 30,
+      "chunk_id": 27,
+      "unit_hash": "dce2c9be3a5e",
+      "passage_hash": "10941b6cf8e4",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 44,
+    "units_scanned": 44,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

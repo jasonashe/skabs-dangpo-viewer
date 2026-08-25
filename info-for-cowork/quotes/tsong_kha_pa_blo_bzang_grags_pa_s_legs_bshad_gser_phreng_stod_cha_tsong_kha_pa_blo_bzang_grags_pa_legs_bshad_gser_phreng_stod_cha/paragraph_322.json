@@ -1,0 +1,35 @@
+{
+  "root_paragraph_heading": "323_དོན་དམ་ཙམ། དུམ་མཚན་དང་པོ། 246",
+  "root_paragraph": "དོན་དམ་ཙམ་ལ་སྒྲས་བརྗོད་རིགས་ཀྱི་སྒོ་ནས་དབྱེ་ན། ཡུལ་ཅན་དོན་དམ་དང་། ཡུལ་དོན་དམ་གཉིས་ལས། དང་པོ་ལ། སྒྲས་བརྗོད་རིགས་ཀྱི་སྒོ་ནས། རྣམ་གྲངས་པའི་དང་༑ རྣམ་གྲངས་པ་མ་ཡིན་པའི་ཡུལ་ཅན་དོན་དམ་གཉིས་ལས། དང་པོ་ནི། བདག་མེད་རྟོགས་པའི་རིགས་ཤེས་རྗེས་དཔག་ལྟ་བུ། གཉིས་པ་ནི། དོན་དམ་གཟིགས་པའི་འཕགས་པའི་མཉམ་གཞག་ཡེ་ཤེས་ལྟ་བུའོ། །",
+  "root_paragraph_page": "246",
+  "paragraph_key": "073a09df42fb89b9",
+  "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+  "generated_at": "2026-08-20T04:14:53.063558Z",
+  "quotes": [
+    {
+      "commentary": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།]",
+      "quote_tibetan": "འཕགས་པའི་མཉམ་གཞག་གི་ཡུལ་ཡིན་པ་སྟེ། མདོར་ན་སྒྲ་རྟོག་གི་ཡུལ་མིན་ཞིང་འཕགས་པའི་མཉམ་གཞག་གི་ཡུལ་ཡིན་པའོ། །",
+      "relevance": "This quote discusses the meditative equipoise of noble beings (འཕགས་པའི་མཉམ་གཞག་) as the non-conceptual domain, which is relevant to paragraph 3's discussion of the ultimate object known directly by an arya's meditative equipoise.",
+      "location": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་'s ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། [ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།], char offset ~303516 in the commentary file, under ‘ཙ’, unit 156/502",
+      "verification": "verified_exact",
+      "correctness_score": 100,
+      "chunk_id": 155,
+      "unit_hash": "3c562c7283b5",
+      "passage_hash": "cd3cfab20ce6",
+      "folio": null,
+      "sa_bcad": "ཙ",
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 502,
+    "units_scanned": 502,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 8,
+    "scoped_to_skabs": null
+  }
+}

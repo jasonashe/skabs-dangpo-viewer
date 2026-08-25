@@ -1,0 +1,63 @@
+{
+  "root_paragraph_heading": "274_གཉིས་པ་ལ། དུམ་མཚན་དང་པོ། 215",
+  "root_paragraph": "གཉིས་པ་ལ། མོས་སྤྱོད་ཀྱི་སྐབས་སུ་མོས་པས་སྤྱོད་པའི་སེམས་བསྐྱེད། མ་དག་ས་བདུན་དུ་ལྷག་བསམ་དག་པའི་སེམས་བསྐྱེད། དག་པ་ས་གསུམ་དུ་རྣམ་པར་སྨིན་པའི་སེམས་བསྐྱེད། སངས་རྒྱས་ཀྱི་སར་སྒྲིབ་པ་སྤངས་པའི་སེམས་བསྐྱེད་དང་བཞི་ཡོད་དེ། མདོ་སྡེའི་རྒྱན་ལས།སེམས་བསྐྱེད་དེ་ནི་ས་རྣམས་ལ། །མོས་དང་ལྷག་བསམ་དག་པ་དང་། །རྣམ་པར་སྨིན་པ་གཞན་དུ་འདོད། །དེ་བཞིན་སྒྲིབ་པ་སྤངས་པའོ། ། ཞེས་གསུངས་པའི་ཕྱིར།",
+  "root_paragraph_page": "215",
+  "paragraph_key": "b35f2a0a16b4a2b1",
+  "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+  "generated_at": "2026-08-21T06:57:21.329953Z",
+  "quotes": [
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་དེ་ནི་ས་རྣམས་ལ། །མོས་དང་ལྷག་བསམ་དག་པ་དང་། །རྣམ་པར་སྨིན་པ་གཞན་དུ་འདོད། །དེ་བཞིན་སྒྲིབ་པ་སྤངས་པའོ། །",
+      "relevance": "This verse from the Mahayanasutralankara is quoted to explain the fourfold division of mind generation relative to the grounds (bhumi): aspiration, purified higher intention, complete maturation, and abandonment of obscurations.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~1004100 in the commentary file, unit 516/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 37,
+      "chunk_id": 515,
+      "unit_hash": "21f962a45b9b",
+      "passage_hash": "57ec42f5d593",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་དེ་ནི་ས་རྣམས་ལ། །མོས་དང་ལྷག་བསམ་དག་པ་དང་། །རྣམ་པར་སྨིན་པ་གཞན་དུ་འདོད། །དེ་བཞིན་སྒྲིབ་པ་སྤངས་པའོ། །",
+      "relevance": "This verse classifies the four stages of bodhicitta according to the bhumis (aspiration, pure higher thought, complete maturation, and abandonment of obscurations), which matches the fourfold division in the target paragraph.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~548991 in the commentary file, unit 282/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 34,
+      "chunk_id": 281,
+      "unit_hash": "ca4fea286771",
+      "passage_hash": "db34b32c18db",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    },
+    {
+      "commentary": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།]",
+      "quote_tibetan": "སེམས་བསྐྱེད་དེ་ནི་ས་རྣམས་ལ། །མོས་དང་ལྷག་བསམ་དག་པ་དང་། །རྣམ་པར་སྨིན་པ་གཞན་དུ་འདོད། །དེ་བཞིན་སྒྲིབ་པ་སྤངས་པའོ། །",
+      "relevance": "This verse outlines the four types of mind generation connected to the stages of the path.",
+      "location": "སེང་གེ་བཟང་པོ་'s རྒྱན་སྣང་། [སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།], char offset ~1015981 in the commentary file, unit 522/577",
+      "verification": "UNVERIFIED",
+      "correctness_score": 31,
+      "chunk_id": 521,
+      "unit_hash": "1edfbd2d77dc",
+      "passage_hash": "c6b11cc571a9",
+      "folio": null,
+      "sa_bcad": null,
+      "selection_score": 0.0
+    }
+  ],
+  "coverage": {
+    "scan_mode": "exhaustive",
+    "units_total": 577,
+    "units_scanned": 577,
+    "fraction": 1.0,
+    "complete": true,
+    "retrieval_unit_chars": 2000,
+    "request_payload_chars": 10000,
+    "paragraphs_per_request": 25,
+    "scoped_to_skabs": null
+  }
+}
