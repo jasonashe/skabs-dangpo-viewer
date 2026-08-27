@@ -1,0 +1,75 @@
+{
+  "paragraph": "p5",
+  "quotes": [
+    {
+      "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཅར་ལས་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ",
+      "citation": "འགྲེལ་པ་དོན་གསལ། འབྲེལ་བ་བཤད་པའི་སྐབས།",
+      "why": "The lemma p5 cites, in Haribhadra's own wording and in its own place — the section where he states the treatise's object. Found by direct search."
+    },
+    {
+      "ref": "p5-q01",
+      "why": "Dharmamitra names the middling Mother as such, which shows the extensive/middling/condensed nomenclature p5 uses is Indian and not a Tibetan coinage."
+    },
+    {
+      "file": "བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།.txt",
+      "text": "ཡུལ་ནི་རྣམ་པ་གསུམ་པོ་རྒྱུ། ། སྦྱོར་བ་བཞི་ཡི་བདག་ཉིད་དང་། ། ཆོས་སྐུ་འཕྲིན་ལས་འབྲས་བུ་ནི། ། དོན་བསྡུས་གཞན་ཏེ་རྣམ་པ་གསུམ།",
+      "citation": "མངོན་རྟོགས་རྒྱན། སྐབས་དང་པོ།",
+      "why": "The root verse whose 'further three' Haribhadra glosses in terms of the three Mothers. Found by direct search."
+    },
+    {
+      "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་གྱི་དོན་བསྡུས་པ་གཞན་རྣམ་པ་གསུམ་སྟེ། དེ་ཁོ་ན་བཞིན་དུ་བཤད་པར་བྱ་བ་ཡིན་ནོ། །",
+      "citation": "འགྲེལ་པ་དོན་གསལ། on དོན་བསྡུས་གཞན་ཏེ་རྣམ་པ་གསུམ།",
+      "why": "Haribhadra reads the root verse's threefold summary as the summary of the three Mothers, which is the strongest textual ground p5 has. Found by direct search."
+    },
+    {
+      "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+      "text": "ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། ། མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལའང་། ། དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། ། དེ་ལྟ་མིན་ན་ཐམས་ཅད་ཀྱི། ། རིམ་པ་ལེགས་པར་བསྡུས་མ་ཡིན། ། དེ་ལ་བསྡུས་སོགས་རབ་དབྱེ་བས། ། ཁྱད་པར་ཡོད་པ་ཁོ་ནར་ཟད། །",
+      "citation": "འགྲེལ་པ་དོན་གསལ། མཇུག་གི་ཚིགས་བཅད།",
+      "why": "The verse p5 quotes, with the four lines p5 stops before — which are where the difference among the Mothers is said to be one of extent only. Found by direct search."
+    },
+    {
+      "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+      "text": "སླད་ཀྱི་པཎྜི་ཏ་དཔལ་གོ་མི་འཆི་མེད་ལ་སོགས་པ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་བློ་ལྡན་ཤེས་རབ་ཀྱིས་ལེགས་པར་གཏན་ལ་ཕབ་པའོ། །",
+      "citation": "འགྲེལ་པ་དོན་གསལ། འགྱུར་བྱང་།",
+      "why": "The translation colophon: the འགྲེལ་པ p5 appeals to is in Ngok Loden Sherab's revision, which is why p2 singled him out. Found by direct search."
+    },
+    {
+      "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+      "text": "བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ་གང་ཡིན་པ་ནི་འདི་ཡི་བརྗོད་བྱའོ། ། གང་ལས་ན། རྒྱལ་བའི་ཡུམ་རྒྱས་འབྲིང་བསྡུས་པ་རྣམ་པ་གསུམ་ཆར་ལས་སོ། །",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "why": "Tsongkhapa glosses the same lemma with the very phrase ཡུམ་རྒྱས་འབྲིང་བསྡུས that opens p5's own position. Found by direct search."
+    },
+    {
+      "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+      "text": "ཀྱང་ནི་ནང་ཕན་ཚུན་བསྡུ་བའོ། ། ཁ་ཅིག་བརྒྱད་སྟོང་པ་ན་མདོ་འདི་དག་མེད་པས་བསྡུས་པ་ནི་ཁྲི་བརྒྱད་སྟོང་པ་ལ་བྱའོ་ཞེས་ཟེར་ཡང་རྟོགས་དཀར་བཤད་པ་ལྟར་བརྒྱད་སྟོང་པ་ལ་བྱ་སྟེ།",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "why": "Tsongkhapa glosses p5's ཀྱང and then settles which sūtra the condensed Mother is — a question p5 leaves open. Found by direct search."
+    },
+    {
+      "file": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།.txt",
+      "text": "ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་ཡུམ་བར་མ་བཞིན་དུ་རྒྱས་བསྡུས་གཉིས་ལས་ཀྱང་བསྟན་པས་རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བསྡུས་པ་དང་རྒྱས་པའི་སྒོ་ནས་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དང་གཞན་གྱི་དོན་བསྟན་ཏེ།",
+      "citation": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+      "why": "Gyaltsab Je's construal of the same lemma: the content is drawn from all three, condensed and extensive alike. Found by direct search."
+    },
+    {
+      "file": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།.txt",
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་། ཡུམ་གསུམ་ཆར་དང་མི་འགལ་བར་བསྟན་ཅེས་པར་འགྱུར་རོ། ། ཞེས་ཟེར་བ་ནི་ལྟག་ཆོད་དུ་ཤེས་པར་བྱའོ། །",
+      "citation": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+      "why": "Gyaltsab rejects the weaker reading of the lemma — 'not contradicting all three' — as self-defeating, which is what p5's use of it presupposes. Found by direct search."
+    },
+    {
+      "file": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།.txt",
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དང་གཞན་གྱི་དོན་གཉིས་བསྟན་ཏེ། ཡུམ་བར་མའི་མདོའི་དོན་དང་མི་འགལ་བར་ཏེ་",
+      "citation": "འགྲེལ་ཚིག་དོན་རབ་གསལ།",
+      "why": "Drepung Loseling glosses the lemma in Gyaltsab's words, so the two houses do not differ here. Found by direct search."
+    },
+    {
+      "file": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།.txt",
+      "text": "ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ཀུན་གྱི་གསལ་བྱེད་ཀྱི་རྒྱན་དུ་འགྲེལ་པའི་ཆེད་ཡིན་པའི་ཕྱིར",
+      "citation": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
+      "why": "Gomang states the same three-Mother position and derives it from Haribhadra's maṅgala rather than from this lemma. Found by direct search."
+    }
+  ]
+}

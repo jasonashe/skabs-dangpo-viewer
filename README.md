@@ -156,8 +156,26 @@ rubric and used as the reference for the rest.
 
 [COWORK-RUNBOOK.md](COWORK-RUNBOOK.md) is the step-by-step procedure for
 producing the other 425 with Claude Cowork: how the work divides into sessions,
-the prompts to paste, the per-paragraph command sequence, the quality bar, and
-what to do for the 50 paragraphs whose candidate pool is empty.
+the prompts to paste, the per-paragraph command sequence, the quality bar, what
+to do for the 50 paragraphs whose candidate pool is empty, and how each batch is
+delivered to Google Drive.
+
+### Delivery
+
+Finished analyses go to a Google Drive folder as well as into the repository.
+The repository is the working copy the viewer reads; Drive is for reading,
+sharing and commenting, so what goes there is rendered rather than mirrored —
+the line anchors are dropped and every `quote:` link becomes a numbered
+reference with its source, tier and exact location gathered at the foot of the
+document.
+
+```sh
+npm run drive:export     # prepare dist/drive/ and the upload manifest
+```
+
+The manifest names only what is new or changed since the last delivery, so
+re-running is safe. `Explanations/drive-state.json` is the ledger of what has
+already been uploaded.
 
 Paragraphs with an analysis are marked with a dot in the margin; the rest open
 the panel with a note naming the file to add. Nothing in the app assumes a

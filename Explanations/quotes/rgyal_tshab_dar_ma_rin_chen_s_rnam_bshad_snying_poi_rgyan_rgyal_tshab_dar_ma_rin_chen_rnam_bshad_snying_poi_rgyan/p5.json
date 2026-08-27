@@ -1,0 +1,37 @@
+{
+  "paragraph": "p5",
+  "commentary": {
+    "file": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།.txt",
+    "title": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+    "author": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་",
+    "tier": 2
+  },
+  "quotes": [
+    {
+      "text": "ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་ཡུམ་བར་མ་བཞིན་དུ་རྒྱས་བསྡུས་གཉིས་ལས་ཀྱང་བསྟན་པས་རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་བསྡུས་པ་དང་རྒྱས་པའི་སྒོ་ནས་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དང་གཞན་གྱི་དོན་བསྟན་ཏེ།",
+      "title": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+      "author": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་",
+      "tier": 2,
+      "offset": 129758,
+      "length": 219,
+      "line": 337,
+      "match": "exact",
+      "why": "Gyaltsab Je's construal of the same lemma: the content is drawn from all three, condensed and extensive alike. Found by direct search.",
+      "citation": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+      "id": "p5-q09"
+    },
+    {
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་། ཡུམ་གསུམ་ཆར་དང་མི་འགལ་བར་བསྟན་ཅེས་པར་འགྱུར་རོ། ། ཞེས་ཟེར་བ་ནི་ལྟག་ཆོད་དུ་ཤེས་པར་བྱའོ། །",
+      "title": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+      "author": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་",
+      "tier": 2,
+      "offset": 130537,
+      "length": 123,
+      "line": 337,
+      "match": "exact",
+      "why": "Gyaltsab rejects the weaker reading of the lemma — 'not contradicting all three' — as self-defeating, which is what p5's use of it presupposes. Found by direct search.",
+      "citation": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན།",
+      "id": "p5-q10"
+    }
+  ]
+}

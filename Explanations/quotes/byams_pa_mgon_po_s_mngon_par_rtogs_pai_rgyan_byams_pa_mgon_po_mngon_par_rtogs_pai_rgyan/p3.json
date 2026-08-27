@@ -1,0 +1,24 @@
+{
+  "paragraph": "p3",
+  "commentary": {
+    "file": "བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།.txt",
+    "title": "མངོན་པར་རྟོགས་པའི་རྒྱན།",
+    "author": "བྱམས་པ་མགོན་པོ་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་ནི། ། དངོས་པོ་བརྒྱད་ཀྱིས་ཡང་དག་བཤད། །",
+      "title": "མངོན་པར་རྟོགས་པའི་རྒྱན།",
+      "author": "བྱམས་པ་མགོན་པོ་",
+      "tier": 4,
+      "offset": 777,
+      "length": 57,
+      "line": 3,
+      "match": "exact",
+      "why": "The root verse that names both terms the four preliminaries stand between — the Prajñāpāramitā and the eight subjects. Found by direct search.",
+      "citation": "མངོན་རྟོགས་རྒྱན། སྐབས་དང་པོ།",
+      "id": "p3-q03"
+    }
+  ]
+}

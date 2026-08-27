@@ -1,5 +1,5 @@
 {
-  "paragraph": "p6",
+  "paragraph": "p3",
   "commentary": {
     "file": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།.txt",
     "title": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
@@ -8,17 +8,17 @@
   },
   "quotes": [
     {
-      "text": "གསེར་འཕྲེང་ལས། གཞུང་འགྲེལ་ནི་སྟོང་ཉིད་བཅུ་དྲུག་དང་། སྐྱེ་འགག་ཀུན་བྱང་མེད་པར་བཤད་པའི་སྐབས་སུ་རྩ་ཤེའི་ལུང་དྲངས་ནས། ཞེས་གསུངས་པའི་ཕྱིར་དང་།",
+      "text": "མཛོད་ལས། དེ་གྲངས་མེད་གསུམ་ལ་སངས་རྒྱས། ། འབྱུང་ངོ། །",
       "title": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
       "author": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་",
       "tier": 5,
-      "offset": 15660,
-      "length": 136,
-      "line": 1,
+      "offset": 631712,
+      "length": 51,
+      "line": 65,
       "match": "exact",
-      "why": "Jamyang Zhepa citing the gser phreng for exactly this paragraph's second limb: that the Gzhung 'grel explains the sixteen emptinesses by quoting the Rtsa she.",
+      "why": "The Gomang text supplies the Abhidharmakośa proof for the three countless aeons that p3 asserts without support.",
       "citation": null,
-      "id": "p6-q02"
+      "id": "p3-q12"
     }
   ]
 }

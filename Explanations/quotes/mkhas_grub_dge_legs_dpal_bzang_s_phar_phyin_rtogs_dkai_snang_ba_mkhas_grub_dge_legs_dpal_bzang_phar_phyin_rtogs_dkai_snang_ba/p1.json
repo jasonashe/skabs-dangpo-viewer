@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།.txt",
+    "title": "ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།",
+    "author": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་",
+    "tier": 2
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་དོན་གསལ་བའི་རྣམ་བཤད་རྟོགས་པར་དཀའ་བའི་སྣང་བ་བཞུགས་སོ། །",
+      "title": "ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།",
+      "author": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་",
+      "tier": 2,
+      "offset": 6,
+      "length": 137,
+      "line": 1,
+      "match": "exact",
+      "why": "A third Gelug rnam bshad on the same base, by Khedrup Je, which p1's count of two leaves out. Found by direct search.",
+      "citation": "ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། title line",
+      "id": "p1-q10"
+    }
+  ]
+}

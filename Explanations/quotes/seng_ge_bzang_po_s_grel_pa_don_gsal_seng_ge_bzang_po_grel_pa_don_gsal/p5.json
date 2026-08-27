@@ -1,0 +1,63 @@
+{
+  "paragraph": "p5",
+  "commentary": {
+    "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+    "title": "འགྲེལ་པ་དོན་གསལ།",
+    "author": "སེང་གེ་བཟང་པོ་",
+    "tier": 3
+  },
+  "quotes": [
+    {
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཅར་ལས་བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 8199,
+      "length": 57,
+      "line": 33,
+      "match": "exact",
+      "why": "The lemma p5 cites, in Haribhadra's own wording and in its own place — the section where he states the treatise's object. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། འབྲེལ་བ་བཤད་པའི་སྐབས།",
+      "id": "p5-q01"
+    },
+    {
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་གྱི་དོན་བསྡུས་པ་གཞན་རྣམ་པ་གསུམ་སྟེ། དེ་ཁོ་ན་བཞིན་དུ་བཤད་པར་བྱ་བ་ཡིན་ནོ། །",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 195205,
+      "length": 97,
+      "line": 2661,
+      "match": "exact",
+      "why": "Haribhadra reads the root verse's threefold summary as the summary of the three Mothers, which is the strongest textual ground p5 has. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། on དོན་བསྡུས་གཞན་ཏེ་རྣམ་པ་གསུམ།",
+      "id": "p5-q04"
+    },
+    {
+      "text": "ལ་ལ་ལས་དོན་གཞན་ལས་ཚིག གཞན་ལས་རྣམ་གྲངས་མིང་གིས་ཏེ། ། མཁས་པ་རྣམས་ཀྱིས་ཡུམ་ཀུན་ལའང་། ། དོན་བསྡུས་དེ་ཙམ་ཤེས་པར་བྱ། ། དེ་ལྟ་མིན་ན་ཐམས་ཅད་ཀྱི། ། རིམ་པ་ལེགས་པར་བསྡུས་མ་ཡིན། ། དེ་ལ་བསྡུས་སོགས་རབ་དབྱེ་བས། ། ཁྱད་པར་ཡོད་པ་ཁོ་ནར་ཟད། །",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 195304,
+      "length": 222,
+      "line": 2663,
+      "match": "exact",
+      "why": "The verse p5 quotes, with the four lines p5 stops before — which are where the difference among the Mothers is said to be one of extent only. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། མཇུག་གི་ཚིགས་བཅད།",
+      "id": "p5-q05"
+    },
+    {
+      "text": "སླད་ཀྱི་པཎྜི་ཏ་དཔལ་གོ་མི་འཆི་མེད་ལ་སོགས་པ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་བློ་ལྡན་ཤེས་རབ་ཀྱིས་ལེགས་པར་གཏན་ལ་ཕབ་པའོ། །",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 196527,
+      "length": 107,
+      "line": 2667,
+      "match": "exact",
+      "why": "The translation colophon: the འགྲེལ་པ p5 appeals to is in Ngok Loden Sherab's revision, which is why p2 singled him out. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། འགྱུར་བྱང་།",
+      "id": "p5-q06"
+    }
+  ]
+}

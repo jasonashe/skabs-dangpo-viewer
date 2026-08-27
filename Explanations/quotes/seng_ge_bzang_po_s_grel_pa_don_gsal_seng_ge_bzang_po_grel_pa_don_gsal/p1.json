@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+    "title": "འགྲེལ་པ་དོན་གསལ།",
+    "author": "སེང་གེ་བཟང་པོ་",
+    "tier": 3
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 96,
+      "length": 90,
+      "line": 1,
+      "match": "exact",
+      "why": "Haribhadra's short commentary calls itself simply the འགྲེལ་པ on the Ornament — the referent of p1's འགྲེལ་པ་དང་བཅས་པ. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། Tibetan title line",
+      "id": "p1-q08"
+    }
+  ]
+}

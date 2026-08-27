@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+    "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+    "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+    "tier": 2
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྒྱ་ཆེར་བཤད་པའི་ལེགས་བཤད་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 6,
+      "length": 151,
+      "line": 1,
+      "match": "exact",
+      "why": "The first of the two rnam bshad, and the source of p1's phrase རྒྱན་འགྲེལ་པ་དང་བཅས་པ, which Chökyi Gyaltsen takes over verbatim. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་། title line",
+      "id": "p1-q05"
+    }
+  ]
+}

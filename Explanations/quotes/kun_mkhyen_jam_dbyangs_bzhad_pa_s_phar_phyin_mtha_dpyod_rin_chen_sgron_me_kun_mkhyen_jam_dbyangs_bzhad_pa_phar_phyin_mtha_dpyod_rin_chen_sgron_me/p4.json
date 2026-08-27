@@ -1,5 +1,5 @@
 {
-  "paragraph": "p6",
+  "paragraph": "p4",
   "commentary": {
     "file": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།.txt",
     "title": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
@@ -8,17 +8,17 @@
   },
   "quotes": [
     {
-      "text": "གསེར་འཕྲེང་ལས། གཞུང་འགྲེལ་ནི་སྟོང་ཉིད་བཅུ་དྲུག་དང་། སྐྱེ་འགག་ཀུན་བྱང་མེད་པར་བཤད་པའི་སྐབས་སུ་རྩ་ཤེའི་ལུང་དྲངས་ནས། ཞེས་གསུངས་པའི་ཕྱིར་དང་།",
+      "text": "ཡུམ་རྒྱས་འབྲིང་བསྡུས་གསུམ་ཀུན་གྱི་གསལ་བྱེད་ཀྱི་རྒྱན་དུ་འགྲེལ་པའི་ཆེད་ཡིན་པའི་ཕྱིར",
       "title": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
       "author": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་",
       "tier": 5,
-      "offset": 15660,
-      "length": 136,
+      "offset": 7717,
+      "length": 81,
       "line": 1,
       "match": "exact",
-      "why": "Jamyang Zhepa citing the gser phreng for exactly this paragraph's second limb: that the Gzhung 'grel explains the sixteen emptinesses by quoting the Rtsa she.",
-      "citation": null,
-      "id": "p6-q02"
+      "why": "Gomang reaches the three-Mother position p5 will state, and on Haribhadra's authority rather than by refuting counts. Found by direct search.",
+      "citation": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
+      "id": "p4-q10"
     }
   ]
 }

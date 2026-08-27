@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།.txt",
+    "title": "མངོན་པར་རྟོགས་པའི་རྒྱན།",
+    "author": "བྱམས་པ་མགོན་པོ་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་ཚིག་ལེའུར་བྱས་པ།",
+      "title": "མངོན་པར་རྟོགས་པའི་རྒྱན།",
+      "author": "བྱམས་པ་མགོན་པོ་",
+      "tier": 4,
+      "offset": 101,
+      "length": 98,
+      "line": 1,
+      "match": "exact",
+      "why": "The root text's own Tibetan title, of which p1 quotes the tail བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན. Found by direct search.",
+      "citation": "མངོན་པར་རྟོགས་པའི་རྒྱན། Tibetan title line",
+      "id": "p1-q07"
+    }
+  ]
+}

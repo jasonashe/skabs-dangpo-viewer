@@ -1,0 +1,50 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།.txt",
+    "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+    "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+    "tier": 5
+  },
+  "quotes": [
+    {
+      "text": "དེ་དུས་ཀུན་མཁྱེན་ཆོས་འབྱོར་དཔལ་བཟང་ཀློག་སློབ་པས་སློབ་དཔོན་གྱི་གཙོ་བོར",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 8647,
+      "length": 69,
+      "line": 13,
+      "match": "exact",
+      "why": "Confirms the ཆོས་འབྱོར་དཔལ་བཟང of p2's closing list as his own principal teacher. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། on his teachers",
+      "id": "p2-q11"
+    },
+    {
+      "text": "གནས་རྙིང་ཆོས་རྗེ་ཀུན་དགའ་བདེ་ལེགས་རིན་ཆེན་རྒྱལ་མཚན་དཔལ་བཟང་པོ",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 6836,
+      "length": 61,
+      "line": 13,
+      "match": "exact",
+      "why": "The full name of the Delek from whom he took his first vows, the likeliest referent of p2's བདེ་ལེགས་མཚན་ཅན. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། his first ordination",
+      "id": "p2-q12"
+    },
+    {
+      "text": "སྔ་ཕྱིར་བཀའ་དྲིན་ཚད་མེད་པས་བསྐྱངས་པས་བླ་མ་ཡིན་པས་བླ་མའི་གཙོ་བོ་ཞིག་ཏུ་མཛད",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 15422,
+      "length": 73,
+      "line": 17,
+      "match": "exact",
+      "why": "The biographer's phrase for that lama's kindness matches p2's བཀའ་དྲིན་མཉམ་མེད, which is the ground of the identification. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། on Kunga Delek",
+      "id": "p2-q13"
+    }
+  ]
+}

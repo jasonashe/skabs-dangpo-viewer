@@ -1,0 +1,37 @@
+{
+  "paragraph": "p5",
+  "commentary": {
+    "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+    "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+    "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+    "tier": 2
+  },
+  "quotes": [
+    {
+      "text": "བརྗོད་པར་བྱ་བ་ཉིད་དུ་བསྟན་པ་གང་ཡིན་པ་ནི་འདི་ཡི་བརྗོད་བྱའོ། ། གང་ལས་ན། རྒྱལ་བའི་ཡུམ་རྒྱས་འབྲིང་བསྡུས་པ་རྣམ་པ་གསུམ་ཆར་ལས་སོ། །",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 136436,
+      "length": 124,
+      "line": 227,
+      "match": "exact",
+      "why": "Tsongkhapa glosses the same lemma with the very phrase ཡུམ་རྒྱས་འབྲིང་བསྡུས that opens p5's own position. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p5-q07"
+    },
+    {
+      "text": "ཀྱང་ནི་ནང་ཕན་ཚུན་བསྡུ་བའོ། ། ཁ་ཅིག་བརྒྱད་སྟོང་པ་ན་མདོ་འདི་དག་མེད་པས་བསྡུས་པ་ནི་ཁྲི་བརྒྱད་སྟོང་པ་ལ་བྱའོ་ཞེས་ཟེར་ཡང་རྟོགས་དཀར་བཤད་པ་ལྟར་བརྒྱད་སྟོང་པ་ལ་བྱ་སྟེ།",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 238603,
+      "length": 156,
+      "line": 455,
+      "match": "exact",
+      "why": "Tsongkhapa glosses p5's ཀྱང and then settles which sūtra the condensed Mother is — a question p5 leaves open. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p5-q08"
+    }
+  ]
+}

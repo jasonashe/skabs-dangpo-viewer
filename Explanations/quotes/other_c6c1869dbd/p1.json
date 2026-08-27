@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་_ལུང་རིགས་ཀྱི་རོལ་མཚོ།.txt",
+    "title": "ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+    "author": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་",
+    "tier": 5
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་དཀའ་བའི་གནས་རྣམས་རྣམ་པར་བཤད་ནས་རང་གཞན་གྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་དབྱེ་བ་ལུང་རིགས་ཀྱི་རོལ་མཚོ་བཞུགས་སོ།།",
+      "title": "ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+      "author": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་",
+      "tier": 5,
+      "offset": 6,
+      "length": 190,
+      "line": 1,
+      "match": "exact",
+      "why": "Ngok Lotsāwa's title has the same base object, the same task of clarifying its dka' ba'i gnas, and the same རོལ་མཚོ image — the model p1's title is built on. Found by direct search.",
+      "citation": "ལུང་རིགས་ཀྱི་རོལ་མཚོ། title line",
+      "id": "p1-q04"
+    }
+  ]
+}

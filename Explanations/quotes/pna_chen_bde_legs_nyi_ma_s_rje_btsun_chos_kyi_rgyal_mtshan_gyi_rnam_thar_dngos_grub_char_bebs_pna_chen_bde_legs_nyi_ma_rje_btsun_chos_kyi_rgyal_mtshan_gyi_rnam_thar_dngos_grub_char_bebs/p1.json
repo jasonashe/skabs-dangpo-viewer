@@ -1,0 +1,63 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།.txt",
+    "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+    "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+    "tier": 5
+  },
+  "quotes": [
+    {
+      "text": "མངོན་རྟོགས་རྒྱན་རྩ་འགྲེལ། མངོན་པ་མཛོད། དབུ་མ་ལ་འཇུག་པ་རྣམས་ཀྱི་བརྒལ་བརྟག་སྤྱི་དོན་རྒྱལ་བ་ཙོང་ཁ་པ་ཡབ་སྲས་རྣམས་ཀྱི་ཊཱིཀྐའི་སྟེང་ནས་གཞུང་ཚིག་གི་འབྲུ་གནོན། དཀའ་བའི་གནས་རྣམས་ལ་དོགས་གཅོད་རྣམས་ལུང་རིགས་ཀྱི་སྒོ་ནས་མཐའ་ཆོད་པ",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 9885,
+      "length": 215,
+      "line": 13,
+      "match": "exact",
+      "why": "His biographer describes the very method p1's title announces — spyi don worked over the ṭīkās of Tsongkhapa and his sons, settling the difficult points. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། on his own training",
+      "id": "p1-q11"
+    },
+    {
+      "text": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དཀའ་གནད་མང་པོ་ཞིབ་ཏུ་གནང་ནས",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 39673,
+      "length": 54,
+      "line": 41,
+      "match": "exact",
+      "why": "The hagiography's account of how he came by the difficult points of the second rnam bshad — the title's own claim, told as vision. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། the dream of Gyaltsab Je",
+      "id": "p1-q12"
+    },
+    {
+      "text": "ཕར་ཕྱིན་གྱི་སྤྱི་དོན་སྐབས་དང་པོའི་འཕྲོ་ཅུང་ཟད་མ་གཏོགས་ཆ་ཚང་བ",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 50918,
+      "length": 60,
+      "line": 53,
+      "match": "exact",
+      "why": "The catalogue of his writings records the Phar phyin spyi don as complete except for a small unfinished remainder of the very skabs this volume covers. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། catalogue of his works",
+      "id": "p1-q13"
+    },
+    {
+      "text": "གྲྭ་པ་མང་པོ་ལ་གཞུང་སོ་སོའི་ཊཱིཀ་དང་། དཀའ་གནད་རྣམས་ལ་མཐའ་དཔྱོད་སྤྱི་དོན་གནང་བའི་ཚེ",
+      "title": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།",
+      "author": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་",
+      "tier": 5,
+      "offset": 46381,
+      "length": 81,
+      "line": 49,
+      "match": "exact",
+      "why": "Ties the genre pair mtha' dpyod / spyi don to the dka' gnad of a base text, which is what section 6 needs to define སྤྱི་དོན. Found by direct search.",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། on his teaching",
+      "id": "p1-q14"
+    }
+  ]
+}

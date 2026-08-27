@@ -1,0 +1,24 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།.txt",
+    "title": "ཡུམ་གསུམ་གནོད་འཇོམས།",
+    "author": "དབྱིག་གཉེན་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་བདག་ཉིད་ཕ་རོལ་ཕྱིན་པའི་གཙོ། ། རྒྱལ་བའི་ཡུམ་ལ་གུས་པར་ཕྱག་འཚལ་ཏེ། ། བླ་མའི་ལུང་གིས་བདག་ལ་ཕན་པའི་ཕྱིར། ། འདི་ཡི་གཞུང་འགྲེལ་གནོད་འཇོམས་བྱ་བར་འདོད། །",
+      "title": "ཡུམ་གསུམ་གནོད་འཇོམས།",
+      "author": "དབྱིག་གཉེན་",
+      "tier": 4,
+      "offset": 162,
+      "length": 151,
+      "line": 1,
+      "match": "exact",
+      "why": "The work of the དབྱིག་གི་གཉེན named in p2's lineage, naming itself གཞུང་འགྲེལ་གནོད་འཇོམས — the text p6 will refuse the status of trail-blazer. Found by direct search.",
+      "citation": "ཡུམ་གསུམ་གནོད་འཇོམས། མཆོད་བརྗོད།",
+      "id": "p2-q04"
+    }
+  ]
+}

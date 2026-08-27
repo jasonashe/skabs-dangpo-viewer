@@ -1,0 +1,24 @@
+{
+  "paragraph": "p4",
+  "commentary": {
+    "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་མཐའ་དཔྱོད།.txt",
+    "title": "སྐབས་དང་པོའི་མཐའ་དཔྱོད།",
+    "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+    "tier": 1
+  },
+  "quotes": [
+    {
+      "text": "བཅོམ་ལྡན་འདས་ཀྱིས་འཁོར་བཞི་པོ་དེ་དག་རབ་ཏུ་དགའ་བར་མཛད་པའི་ཕྱིར། ཞེས་པའི་ཐད་ཀྱི་སྡུད་འགྲེལ་ལས། རྒྱས་པར་བསྟན་ཟིན་པའི་རྗེས་དེ་མ་ཐག་ཏུ།",
+      "title": "སྐབས་དང་པོའི་མཐའ་དཔྱོད།",
+      "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+      "tier": 1,
+      "offset": 94751,
+      "length": 130,
+      "line": 77,
+      "match": "exact",
+      "why": "The same citation put to different work in the companion volume — evidence of what Chökyi Gyaltsen takes it to establish. Found by direct search.",
+      "citation": "སྐབས་དང་པོའི་མཐའ་དཔྱོད།",
+      "id": "p4-q09"
+    }
+  ]
+}

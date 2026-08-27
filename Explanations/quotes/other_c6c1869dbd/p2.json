@@ -1,0 +1,37 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་_ལུང་རིགས་ཀྱི་རོལ་མཚོ།.txt",
+    "title": "ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+    "author": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་",
+    "tier": 5
+  },
+  "quotes": [
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་དཀའ་བའི་གནས་རྣམས་རྣམ་པར་བཤད་ནས་རང་གཞན་གྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་དབྱེ་བ་ལུང་རིགས་ཀྱི་རོལ་མཚོ་བཞུགས་སོ།།",
+      "title": "ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+      "author": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་",
+      "tier": 5,
+      "offset": 6,
+      "length": 190,
+      "line": 1,
+      "match": "exact",
+      "why": "Why Ngok gets a verse of his own: his title is the pattern of the one p1 announces. Found by direct search.",
+      "citation": "ལུང་རིགས་ཀྱི་རོལ་མཚོ། title line",
+      "id": "p2-q09"
+    },
+    {
+      "text": "ན་མོ་མཉྫུ་ཤྲཱི་ཡེ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་ཆོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་དཀའ་བའི་གནས་རྣམས་རྣམ་པར་བཤད་ནས།",
+      "title": "ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+      "author": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་",
+      "tier": 5,
+      "offset": 198,
+      "length": 139,
+      "line": 3,
+      "match": "exact",
+      "why": "Ngok's salutation formula is to Mañjuśrī where p2's is to Ārya Maitreya — the same genre, a different dedicatee, and the difference is doctrinally placed. Found by direct search.",
+      "citation": "ལུང་རིགས་ཀྱི་རོལ་མཚོ། opening salutation",
+      "id": "p2-q10"
+    }
+  ]
+}

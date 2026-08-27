@@ -1,0 +1,37 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།.txt",
+    "title": "དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།",
+    "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+    "tier": 1
+  },
+  "quotes": [
+    {
+      "text": "བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྣམ་བཤད་རྣམ་པ་གཉིས་ཀྱི་དཀའ་བའི་གནད་གསལ་བར་བྱེད་པ་ལེགས་བཤད་སྐལ་བཟང་ཀླུ་དབང་གི་རོལ་མཚོ་ཞེས་བྱ་བ་ལས་བསམ་གཟུགས་སྤྱི་དོན་བཞུགས་སོ། །",
+      "title": "དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།",
+      "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+      "tier": 1,
+      "offset": 299598,
+      "length": 179,
+      "line": 165,
+      "match": "exact",
+      "why": "The identical title formula heading a different volume — proof that the words of p1 are a series title, and that the series reaches past the eight skabs. Found by direct search.",
+      "citation": "བསམ་གཟུགས་སྤྱི་དོན། title line",
+      "id": "p1-q02"
+    },
+    {
+      "text": "ཤེར་ཕྱིན་སྦས་དོན་རིན་ཆེན་གསལ་བའི་གཏེར། །\n\nམདོ་རྒྱན་འགྲེལ་གསུམ་སྦྱར་བའི་ལེགས་བཤད་ཆེ། །\n\nཀླུ་དབང་རོལ་མཚོ་རྒྱས་བྱེད་སྦྱོར་བརྩོན་དགེས། །\n\nརྨད་བྱུང་བཤད་སྒྲུབ་དགའ་སྟོན་རྒྱས་གྱུར་ཅིག",
+      "title": "དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།",
+      "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+      "tier": 1,
+      "offset": 299402,
+      "length": 175,
+      "line": 157,
+      "match": "exact",
+      "why": "An unattributed dedication verse recurring at volume-breaks; it names the work by the short title ཀླུ་དབང་རོལ་མཚོ and glosses it as joining sūtra, Ornament and commentary. Found by direct search.",
+      "citation": "dedicatory verse at a volume-break in the collected སྤྱི་དོན།",
+      "id": "p1-q03"
+    }
+  ]
+}
