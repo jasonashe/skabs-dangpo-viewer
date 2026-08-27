@@ -97,10 +97,27 @@ def sections(doc):
     return [s for s in out if s['paragraphs']]
 
 
+# ext4 caps a filename at 255 bytes; leave room for a '.json' suffix.
+LIMIT = 200
+
+
 def safe(name):
-    """A filename Drive and every filesystem will accept."""
+    """A filename Drive and every filesystem will accept.
+
+    The cap is in bytes, not characters: a Tibetan title is three bytes per
+    character in UTF-8, so 120 characters can be 360 bytes and ext4 refuses
+    anything past 255. Truncated names carry a digest of the full title so
+    two commentaries that share a long opening cannot land on one file. Only
+    the filename is shortened — the manifest keeps the full Drive title.
+    """
     name = re.sub(r'[\\/:*?"<>|]', '·', name).strip()
-    return re.sub(r'\s+', ' ', name)[:120]
+    name = re.sub(r'\s+', ' ', name)
+    encoded = name.encode('utf-8')
+    if len(encoded) <= LIMIT:
+        return name
+    digest = hashlib.sha1(encoded).hexdigest()[:10]
+    keep = encoded[:LIMIT - len(digest) - 1].decode('utf-8', 'ignore').rstrip()
+    return f'{keep} {digest}'
 
 
 def analysis_title(text, para):

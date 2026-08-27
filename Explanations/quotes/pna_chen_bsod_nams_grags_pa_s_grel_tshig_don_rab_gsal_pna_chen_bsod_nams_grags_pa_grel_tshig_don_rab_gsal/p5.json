@@ -1,0 +1,24 @@
+{
+  "paragraph": "p5",
+  "commentary": {
+    "file": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།.txt",
+    "title": "འགྲེལ་ཚིག་དོན་རབ་གསལ།",
+    "author": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་",
+    "tier": 5
+  },
+  "quotes": [
+    {
+      "text": "རྒྱལ་བའི་ཡུམ་རྣམ་པ་གསུམ་ཆར་ལས་ཀྱང་སེམས་བསྐྱེད་ཀྱི་དམིགས་ཡུལ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དང་གཞན་གྱི་དོན་གཉིས་བསྟན་ཏེ། ཡུམ་བར་མའི་མདོའི་དོན་དང་མི་འགལ་བར་ཏེ་མཐུན",
+      "title": "འགྲེལ་ཚིག་དོན་རབ་གསལ།",
+      "author": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་",
+      "tier": 5,
+      "offset": 36652,
+      "length": 157,
+      "line": 37,
+      "match": "exact",
+      "why": "Drepung Loseling glosses the lemma in Gyaltsab's words, so the two houses do not differ here. Found by direct search.",
+      "citation": "འགྲེལ་ཚིག་དོན་རབ་གསལ།",
+      "id": "p5-q11"
+    }
+  ]
+}

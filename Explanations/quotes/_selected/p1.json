@@ -1,0 +1,101 @@
+{
+  "paragraph": "p1",
+  "quotes": [
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།.txt",
+      "text": "མདོ་རྒྱན་འགྲེལ་བའི་རྣམ་བཤད་རྣམ་གཉིས་ཀྱི། ། དཀའ་བའི་གནད་རྣམས་གསལ་བར་བྱེད་པ་ཡི། ། མདོ་དང་རྩ་འགྲེལ་སྦྱོར་བའི་ཆུ་གཏེར་ཆེ། ། ལེགས་བཤད་ཡིད་བཞིན་ནོར་བུས་རབ་ཏུ་གཏམ། ། སྐལ་བཟང་ཀླུ་དབང་དགའ་བའི་རྣམ་འགྱུར་གྱིས། ། རོལ་པའི་མཚོ་ཆེན་བདག་གིས་བྲི་བར་བྱ། །",
+      "citation": "སྐབས་དང་པོའི་སྤྱི་དོན། རྩོམ་པར་དམ་བཅའ་བ (p2)",
+      "why": "Chökyi Gyaltsen's own pledge-verse, which decodes every element of the title on the page above it — the two rnam bshad, the difficult points, the ocean, the fortunate nāga-lords. Found by direct search."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།.txt",
+      "text": "བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྣམ་བཤད་རྣམ་པ་གཉིས་ཀྱི་དཀའ་བའི་གནད་གསལ་བར་བྱེད་པ་ལེགས་བཤད་སྐལ་བཟང་ཀླུ་དབང་གི་རོལ་མཚོ་ཞེས་བྱ་བ་ལས་བསམ་གཟུགས་སྤྱི་དོན་བཞུགས་སོ། །",
+      "citation": "བསམ་གཟུགས་སྤྱི་དོན། title line",
+      "why": "The identical title formula heading a different volume — proof that the words of p1 are a series title, and that the series reaches past the eight skabs. Found by direct search."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་སྤྱི་དོན།.txt",
+      "text": "ཤེར་ཕྱིན་སྦས་དོན་རིན་ཆེན་གསལ་བའི་གཏེར། ། མདོ་རྒྱན་འགྲེལ་གསུམ་སྦྱར་བའི་ལེགས་བཤད་ཆེ། ། ཀླུ་དབང་རོལ་མཚོ་རྒྱས་བྱེད་སྦྱོར་བརྩོན་དགེས། ། རྨད་བྱུང་བཤད་སྒྲུབ་དགའ་སྟོན་རྒྱས་གྱུར་ཅིག",
+      "citation": "dedicatory verse at a volume-break in the collected སྤྱི་དོན།",
+      "why": "An unattributed dedication verse recurring at volume-breaks; it names the work by the short title ཀླུ་དབང་རོལ་མཚོ and glosses it as joining sūtra, Ornament and commentary. Found by direct search."
+    },
+    {
+      "file": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་_ལུང་རིགས་ཀྱི་རོལ་མཚོ།.txt",
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་དཀའ་བའི་གནས་རྣམས་རྣམ་པར་བཤད་ནས་རང་གཞན་གྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་དབྱེ་བ་ལུང་རིགས་ཀྱི་རོལ་མཚོ་བཞུགས་སོ།།",
+      "citation": "ལུང་རིགས་ཀྱི་རོལ་མཚོ། title line",
+      "why": "Ngok Lotsāwa's title has the same base object, the same task of clarifying its dka' ba'i gnas, and the same རོལ་མཚོ image — the model p1's title is built on. Found by direct search."
+    },
+    {
+      "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྒྱ་ཆེར་བཤད་པའི་ལེགས་བཤད་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་། title line",
+      "why": "The first of the two rnam bshad, and the source of p1's phrase རྒྱན་འགྲེལ་པ་དང་བཅས་པ, which Chökyi Gyaltsen takes over verbatim. Found by direct search."
+    },
+    {
+      "file": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།.txt",
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་བ་དོན་གསལ་བའི་རྣམ་བཤད་སྙིང་པོའི་རྒྱན་ཅེས་བྱ་བ་བཞུགས་སོ། །",
+      "citation": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན། title line",
+      "why": "The second of the two rnam bshad; its own title shows it is a rnam bshad on Haribhadra's འགྲེལ་པ་དོན་གསལ, which fixes what the འགྲེལ་པ of p1's title refers to. Found by direct search."
+    },
+    {
+      "file": "བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།.txt",
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་ཚིག་ལེའུར་བྱས་པ།",
+      "citation": "མངོན་པར་རྟོགས་པའི་རྒྱན། Tibetan title line",
+      "why": "The root text's own Tibetan title, of which p1 quotes the tail བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན. Found by direct search."
+    },
+    {
+      "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+      "citation": "འགྲེལ་པ་དོན་གསལ། Tibetan title line",
+      "why": "Haribhadra's short commentary calls itself simply the འགྲེལ་པ on the Ornament — the referent of p1's འགྲེལ་པ་དང་བཅས་པ. Found by direct search."
+    },
+    {
+      "file": "པཎ་ཆེན་བསོད་ནམས་གྲགས་པ་_འགྲེལ་ཚིག་དོན་རབ་གསལ།.txt",
+      "text": "བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དགོངས། འགྲེལ་ཚིག་དོན་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+      "citation": "འགྲེལ་ཚིག་དོན་རབ་གསལ། title line",
+      "why": "The Drepung Loseling yig cha's title page: the same opening formula as p1, but resting on one rnam bshad instead of two. Found by direct search."
+    },
+    {
+      "file": "མཁས་གྲུབ་དགེ་ལེགས་དཔལ་བཟང་_ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ།.txt",
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་དོན་གསལ་བའི་རྣམ་བཤད་རྟོགས་པར་དཀའ་བའི་སྣང་བ་བཞུགས་སོ། །",
+      "citation": "ཕར་ཕྱིན་རྟོགས་དཀའི་སྣང་བ། title line",
+      "why": "A third Gelug rnam bshad on the same base, by Khedrup Je, which p1's count of two leaves out. Found by direct search."
+    },
+    {
+      "file": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།.txt",
+      "text": "མངོན་རྟོགས་རྒྱན་རྩ་འགྲེལ། མངོན་པ་མཛོད། དབུ་མ་ལ་འཇུག་པ་རྣམས་ཀྱི་བརྒལ་བརྟག་སྤྱི་དོན་རྒྱལ་བ་ཙོང་ཁ་པ་ཡབ་སྲས་རྣམས་ཀྱི་ཊཱིཀྐའི་སྟེང་ནས་གཞུང་ཚིག་གི་འབྲུ་གནོན། དཀའ་བའི་གནས་རྣམས་ལ་དོགས་གཅོད་རྣམས་ལུང་རིགས་ཀྱི་སྒོ་ནས་མཐའ་ཆོད་པ",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། on his own training",
+      "why": "His biographer describes the very method p1's title announces — spyi don worked over the ṭīkās of Tsongkhapa and his sons, settling the difficult points. Found by direct search."
+    },
+    {
+      "file": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།.txt",
+      "text": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དཀའ་གནད་མང་པོ་ཞིབ་ཏུ་གནང་ནས",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། the dream of Gyaltsab Je",
+      "why": "The hagiography's account of how he came by the difficult points of the second rnam bshad — the title's own claim, told as vision. Found by direct search."
+    },
+    {
+      "file": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།.txt",
+      "text": "ཕར་ཕྱིན་གྱི་སྤྱི་དོན་སྐབས་དང་པོའི་འཕྲོ་ཅུང་ཟད་མ་གཏོགས་ཆ་ཚང་བ",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། catalogue of his works",
+      "why": "The catalogue of his writings records the Phar phyin spyi don as complete except for a small unfinished remainder of the very skabs this volume covers. Found by direct search."
+    },
+    {
+      "file": "པཎ་ཆེན་བདེ་ལེགས་ཉི་མ་_རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས།.txt",
+      "text": "གྲྭ་པ་མང་པོ་ལ་གཞུང་སོ་སོའི་ཊཱིཀ་དང་། དཀའ་གནད་རྣམས་ལ་མཐའ་དཔྱོད་སྤྱི་དོན་གནང་བའི་ཚེ",
+      "citation": "རྣམ་ཐར་དངོས་གྲུབ་ཆར་འབེབས། on his teaching",
+      "why": "Ties the genre pair mtha' dpyod / spyi don to the dka' gnad of a base text, which is what section 6 needs to define སྤྱི་དོན. Found by direct search."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་མཐའ་དཔྱོད།.txt",
+      "text": "སྐབས་དང་པོའི་མཐའ་དཔྱོད་ལེགས་བཤད་གསེར་གྱི་ཕྲེང་བ་མཁས་པའི་མགུལ་རྒྱན་ཞེས་བྱ་བ་རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་གསུང་ཟིན་བྲིས་སུ",
+      "citation": "སྐབས་དང་པོའི་མཐའ་དཔྱོད། title line",
+      "why": "The companion volume on the same skabs carries a wholly different title and calls itself notes taken from his speech — which is what makes p1's series title a claim about authorship. Found by direct search."
+    },
+    {
+      "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།.txt",
+      "text": "ཀླུའི་ཡུལ་ནས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སོགས་པའི་མདོ་རྣམས་སྤྱན་དྲངས་ནས",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། on Nāgārjuna",
+      "why": "Tsongkhapa's account of Nāgārjuna bringing the Prajñāpāramitā sūtras out of the nāga realm — the second resonance available in the title's nāga imagery. Found by direct search."
+    }
+  ]
+}

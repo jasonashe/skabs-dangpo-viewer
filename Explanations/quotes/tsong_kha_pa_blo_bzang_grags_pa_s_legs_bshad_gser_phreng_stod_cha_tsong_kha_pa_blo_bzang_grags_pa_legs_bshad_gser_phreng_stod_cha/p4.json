@@ -1,0 +1,89 @@
+{
+  "paragraph": "p4",
+  "commentary": {
+    "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+    "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+    "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+    "tier": 2
+  },
+  "quotes": [
+    {
+      "text": "དེ་ལ་སྤྱིར་ཤེར་ཕྱོགས་ལ་ཡུམ་དྲུག་སྲས་བཅུ་གཅིག་སྟེ་སྲས་ཡུམ་བཅུ་བདུན་ཞེས་སྔ་མ་རྣམས་ཀྱིས་བརྡ་བྱས་པ",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 10919,
+      "length": 94,
+      "line": 21,
+      "match": "exact",
+      "why": "Tsongkhapa reports the seventeen Mother-and-Sons as the earlier masters' convention — the position p4 opens with. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p4-q01"
+    },
+    {
+      "text": "དེ་ལ་ཁ་ཅིག་ཉི་མའི་སྙིང་པོ། ཟླ་བའི་སྙིང་པོ། ཀུན་ཏུ་བཟང་པོ། ལག་ན་རྡོ་རྗེ། རྡོ་རྗེ་རྒྱལ་མཚན་རྣམས་ཀྱང་ཤེར་ཕྱིན་ཡིན་པས་སྲས་ཡུམ་གྱི་དོན་དང་། གྲངས་གཉིས་ཀ་ནོར་ཞེས་སྨྲ་བ་ནི་ལེགས་པར་སྨྲས་པ་ཡིན་ལ།",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 11429,
+      "length": 185,
+      "line": 21,
+      "match": "exact",
+      "why": "The same five omitted sūtras that p4 uses for its first fault, with Tsongkhapa's endorsement of the objection. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p4-q02"
+    },
+    {
+      "text": "ཁྱད་པར་དུ་སྡུད་པ་ཁྲི་བརྒྱད་སྟོང་པ་དང་སོ་སོར་བགྲང་བ་ནི་གླེགས་བམ་ཙམ་ཡང་མ་མཐོང་བར་སྟོན་པ་ཡིན་ཏེ།",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 11615,
+      "length": 93,
+      "line": 21,
+      "match": "exact",
+      "why": "Tsongkhapa's second fault, which p4 states without his sharpness — counting the Saṃcayagāthā separately shows one has not seen the volume. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p4-q03"
+    },
+    {
+      "text": "ཁྲི་བརྒྱད་སྟོང་པ་ལ་ལེའུ་གྱ་བདུན་ཡོད་པའི་གྱ་བཞི་པ་ནི་སྡུད་པ་ཡིན་པའི་ཕྱིར་རོ། །",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 11709,
+      "length": 77,
+      "line": 21,
+      "match": "exact",
+      "why": "The chapter count on which p4's second fault turns, in its source. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p4-q04"
+    },
+    {
+      "text": "དེའི་ཕྱིར་ཁྲི་བརྒྱད་སྟོང་པ་འབྲིང་གི་འབྲིང་དུ་བྱས་ནས་སྡུད་པ་བསྡུས་པའི་བསྡུས་པར་བྱས་པ་ཡང་ནོར་རོ། །",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 11787,
+      "length": 96,
+      "line": 21,
+      "match": "exact",
+      "why": "Tsongkhapa refuses the ninefold scheme on the same ground p4 gives — this is what རིགས་པ་སྔ་མས་ཁེགས་སོ points to. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p4-q05"
+    },
+    {
+      "text": "རྒྱན་འདིས་བསྟན་པའི་མངོན་རྟོགས་ཀྱི་རིམ་པ་རྣམས་དང་སྦྱར་རུང་ཡོད་པའི་མདོ་རྣམས་ནི་འདིའི་རྩ་བའི་མདོ་ཡིན་ལ",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 11891,
+      "length": 99,
+      "line": 23,
+      "match": "exact",
+      "why": "Tsongkhapa's own criterion for a root sūtra, from which he reaches four or five — not the three p5 will hold. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།",
+      "id": "p4-q06"
+    }
+  ]
+}

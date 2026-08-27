@@ -23,6 +23,7 @@ not really in the text can reach the reader.
   python3 tools/quotebank.py pack            # refresh quotes/index.json
   python3 tools/quotebank.py check           # re-verify the whole store
 """
+import hashlib
 import json
 import os
 import re
@@ -46,10 +47,15 @@ def slug_for(filename):
             record = json.load(open(path, encoding='utf-8'))
             if C.source_file(record) == filename:
                 return slug
-    # a source the scan never covered: derive a folder name from the file
+    # a source the scan never covered: derive a folder name from the file.
+    # Tibetan filenames flatten to nothing under an ascii fold, so a bare
+    # 'other' would collide and one commentary's records would overwrite
+    # another's; a short digest of the filename keeps each one its own folder.
     stem = filename[:-4] if filename.endswith('.txt') else filename
-    return re.sub(r'[^a-z0-9]+', '_', stem.encode('ascii', 'replace')
-                  .decode().lower()).strip('_') or 'other'
+    name = re.sub(r'[^a-z0-9]+', '_', stem.encode('ascii', 'replace')
+                  .decode().lower()).strip('_')
+    digest = hashlib.sha1(stem.encode('utf-8')).hexdigest()[:10]
+    return f'{name}_{digest}' if name else f'other_{digest}'
 
 
 _slugs = {}

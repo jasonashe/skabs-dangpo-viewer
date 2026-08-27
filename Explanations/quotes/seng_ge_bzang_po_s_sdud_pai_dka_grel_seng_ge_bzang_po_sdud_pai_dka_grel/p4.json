@@ -1,0 +1,37 @@
+{
+  "paragraph": "p4",
+  "commentary": {
+    "file": "སེང་གེ་བཟང་པོ་_སྡུད་པའི་དཀའ་འགྲེལ།.txt",
+    "title": "སྡུད་པའི་དཀའ་འགྲེལ།",
+    "author": "སེང་གེ་བཟང་པོ་",
+    "tier": 3
+  },
+  "quotes": [
+    {
+      "text": "དེ་ནས་ཀྱི་སྒྲ་ནི་རྒྱས་པར་བསྟན་པའི་དེ་མ་ཐག་ཏུ་འམ། མན་ངག་མདོར་བསྡུས་ནས་བསྟན་པའི་སྐབས་ཡིན་ནོ། །",
+      "title": "སྡུད་པའི་དཀའ་འགྲེལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 7772,
+      "length": 92,
+      "line": 11,
+      "match": "exact",
+      "why": "What the སྡུད་འགྲེལ actually says at the place p4's objector cites; the yig cha's wording is a paraphrase, not a quotation. Found by direct search.",
+      "citation": "སྡུད་པའི་དཀའ་འགྲེལ། on དེ་ནས",
+      "id": "p4-q07"
+    },
+    {
+      "text": "འཁོར་བཞི་པོ་ཞེས་བྱ་བ་ལ་སོགས་པ་ལ་དེ་དག་གིས་སྔར་གཞུང་རྒྱས་པ་མཉན་པས་སྦྱངས་པའི་ཕྱིར",
+      "title": "སྡུད་པའི་དཀའ་འགྲེལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 8126,
+      "length": 79,
+      "line": 11,
+      "match": "exact",
+      "why": "Haribhadra's gloss of the very line p4's objector quotes: the four assemblies had already trained on the extensive text. Found by direct search.",
+      "citation": "སྡུད་པའི་དཀའ་འགྲེལ། on the four assemblies",
+      "id": "p4-q08"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "paragraph": "p3",
+  "commentary": {
+    "file": "སེང་གེ་བཟང་པོ་_རྒྱན་སྣང་།.txt",
+    "title": "རྒྱན་སྣང་།",
+    "author": "སེང་གེ་བཟང་པོ་",
+    "tier": 3
+  },
+  "quotes": [
+    {
+      "text": "ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འདོད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྩོན་པར་བྱའོ",
+      "title": "རྒྱན་སྣང་།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 58605,
+      "length": 105,
+      "line": 21,
+      "match": "exact",
+      "why": "Haribhadra takes p3's sūtra citation as the brief statement (མདོར་བསྟན) of complete enlightenment, and reads it with བརྩོན་པར་བྱའོ where p3 has བསླབ་པར་བྱའོ.",
+      "citation": null,
+      "id": "p3-q04"
+    },
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཞེས་བྱ་བ་ནི། རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་སྟེ།",
+      "title": "རྒྱན་སྣང་།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 214813,
+      "length": 73,
+      "line": 101,
+      "match": "exact",
+      "why": "Haribhadra glosses the sūtra's 'perfection of wisdom' as sarvākārajñatā — the Ornament's frame already applied to the sūtra's words.",
+      "citation": null,
+      "id": "p3-q08"
+    },
+    {
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱ་བ་ནི་ལམ་ཤེས་པ་ཉིད་ཀྱི་བདག་ཉིད་ཅན་ནོ། །",
+      "title": "རྒྱན་སྣང་།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 235370,
+      "length": 72,
+      "line": 109,
+      "match": "exact",
+      "why": "The same phrase glossed as mārgajñatā in a different context, showing the gloss is positional rather than lexical.",
+      "citation": null,
+      "id": "p3-q09"
+    },
+    {
+      "text": "ཀུན་དགའ་བོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་གཟུང་བར་བྱའོ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་པ་ཡིན་ནོ། ། ཡོངས་སུ་གཏད་པ་ཆེན་པོའི་དོན་ནི་ཀུན་དགའ་བོ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་བ་དང་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ། ། དེ་དང",
+      "title": "རྒྱན་སྣང་།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 981370,
+      "length": 192,
+      "line": 421,
+      "match": "exact",
+      "why": "Haribhadra's taxonomy of small, middling and great entrustment, which places p3's second citation precisely.",
+      "citation": null,
+      "id": "p3-q10"
+    }
+  ]
+}

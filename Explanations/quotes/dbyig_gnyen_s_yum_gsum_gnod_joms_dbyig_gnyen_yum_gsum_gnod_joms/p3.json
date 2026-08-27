@@ -1,0 +1,24 @@
+{
+  "paragraph": "p3",
+  "commentary": {
+    "file": "དབྱིག་གཉེན་_ཡུམ་གསུམ་གནོད་འཇོམས།.txt",
+    "title": "ཡུམ་གསུམ་གནོད་འཇོམས།",
+    "author": "དབྱིག་གཉེན་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "ཆོས་ཐམས་ཅད་རྣམ་པ་ཐམས་ཅད་དུ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་འདོད་པས་ཤེས་པར་བྱ་བ་སྨོས་པས་ནི་བྱང་ཆུབ་སེམས་དཔའི་བསམ་པ་བསྟན་ཏོ། །",
+      "title": "ཡུམ་གསུམ་གནོད་འཇོམས།",
+      "author": "དབྱིག་གཉེན་",
+      "tier": 4,
+      "offset": 147229,
+      "length": 120,
+      "line": 45,
+      "match": "exact",
+      "why": "Vasubandhu reads the same lemma as the brief statement of the bodhisattva's intention, before the extensive exposition — a third witness to its structural role.",
+      "citation": null,
+      "id": "p3-q06"
+    }
+  ]
+}

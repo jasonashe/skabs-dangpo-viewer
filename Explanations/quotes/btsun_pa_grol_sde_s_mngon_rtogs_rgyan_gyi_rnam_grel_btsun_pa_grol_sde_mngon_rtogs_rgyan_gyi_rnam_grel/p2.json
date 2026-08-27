@@ -1,0 +1,24 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "བཙུན་པ་གྲོལ་སྡེ་_མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།.txt",
+    "title": "མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།",
+    "author": "བཙུན་པ་གྲོལ་སྡེ་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་པར་འགྲེལ་པ།",
+      "title": "མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ།",
+      "author": "བཙུན་པ་གྲོལ་སྡེ་",
+      "tier": 4,
+      "offset": 136,
+      "length": 135,
+      "line": 1,
+      "match": "exact",
+      "why": "The work of བཙུན་པ་གྲོལ་སྡེ, fourth in p2's list; its title shows it comments on the kārikās where Ārya Vimuktisena's comments on the sūtra. Found by direct search.",
+      "citation": "མངོན་རྟོགས་རྒྱན་གྱི་རྣམ་འགྲེལ། title line",
+      "id": "p2-q06"
+    }
+  ]
+}

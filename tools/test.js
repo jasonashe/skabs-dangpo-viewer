@@ -255,7 +255,12 @@ async function appChecks() {
     // ---- explanation panel
     const explained = await page.evaluate(async () => {
       const r = window.__reader;
-      const withFile = r.pane.explained.values().next().value;
+      // The paragraph must have scroll room above it to be centred at all:
+      // the first paragraph in the document sits against the top of the
+      // scroller and can never reach the middle. Take the explained
+      // paragraph furthest down the text, which always has room.
+      const order = r.doc.paragraphs.map((p) => p.id);
+      const withFile = order.filter((id) => r.pane.explained.has(id)).pop();
       await r.openExplanation(withFile || r.doc.paragraphs[5].id);
       await new Promise((res) => requestAnimationFrame(() => res()));
       const pane = document.getElementById('explanation');

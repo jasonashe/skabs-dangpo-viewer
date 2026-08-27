@@ -1,0 +1,24 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "འཕགས་པ་གྲོལ་སྡེ་_ཉི་ཁྲི་སྣང་བ།.txt",
+    "title": "ཉི་ཁྲི་སྣང་བ།",
+    "author": "འཕགས་པ་གྲོལ་སྡེ་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ། བཅོམ་ལྡན་འདས་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་ལ་ཕྱག་འཚལ་ལོ།",
+      "title": "ཉི་ཁྲི་སྣང་བ།",
+      "author": "འཕགས་པ་གྲོལ་སྡེ་",
+      "tier": 4,
+      "offset": 34348,
+      "length": 168,
+      "line": 81,
+      "match": "exact",
+      "why": "The work of འཕགས་པ་རྣམ་གྲོལ་སྡེ, third in p2's Indian list, present in this corpus under that name. Found by direct search.",
+      "citation": "ཉི་ཁྲི་སྣང་བ། title and homage",
+      "id": "p2-q05"
+    }
+  ]
+}

@@ -5,7 +5,8 @@
     "Sources cited": "15eu3O3TDnKaZLDqvvEdFiyDT_FBL-El-",
     "Source files": "1yHqf6KkKjIShM9UnLTZwSXWb39SnhW4o",
     "Source files/Analyses": "12easuVoASi5_9d7I1xititvZlqa0eScK",
-    "Source files/Quotations": "1purv6qws6uqOD3SSbrD4a7rcnS-tFYgY"
+    "Source files/Quotations": "1purv6qws6uqOD3SSbrD4a7rcnS-tFYgY",
+    "01 · མཆོད་བརྗོད། · pages 38–40": "1nDC5Ie1POGR5bgG5dqCCmzLez_6XQPbC"
   },
   "files": {
     "00 · Read me": {
@@ -39,6 +40,26 @@
     "Source files/Analyses/p6": {
       "id": "1s1P4MyT8UME0xwVokeOPAkjtRi6ncVAT",
       "hash": "10b42fa5dd84dbc7"
+    },
+    "Source files/Analyses/p1": {
+      "id": "19JNszTD6qtz_v1fqwlMKT6d6a4snEILE",
+      "hash": "aaf1d0c6a61bf23c"
+    },
+    "Source files/Analyses/p2": {
+      "id": "1yQOwY3eC6blS5elRXdQYg2BuiMMcezi0",
+      "hash": "42a524e6a8d5e0cb"
+    },
+    "Source files/Analyses/p3": {
+      "id": "12u1nMzDh2bZVRY1l4kMmsIDiDMkZeUBX",
+      "hash": "1d7cea1828294292"
+    },
+    "Source files/Analyses/p4": {
+      "id": "1ZzLpFxgTw6SVQ2Hs0NEDqnxujaXEOMJE",
+      "hash": "8b317806706f169f"
+    },
+    "Source files/Analyses/p5": {
+      "id": "1pj59xx17XluZgoyltdRzZT6Z5mEmJmE5",
+      "hash": "2dc141d168059918"
     }
   }
 }

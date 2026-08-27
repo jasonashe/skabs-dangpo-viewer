@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།.txt",
+    "title": "སྐབས་དང་པོའི་སྤྱི་དོན།",
+    "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+    "tier": 1
+  },
+  "quotes": [
+    {
+      "text": "མདོ་རྒྱན་འགྲེལ་བའི་རྣམ་བཤད་རྣམ་གཉིས་ཀྱི། ། དཀའ་བའི་གནད་རྣམས་གསལ་བར་བྱེད་པ་ཡི། ། མདོ་དང་རྩ་འགྲེལ་སྦྱོར་བའི་ཆུ་གཏེར་ཆེ། ། ལེགས་བཤད་ཡིད་བཞིན་ནོར་བུས་རབ་ཏུ་གཏམ། ། སྐལ་བཟང་ཀླུ་དབང་དགའ་བའི་རྣམ་འགྱུར་གྱིས། ། རོལ་པའི་མཚོ་ཆེན་བདག་གིས་བྲི་བར་བྱ། །",
+      "title": "སྐབས་དང་པོའི་སྤྱི་དོན།",
+      "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+      "tier": 1,
+      "offset": 2600,
+      "length": 237,
+      "line": 3,
+      "match": "exact",
+      "why": "Chökyi Gyaltsen's own pledge-verse, which decodes every element of the title on the page above it — the two rnam bshad, the difficult points, the ocean, the fortunate nāga-lords. Found by direct search.",
+      "citation": "སྐབས་དང་པོའི་སྤྱི་དོན། རྩོམ་པར་དམ་བཅའ་བ (p2)",
+      "id": "p1-q01"
+    }
+  ]
+}

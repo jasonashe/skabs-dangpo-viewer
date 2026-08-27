@@ -1,0 +1,24 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།.txt",
+    "title": "འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།",
+    "author": "ཆོས་ཀྱི་བཤེས་གཉེན་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ་ཞེས་བྱ་བ།",
+      "title": "འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།",
+      "author": "ཆོས་ཀྱི་བཤེས་གཉེན་",
+      "tier": 4,
+      "offset": 166,
+      "length": 80,
+      "line": 1,
+      "match": "exact",
+      "why": "The only བཤེས་གཉེན in this corpus is ཆོས་ཀྱི་, not p2's ཡོན་ཏན་ — the evidence for an identification I cannot settle. Found by direct search.",
+      "citation": "འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། title line",
+      "id": "p2-q08"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་མཐའ་དཔྱོད།.txt",
+    "title": "སྐབས་དང་པོའི་མཐའ་དཔྱོད།",
+    "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+    "tier": 1
+  },
+  "quotes": [
+    {
+      "text": "སྐབས་དང་པོའི་མཐའ་དཔྱོད་ལེགས་བཤད་གསེར་གྱི་ཕྲེང་བ་མཁས་པའི་མགུལ་རྒྱན་ཞེས་བྱ་བ་རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་གསུང་ཟིན་བྲིས་སུ",
+      "title": "སྐབས་དང་པོའི་མཐའ་དཔྱོད།",
+      "author": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་",
+      "tier": 1,
+      "offset": 6,
+      "length": 130,
+      "line": 1,
+      "match": "exact",
+      "why": "The companion volume on the same skabs carries a wholly different title and calls itself notes taken from his speech — which is what makes p1's series title a claim about authorship. Found by direct search.",
+      "citation": "སྐབས་དང་པོའི་མཐའ་དཔྱོད། title line",
+      "id": "p1-q15"
+    }
+  ]
+}

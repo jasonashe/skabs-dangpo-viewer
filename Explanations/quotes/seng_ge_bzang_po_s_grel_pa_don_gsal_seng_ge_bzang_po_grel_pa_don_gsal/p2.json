@@ -1,0 +1,37 @@
+{
+  "paragraph": "p2",
+  "commentary": {
+    "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+    "title": "འགྲེལ་པ་དོན་གསལ།",
+    "author": "སེང་གེ་བཟང་པོ་",
+    "tier": 3
+  },
+  "quotes": [
+    {
+      "text": "འགྲོ་ལ་ཆགས་པས་ཀུན་ཆགས་མཛད། ། འཕགས་པ་ཐོགས་མེད་སྐྱོབ་ཉིད་ཀྱིས། ། མི་ཕམ་མགོན་ལ་གསན་ནས་ནི། ། བསྟན་བཅོས་ཆེན་པོའི་རྣམ་བཤད་མཛད། ། འགྲོ་དོན་རྩ་ལག་དབྱིག་གི་གཉེན།",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 394,
+      "length": 152,
+      "line": 3,
+      "match": "exact",
+      "why": "Haribhadra's own maṅgala begins the lineage exactly as p2 does — Asaṅga hearing from Maitreya, then Vasubandhu, in the same epithets. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། འགྲེལ་པའི་མཆོད་བརྗོད།",
+      "id": "p2-q02"
+    },
+    {
+      "text": "འཕགས་པའི་ཁོངས་སུ་གཏོགས་པ་ཡི། ། རྣམ་པར་གྲོལ་བར་ཞེས་བྱས་ཀྱང་། ། དེས་བྱས་བྱས་པ་མིན་མཐོང་ནས། ། དབུ་མར་གནས་པའི་བློས་རྣམ་ཕྱེ། ། དེ་ཡི་འོག་ཏུ་རྣམ་གྲོལ་སྡེ། ། དད་པའི་ས་ལ་གནས་པ་ཡིས།",
+      "title": "འགྲེལ་པ་དོན་གསལ།",
+      "author": "སེང་གེ་བཟང་པོ་",
+      "tier": 3,
+      "offset": 668,
+      "length": 172,
+      "line": 3,
+      "match": "exact",
+      "why": "The same maṅgala continues with the two Vimuktisenas in p2's order, and grades them — the Indian model for a lineage verse that also ranks. Found by direct search.",
+      "citation": "འགྲེལ་པ་དོན་གསལ། འགྲེལ་པའི་མཆོད་བརྗོད། (continued)",
+      "id": "p2-q03"
+    }
+  ]
+}

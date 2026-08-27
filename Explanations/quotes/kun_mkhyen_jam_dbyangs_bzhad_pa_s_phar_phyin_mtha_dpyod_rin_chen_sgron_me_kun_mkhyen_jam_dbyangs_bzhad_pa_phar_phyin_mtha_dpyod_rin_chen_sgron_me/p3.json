@@ -1,0 +1,24 @@
+{
+  "paragraph": "p3",
+  "commentary": {
+    "file": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།.txt",
+    "title": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
+    "author": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་",
+    "tier": 5
+  },
+  "quotes": [
+    {
+      "text": "མཛོད་ལས། དེ་གྲངས་མེད་གསུམ་ལ་སངས་རྒྱས། ། འབྱུང་ངོ། །",
+      "title": "ཕར་ཕྱིན་མཐའ་དཔྱོད་རིན་ཆེན་སྒྲོན་མེ།",
+      "author": "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་",
+      "tier": 5,
+      "offset": 631712,
+      "length": 51,
+      "line": 65,
+      "match": "exact",
+      "why": "The Gomang text supplies the Abhidharmakośa proof for the three countless aeons that p3 asserts without support.",
+      "citation": null,
+      "id": "p3-q12"
+    }
+  ]
+}

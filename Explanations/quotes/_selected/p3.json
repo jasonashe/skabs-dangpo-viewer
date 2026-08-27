@@ -1,0 +1,31 @@
+{
+  "paragraph": "p3",
+  "quotes": [
+    { "ref": "p3-q08",
+      "why": "Tsongkhapa's own opening, which p3 reproduces almost word for word — the frame within which the first preliminary is set." },
+    { "ref": "p3-q10",
+      "why": "The gser phreng's continuation: the chief commentaries are 'the four great trail-blazers, as earlier masters call them' — the position p6 will refuse." },
+    { "file": "བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།.txt",
+      "text": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་ནི། ། དངོས་པོ་བརྒྱད་ཀྱིས་ཡང་དག་བཤད། །",
+      "citation": "མངོན་རྟོགས་རྒྱན། སྐབས་དང་པོ།",
+      "why": "The root verse that names both terms the four preliminaries stand between — the Prajñāpāramitā and the eight subjects. Found by direct search." },
+    { "ref": "p3-q22",
+      "why": "Haribhadra takes p3's sūtra citation as the brief statement (མདོར་བསྟན) of complete enlightenment, and reads it with བརྩོན་པར་བྱའོ where p3 has བསླབ་པར་བྱའོ." },
+    { "ref": "p3-q38",
+      "why": "Dharmamitra labels the same lemma as belonging to the middling Mother, which fixes which sūtra p3 is quoting." },
+    { "ref": "p3-q45",
+      "why": "Vasubandhu reads the same lemma as the brief statement of the bodhisattva's intention, before the extensive exposition — a third witness to its structural role." },
+    { "ref": "p3-q76",
+      "why": "A second Tibetan spyi don quotes the lemma with a third reading, འདོད་པས … བསླབ་པར་བྱའོ, and to the same purpose." },
+    { "ref": "p3-q18",
+      "why": "Haribhadra glosses the sūtra's 'perfection of wisdom' as sarvākārajñatā — the Ornament's frame already applied to the sūtra's words." },
+    { "ref": "p3-q19",
+      "why": "The same phrase glossed as mārgajñatā in a different context, showing the gloss is positional rather than lexical." },
+    { "ref": "p3-q24",
+      "why": "Haribhadra's taxonomy of small, middling and great entrustment, which places p3's second citation precisely." },
+    { "ref": "p3-q78",
+      "why": "Jamyang Zhepa's Gomang introduction opens with the same three-stage career and fills in every particular p3 leaves blank." },
+    { "ref": "p3-q75",
+      "why": "The Gomang text supplies the Abhidharmakośa proof for the three countless aeons that p3 asserts without support." }
+  ]
+}

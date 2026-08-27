@@ -1,0 +1,24 @@
+{
+  "paragraph": "p5",
+  "commentary": {
+    "file": "བྱམས་པ་མགོན་པོ་_མངོན་པར་རྟོགས་པའི་རྒྱན།.txt",
+    "title": "མངོན་པར་རྟོགས་པའི་རྒྱན།",
+    "author": "བྱམས་པ་མགོན་པོ་",
+    "tier": 4
+  },
+  "quotes": [
+    {
+      "text": "ཡུལ་ནི་རྣམ་པ་གསུམ་པོ་རྒྱུ། ། སྦྱོར་བ་བཞི་ཡི་བདག་ཉིད་དང་། ། ཆོས་སྐུ་འཕྲིན་ལས་འབྲས་བུ་ནི། ། དོན་བསྡུས་གཞན་ཏེ་རྣམ་པ་གསུམ།",
+      "title": "མངོན་པར་རྟོགས་པའི་རྒྱན།",
+      "author": "བྱམས་པ་མགོན་པོ་",
+      "tier": 4,
+      "offset": 34655,
+      "length": 118,
+      "line": 129,
+      "match": "exact",
+      "why": "The root verse whose 'further three' Haribhadra glosses in terms of the three Mothers. Found by direct search.",
+      "citation": "མངོན་རྟོགས་རྒྱན། སྐབས་དང་པོ།",
+      "id": "p5-q03"
+    }
+  ]
+}

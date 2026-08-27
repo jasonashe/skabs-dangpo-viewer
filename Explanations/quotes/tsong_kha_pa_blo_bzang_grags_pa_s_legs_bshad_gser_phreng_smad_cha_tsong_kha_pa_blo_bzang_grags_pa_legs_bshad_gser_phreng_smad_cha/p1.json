@@ -1,0 +1,24 @@
+{
+  "paragraph": "p1",
+  "commentary": {
+    "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།.txt",
+    "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།",
+    "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+    "tier": 2
+  },
+  "quotes": [
+    {
+      "text": "ཀླུའི་ཡུལ་ནས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སོགས་པའི་མདོ་རྣམས་སྤྱན་དྲངས་ནས",
+      "title": "ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ།",
+      "author": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "tier": 2,
+      "offset": 765477,
+      "length": 72,
+      "line": 1619,
+      "match": "exact",
+      "why": "Tsongkhapa's account of Nāgārjuna bringing the Prajñāpāramitā sūtras out of the nāga realm — the second resonance available in the title's nāga imagery. Found by direct search.",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྨད་ཆ། on Nāgārjuna",
+      "id": "p1-q16"
+    }
+  ]
+}
