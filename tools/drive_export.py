@@ -101,6 +101,17 @@ def sections(doc):
 LIMIT = 200
 
 
+def blockquote(text):
+    """Quote every line, not just the first.
+
+    A quotation lifted from a source keeps that source's line breaks, and a
+    verse runs to several lines. Marking only the first leaves the rest as
+    ordinary paragraphs outside the quote.
+    """
+    lines = [ln.strip() for ln in text.strip().splitlines()]
+    return '\n'.join('> ' + ln if ln else '>' for ln in lines)
+
+
 def safe(name):
     """A filename Drive and every filesystem will accept.
 
@@ -161,7 +172,7 @@ def render(text, para, index):
             tail.append(f"**[{i}]** {source['author']} · *{source['title']}*"
                         f"{tier}")
             tail.append('')
-            tail.append(f"> {quote['text']}")
+            tail.append(blockquote(quote['text']))
             tail.append('')
             loc = quote['location']
             tail.append(f"`{source['file']}` — character {loc['offset']}, "
@@ -267,7 +278,7 @@ def sources_doc(filename, meta, quotes, para_titles):
         para = quote['paragraph']
         lines.append(f"## {para} — {para_titles.get(para, '')}")
         lines.append('')
-        lines.append(f"> {quote['text']}")
+        lines.append(blockquote(quote['text']))
         lines.append('')
         loc = quote['location']
         lines.append(f"Character {loc['offset']}, line {loc['line']}, "
